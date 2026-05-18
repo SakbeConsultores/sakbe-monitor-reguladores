@@ -1,0 +1,214 @@
+# ──────────────────────────────────────────────────────────────────
+# Monitor de Reguladores Financieros - Sakbé Consultores
+# ──────────────────────────────────────────────────────────────────
+#
+# Configuración de fuentes que el script de ingesta va a procesar.
+# Para agregar un regulador nuevo, copia un bloque y ajusta sus campos.
+#
+# Campos por feed:
+#   regulator      Nombre del regulador. Debe coincidir con una opción
+#                  del select "Regulador" en Notion.
+#   country        Código de país. Opciones: MX, CO, PE, US, EU, Global.
+#                  Debe coincidir con una opción del select "Pais" en Notion.
+#   type           Tipo/sección del feed. Debe coincidir con una opción
+#                  del select "Tipo" en Notion.
+#   url            URL del feed RSS, o de la página HTML para scraping.
+#   source         "rss" si la URL es un feed RSS estándar.
+#                  "scraper" si hay que parsear HTML.
+#   scraper_module Solo si source es "scraper". Nombre del módulo Python
+#                  dentro de src/scrapers/ que sabe parsear ese sitio.
+#
+# ──────────────────────────────────────────────────────────────────
+
+feeds:
+
+  # ═══════════════════════════ GLOBAL ═══════════════════════════
+
+  - regulator: BIS
+    country: Global
+    type: Research
+    url: https://www.bis.org/doclist/bis_fsi_publs.rss
+    source: rss
+
+  - regulator: BIS
+    country: Global
+    type: News
+    url: https://www.bis.org/doclist/all_pressrels.rss
+    source: rss
+
+  - regulator: BIS
+    country: Global
+    type: Statistical Releases
+    url: https://www.bis.org/doclist/all_statistics.rss
+    source: rss
+
+  - regulator: BIS
+    country: Global
+    type: Central Bank Research Hub
+    url: https://www.bis.org/doclist/reshub_papers.rss
+    source: rss
+
+  - regulator: IMF
+    country: Global
+    type: Research
+    url: https://www.imf.org/en/research
+    source: scraper
+    scraper_module: imf_research
+
+  - regulator: IMF
+    country: Global
+    type: News
+    url: https://www.imf.org/en/news
+    source: scraper
+    scraper_module: imf_news
+
+  - regulator: IMF
+    country: Global
+    type: Publications
+    url: https://www.imf.org/en/publications
+    source: scraper
+    scraper_module: imf_publications
+
+  - regulator: World Bank
+    country: Global
+    type: News
+    url: https://www.worldbank.org/ext/en/news
+    source: scraper
+    scraper_module: world_bank_news
+
+  - regulator: World Bank
+    country: Global
+    type: Research
+    url: https://www.worldbank.org/en/research
+    source: scraper
+    scraper_module: world_bank_research
+
+  # ═══════════════════════════ EUROPA ═══════════════════════════
+
+  - regulator: EBA
+    country: EU
+    type: News
+    url: https://eba.europa.eu/news-press/news/rss.xml
+    source: rss
+
+  - regulator: EBA
+    country: EU
+    type: Publications
+    url: https://www.eba.europa.eu/publications-and-media/publications
+    source: scraper
+    scraper_module: eba_publications
+
+  - regulator: ECB
+    country: EU
+    type: News
+    url: https://www.ecb.europa.eu/rss/press.html
+    source: rss
+
+  - regulator: ECB
+    country: EU
+    type: Statistical Releases
+    url: https://www.ecb.europa.eu/rss/statpress.html
+    source: rss
+
+  - regulator: ECB
+    country: EU
+    type: Publications
+    url: https://www.ecb.europa.eu/rss/pub.html
+    source: rss
+
+  - regulator: ECB
+    country: EU
+    type: Research
+    url: https://www.ecb.europa.eu/rss/wppub.html
+    source: rss
+
+  # ═══════════════════════ ESTADOS UNIDOS ═══════════════════════
+
+  - regulator: FRB
+    country: US
+    type: News
+    url: https://www.federalreserve.gov/feeds/press_all.xml
+    source: rss
+
+  - regulator: FRB
+    country: US
+    type: Credit & Liquidity Reports
+    url: https://www.federalreserve.gov/feeds/clp.xml
+    source: rss
+
+  - regulator: FRB
+    country: US
+    type: Papers
+    url: https://www.federalreserve.gov/feeds/working_papers.xml
+    source: rss
+
+  - regulator: OCC
+    country: US
+    type: News
+    url: https://www.occ.treas.gov/rss/occ_news.xml
+    source: rss
+
+  - regulator: OCC
+    country: US
+    type: Publications
+    url: https://www.occ.treas.gov/rss/occ-publications.xml
+    source: rss
+
+  - regulator: OCC
+    country: US
+    type: Bulletins
+    url: https://www.occ.treas.gov/rss/occ_bulletins.xml
+    source: rss
+
+  # ═══════════════════════════ MÉXICO ═══════════════════════════
+
+  - regulator: CNBV
+    country: MX
+    type: News
+    url: https://www.gob.mx/cnbv/archivo/prensa?idiom=es
+    source: scraper
+    scraper_module: cnbv_news
+
+  - regulator: CNBV
+    country: MX
+    type: Publications
+    url: https://www.gob.mx/cnbv/archivo/documentos?idiom=es&filter_origin=archive
+    source: scraper
+    scraper_module: cnbv_publications
+
+  - regulator: INEGI
+    country: MX
+    type: Statistical Releases
+    url: https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,3
+    source: rss
+
+  - regulator: INEGI
+    country: MX
+    type: News
+    url: https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1
+    source: rss
+
+  # ═══════════════════════════ COLOMBIA ═════════════════════════
+
+  - regulator: SuperFin
+    country: CO
+    type: News
+    url: https://www.superfinanciera.gov.co/publicaciones/60668/sala-de-prensacomunicados-de-prensa-60668/
+    source: scraper
+    scraper_module: superfin_news
+
+  - regulator: SuperFin
+    country: CO
+    type: Publications
+    url: https://www.superfinanciera.gov.co/publicaciones/10115187/publicaciones/
+    source: scraper
+    scraper_module: superfin_publications
+
+  # ═══════════════════════════ PERÚ ═════════════════════════════
+
+  - regulator: SBS Perú
+    country: PE
+    type: News
+    url: https://www.sbs.gob.pe/notadeprensa
+    source: scraper
+    scraper_module: sbs_peru_news

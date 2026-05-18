@@ -1,0 +1,48 @@
+# ──────────────────────────────────────────────────────────────────
+# Workflow de GitHub Actions
+# ──────────────────────────────────────────────────────────────────
+#
+# Corre el script de ingesta cada hora. También se puede disparar
+# manualmente desde la pestaña Actions del repo, lo cual es útil
+# para probar y para forzar una corrida antes del próximo cron.
+#
+# Las credenciales (NOTION_TOKEN y NOTION_DATABASE_ID) se inyectan
+# desde los Secrets del repo, no se exponen en el código.
+# ──────────────────────────────────────────────────────────────────
+
+name: Ingest Reguladores Financieros
+
+on:
+  # Cron: minuto 0 de cada hora (00:00, 01:00, 02:00...).
+  # GitHub Actions tiene latencia de unos minutos, así que en la
+  # práctica corre algunos minutos después de la hora en punto.
+  schedule:
+    - cron: '0 * * * *'
+
+  # Permite disparar el workflow manualmente desde la UI de GitHub.
+  # Esencial para el primer test y para forzar corridas.
+  workflow_dispatch:
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run ingest
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+        run: python src/ingest.py

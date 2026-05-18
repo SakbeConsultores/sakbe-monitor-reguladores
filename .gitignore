@@ -1,0 +1,21 @@
+# Archivos con credenciales. NUNCA se suben a GitHub.
+.env
+.env.*
+*.secret
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.python-version
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
