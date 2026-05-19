@@ -28,6 +28,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
 
+    # Necesitamos permission de escritura para que el workflow pueda
+    # commitear y pushear el JSON exportado de vuelta al repo.
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -46,3 +51,18 @@ jobs:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
         run: python src/ingest.py
+
+      # Después del ingest, el script generó docs/data/monitor.json.
+      # Si cambió respecto al commit anterior, lo subimos al repo.
+      # GitHub Pages lo va a servir automáticamente.
+      - name: Commit JSON if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/monitor.json
+          if git diff --staged --quiet; then
+            echo "Sin cambios en el JSON, no se commitea."
+          else
+            git commit -m "auto: update monitor.json"
+            git push
+          fi

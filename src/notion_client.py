@@ -183,6 +183,94 @@ class NotionClient:
     # -----------------------------------------------------------------
     # Escritura: insertar un item nuevo
     # -----------------------------------------------------------------
+    # -----------------------------------------------------------------
+    # Lectura completa: traer todos los items con sus propiedades
+    # -----------------------------------------------------------------
+    def get_all_items(self) -> list:
+        """
+        Itera todas las páginas y devuelve la lista completa de items
+        con sus propiedades parseadas, listos para serializar a JSON.
+
+        Esto lo usa el export para el artifact. Es más caro que
+        get_existing_urls porque trae propiedades completas, pero solo
+        corre una vez al final del ingest.
+        """
+        items = []
+        cursor = None
+        has_more = True
+
+        while has_more:
+            payload = {"page_size": 100}
+            if cursor:
+                payload["start_cursor"] = cursor
+
+            resp = self._request_with_retry(
+                "POST",
+                f"{NOTION_API}/databases/{self.database_id}/query",
+                json_data=payload,
+            )
+            if resp is None:
+                raise RuntimeError(
+                    "No se pudieron traer todos los items de Notion "
+                    "después de varios reintentos. Aborto."
+                )
+
+            data = resp.json()
+            for page in data.get("results", []):
+                parsed = self._parse_page(page)
+                if parsed:
+                    items.append(parsed)
+
+            has_more = data.get("has_more", False)
+            cursor = data.get("next_cursor")
+
+        log.info("Traídos %d items completos de Notion", len(items))
+        return items
+
+    @staticmethod
+    def _parse_page(page: dict) -> dict:
+        """
+        Convierte una página de Notion (formato API) en un dict plano
+        para JSON. Maneja los tipos de propiedad que usamos.
+        """
+        props = page.get("properties", {})
+
+        def title_text(prop):
+            return "".join(
+                t.get("plain_text", "") for t in prop.get("title", [])
+            )
+
+        def rich_text(prop):
+            return "".join(
+                t.get("plain_text", "") for t in prop.get("rich_text", [])
+            )
+
+        def select_name(prop):
+            sel = prop.get("select")
+            return sel.get("name", "") if sel else ""
+
+        def url_value(prop):
+            return prop.get("url", "") or ""
+
+        def date_start(prop):
+            d = prop.get("date")
+            return d.get("start", "") if d else ""
+
+        return {
+            "id": page.get("id", ""),
+            "title": title_text(props.get("Título", {})),
+            "url": url_value(props.get("URL", {})),
+            "published": date_start(props.get("Fecha Publicación", {})),
+            "summary": rich_text(props.get("Resumen", {})),
+            "regulator": select_name(props.get("Regulador", {})),
+            "country": select_name(props.get("Pais", {})),
+            "type": select_name(props.get("Tipo", {})),
+            "feed_url": rich_text(props.get("Feed RSS", {})),
+        }
+
+    # -----------------------------------------------------------------
+    # Escritura: insertar un item nuevo
+    # -----------------------------------------------------------------
     def insert_item(self, item: dict) -> bool:
         """
         Crea una página nueva en la base. Devuelve True si tuvo éxito,

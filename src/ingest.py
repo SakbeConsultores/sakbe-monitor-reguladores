@@ -13,6 +13,7 @@ NOTION_DATABASE_ID.
 
 import os
 import sys
+import json
 import logging
 import importlib
 from datetime import datetime, timedelta, timezone
@@ -177,6 +178,37 @@ def main():
         "Resumen final: %d nuevos, %d ya existían, %d muy viejos (>%dd), %d errores",
         new_count, skipped_existing, skipped_old, max_age_days, error_count,
     )
+
+    # -----------------------------------------------------------------
+    # Export JSON para el artifact
+    # -----------------------------------------------------------------
+    # Traemos todos los items con sus propiedades y los serializamos a
+    # docs/data/monitor.json. GitHub Pages sirve ese JSON públicamente
+    # y el artifact lo consume con un solo fetch HTTP, sin pasar por
+    # Notion en runtime.
+    log.info("Generando export JSON para el artifact...")
+    all_items = notion.get_all_items()
+
+    # Ordenamos por fecha de publicación descendente. Items sin fecha
+    # se van al final.
+    all_items.sort(
+        key=lambda i: i.get("published") or "",
+        reverse=True,
+    )
+
+    export = {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "total_items": len(all_items),
+        "items": all_items,
+    }
+
+    docs_dir = SRC_DIR.parent / "docs" / "data"
+    docs_dir.mkdir(parents=True, exist_ok=True)
+    json_path = docs_dir / "monitor.json"
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(export, f, ensure_ascii=False, indent=2)
+
+    log.info("Export JSON guardado: %s (%d items)", json_path, len(all_items))
 
 
 if __name__ == "__main__":
