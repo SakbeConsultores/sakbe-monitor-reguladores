@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Monitor de Reguladores Financieros · Sakbé</title>
+  <style>
+    :root{color-scheme:light}
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#f5f5f5;color:#1a1a1a;min-height:100vh}
+    .header{background:#163043;color:#fff;border-bottom:1px solid #163043;padding:14px 20px;display:flex;justify-content:space-between;align-items:center;position:sticky;top:0;z-index:10}
+    .header h1{font-size:15px;font-weight:600}
+    .header-sub{font-size:11px;color:#C5DDDD;margin-top:2px}
+    .updated{font-size:11px;color:#C5DDDD;text-align:right}
+    .updated .reload{display:inline-block;margin-left:8px;color:#fff;cursor:pointer;text-decoration:underline}
+    .filters{background:#fff;border-bottom:1px solid #e5e7eb;padding:0 20px;display:flex;overflow-x:auto}
+    .filter-btn{padding:11px 14px;border:none;background:none;font-size:12px;font-weight:500;color:#525E64;cursor:pointer;border-bottom:2px solid transparent;white-space:nowrap}
+    .filter-btn.active{color:#163043;border-bottom-color:#163043}
+    .filter-btn .count{display:inline-block;margin-left:5px;font-size:10px;color:#9ca3af;font-weight:400}
+    .filter-btn.active .count{color:#525E64}
+    .main{display:flex;min-height:calc(100vh - 96px)}
+    .feed{flex:1;padding:16px 20px;min-width:0;max-width:900px;margin:0 auto;width:100%}
+    .sidebar{width:340px;background:#fff;border-left:1px solid #e5e7eb;display:none;flex-direction:column;position:sticky;top:96px;height:calc(100vh - 96px)}
+    .sidebar.open{display:flex}
+    .count{font-size:12px;color:#9ca3af;margin-bottom:12px}
+    .cards{display:flex;flex-direction:column;gap:8px}
+    .card{background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:12px 16px;cursor:pointer;transition:border-color .1s}
+    .card:hover{border-color:#9D4D31}
+    .card.selected{border-color:#163043;background:#DCEFF2}
+    .card-meta{display:flex;gap:5px;align-items:center;margin-bottom:7px;flex-wrap:wrap}
+    .badge{font-size:10px;font-weight:700;padding:2px 6px;border-radius:3px;text-transform:uppercase;letter-spacing:.04em}
+    .badge-country{background:#f3f4f6;color:#525E64}
+    .badge-reg{background:#DCEFF2;color:#163043}
+    .badge-tipo{background:#f0fdf4;color:#15803d}
+    .badge-tipo.bulletins{background:#fef2f2;color:#b91c1c}
+    .badge-tipo.publications{background:#eff6ff;color:#1d4ed8}
+    .badge-tipo.research,.badge-tipo.papers{background:#fefce8;color:#92400e}
+    .badge-tipo.statistical{background:#f5f3ff;color:#6d28d9}
+    .card-date{margin-left:auto;font-size:11px;color:#9ca3af}
+    .card-title{font-size:13px;font-weight:600;color:#111;line-height:1.4;margin-bottom:4px}
+    .card-summary{font-size:12px;color:#525E64;line-height:1.5;margin-bottom:8px}
+    .card-footer{display:flex;justify-content:space-between;align-items:center}
+    .card-link{font-size:11px;color:#163043;text-decoration:none;font-weight:500}
+    .card-link:hover{text-decoration:underline}
+    .card-select{font-size:11px;font-weight:600;color:#163043;background:none;border:1px solid #163043;border-radius:4px;padding:3px 8px;cursor:pointer}
+    .card.selected .card-select{background:#163043;color:#fff}
+    .sidebar-header{padding:14px 16px;border-bottom:1px solid #e5e7eb;display:flex;justify-content:space-between;align-items:center;background:#DCEFF2}
+    .sidebar-header h2{font-size:13px;font-weight:600;color:#163043}
+    .sidebar-close{background:none;border:none;font-size:18px;color:#525E64;cursor:pointer}
+    .sidebar-body{flex:1;overflow-y:auto;padding:14px 16px}
+    .selected-item{background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:10px 12px;margin-bottom:8px;font-size:12px}
+    .selected-item-title{font-weight:600;color:#163043;margin-bottom:3px;line-height:1.4}
+    .selected-item-meta{color:#525E64}
+    .selected-item-remove{float:right;background:none;border:none;color:#9D4D31;cursor:pointer;font-size:14px;margin-top:-2px}
+    .generate-section{padding:14px 16px;border-top:1px solid #e5e7eb}
+    .generate-label{font-size:11px;font-weight:700;color:#525E64;text-transform:uppercase;letter-spacing:.05em;margin-bottom:10px}
+    .gen-btn{display:block;width:100%;padding:9px 12px;margin-bottom:7px;border:1px solid #e5e7eb;border-radius:6px;background:#fff;font-size:12px;font-weight:500;color:#163043;cursor:pointer;text-align:left}
+    .gen-btn:hover{background:#DCEFF2;border-color:#163043}
+    .gen-btn .btn-sub{display:block;font-size:10px;color:#9ca3af;font-weight:400;margin-top:1px}
+    .output-panel{display:none;position:fixed;inset:0;background:rgba(22,48,67,.5);z-index:50;align-items:center;justify-content:center;padding:20px}
+    .output-panel.open{display:flex}
+    .output-box{background:#fff;border-radius:10px;max-width:720px;width:100%;max-height:85vh;display:flex;flex-direction:column}
+    .output-header{padding:14px 18px;border-bottom:1px solid #e5e7eb;display:flex;justify-content:space-between;align-items:center;background:#163043;color:#fff;border-radius:10px 10px 0 0}
+    .output-header h3{font-size:14px;font-weight:600}
+    .output-close{background:none;border:none;font-size:20px;color:#fff;cursor:pointer}
+    .output-body{flex:1;overflow-y:auto;padding:18px}
+    .output-instructions{font-size:12px;color:#525E64;line-height:1.6;margin-bottom:12px;padding:10px 12px;background:#DCEFF2;border-radius:6px}
+    .output-prompt{font-size:12px;font-family:ui-monospace,Menlo,Monaco,Consolas,monospace;line-height:1.5;color:#1a1a1a;background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:12px;white-space:pre-wrap;word-break:break-word;max-height:50vh;overflow-y:auto}
+    .output-footer{padding:12px 18px;border-top:1px solid #e5e7eb;display:flex;gap:8px;justify-content:flex-end}
+    .copy-btn{padding:8px 16px;background:#163043;color:#fff;border:none;border-radius:6px;font-size:12px;font-weight:600;cursor:pointer}
+    .copy-btn:hover{background:#0f2330}
+    .open-btn{padding:8px 16px;background:#9D4D31;color:#fff;border:none;border-radius:6px;font-size:12px;font-weight:600;cursor:pointer;text-decoration:none;display:inline-block}
+    .open-btn:hover{background:#7a3a25}
+    .loading{text-align:center;padding:56px;color:#9ca3af;font-size:13px}
+    .loading-dots::after{content:'...';animation:dots 1.4s infinite}
+    @keyframes dots{0%,20%{content:'.'}40%{content:'..'}60%,100%{content:'...'}}
+    .empty{text-align:center;padding:48px 20px}
+    .empty h2{font-size:15px;font-weight:600;color:#163043;margin-bottom:6px}
+    .empty p{font-size:13px;color:#525E64;line-height:1.5;max-width:360px;margin:0 auto}
+    .error-box{background:#fef2f2;border:1px solid #fecaca;border-radius:8px;padding:12px 14px;color:#991b1b;font-size:12px;line-height:1.5;margin-bottom:10px}
+    .fab{position:fixed;bottom:20px;right:20px;background:#163043;color:#fff;border:none;border-radius:24px;padding:11px 20px;font-size:13px;font-weight:600;cursor:pointer;display:none;align-items:center;gap:6px;box-shadow:0 4px 12px rgba(22,48,67,.3);z-index:20}
+    .fab:hover{background:#0f2330}
+    .fab.visible{display:flex}
+    .footer{padding:18px 20px;text-align:center;color:#9ca3af;font-size:11px;border-top:1px solid #e5e7eb;background:#fff;margin-top:20px}
+    .footer a{color:#163043;text-decoration:none}
+  </style>
+</head>
+<body>
+
+<div class="header">
+  <div>
+    <h1>Monitor de Reguladores Financieros</h1>
+    <div class="header-sub">Latam, EE.UU. y Europa · Sakbé Consultores</div>
+  </div>
+  <div class="updated" id="updated">Cargando<span class="loading-dots"></span></div>
+</div>
+
+<div class="filters" id="filters"></div>
+
+<div class="main">
+  <div class="feed">
+    <div id="root"><div class="loading"><span class="loading-dots">Descargando datos</span></div></div>
+    <div class="footer">
+      Generado por GitHub Actions desde feeds RSS oficiales. Datos en
+      <a href="data/monitor.json" target="_blank">data/monitor.json</a>.
+    </div>
+  </div>
+  <div class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+      <h2>Seleccionadas (<span id="sel-count">0</span>)</h2>
+      <button class="sidebar-close" onclick="closeSidebar()">×</button>
+    </div>
+    <div class="sidebar-body" id="sel-list"></div>
+    <div class="generate-section">
+      <div class="generate-label">Generar prompt para IA</div>
+      <button class="gen-btn" onclick="generate('linkedin')">Post LinkedIn<span class="btn-sub">600 a 900 caracteres, prosa</span></button>
+      <button class="gen-btn" onclick="generate('substack')">Nota Substack<span class="btn-sub">300 a 500 palabras, análisis directo</span></button>
+      <button class="gen-btn" onclick="generate('hilo')">Hilo de análisis<span class="btn-sub">5 a 8 puntos con contexto</span></button>
+      <button class="gen-btn" onclick="generate('paper')">Outline de artículo<span class="btn-sub">Estructura para análisis profundo</span></button>
+    </div>
+  </div>
+</div>
+
+<button class="fab" id="fab" onclick="openSidebar()">Generar contenido (<span id="fab-count">0</span>)</button>
+
+<div class="output-panel" id="output-panel">
+  <div class="output-box">
+    <div class="output-header">
+      <h3 id="output-title">Prompt generado</h3>
+      <button class="output-close" onclick="closeOutput()">×</button>
+    </div>
+    <div class="output-body">
+      <div class="output-instructions">
+        Copia este prompt y pégalo en Claude, ChatGPT o cualquier IA. El prompt incluye contexto sobre Sakbé y las noticias seleccionadas.
+      </div>
+      <div class="output-prompt" id="output-prompt"></div>
+    </div>
+    <div class="output-footer">
+      <a class="open-btn" id="open-claude" href="#" target="_blank" rel="noopener">Abrir en Claude</a>
+      <button class="copy-btn" id="copy-btn" onclick="copyOutput()">Copiar prompt</button>
+    </div>
+  </div>
+</div>
+
+<script>
+  // ───────────────────────────────────────────────────────────────
+  // Configuración
+  // ───────────────────────────────────────────────────────────────
+
+  const DATA_URL = 'data/monitor.json';
+
+  const COUNTRY_ORDER = ['all', 'MX', 'CO', 'PE', 'US', 'EU', 'Global'];
+  const COUNTRY_LABEL = { all: 'Todos' };
+
+  let allItems = [];
+  let filteredItems = [];
+  let selectedIds = new Set();
+  let currentFilter = 'all';
+  let outputText = '';
+
+  // ───────────────────────────────────────────────────────────────
+  // Helpers
+  // ───────────────────────────────────────────────────────────────
+
+  function escapeHtml(s){
+    return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+                        .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+  }
+
+  function formatDate(s){
+    if(!s) return '';
+    try{
+      const d = new Date(s);
+      return isNaN(d) ? s : d.toLocaleDateString('es-MX',{year:'numeric',month:'short',day:'numeric'});
+    } catch(e){ return s; }
+  }
+
+  function getTipoCls(tipo){
+    const t = (tipo||'').toLowerCase();
+    if (t.includes('bulletin')) return 'bulletins';
+    if (t.includes('publication')) return 'publications';
+    if (t.includes('research') || t.includes('paper')) return 'research';
+    if (t.includes('statistical')) return 'statistical';
+    return '';
+  }
+
+  // Items con fecha futura anómala (>7d adelante) los ordenamos como sin fecha
+  function sortKey(item){
+    const pub = item.published || '';
+    if (!pub) return '';
+    try {
+      const d = new Date(pub);
+      const limit = new Date(Date.now() + 7*24*3600*1000);
+      if (isNaN(d) || d > limit) return '';
+      return pub;
+    } catch(e){ return ''; }
+  }
+
+  // ───────────────────────────────────────────────────────────────
+  // Carga del JSON
+  // ───────────────────────────────────────────────────────────────
+
+  async function loadData(){
+    document.getElementById('updated').innerHTML = 'Cargando<span class="loading-dots"></span>';
+    document.getElementById('root').innerHTML =
+      '<div class="loading"><span class="loading-dots">Descargando datos</span></div>';
+    try {
+      const resp = await fetch(DATA_URL + '?t=' + Date.now(), { cache: 'no-store' });
+      if (!resp.ok) throw new Error('HTTP ' + resp.status);
+      const data = await resp.json();
+
+      const items = Array.isArray(data.items) ? data.items.slice() : [];
+      items.sort((a, b) => {
+        const ka = sortKey(a), kb = sortKey(b);
+        if (ka === kb) return 0;
+        if (!ka) return 1;
+        if (!kb) return -1;
+        return kb.localeCompare(ka);
+      });
+
+      allItems = items;
+
+      const genDate = data.generated_at ? new Date(data.generated_at) : null;
+      const updatedStr = genDate && !isNaN(genDate)
+        ? genDate.toLocaleString('es-MX', { dateStyle:'short', timeStyle:'short' })
+        : 'desconocido';
+      document.getElementById('updated').innerHTML =
+        (data.total_items || items.length) + ' items · ' + updatedStr +
+        ' <span class="reload" onclick="loadData()">Recargar</span>';
+
+      renderFilters();
+      applyFilter(currentFilter);
+      updateSidebar();
+
+    } catch(e) {
+      document.getElementById('root').innerHTML =
+        '<div class="error-box">No se pudo cargar el JSON: ' + escapeHtml(e.message) +
+        '. Esperar a que el workflow de GitHub Actions corra al menos una vez.</div>';
+      document.getElementById('updated').innerHTML =
+        'Error <span class="reload" onclick="loadData()">Reintentar</span>';
+    }
+  }
+
+  // ───────────────────────────────────────────────────────────────
+  // Filtros y render
+  // ───────────────────────────────────────────────────────────────
+
+  function renderFilters(){
+    const counts = { all: allItems.length };
+    for (const item of allItems) {
+      const c = item.country || '(?)';
+      counts[c] = (counts[c] || 0) + 1;
+    }
+    const seen = new Set(COUNTRY_ORDER);
+    const extras = Object.keys(counts).filter(c => !seen.has(c)).sort();
+    const order = COUNTRY_ORDER.concat(extras);
+
+    const div = document.getElementById('filters');
+    div.innerHTML = order.filter(c => c === 'all' || counts[c]).map(c => {
+      const label = COUNTRY_LABEL[c] || c;
+      const cnt = counts[c] || 0;
+      const active = c === currentFilter ? ' active' : '';
+      return '<button class="filter-btn' + active + '" data-filter="' + escapeHtml(c) + '">' +
+             escapeHtml(label) + '<span class="count">' + cnt + '</span></button>';
+    }).join('');
+
+    div.querySelectorAll('.filter-btn').forEach(b => {
+      b.addEventListener('click', () => applyFilter(b.dataset.filter));
+    });
+  }
+
+  function applyFilter(f){
+    currentFilter = f;
+    document.querySelectorAll('.filter-btn').forEach(b => {
+      b.classList.toggle('active', b.dataset.filter === f);
+    });
+    const items = f === 'all' ? allItems : allItems.filter(i => i.country === f);
+    renderCards(items);
+  }
+
+  function renderCards(items){
+    filteredItems = items;
+    const root = document.getElementById('root');
+
+    if (items.length === 0) {
+      root.innerHTML =
+        '<div class="empty"><h2>' +
+        (allItems.length === 0 ? 'Sin items' : 'Sin resultados') +
+        '</h2><p>' +
+        (allItems.length === 0
+          ? 'El JSON está vacío. Espera a que GitHub Actions corra al menos una vez.'
+          : 'No hay comunicados para este filtro.') +
+        '</p></div>';
+      return;
+    }
+
+    let html = '<div class="count">' + items.length + ' comunicado' +
+               (items.length !== 1 ? 's' : '') +
+               ' · <span style="color:#525E64">haz clic para seleccionar</span></div>' +
+               '<div class="cards">';
+
+    for (const item of items) {
+      const sel = selectedIds.has(item.id);
+      const tc = getTipoCls(item.type);
+      html += '<div class="card' + (sel ? ' selected' : '') +
+              '" onclick="toggleSelect(\'' + escapeHtml(item.id) + '\')">' +
+        '<div class="card-meta">' +
+          (item.country ? '<span class="badge badge-country">' + escapeHtml(item.country) + '</span>' : '') +
+          (item.regulator ? '<span class="badge badge-reg">' + escapeHtml(item.regulator) + '</span>' : '') +
+          (item.type ? '<span class="badge badge-tipo ' + tc + '">' + escapeHtml(item.type) + '</span>' : '') +
+          '<span class="card-date">' + escapeHtml(formatDate(item.published)) + '</span>' +
+        '</div>' +
+        '<div class="card-title">' + escapeHtml(item.title) + '</div>' +
+        (item.summary
+          ? '<div class="card-summary">' + escapeHtml(item.summary.slice(0,180)) +
+            (item.summary.length > 180 ? '…' : '') + '</div>'
+          : '') +
+        '<div class="card-footer">' +
+          (item.url
+            ? '<a class="card-link" href="' + escapeHtml(item.url) + '" target="_blank" rel="noopener" onclick="event.stopPropagation()">Ver comunicado →</a>'
+            : '<span></span>') +
+          '<button class="card-select" onclick="event.stopPropagation();toggleSelect(\'' +
+          escapeHtml(item.id) + '\')">' +
+          (sel ? 'Seleccionada' : 'Seleccionar') + '</button>' +
+        '</div>' +
+      '</div>';
+    }
+    html += '</div>';
+    root.innerHTML = html;
+  }
+
+  // ───────────────────────────────────────────────────────────────
+  // Selección y sidebar
+  // ───────────────────────────────────────────────────────────────
+
+  function toggleSelect(id){
+    if (selectedIds.has(id)) selectedIds.delete(id);
+    else selectedIds.add(id);
+    renderCards(filteredItems);
+    updateSidebar();
+  }
+
+  function updateSidebar(){
+    const n = selectedIds.size;
+    document.getElementById('sel-count').textContent = n;
+    document.getElementById('fab-count').textContent = n;
+    document.getElementById('fab').classList.toggle(
+      'visible',
+      n > 0 && !document.getElementById('sidebar').classList.contains('open')
+    );
+
+    const list = document.getElementById('sel-list');
+    if (n === 0) {
+      list.innerHTML =
+        '<p style="font-size:12px;color:#9ca3af;text-align:center;padding:20px 0">' +
+        'Haz clic en una noticia para seleccionarla.</p>';
+      return;
+    }
+
+    list.innerHTML = allItems.filter(i => selectedIds.has(i.id)).map(i =>
+      '<div class="selected-item">' +
+        '<button class="selected-item-remove" onclick="toggleSelect(\'' +
+        escapeHtml(i.id) + '\')">×</button>' +
+        '<div class="selected-item-title">' + escapeHtml(i.title.slice(0,80)) +
+        (i.title.length > 80 ? '…' : '') + '</div>' +
+        '<div class="selected-item-meta">' +
+        escapeHtml([i.regulator, i.country, formatDate(i.published)]
+                   .filter(Boolean).join(' · ')) +
+        '</div>' +
+      '</div>'
+    ).join('');
+  }
+
+  function openSidebar(){
+    document.getElementById('sidebar').classList.add('open');
+    document.getElementById('fab').classList.remove('visible');
+    updateSidebar();
+  }
+  function closeSidebar(){
+    document.getElementById('sidebar').classList.remove('open');
+    if (selectedIds.size > 0) document.getElementById('fab').classList.add('visible');
+  }
+
+  // ───────────────────────────────────────────────────────────────
+  // Generación de prompts (no llama IA, solo genera el prompt y copia)
+  // ───────────────────────────────────────────────────────────────
+
+  const TYPE_LABELS = {
+    linkedin: 'Prompt para Post LinkedIn',
+    substack: 'Prompt para Nota Substack',
+    hilo:     'Prompt para Hilo de análisis',
+    paper:    'Prompt para Outline de artículo'
+  };
+
+  function buildPrompt(type, items){
+    const news = items.map(i =>
+      '- [' + (i.regulator || i.country || 'Regulador') + '] ' + i.title +
+      (i.summary ? ': ' + i.summary.slice(0,300) : '') +
+      (i.url ? ' (' + i.url + ')' : '')
+    ).join('\n');
+
+    const ctx =
+      'Eres Gustavo Mondragón, socio fundador de Sakbé Consultores, firma de ' +
+      'consultoría financiera (auditoría interna, gestión integral de riesgos, ' +
+      'tesorería). Audiencia: profesionales financieros latinoamericanos. ' +
+      'Estilo: directo, técnico, sin frases grandilocuentes, sin bullets salvo ' +
+      'que sean indispensables, sin comparaciones formulaicas tipo "no solo X, ' +
+      'también Y", sin abuso de guion largo.\n\n' +
+      'Noticias regulatorias seleccionadas:\n' + news + '\n\n';
+
+    if (type === 'linkedin')
+      return ctx + 'Escribe UN SOLO post de LinkedIn de 600 a 900 caracteres. ' +
+                   'Empieza con el dato o hecho más relevante, no con contexto ' +
+                   'genérico. Conecta con implicaciones para instituciones ' +
+                   'financieras de Latinoamérica. Termina con una pregunta o ' +
+                   'reflexión concreta. Prosa, sin lista.';
+    if (type === 'substack')
+      return ctx + 'Escribe una nota de Substack de 300 a 500 palabras. Prosa ' +
+                   'fluida, párrafos de largo variable. Empieza con el contexto ' +
+                   'necesario, desarrolla la implicación práctica, termina con ' +
+                   'qué debería hacer el CRO, CFO o consejo con esta información.';
+    if (type === 'hilo')
+      return ctx + 'Escribe un hilo de análisis de 5 a 8 puntos. Punto 1: hecho ' +
+                   'principal. Puntos 2 a 7: análisis técnico concreto. Último ' +
+                   'punto: recomendación o pregunta. Cada punto debe ser sustantivo.';
+    if (type === 'paper')
+      return ctx + 'Elabora un outline para un artículo o paper de análisis ' +
+                   'profundo. Incluye: título propuesto, audiencia objetivo, ' +
+                   'hipótesis central, secciones con descripción de 2 a 3 líneas ' +
+                   '(argumento concreto), fuentes clave a buscar.';
+    return ctx;
+  }
+
+  function generate(type){
+    if (selectedIds.size === 0) return;
+    const selected = allItems.filter(i => selectedIds.has(i.id));
+    outputText = buildPrompt(type, selected);
+
+    document.getElementById('output-title').textContent = TYPE_LABELS[type];
+    document.getElementById('output-prompt').textContent = outputText;
+
+    // Botón "Abrir en Claude" con el prompt prerellenado vía query param
+    const claudeUrl = 'https://claude.ai/new?q=' + encodeURIComponent(outputText);
+    document.getElementById('open-claude').href = claudeUrl;
+
+    document.getElementById('output-panel').classList.add('open');
+  }
+
+  function closeOutput(){
+    document.getElementById('output-panel').classList.remove('open');
+  }
+
+  async function copyOutput(){
+    try {
+      await navigator.clipboard.writeText(outputText);
+      const b = document.getElementById('copy-btn');
+      b.textContent = 'Copiado';
+      setTimeout(() => b.textContent = 'Copiar prompt', 2000);
+    } catch(e) { /* ignorar */ }
+  }
+
+  // Arranque
+  loadData();
+</script>
+</body>
+</html>
