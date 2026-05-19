@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-05-19T06:05:41.151562+00:00",
-  "total_items": 141,
+  "generated_at": "2026-05-19T10:48:21.967581+00:00",
+  "total_items": 142,
   "items": [
+    {
+      "id": "3650e1df-2fda-8181-bcd5-dbf173644286",
+      "title": "Consolidated version of EBA ameding Guidelines on ICT and security risk management",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-05/c8fb6168-0aef-42f6-8da9-114a8baf21b9/Consolidated%20version%20of%20EBA%20ameding%20Guidelines%20on%20ICT%20and%20security%20risk%20management.pdf",
+      "published": "2026-05-19",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
     {
       "id": "3650e1df-2fda-810a-ba21-eee89a524b45",
       "title": "Museos",
