@@ -15,6 +15,7 @@ import os
 import sys
 import logging
 import importlib
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import yaml
@@ -77,6 +78,27 @@ def fetch_feed_items(feed_cfg: dict) -> list:
     return []
 
 
+def is_too_old(published: str, max_age_days: int) -> bool:
+    """
+    Devuelve True si el item es más viejo que max_age_days.
+    Si published está vacío o no parsea, devuelve False (lo deja pasar)
+    porque algunos feeds no entregan fecha y preferimos capturar el item
+    a perderlo. La decisión: errar del lado conservador en favor del usuario.
+    """
+    if not published:
+        return False
+    try:
+        # rss_parser entrega published en formato YYYY-MM-DD
+        item_date = datetime.strptime(published, "%Y-%m-%d").replace(
+            tzinfo=timezone.utc
+        )
+    except ValueError:
+        return False
+
+    cutoff = datetime.now(timezone.utc) - timedelta(days=max_age_days)
+    return item_date < cutoff
+
+
 # -----------------------------------------------------------------
 # Main
 # -----------------------------------------------------------------
@@ -92,11 +114,17 @@ def main():
         log.error("Faltan NOTION_TOKEN o NOTION_DATABASE_ID en el entorno")
         sys.exit(1)
 
-    # Cargar configuración de feeds
+    # Cargar configuración de feeds y settings globales
     config_path = SRC_DIR.parent / "config" / "feeds.yaml"
     config = load_config(config_path)
     feeds = config.get("feeds", [])
-    log.info("Procesando %d feeds definidos en config", len(feeds))
+    settings = config.get("settings", {})
+    max_age_days = settings.get("max_age_days", 20)
+
+    log.info(
+        "Procesando %d feeds. Filtro de antigüedad: %d días.",
+        len(feeds), max_age_days,
+    )
 
     # Cliente de Notion y carga de URLs ya guardadas para dedup
     notion = NotionClient(notion_token, notion_db_id)
@@ -104,7 +132,8 @@ def main():
 
     # Contadores para el resumen final
     new_count = 0
-    skipped_count = 0
+    skipped_existing = 0  # ya estaba en Notion
+    skipped_old = 0       # filtrado por max_age_days
     error_count = 0
 
     # Procesar cada feed
@@ -120,8 +149,15 @@ def main():
 
         for item in items:
             item_url = item.get("url", "")
+
+            # Skip si no tiene URL o si ya está en Notion
             if not item_url or item_url in existing_urls:
-                skipped_count += 1
+                skipped_existing += 1
+                continue
+
+            # Skip si el item es más viejo que el límite configurado
+            if is_too_old(item.get("published", ""), max_age_days):
+                skipped_old += 1
                 continue
 
             # Inyectar metadatos del config en el item
@@ -138,8 +174,8 @@ def main():
                 error_count += 1
 
     log.info(
-        "Resumen final: %d nuevos, %d ya existían, %d errores",
-        new_count, skipped_count, error_count,
+        "Resumen final: %d nuevos, %d ya existían, %d muy viejos (>%dd), %d errores",
+        new_count, skipped_existing, skipped_old, max_age_days, error_count,
     )
 
 

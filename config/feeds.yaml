@@ -20,6 +20,14 @@
 #
 # ──────────────────────────────────────────────────────────────────
 
+# Configuración global del pipeline.
+settings:
+  # Solo se insertan items cuya fecha de publicación sea menor o igual
+  # a este número de días. Items sin fecha se dejan pasar (no se filtran)
+  # porque algunos feeds no entregan fecha y conviene errar del lado
+  # de capturarlos. Sube o baja este número según necesites.
+  max_age_days: 20
+
 feeds:
 
   # ═══════════════════════════ GLOBAL ═══════════════════════════
