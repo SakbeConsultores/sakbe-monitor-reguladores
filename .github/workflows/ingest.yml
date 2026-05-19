@@ -2,9 +2,10 @@
 # Workflow de GitHub Actions
 # ──────────────────────────────────────────────────────────────────
 #
-# Corre el script de ingesta cada hora. También se puede disparar
-# manualmente desde la pestaña Actions del repo, lo cual es útil
-# para probar y para forzar una corrida antes del próximo cron.
+# Corre el script de ingesta 2 veces al día (9 am y 3 pm CDMX).
+# También se puede disparar manualmente desde la pestaña Actions del
+# repo, lo cual es útil para probar y para forzar una corrida antes
+# del próximo cron.
 #
 # Las credenciales (NOTION_TOKEN y NOTION_DATABASE_ID) se inyectan
 # desde los Secrets del repo, no se exponen en el código.
@@ -13,11 +14,15 @@
 name: Ingest Reguladores Financieros
 
 on:
-  # Cron: minuto 0 de cada hora (00:00, 01:00, 02:00...).
+  # Cron: 2 veces al día, en horario laboral de CDMX (UTC-6).
+  # GitHub Actions usa UTC, así que convertimos.
   # GitHub Actions tiene latencia de unos minutos, así que en la
-  # práctica corre algunos minutos después de la hora en punto.
+  # práctica corre algunos minutos después del horario indicado.
   schedule:
-    - cron: '0 * * * *'
+    # 9:00 am CDMX = 15:00 UTC
+    - cron: '0 15 * * *'
+    # 3:00 pm CDMX = 21:00 UTC
+    - cron: '0 21 * * *'
 
   # Permite disparar el workflow manualmente desde la UI de GitHub.
   # Esencial para el primer test y para forzar corridas.
@@ -26,7 +31,9 @@ on:
 jobs:
   ingest:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    # Subimos el timeout porque Playwright agrega ~2-3 minutos por la
+    # descarga inicial de Chromium y los renderizados de cada sitio.
+    timeout-minutes: 25
 
     # Necesitamos permission de escritura para que el workflow pueda
     # commitear y pushear el JSON exportado de vuelta al repo.
@@ -45,6 +52,30 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      # Playwright necesita el binario de Chromium aparte del paquete pip.
+      # Cacheamos en ~/.cache/ms-playwright para no re-descargar ~300 MB
+      # cada corrida. El cache key incluye el hash de requirements.txt
+      # para que se invalide automáticamente cuando subamos la versión.
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        id: playwright-cache
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-chromium-${{ hashFiles('requirements.txt') }}
+
+      # Si NO hay cache (primera corrida o cambió requirements):
+      # instalamos browser + dependencias del SO. Toma 1-2 minutos.
+      - name: Install Playwright browser + system deps (cache miss)
+        if: steps.playwright-cache.outputs.cache-hit != 'true'
+        run: playwright install --with-deps chromium
+
+      # Si HAY cache: el binario está, pero las dependencias del SO no
+      # persisten entre runners. Las instalamos rápido sin re-descargar
+      # el browser. Toma ~15 segundos.
+      - name: Install Playwright system deps (cache hit)
+        if: steps.playwright-cache.outputs.cache-hit == 'true'
+        run: playwright install-deps chromium
 
       - name: Run ingest
         env:
