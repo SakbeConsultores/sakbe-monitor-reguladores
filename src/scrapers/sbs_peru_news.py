@@ -64,7 +64,10 @@ def parse(url):
         list[dict] con items, cada uno con keys:
             - title (str): título completo sin truncar
             - url (str): URL absoluta de la nota
-            - published (datetime | None): fecha de publicación
+            - published (str | None): fecha en formato ISO 'YYYY-MM-DD'.
+              Es string (no datetime) porque ingest.py hace strptime sobre
+              este campo. Si todos los scrapers devuelven el mismo tipo,
+              el pipeline no tiene sorpresas.
             - summary (str): resumen del item
     """
     logger.info(f"--- SBS Perú - Notas de Prensa")
@@ -178,12 +181,17 @@ def _parse_item(item_html):
 
 def _parse_date(date_str):
     """
-    Parsea fecha del sitio SBS en formato 'DD MES YYYY'.
+    Parsea fecha del sitio SBS y la devuelve en formato ISO.
 
-    Ejemplo: '15 MAYO 2026' -> datetime(2026, 5, 15).
+    Ejemplo: '15 MAYO 2026' -> '2026-05-15'.
+
+    Devolvemos string (no datetime) porque ese es el contrato que el
+    resto del pipeline (src/ingest.py, función is_too_old) espera para
+    el campo 'published'. Si devolvemos datetime, strptime falla con
+    TypeError. La conversión a datetime ocurre del lado de ingest.py.
 
     Returns:
-        datetime o None si el formato no coincide.
+        str con formato 'YYYY-MM-DD', o None si el formato no coincide.
     """
     if not date_str:
         return None
@@ -198,6 +206,9 @@ def _parse_date(date_str):
         year = int(parts[2])
         if not month:
             return None
-        return datetime(year, month, day)
+        # Validamos que la fecha es real construyendo un datetime
+        # (atrapa cosas como '32 ENERO 2026'), pero devolvemos string.
+        datetime(year, month, day)
+        return f"{year:04d}-{month:02d}-{day:02d}"
     except (ValueError, KeyError):
         return None
