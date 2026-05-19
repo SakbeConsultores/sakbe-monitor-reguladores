@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-05-19T10:48:21.967581+00:00",
-  "total_items": 142,
+  "generated_at": "2026-05-19T20:13:37.516037+00:00",
+  "total_items": 158,
   "items": [
+    {
+      "id": "3650e1df-2fda-81f7-bb66-f7e5095b9425",
+      "title": "Supervisory Ratings: Proposed Revisions to the Uniform Financial Institutions Rating System",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-22.html",
+      "published": "2026-05-19",
+      "summary": "The Federal Financial Institutions Examination Council today invited public comment on proposed revisions to the Uniform Financial Institutions Rating System, commonly known as the CAMELS rating system, to focus ratings on material financial risk and improve the transparency of ratings. Comments on all aspects of the proposed revisions are due 90 days after publication of the proposed revisions in the Federal Register.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "3650e1df-2fda-8148-b51b-e04bba5ebd72",
+      "title": "Comptroller Statement on Proposed Revisions to the Uniform Financial Institutions Ratings System",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-39.html",
+      "published": "2026-05-19",
+      "summary": "Comptroller of the Currency Jonathan V. Gould issued the following statement today about the Federal Financial Institutions Examination Council's (FFIEC) proposed revisions to the Uniform Financial Institutions Rating System, commonly known as the CAMELS rating system.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "3650e1df-2fda-8129-93fc-d3d8d483e7b6",
+      "title": "Transporte Urbano de Pasajeros",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10842",
+      "published": "2026-05-19",
+      "summary": "Viajaron 257.1 millones de personas pasajeras en los sistemas de transporte urbano durante marzo de 2026, 1.4% más que el año anterior",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3650e1df-2fda-811b-8c88-c902d09292d2",
+      "title": "Indicador Oportuno de la Actividad Económica",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10841",
+      "published": "2026-05-19",
+      "summary": "El IOAE anticipa un crecimiento anual y mensual de 0.3% del IGAE, para abril de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3650e1df-2fda-81c3-873c-e7bbe59fc8a2",
+      "title": "IFDP Paper: Attention Allocation and Belief Distortions",
+      "url": "https://www.federalreserve.gov/econres/ifdp/attention-allocation-and-belief-distortions.htm",
+      "published": "2026-05-19",
+      "summary": "Sai Ma Using microdata from the Michigan Survey of Consumers, we study how within-household reallocations of attention across news affect inflation expectation bias, measured relative to a real-time, machine-learning full-information benchmark. Shifting attention toward unfavorable (favorable) economic news increases (decreases) forecast bias substantially, while dropping attention to an unfavorable topic has little effect. The largest bias increases come not from inflation news itself, but from attention to unfavorable social, political, and geopolitical narratives. Aggregate news sentiment has no effect on bias when a household's reported attention allocation is unchanged. In aggregate, these effects are amplified when the attention network is dominated by an unfavorable focal hub: bias-reducing favorable narratives are crowded out of limited attention sets, and respondents closer to the hub exhibit larger bias increases. We find that past and present attention to news together account for up to 70 percent of observed forecast bias, with the current attention component rising sharply during recessions and large negative news events. Results are robust to a battery of specification checks and external validation.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3650e1df-2fda-8117-a0ef-f6be5f9fe7e3",
+      "title": "The supply chain spillovers of private equity buyouts",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3234~f530727180.en.pdf",
+      "published": "2026-05-19",
+      "summary": "We study how private equity (PE) buyouts propagate through supply chains using unique firm-to-firm transactions data from Belgium. In normal times, suppliers of PE-backed firms outperform their peers by 5%–10% in employment and sales growth, primarily due to increased input demand from PE-backed customers rather than knowledge spillovers or other mechanisms. In economic downturns, however, this outperformance is attenuated and suppliers compress markups by around 8% as PE investors intensify bargaining pressure and reconfigure supply chains to extract cost savings. Beyond the direct effects on suppliers, we show that as PE-backed firms absorb supplier capacity, they crowd out competitors that rely on the same suppliers. Overall, our findings underscore that supply chains are central to how PE investors create and redistribute value.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3650e1df-2fda-8169-a8a1-cb59fcc59c17",
+      "title": "External finance premium: market finance versus bank finance",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3235~15af105d53.en.pdf",
+      "published": "2026-05-19",
+      "summary": "This paper is the first to simultaneously examine firms’ market-based and bank-based external finance premia and investigate the behavior of corporate bond markets in the United States and the euro area, with a focus on country- and state-level heterogeneity in monetary unions. Using a unique micro-level dataset, we show that market finance premia, measured with corporate bond spreads, are remarkably similar in both the euro area and the US in terms of how little they depend on the issuer’s state or country of origin. In neither monetary union is the transmission of monetary policy to corporate bond rates differentiated as a function of the state or country of issuer. Unconditionally, the state or country of origin of the bond issuers explains very little of the variance among corporate bond spreads, in stark contrast to bank loan spreads that are determined at the country level for the same sample of bond-issuing firms. The euro area corporate bond market is as integrated as the US one, contrary to conventional beliefs. The marked difference between country influences on bank loan and corporate debt spreads is not due to selection effects in bond issuing firms but owes directly to the nature of market finance.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3650e1df-2fda-816b-9e7f-cb0557688567",
+      "title": "Annual list of 2025 contractors",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-05/9650f1c8-dc64-4908-af62-2d94b9fb3260/Annual%20list%20of%202025%20contractors%20%281%29.pdf",
+      "published": "2026-05-19",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3650e1df-2fda-8177-a5b7-c014ed1d5ec0",
+      "title": "Staff paper - The impact of prudential reporting distortions time to prioritize data integrity",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-05/7933effb-048d-45dc-a529-98f430717161/Staff%20paper%20-%20The%20impact%20of%20prudential%20reporting%20distortions%20time%20to%20prioritize%20data%20integrity.pdf",
+      "published": "2026-05-19",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
     {
       "id": "3650e1df-2fda-8181-bcd5-dbf173644286",
       "title": "Consolidated version of EBA ameding Guidelines on ICT and security risk management",
@@ -45,6 +144,17 @@
       "country": "EU",
       "type": "Publications",
       "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3650e1df-2fda-81e6-b552-c0c8221752b1",
+      "title": "SBS establece mecanismos para comunicar a los familiares de una persona fallecida y afiliada al SPP si existen saldos acumulados no reclamados",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3928",
+      "published": "2026-05-15",
+      "summary": "Se establece un marco con la finalidad de brindar mejores servicios y acompañamiento a los afiliados al sistema privado de pensiones (SPP) y sus famil",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
     },
     {
       "id": "3650e1df-2fda-810d-9431-d715ee7f33aa",
@@ -388,6 +498,17 @@
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
+      "id": "3650e1df-2fda-8197-84e4-d4d2b6605057",
+      "title": "SBS y ONP suscriben convenios clave para la implementación óptima de la reforma previsional",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3927",
+      "published": "2026-05-12",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
       "id": "3650e1df-2fda-81bb-8fa0-fb6012e9233f",
       "title": "Opinion in accordance with Article 131 CRD on macroprudential measures in Austria",
       "url": "https://www.eba.europa.eu/sites/default/files/2026-05/086736da-f211-4df3-9ebe-ed8bbd531f4d/Opinion%20in%20accordance%20with%20Article%20131%20CRD%20on%20macroprudential%20measures%20in%20Austria.pdf",
@@ -529,6 +650,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3650e1df-2fda-81fb-b4f3-d7d4c25d3e47",
+      "title": "SBS presenta proyecto de reglamento para impulsar servicios financieros digitales seguros e innovadores",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3926",
+      "published": "2026-05-11",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
     },
     {
       "id": "3650e1df-2fda-8145-8efb-f3ca1b5ed56a",
@@ -729,6 +861,17 @@
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
     },
     {
+      "id": "3650e1df-2fda-8186-a0b1-f33bee28c90c",
+      "title": "SBS reúne en Lima a autoridades y expertos globales para fortalecer la supervisión financiera",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3925",
+      "published": "2026-05-07",
+      "summary": "El encuentro, organizado por la SBS, consolida el liderazgo regional y el rol activo de la institución en la promoción de estándares prudenciales sóli",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
       "id": "3650e1df-2fda-8111-98f4-d8d42942cc6a",
       "title": "Report amending the Guidelines on the application of the definition of default",
       "url": "https://www.eba.europa.eu/sites/default/files/2026-05/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20Guidelines%20on%20definition%20of%20default.pdf",
@@ -894,6 +1037,17 @@
       "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
+      "id": "3650e1df-2fda-81a2-8579-d29451d08236",
+      "title": "SBS autoriza funcionamiento de Nacional de Seguros",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3924",
+      "published": "2026-05-06",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
       "id": "3650e1df-2fda-8111-bf7f-f5d9ef9febf7",
       "title": "Sistema de Indicadores Cíclicos",
       "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10824",
@@ -991,6 +1145,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3650e1df-2fda-814f-a888-ce58a3131554",
+      "title": "SBS y BCRP firman convenios de cooperación y coordinación para consolidar el desarrollo del sistema de pagos y de las finanzas abiertas en el Perú",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3923",
+      "published": "2026-05-05",
+      "summary": "La ceremonia de firma de ambos convenios contó con la participación de Sergio Espinosa, superintendente de Banca, Seguros y AFP, y Paul Castillo, gere",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
     },
     {
       "id": "3650e1df-2fda-813e-93fd-cee946c9d540",
@@ -1145,6 +1310,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3650e1df-2fda-81dc-a58c-c496012423b9",
+      "title": "Shifts in Australian Price-setting Behaviour around Large Shocks",
+      "url": "https://www.rba.gov.au/publications/rdp/2026/pdf/rdp2026-02.pdf",
+      "published": "2026-05-01",
+      "summary": "Reserve Bank of Australia Research Discussion Papers by Matthew Fink and Jonathan Hambur",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3650e1df-2fda-8150-a3c8-d19ead52c72c",
