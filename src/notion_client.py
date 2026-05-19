@@ -1,15 +1,21 @@
 """
 Cliente HTTP para la base de datos de Notion.
 
-Habla directo con la API de Notion (https://api.notion.com/v1).
+Habla directo con la API de Notion (https://api.notion.com/v1) e incluye:
+
+    - Retries automáticos con backoff exponencial cuando hay timeout,
+      error de red, rate limit (429) o error de servidor (5xx).
+    - Timeout amplio (60s) porque Notion bajo carga puede tardar.
+    - Manejo gracioso: si una request falla después de todos los retries,
+      devuelve False/None en lugar de propagar la excepción, para no
+      tumbar todo el script por una sola noticia problemática.
+
 Dos operaciones principales:
 
     get_existing_urls()  Trae todas las URLs ya guardadas en la base,
                          para dedupear localmente antes de insertar.
 
-    insert_item(item)    Inserta un item nuevo. El item debe traer
-                         todos los campos que mapean a las columnas
-                         del schema de Notion.
+    insert_item(item)    Inserta un item nuevo en la base.
 """
 
 import time
@@ -23,17 +29,22 @@ log = logging.getLogger(__name__)
 NOTION_API = "https://api.notion.com/v1"
 NOTION_VERSION = "2022-06-28"
 
-# Notion permite 3 requests por segundo en promedio.
-# Dejamos margen para no rozar el límite.
+# Pausa entre requests para respetar el rate limit de Notion
+# (oficialmente 3 req/seg en promedio, dejamos margen).
 RATE_LIMIT_SLEEP = 0.4
 
-# Notion limita los campos rich_text a 2000 caracteres por bloque.
-# Truncamos por seguridad.
+# Notion bajo carga puede tardar más de 30s. Subimos a 60.
+REQUEST_TIMEOUT = 60
+
+# Cuántas veces reintentar una request fallida por causas transitorias.
+MAX_RETRIES = 3
+
+# Notion limita los rich_text a 2000 caracteres por bloque. Truncamos.
 MAX_TEXT = 2000
 
 
 class NotionClient:
-    """Wrapper minimal sobre la API REST de Notion."""
+    """Wrapper minimal sobre la API REST de Notion, con retries."""
 
     def __init__(self, token: str, database_id: str):
         self.database_id = database_id
@@ -44,13 +55,91 @@ class NotionClient:
         }
 
     # -----------------------------------------------------------------
+    # Helper privado: request con retries
+    # -----------------------------------------------------------------
+    def _request_with_retry(self, method: str, url: str, json_data=None):
+        """
+        Hace una request a Notion con reintentos automáticos.
+
+        Reintenta cuando:
+            - Hay timeout o ConnectionError (problema de red).
+            - Notion devuelve 429 (rate limit).
+            - Notion devuelve 5xx (error de servidor).
+
+        No reintenta cuando:
+            - Notion devuelve 4xx que no sea 429 (problema del payload).
+
+        Devuelve el objeto response si tuvo éxito, o None si falló
+        después de agotar todos los reintentos.
+        """
+        for attempt in range(1, MAX_RETRIES + 1):
+            try:
+                resp = requests.request(
+                    method=method,
+                    url=url,
+                    headers=self.headers,
+                    json=json_data,
+                    timeout=REQUEST_TIMEOUT,
+                )
+                # Pausa siempre (incluso en error) para respetar rate limit
+                time.sleep(RATE_LIMIT_SLEEP)
+
+                # Caso éxito
+                if resp.ok:
+                    return resp
+
+                # Rate limit explícito: Notion nos dice cuánto esperar
+                if resp.status_code == 429:
+                    retry_after = int(resp.headers.get("Retry-After", 5))
+                    log.warning(
+                        "Rate limit (429), esperando %ds (intento %d/%d)",
+                        retry_after, attempt, MAX_RETRIES,
+                    )
+                    time.sleep(retry_after)
+                    continue
+
+                # Errores del servidor: backoff exponencial
+                if resp.status_code >= 500:
+                    wait = attempt * 3
+                    log.warning(
+                        "Server error %d, retry en %ds (intento %d/%d)",
+                        resp.status_code, wait, attempt, MAX_RETRIES,
+                    )
+                    time.sleep(wait)
+                    continue
+
+                # Error del cliente (400, 401, 403, 404, etc): no reintenta
+                log.error(
+                    "Error %s a Notion: %d - %s",
+                    method, resp.status_code, resp.text[:300],
+                )
+                return None
+
+            except (requests.exceptions.Timeout,
+                    requests.exceptions.ConnectionError) as e:
+                wait = attempt * 3
+                log.warning(
+                    "Network error (%s), retry en %ds (intento %d/%d)",
+                    type(e).__name__, wait, attempt, MAX_RETRIES,
+                )
+                time.sleep(wait)
+                continue
+
+            except Exception as e:
+                # Cualquier otra excepción inesperada: log y aborta este intento
+                log.error("Excepción inesperada en request a Notion: %s", e)
+                return None
+
+        log.error("Notion request falló después de %d intentos", MAX_RETRIES)
+        return None
+
+    # -----------------------------------------------------------------
     # Lectura: traer URLs existentes para dedupear
     # -----------------------------------------------------------------
     def get_existing_urls(self) -> set:
         """
-        Itera todas las páginas de la base de datos y devuelve un set
-        con las URLs presentes en la columna URL.
-        Notion entrega en páginas de 100; iteramos con paginación.
+        Itera todas las páginas de la base y devuelve un set con las URLs
+        presentes en la columna URL. Notion entrega en páginas de 100.
         """
         urls = set()
         cursor = None
@@ -61,13 +150,20 @@ class NotionClient:
             if cursor:
                 payload["start_cursor"] = cursor
 
-            resp = requests.post(
+            resp = self._request_with_retry(
+                "POST",
                 f"{NOTION_API}/databases/{self.database_id}/query",
-                headers=self.headers,
-                json=payload,
-                timeout=30,
+                json_data=payload,
             )
-            resp.raise_for_status()
+
+            # Si el query falla después de retries, abortamos: sin la lista
+            # de URLs existentes, no podemos dedupear correctamente.
+            if resp is None:
+                raise RuntimeError(
+                    "No se pudieron traer las URLs existentes de Notion "
+                    "después de varios reintentos. Aborto."
+                )
+
             data = resp.json()
 
             for page in data.get("results", []):
@@ -80,7 +176,6 @@ class NotionClient:
 
             has_more = data.get("has_more", False)
             cursor = data.get("next_cursor")
-            time.sleep(RATE_LIMIT_SLEEP)
 
         log.info("Notion tiene %d URLs ya registradas", len(urls))
         return urls
@@ -90,9 +185,10 @@ class NotionClient:
     # -----------------------------------------------------------------
     def insert_item(self, item: dict) -> bool:
         """
-        Crea una página nueva en la base. Devuelve True si tuvo éxito.
+        Crea una página nueva en la base. Devuelve True si tuvo éxito,
+        False si falló después de los retries.
 
-        El parámetro item debe traer estas llaves:
+        El item debe traer estas llaves:
             title, url, published, summary,
             regulator, country, type, feed_url
         """
@@ -121,7 +217,6 @@ class NotionClient:
         }
 
         # La fecha solo se agrega si viene parseable.
-        # Notion rechaza fechas vacías o mal formateadas.
         if item.get("published"):
             properties["Fecha Publicación"] = {
                 "date": {"start": item["published"]}
@@ -132,22 +227,17 @@ class NotionClient:
             "properties": properties,
         }
 
-        resp = requests.post(
+        resp = self._request_with_retry(
+            "POST",
             f"{NOTION_API}/pages",
-            headers=self.headers,
-            json=payload,
-            timeout=30,
+            json_data=payload,
         )
-        time.sleep(RATE_LIMIT_SLEEP)
 
-        if resp.ok:
-            return True
+        if resp is None:
+            log.error(
+                "No se pudo insertar '%s' tras agotar retries",
+                item["title"][:60],
+            )
+            return False
 
-        # Loggeamos error con contexto suficiente para diagnosticar
-        log.error(
-            "Error insertando '%s': %s - %s",
-            item["title"][:60],
-            resp.status_code,
-            resp.text[:300],
-        )
-        return False
+        return True
