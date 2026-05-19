@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-05-19T02:06:35.827070+00:00",
-  "total_items": 126,
+  "generated_at": "2026-05-19T06:05:41.151562+00:00",
+  "total_items": 141,
   "items": [
-    {
-      "id": "3650e1df-2fda-81f6-8fa7-c2c0ba71e9d5",
-      "title": "Simple Tests for the Correct Specification of Conditional Predictive Densities",
-      "url": "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/25/Files/dt2535e.pdf",
-      "published": "2035-09-01",
-      "summary": "Bank of Spain Working Papers by Gergely Ganics and Lluc Puig Codina",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Central Bank Research Hub",
-      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
-    },
     {
       "id": "3650e1df-2fda-810a-ba21-eee89a524b45",
       "title": "Museos",
@@ -388,6 +377,39 @@
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
+      "id": "3650e1df-2fda-81bb-8fa0-fb6012e9233f",
+      "title": "Opinion in accordance with Article 131 CRD on macroprudential measures in Austria",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-05/086736da-f211-4df3-9ebe-ed8bbd531f4d/Opinion%20in%20accordance%20with%20Article%20131%20CRD%20on%20macroprudential%20measures%20in%20Austria.pdf",
+      "published": "2026-05-12",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3650e1df-2fda-8100-af85-ce922cadd8ae",
+      "title": "EBA MB 2026 045 rev. 1 (Final Minutes MB conference call on 19 February 2026)",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-05/33d3e499-5d03-4e79-982e-bf58ba00cf88/EBA%20MB%202026%20045%20rev.%201%20%28Final%20Minutes%20MB%20conference%20call%20on%2019%20February%202026%29.pdf",
+      "published": "2026-05-12",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3650e1df-2fda-8181-8443-c88bc60b150a",
+      "title": "2026 PMR - Jonathan Overett Somnier",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-05/cdddb229-14a4-439a-82dd-1c9d334ca381/2026%20PMR%20-%20Jonathan%20Overett%20Somnier.pdf",
+      "published": "2026-05-12",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
       "id": "3650e1df-2fda-81ad-ae0b-d389588ad768",
       "title": "Encuesta de Viajeros Internacionales (EVI)",
       "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10833",
@@ -498,6 +520,39 @@
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
+      "id": "3650e1df-2fda-8145-8efb-f3ca1b5ed56a",
+      "title": "IFRS18 - Public Responses",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-05/31330a32-ce1b-4c12-b84d-a532c3cafbc1/IFRS18%20-%20Public%20Responses%20%281%29.xlsx",
+      "published": "2026-05-11",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3650e1df-2fda-8141-97ba-d6ec899525a5",
+      "title": "EC letter Call for Targeted Advice to ESAs Article 8 Taxonomy Regulation",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-05/3343143c-41da-4357-8b63-0410289fd055/20251215%20Cover%20letter%20Call%20for%20Targeted%20Advice%20to%20ESAs%20Article%208%20Taxonomy%20Regulation.pdf",
+      "published": "2026-05-11",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3650e1df-2fda-8137-889b-cae3d3f2aa84",
+      "title": "Call for advice to ESAs on taxonomy key performances indicators",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-05/d65fd393-91e6-42f8-8598-1b25388cf35d/20260217%20Call%20for%20Targeted%20Advice%20to%20ESAs%20Article%208%20Taxonomy%20Regulation%20FINAL.pdf",
+      "published": "2026-05-11",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
       "id": "3650e1df-2fda-8162-b65a-fe196f507c90",
       "title": "Registro administrativo de la industria automotriz de vehículos ligeros",
       "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10831",
@@ -564,6 +619,61 @@
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
     },
     {
+      "id": "3650e1df-2fda-81e8-b5b3-d50f9177e47d",
+      "title": "BoS Declaration of Interests (2026)",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-05/22dd5530-f91c-44c9-ba89-4e43773cd728/BoS%20Declaration%20of%20Interests.xlsx",
+      "published": "2026-05-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3650e1df-2fda-8137-a4d9-cf3d5ad40de7",
+      "title": "List of credit institutions and investment firms for the purpose of remuneration benchmarking (end-2025) (May 2026)",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-05/dff36096-67b5-4e2d-b699-2fbec1b151c7/List%20of%20credit%20institutions%20and%20investment%20firms%20for%20the%20purpose%20of%20remuneration%20benchmarking%20%28end-2025%29%20%28May%202026%29%20%281%29.pdf",
+      "published": "2026-05-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3650e1df-2fda-812e-8454-e1a567b97321",
+      "title": "List of credit institutions and investment firms for the purpose of remuneration benchmarking (end-2025) (May 2026) (xls)",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-05/b04463d8-e738-423d-bc50-8dbb099a9d07/List%20of%20credit%20institutions%20and%20investment%20firms%20for%20the%20purpose%20of%20remuneration%20benchmarking%20%28end-2025%29%20%28May%202026%29%20%281%29.xlsx",
+      "published": "2026-05-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3650e1df-2fda-8101-ba9e-e100a17e0f45",
+      "title": "Minutes - BoS conference call on 18 March 2026",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-05/ad0efff2-6a68-4f4f-9255-49a72020eed8/EBA%20BS%202026%20203%20rev.%202%20%28Minutes%20-%20BoS%20conference%20call%20on%2018%20March%202026%29%20%281%29.pdf",
+      "published": "2026-05-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3650e1df-2fda-8190-9780-ffcc8b34fafb",
+      "title": "List of written procedures and their voting results from 27 January 2026 to 18 March 2026",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-05/79ed0ba1-f98b-490b-84a4-c8b4a6349aa8/List%20of%20written%20procedures%20and%20their%20voting%20results%20from%2027%20January%202026%20to%2018%20March%202026.pdf",
+      "published": "2026-05-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
       "id": "3650e1df-2fda-8178-ae47-fce23e080000",
       "title": "Encuesta Nacional sobre Confianza del Consumidor (ENCO)",
       "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10830",
@@ -606,6 +716,50 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3650e1df-2fda-8111-98f4-d8d42942cc6a",
+      "title": "Report amending the Guidelines on the application of the definition of default",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-05/35b162ff-9373-4fdb-87f2-7b775e1c2cfd/Amending%20Guidelines%20on%20definition%20of%20default.pdf",
+      "published": "2026-05-07",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3650e1df-2fda-81cf-8188-c848341ff1b0",
+      "title": "Consultation Paper on RTS amending RTS for assessing risk weights to specialised lending exposures",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-05/4e9f5602-0d3a-42b7-b79a-6643c266ecab/CP%20on%20RTS%20on%20slotting.pdf",
+      "published": "2026-05-07",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3650e1df-2fda-81ae-9512-e6ee81f4fab0",
+      "title": "2026 04 30 PMR Francois-Louis Michaud",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-05/db6ced54-a9f1-4906-877f-18a099c5eb8c/2026%2004%2030%20PMR%20Francois-Louis%20Michaud.pdf",
+      "published": "2026-05-07",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3650e1df-2fda-81b0-b491-d3a42d6b63d8",
+      "title": "EBA DC 646 - Decision concerning reimbursements and allowances for external persons",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-05/ed4370d0-d7ad-408e-b5d5-9d02013295a0/EBA%20DC%20646%20-%20Decision%20concerning%20reimbursements%20and%20allowances%20for%20external%20persons.pdf",
+      "published": "2026-05-07",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
     },
     {
       "id": "3650e1df-2fda-819e-8bba-ed3783b6e610",
@@ -1376,6 +1530,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3650e1df-2fda-81f6-8fa7-c2c0ba71e9d5",
+      "title": "Simple Tests for the Correct Specification of Conditional Predictive Densities",
+      "url": "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/25/Files/dt2535e.pdf",
+      "published": "2025-09-01",
+      "summary": "Bank of Spain Working Papers by Gergely Ganics and Lluc Puig Codina",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3640e1df-2fda-8090-bc96-c7ef383a8a4f",
