@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-05-20T08:46:52.522644+00:00",
-  "total_items": 164,
+  "generated_at": "2026-05-20T15:29:58.788317+00:00",
+  "total_items": 182,
   "items": [
+    {
+      "id": "3660e1df-2fda-8135-812b-d1187b75641f",
+      "title": "La ONP y SBS aprueban lineamientos para la gobernanza de la plataforma única que centralizará las afiliaciones y traslados en el nuevo Sistema Integral Previsional Peruano",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3929",
+      "published": "2026-05-20",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3660e1df-2fda-8131-b226-d777529e5b94",
+      "title": "Indicador Mensual Oportuno de la Actividad Manufacturera (IMOAM)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10844",
+      "published": "2026-05-20",
+      "summary": "En abril de 2026, el IMOAM estima un aumento de la actividad manufacturera de 1.3% respecto a abril de 2025",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3660e1df-2fda-81f5-9112-ce1f40f5b3eb",
+      "title": "Directorio Estadístico Nacional de Unidades Económicas",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10843",
+      "published": "2026-05-20",
+      "summary": "En México había 6 138 075 establecimientos, según el DENUE 05/2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3660e1df-2fda-81ce-9c6e-f558647a65a6",
+      "title": "Survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+      "url": "https://www.ecb.europa.eu//pub/pdf/other/SESFOD_2026_Q1_Summary.en.pdf",
+      "published": "2026-05-20",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3660e1df-2fda-81c8-9b9c-e12a68c45635",
+      "title": "Results of the March 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260520~feb373ad0d.en.html",
+      "published": "2026-05-20",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3660e1df-2fda-8192-b26b-d0f3da0b4308",
+      "title": "PMR-2026-Q1",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-05/2795793c-c371-45e2-9645-d63ac1ad54a7/PMR-2026-Q1.pdf",
+      "published": "2026-05-20",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3660e1df-2fda-8111-b646-ec7c02421230",
+      "title": "May 20, 2026IMF Staff Reaches Staff-Level Agreement with Moldova on a New 36-month Policy Coordination Instrument",
+      "url": "https://www.imf.org/en/news/articles/2026/05/20/pr26160-moldova-imf-staff-reaches-staff-level-agreement-with-moldova-on-a-new-36-month-pci",
+      "published": "2026-05-20",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3660e1df-2fda-819b-b54a-d866003a1a6e",
+      "title": "Basel Committee agrees to publish report on information and communication technology risk management, progresses cryptoasset targeted review, considers targeted updates on liquidity risk principles",
+      "url": "https://www.bis.org/press/p260520.htm",
+      "published": "2026-05-20",
+      "summary": "Agrees to publish range of practices report on information and communication technology risk management. Progresses its targeted review of the prudential standard for banks' cryptoasset exposures. Considers targeted updates of its principles on liquidity risk.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.bis.org/doclist/all_pressrels.rss"
+    },
+    {
+      "id": "3660e1df-2fda-81f7-9978-de41942e40dc",
+      "title": "Learning monetary policy strategies at the effective lower bound with sudden surprises",
+      "url": "https://www.bis.org/publ/work1349.htm",
+      "published": "2026-05-20",
+      "summary": "by Spencer Krane, Leonardo Melosi, Matthias Rottner We examine how private sector agents might learn a new monetary strategy introduced while policy rates are at their effective lower bound (ELB) in an environment with large inflationary and deflationary shocks. We consider the adoption of a new asymmetric average inflation targeting rule aimed at countering the disinflationary bias imparted by the ELB. The most crucial time for learning runs from when rates would be near liftoff under the old strategy through early liftoff under the new rule. Recessionary shocks during this time could delay learning while large inflationary shocks could outright stop it, inhibiting the ability of the new strategy to address the costs associated with the ELB.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3660e1df-2fda-812e-a688-e0bbdc8fd0f4",
+      "title": "Fast Locations and Slowing Mobility",
+      "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2026/wp26-26.pdf",
+      "published": "2026-05-19",
+      "summary": "Federal Reserve Bank of Philadelphia Working Papers by Patrick Coate and Kyle Mangum",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
     {
       "id": "3650e1df-2fda-81f7-bb66-f7e5095b9425",
       "title": "Supervisory Ratings: Proposed Revisions to the Uniform Financial Institutions Rating System",
@@ -111,6 +221,72 @@
       "country": "EU",
       "type": "Publications",
       "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3660e1df-2fda-8186-8606-cf43838ba53f",
+      "title": "May 18, 2026United Kingdom: Staff Concluding Statement of the 2026 Article IV Mission",
+      "url": "https://www.imf.org/en/news/articles/2026/05/18/pr26154-united-kingdom-staff-concluding-statement-of-the-2026-article-iv-mission",
+      "published": "2026-05-18",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3660e1df-2fda-811d-86f9-ce69789570e1",
+      "title": "May 18, 2026IMF Staff Completes the 2026 Article IV Mission to Singapore",
+      "url": "https://www.imf.org/en/news/articles/2026/05/18/pr26156-imf-staff-completes-the-2026-article-iv-mission-to-singapore",
+      "published": "2026-05-18",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3660e1df-2fda-81e8-b990-dbea853ffc85",
+      "title": "May 18, 2026The IMF and the Ministry of Finance of Saudi Arabia Hold the Second High-Level Strategic Dialogue on Capacity Development",
+      "url": "https://www.imf.org/en/news/articles/2026/05/18/pr26155-saudi-arabia-2nd-high-level-strategic-dialogue-cd",
+      "published": "2026-05-18",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3660e1df-2fda-8105-8859-cdff111d4984",
+      "title": "May 18, 2026IMF Staff Completes 2026 Article IV Mission to Burundi",
+      "url": "https://www.imf.org/en/news/articles/2026/05/18/pr26158-burundi-imf-staff-completes-2026-aiv-mission",
+      "published": "2026-05-18",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3660e1df-2fda-81a7-a73d-e2b66dc5fdd3",
+      "title": "May 18, 2026IMF Executive Board Concludes 2026 Article IV Consultation with Peru",
+      "url": "https://www.imf.org/en/news/articles/2026/05/18/pr26157-peru-imf-executive-board-concludes-2026-article-iv-consultation",
+      "published": "2026-05-18",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3660e1df-2fda-81e0-be3e-c4dd7af1b13a",
+      "title": "May 18, 2026IMF Executive Board Concludes 2026 Article IV Consultation with Trinidad and Tobago",
+      "url": "https://www.imf.org/en/news/articles/2026/05/18/pr26159-trinidad-and-tobago-imf-executive-board-concludes-2026-article-iv-consultation",
+      "published": "2026-05-18",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
     },
     {
       "id": "3650e1df-2fda-810a-ba21-eee89a524b45",
@@ -322,6 +498,17 @@
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
+      "id": "3660e1df-2fda-8185-a89d-e1443491bedb",
+      "title": "May 15, 2026IMF Executive Board Concludes 2026 Article IV Consultation with Kiribati",
+      "url": "https://www.imf.org/en/news/articles/2026/05/14/pr26153-kiribati-imf-executive-board-concludes-2026-article-iv-consultation",
+      "published": "2026-05-14",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
       "id": "3660e1df-2fda-81fc-91fa-d3f8afd68a55",
       "title": "SFC propone precios socioambientales para inversión sostenible en Colombia",
       "url": "https://www.superfinanciera.gov.co/10116129",
@@ -375,6 +562,17 @@
       "country": "Global",
       "type": "Central Bank Research Hub",
       "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3660e1df-2fda-81a1-8d1f-c93773d12296",
+      "title": "Budget Credibility as an Anchor for Better Economic Outcomes for Africa",
+      "url": "https://www.imf.org/en/news/articles/2026/05/13/cf-budget-credibility-as-an-anchor-for-better-economic-outcomes-for-africa",
+      "published": "2026-05-13",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
     },
     {
       "id": "3660e1df-2fda-8178-a045-fd34396548f7",
