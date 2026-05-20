@@ -47,10 +47,19 @@ def parse(url):
     if not html:
         return []
 
-    logger.info(f"IMF News: 'Latest News' en HTML: {'latest news' in html.lower()}")
-    pos = html.lower().find('latest news')
-    if pos >= 0:
-        logger.info(f"IMF News: HTML alrededor de 'Latest News': {html[max(0, pos - 200):pos + 1000]}")
+    # Verificar si hay __NEXT_DATA__ (Next.js serializa el contenido de la página en JSON)
+    has_next_data = '__NEXT_DATA__' in html
+    logger.info(f"IMF News: __NEXT_DATA__ presente: {has_next_data}")
+    if has_next_data:
+        pos = html.find('__NEXT_DATA__')
+        logger.info(f"IMF News: __NEXT_DATA__ primeros 2000 chars: {html[pos:pos + 2000]}")
+    # También logear contenido de <main>
+    soup_diag = __import__('bs4').BeautifulSoup(html, 'html.parser')
+    main_diag = soup_diag.find('main')
+    if main_diag:
+        logger.info(f"IMF News: <main> primeros 2000 chars: {str(main_diag)[:2000]}")
+    else:
+        logger.info("IMF News: no se encontró <main>")
     items = _parse_html(html)
     logger.info(f"IMF News: {len(items)} items extraídos de {url}")
     return items
