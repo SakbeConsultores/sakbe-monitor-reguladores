@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-05-20T15:58:35.004779+00:00",
-  "total_items": 194,
+  "generated_at": "2026-05-20T17:42:07.895263+00:00",
+  "total_items": 196,
   "items": [
+    {
+      "id": "3660e1df-2fda-8176-81e6-f24350da00c0",
+      "title": "The Economics of Cloud Infrastructure : Cost, Risk, and Comparative Advantage in a Commoditized Data Market",
+      "url": "http://documents.worldbank.org/curated/undefined/099549105202636201/null",
+      "published": "2026-05-20",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
+    {
+      "id": "3660e1df-2fda-816d-8981-f6fec0bd8eff",
+      "title": "Closing the Doors : Sexual Harassment and the Survival Rates of Women-owned Firms",
+      "url": "http://documents.worldbank.org/curated/undefined/099508005202640343/null",
+      "published": "2026-05-20",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
     {
       "id": "3660e1df-2fda-8132-aa62-ee8842eccdeb",
       "title": "Horizontal Equity of Taxation : Citizen Beliefs and Policy Preferences",
