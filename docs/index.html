@@ -319,9 +319,11 @@
           (item.url
             ? '<a class="card-link" href="' + escapeHtml(item.url) + '" target="_blank" rel="noopener" onclick="event.stopPropagation()">Ver comunicado →</a>'
             : '<span></span>') +
-          '<button class="card-select" onclick="event.stopPropagation();toggleSelect(\'' +
-          escapeHtml(item.id) + '\')">' +
-          (sel ? 'Seleccionada' : 'Seleccionar') + '</button>' +
+          (item.regulator !== 'INEGI'
+            ? '<button class="card-select" onclick="event.stopPropagation();toggleSelect(\'' +
+              escapeHtml(item.id) + '\')">' +
+              (sel ? 'Seleccionada' : 'Seleccionar') + '</button>'
+            : '') +
         '</div>' +
       '</div>';
     }
@@ -393,7 +395,7 @@
   };
 
   function buildPrompt(type, items){
-    const news = items.map(i =>
+    const news = items.filter(i => i.regulator !== 'INEGI').map(i =>
       '- [' + (i.regulator || i.country || 'Regulador') + '] ' + i.title +
       (i.url ? ' (' + i.url + ')' : '') +
       (i.summary ? ': ' + i.summary.slice(0,300) : '')
