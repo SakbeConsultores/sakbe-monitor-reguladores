@@ -58,13 +58,6 @@ feeds:
 
   - regulator: IMF
     country: Global
-    type: Research
-    url: https://www.imf.org/en/research
-    source: scraper
-    scraper_module: imf_research
-
-  - regulator: IMF
-    country: Global
     type: News
     url: https://www.imf.org/en/news
     source: scraper
@@ -76,6 +69,13 @@ feeds:
     url: https://www.imf.org/en/publications
     source: scraper
     scraper_module: imf_publications
+
+  - regulator: IMF
+    country: Global
+    type: Research
+    url: https://www.imf.org/en/publications/reo
+    source: scraper
+    scraper_module: imf_reo
 
   - regulator: World Bank
     country: Global
