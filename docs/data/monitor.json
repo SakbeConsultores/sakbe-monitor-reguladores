@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T02:08:06.156953+00:00",
-  "total_items": 186,
+  "generated_at": "2026-05-20T02:24:04.229029+00:00",
+  "total_items": 164,
   "items": [
     {
       "id": "3650e1df-2fda-81f7-bb66-f7e5095b9425",
@@ -322,6 +322,17 @@
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
+      "id": "3660e1df-2fda-81fc-91fa-d3f8afd68a55",
+      "title": "SFC propone precios socioambientales para inversión sostenible en Colombia",
+      "url": "https://www.superfinanciera.gov.co/10116129",
+      "published": "2026-05-14",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
       "id": "3650e1df-2fda-8115-ae38-c1a4bf8823aa",
       "title": "Federal Reserve Board releases results from two surveys of senior financial officers at banks about their views on discount window operating days and their strategies and practices for managing reserve balances",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514a.htm",
@@ -364,6 +375,17 @@
       "country": "Global",
       "type": "Central Bank Research Hub",
       "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3660e1df-2fda-8178-a045-fd34396548f7",
+      "title": "Superfinanciera abre investigaciones por traslado de recursos de fondos privados a Colpensiones que no se han realizado",
+      "url": "https://www.superfinanciera.gov.co/10116127",
+      "published": "2026-05-13",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
     },
     {
       "id": "3650e1df-2fda-8122-a675-c84f75e356d0",
@@ -496,6 +518,28 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3660e1df-2fda-81d4-9018-f4989892606f",
+      "title": "Acción por la Naturaleza: la banca responsable como pilar de la estabilidad financiera",
+      "url": "https://www.superfinanciera.gov.co/10116121",
+      "published": "2026-05-12",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "3660e1df-2fda-8158-8d6b-cafa9c9d580b",
+      "title": "La SFC tendrá nuevas tareas para impulsar las finanzas abiertas en Colombia",
+      "url": "https://www.superfinanciera.gov.co/10116123",
+      "published": "2026-05-12",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
     },
     {
       "id": "3650e1df-2fda-8197-84e4-d4d2b6605057",
@@ -760,6 +804,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3660e1df-2fda-813d-9ee6-faa750f880c6",
+      "title": "Altas tasas de interés afectan al sector productivo y a las personas: Superfinanciero, César Ferrari",
+      "url": "https://www.superfinanciera.gov.co/10116118",
+      "published": "2026-05-08",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
     },
     {
       "id": "3650e1df-2fda-81e8-b5b3-d50f9177e47d",
@@ -1200,6 +1255,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3660e1df-2fda-815b-8dd6-dd2304a28605",
+      "title": "En Bucaramanga se realizará una nueva jornada de la campaña “Me informo y cuido mi dinero”",
+      "url": "https://www.superfinanciera.gov.co/10116112",
+      "published": "2026-05-04",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
     },
     {
       "id": "3650e1df-2fda-8175-8466-e3b53699205c",
@@ -1728,314 +1794,6 @@
       "country": "Global",
       "type": "Central Bank Research Hub",
       "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
-    },
-    {
-      "id": "3660e1df-2fda-810c-8f68-c81266fda470",
-      "title": "En Ibagué se llevará a cabo la primera jornada 2026 de la campaña conjunta “Me informo y cuido mi dinero”",
-      "url": "https://www.superfinanciera.gov.co/10116026",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-8178-bcfd-fd39ee2dc3d9",
-      "title": "SFC, en el toque de campana de BVC para conmemorar la equidad de género",
-      "url": "https://www.superfinanciera.gov.co/10116046",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-81e7-a106-cad74d519655",
-      "title": "Tenemos avances importantes en los proyectos estratégicos de la SFC: Superintendente, César Ferrari",
-      "url": "https://www.superfinanciera.gov.co/10116049",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-81c1-8a2b-c5938fb8f517",
-      "title": "El sistema financiero global debe aumentar esfuerzos para afrontar el cambio climático: SFC",
-      "url": "https://www.superfinanciera.gov.co/10116064",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-811c-8fba-edad102a2b65",
-      "title": "Pacto por el Crédito completó su implementación con un cumplimiento del 94,9 % de la meta de desembolsos",
-      "url": "https://www.superfinanciera.gov.co/10116070",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-81bf-b808-c36b418ea362",
-      "title": "Superfinanciero, César Ferrari, urge explorar mecanismos para financiar el desarrollo de África y América Latina",
-      "url": "https://www.superfinanciera.gov.co/10116071",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-8190-95d8-fa4d39d72605",
-      "title": "Más de 3.500 ciudadanos participaron en las actividades de la SFC durante el Global Money Week 2026",
-      "url": "https://www.superfinanciera.gov.co/10116076",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-8188-9015-c3c203e053cd",
-      "title": "SFC liderará temas de sostenibilidad en organismo de supervisión regional",
-      "url": "https://www.superfinanciera.gov.co/10116079",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-8180-8b3a-c5618cd94d7c",
-      "title": "SFC otorgará insignia a entidades vigiladas que adopten de manera anticipada las instrucciones sobre la gestión de riesgos ambientales y sociales",
-      "url": "https://www.superfinanciera.gov.co/10116077",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-81e5-94cc-f3b1a60356ea",
-      "title": "Finanzas abiertas obligatorias impulsarán el desarrollo del sistema y la inclusión financiera en el país",
-      "url": "https://www.superfinanciera.gov.co/10116081",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-814d-b4b2-f6b35e785b6a",
-      "title": "En la Cámara de Comercio de Cúcuta y en la Universidad Simón Bolívar se realizarán las actividades de una nueva jornada de “Me informo y cuido mi dinero”",
-      "url": "https://www.superfinanciera.gov.co/10116085",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-81e6-86b9-d48a87c0fc66",
-      "title": "Superfinanciera ordena la toma de posesión de BLOOM CROWDFUNDING S.A. SOCIEDAD DE FINANCIACIÓN COLABORATIVA",
-      "url": "https://www.superfinanciera.gov.co/10116086",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-8177-a6f7-f02acf774510",
-      "title": "Terminó la depuración de la Circular Básica Contable y Financiera: nace la Circular Básica Financiera",
-      "url": "https://www.superfinanciera.gov.co/10116087",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-813f-9661-e7e638278cfe",
-      "title": "Aviso al público",
-      "url": "https://www.superfinanciera.gov.co/10116089",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-81e5-aa91-c644b595c691",
-      "title": "La Superfinanciera se suma al Día Cívico de la Paz con la Naturaleza (Decreto 500 del 18 de abril de 2024)",
-      "url": "https://www.superfinanciera.gov.co/10116088",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-81c9-81c0-dd9108d6ca72",
-      "title": "Superfinanciera ordenó al señor Jovany Andrés Taborda Aristizábal suspender inmediatamente la captación no autorizada de dineros del público.",
-      "url": "https://www.superfinanciera.gov.co/10116093",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-815c-ae2c-e02870aad84f",
-      "title": "Decreto sobre inversiones de las AFP plantea un reto: contar con proyectos locales bien estructurados",
-      "url": "https://www.superfinanciera.gov.co/10116099",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-81ec-a4ad-c5272fdc93e2",
-      "title": "Juntas directivas deben dar mayor prioridad a la gestión de nuevos riesgos: SFC",
-      "url": "https://www.superfinanciera.gov.co/10116103",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-819f-9fd3-cb0a777d172d",
-      "title": "Biodiversidad y negocios: un llamado a la acciónInstituto Humboldt – Universidad de los Andes",
-      "url": "https://www.superfinanciera.gov.co/10116105",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-81a8-b411-db374910bf1f",
-      "title": "Tasas de interés altas, bajo ahorro y poca inversión afectan el acceso a la vivienda: SFC",
-      "url": "https://www.superfinanciera.gov.co/10116106",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-81d4-b376-df716e618726",
-      "title": "Verificar información antes de entregar dinero: llamado de la SFC para prevenir fraudes financieros",
-      "url": "https://www.superfinanciera.gov.co/10116108",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-813b-9d48-f7024bdc70a9",
-      "title": "La Superintendencia Financiera de Colombia y el AMV firman memorando de entendimiento para fortalecer su cooperación institucional",
-      "url": "https://www.superfinanciera.gov.co/10116107",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-8109-9637-d31a934fbd03",
-      "title": "En Bucaramanga se realizará una nueva jornada de la campaña “Me informo y cuido mi dinero”",
-      "url": "https://www.superfinanciera.gov.co/10116112",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-81cb-b8f8-e5bae6a2bcc9",
-      "title": "Altas tasas de interés afectan al sector productivo y a las personas: Superfinanciero, César Ferrari",
-      "url": "https://www.superfinanciera.gov.co/10116118",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-815c-bc85-de40c6e94586",
-      "title": "Acción por la Naturaleza: la banca responsable como pilar de la estabilidad financiera",
-      "url": "https://www.superfinanciera.gov.co/10116121",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-81fe-90b5-f9b14759f94b",
-      "title": "La SFC tendrá nuevas tareas para impulsar las finanzas abiertas en Colombia",
-      "url": "https://www.superfinanciera.gov.co/10116123",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-8135-a148-f5dc7fd01d25",
-      "title": "Superfinanciera abre investigaciones por traslado de recursos de fondos privados a Colpensiones que no se han realizado",
-      "url": "https://www.superfinanciera.gov.co/10116127",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3660e1df-2fda-816d-8775-c7c32ec20cdd",
-      "title": "SFC propone precios socioambientales para inversión sostenible en Colombia",
-      "url": "https://www.superfinanciera.gov.co/10116129",
-      "published": "",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
     },
     {
       "id": "3640e1df-2fda-8090-bc96-c7ef383a8a4f",
