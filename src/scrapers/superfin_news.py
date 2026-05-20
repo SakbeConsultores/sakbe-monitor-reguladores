@@ -152,18 +152,32 @@ def _parse_html(html):
 
 def _extract_year(soup):
     """
-    Extrae el año (entero) del título h1 de la página.
-    Ej: '<h1>Comunicados de prensa 2026</h1>' -> 2026.
+    Extrae el año de la página buscando el patrón 'Comunicados de prensa YYYY'
+    en cualquier parte del texto del HTML.
+
+    Antes el código buscaba solo en el primer <h1>, pero en el sitio real
+    de SuperFin el primer <h1> es 'Superintendencia Financiera de Colombia'
+    (el nombre del sitio), y el título 'Comunicados de prensa 2026' está
+    en otro elemento (h2, breadcrumb o similar). Por eso ahora buscamos
+    el patrón completo en todo el texto.
+
+    Buscar el patrón contextualizado ('Comunicados de prensa YYYY') es más
+    robusto que buscar cualquier '20XX' suelto, porque en una página gov.co
+    aparecen muchos años por razones distintas (años de normativa, fechas
+    de pie de página, etc.) que no son el año del listado.
 
     Returns:
-        int o None si no encuentra patrón de 4 dígitos 20XX.
+        int o None si no se encuentra el patrón.
     """
-    h1 = soup.find('h1')
-    if not h1:
-        return None
-    text = h1.get_text(strip=True)
-    # Buscar 4 dígitos que empiecen con 20 (asumimos años 2000-2099).
-    match = re.search(r'\b(20\d{2})\b', text)
+    # get_text() con separator concatena todo el texto del HTML, incluyendo
+    # lo que está dentro de h1, h2, divs, breadcrumbs, title, etc.
+    text = soup.get_text(separator=' ')
+    # IGNORECASE para tolerar 'Comunicados', 'COMUNICADOS', etc.
+    match = re.search(
+        r'comunicados\s+de\s+prensa\s+(20\d{2})',
+        text,
+        re.IGNORECASE,
+    )
     if match:
         return int(match.group(1))
     return None
