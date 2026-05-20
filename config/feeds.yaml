@@ -198,17 +198,15 @@ feeds:
 
   # ═══════════════════════════ COLOMBIA ═════════════════════════
 
-# NOTA: La URL apunta a la página del año en curso. En enero del año
+  # NOTA: La URL apunta a la página del año en curso. En enero del año
   # siguiente hay que actualizar a la URL del año nuevo (otra ID), porque
-  # la SFC crea una página de comunicados por año.  
-
-- regulator: SuperFin
+  # la SFC crea una página de comunicados por año.
+  - regulator: SuperFin
     country: CO
     type: News
-    url: https:url://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/
+    url: https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/
     source: scraper
     scraper_module: superfin_news
-
 
   # ═══════════════════════════ PERÚ ═════════════════════════════
 
