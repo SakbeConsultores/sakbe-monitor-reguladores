@@ -395,40 +395,39 @@
   function buildPrompt(type, items){
     const news = items.map(i =>
       '- [' + (i.regulator || i.country || 'Regulador') + '] ' + i.title +
-      (i.summary ? ': ' + i.summary.slice(0,300) : '') +
-      (i.url ? ' (' + i.url + ')' : '')
+      (i.url ? ' (' + i.url + ')' : '') +
+      (i.summary ? ': ' + i.summary.slice(0,300) : '')
     ).join('\n');
 
-    const ctx =
-      'Eres Gustavo Mondragón, socio fundador de Sakbé Consultores, firma de ' +
-      'consultoría financiera (auditoría interna, gestión integral de riesgos, ' +
-      'tesorería). Audiencia: profesionales financieros latinoamericanos. ' +
-      'Estilo: directo, técnico, sin frases grandilocuentes, sin bullets salvo ' +
-      'que sean indispensables, sin comparaciones formulaicas tipo "no solo X, ' +
-      'también Y", sin abuso de guion largo.\n\n' +
-      'Noticias regulatorias seleccionadas:\n' + news + '\n\n';
+    const header = 'Noticias regulatorias seleccionadas:\n' + news + '\n\n';
 
     if (type === 'linkedin')
-      return ctx + 'Escribe UN SOLO post de LinkedIn de 600 a 900 caracteres. ' +
-                   'Empieza con el dato o hecho más relevante, no con contexto ' +
-                   'genérico. Conecta con implicaciones para instituciones ' +
-                   'financieras de Latinoamérica. Termina con una pregunta o ' +
-                   'reflexión concreta. Prosa, sin lista.';
+      return header +
+             'Escribe UN SOLO post de LinkedIn. Entre 600 y 900 caracteres. ' +
+             'Empieza con el dato concreto más relevante, sin contexto introductorio. ' +
+             'Conecta con implicaciones prácticas para instituciones financieras de ' +
+             'Latinoamérica. Cierra con una pregunta o postura específica. ' +
+             'Prosa, sin lista de puntos. Sin guion largo.';
     if (type === 'substack')
-      return ctx + 'Escribe una nota de Substack de 300 a 500 palabras. Prosa ' +
-                   'fluida, párrafos de largo variable. Empieza con el contexto ' +
-                   'necesario, desarrolla la implicación práctica, termina con ' +
-                   'qué debería hacer el CRO, CFO o consejo con esta información.';
+      return header +
+             'Escribe una nota de Substack de 300 a 500 palabras. Un argumento por ' +
+             'párrafo. Empieza con el hecho central, desarrolla la implicación práctica ' +
+             'para el director de riesgos, el CFO o el consejo, cierra con una postura ' +
+             'o pregunta de fondo. Sin párrafo de resumen repetitivo al final.';
     if (type === 'hilo')
-      return ctx + 'Escribe un hilo de análisis de 5 a 8 puntos. Punto 1: hecho ' +
-                   'principal. Puntos 2 a 7: análisis técnico concreto. Último ' +
-                   'punto: recomendación o pregunta. Cada punto debe ser sustantivo.';
+      return header +
+             'Escribe un hilo de análisis de 6 a 8 puntos. Punto 1: el hecho principal ' +
+             'con número o dato específico. Puntos 2 a 6: análisis técnico, un argumento ' +
+             'concreto por punto, sin relleno. Punto final: postura o pregunta directa. ' +
+             'Cada punto debe sostenerse solo, sin depender del anterior para ser entendido.';
     if (type === 'paper')
-      return ctx + 'Elabora un outline para un artículo o paper de análisis ' +
-                   'profundo. Incluye: título propuesto, audiencia objetivo, ' +
-                   'hipótesis central, secciones con descripción de 2 a 3 líneas ' +
-                   '(argumento concreto), fuentes clave a buscar.';
-    return ctx;
+      return header +
+             'Elabora un outline de artículo o paper. Incluye: título directo (sin ' +
+             'grandilocuencia), audiencia específica, hipótesis central en una sola ' +
+             'oración, secciones con descripción de 2 a 3 líneas que digan el argumento ' +
+             'concreto (no etiquetas genéricas como "Contexto" o "Conclusión"), ' +
+             'fuentes clave a buscar.';
+    return header;
   }
 
   function generate(type){
