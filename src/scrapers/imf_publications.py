@@ -46,10 +46,12 @@ def parse(url):
     logger.info("--- IMF (Global) - Publications")
     logger.info(f"IMF Publications: fetching {url}")
 
-    html = render_page(url, sleep_after_load_ms=8000, timeout_ms=60000)
+    html = render_page(url, sleep_after_load_ms=15000, timeout_ms=60000)
     if not html:
         return []
 
+    logger.info(f"IMF Publications: 'Latest Releases' en HTML: {'latest releases' in html.lower()}")
+    logger.info(f"IMF Publications: primeros 500 chars: {html[:500]}")
     items = _parse_html(html)
     logger.info(f"IMF Publications: {len(items)} items extraídos de {url}")
     return items
