@@ -6,20 +6,25 @@ Regulador: IMF (International Monetary Fund)
 
 Sitio client-rendered: requiere Playwright.
 
-Estructura HTML (mayo 2026):
-    <h2>Latest Releases</h2>
-    <ul>
+Estructura HTML real (mayo 2026):
+    <div id="latest-publications">
+      <h5 id="latestPublicationsTitle" aria-level="2">Latest Releases</h5>
+      <ul id="latestPublicationsList">
         <li>
-            <a href="https://www.imf.org/en/publications/...">
-                Republic of Kyrgyzstan: Review of...
-            </a>
-            <span>May 19, 2026</span>
+          <div class="high">
+            <p><a href="https://www.imf.org/en/publications/...">Título</a></p>
+            <p class="date"></p>
+            <p class="date">May 20, 2026</p>
+          </div>
         </li>
         ...
-    </ul>
+      </ul>
+    </div>
 
-A diferencia de imf_news, la fecha es un elemento hermano del link,
-no un hijo.
+Notas:
+- El heading es <h5>, no <h2> (por eso fallaba _find_list_after_heading).
+- El <ul> tiene id="latestPublicationsList" — se busca directamente por id.
+- Hay dos <p class="date"> por item; el primero está vacío, el segundo tiene la fecha.
 """
 
 import logging
@@ -50,10 +55,6 @@ def parse(url):
     if not html:
         return []
 
-    logger.info(f"IMF Publications: 'Latest Releases' en HTML: {'latest releases' in html.lower()}")
-    pos = html.lower().find('latest releases')
-    if pos >= 0:
-        logger.info(f"IMF Publications: HTML alrededor de 'Latest Releases': {html[max(0, pos - 200):pos + 1000]}")
     items = _parse_html(html)
     logger.info(f"IMF Publications: {len(items)} items extraídos de {url}")
     return items
@@ -61,14 +62,11 @@ def parse(url):
 
 def _parse_html(html):
     soup = BeautifulSoup(html, 'html.parser')
-    main = soup.find('main')
-    if not main:
-        main = soup
 
-    # Buscar heading "Latest Releases" y tomar el ul siguiente
-    releases_list = _find_list_after_heading(main, 'Latest Releases')
+    # Buscar directamente por id del ul (más robusto que buscar por heading h5)
+    releases_list = soup.find('ul', id='latestPublicationsList')
     if not releases_list:
-        logger.warning("IMF Publications: no se encontró la sección 'Latest Releases'")
+        logger.warning("IMF Publications: no se encontró ul#latestPublicationsList")
         return []
 
     items = []
@@ -97,18 +95,15 @@ def _parse_item(li):
     if not title:
         return None
 
-    # La fecha es un elemento hermano del link dentro del li.
-    # Buscamos cualquier elemento en el li que tenga patrón de fecha.
+    # Fecha: primer <p class="date"> con texto no vacío
     date_str = ''
-    for child in li.find_all(True):
-        if child == link or link in child.parents:
-            continue
-        text = child.get_text(strip=True)
-        if re.search(r'\w+ \d{1,2}, 20\d{2}', text):
+    for p in li.find_all('p', class_='date'):
+        text = p.get_text(strip=True)
+        if text:
             date_str = text
             break
 
-    full_url = urljoin(BASE_URL, href)
+    full_url = href if href.startswith('http') else urljoin(BASE_URL, href)
 
     return {
         'title': title,
@@ -116,15 +111,6 @@ def _parse_item(li):
         'published': _parse_date(date_str),
         'summary': '',
     }
-
-
-def _find_list_after_heading(soup, heading_text):
-    for tag in soup.find_all(['h1', 'h2', 'h3', 'h4']):
-        if heading_text.lower() in tag.get_text().lower():
-            sib = tag.find_next_sibling('ul')
-            if sib:
-                return sib
-    return None
 
 
 def _parse_date(date_str):
