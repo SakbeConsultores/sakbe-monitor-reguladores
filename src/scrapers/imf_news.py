@@ -47,10 +47,10 @@ def parse(url):
     if not html:
         return []
 
-    # Buscar URLs de artículos en el HTML para confirmar que están accesibles
-    import re as _re
-    article_urls = _re.findall(r'/en/news/articles/[^\s"\'<>]+', html)
-    logger.info(f"IMF News: URLs de artículos encontradas en HTML: {article_urls[:10]}")
+    # Ver contexto JSON alrededor de la primera URL de artículo
+    pos = html.find('/en/news/articles/')
+    if pos >= 0:
+        logger.info(f"IMF News: JSON alrededor de primera URL: {html[max(0, pos - 300):pos + 500]}")
     items = _parse_html(html)
     logger.info(f"IMF News: {len(items)} items extraídos de {url}")
     return items
