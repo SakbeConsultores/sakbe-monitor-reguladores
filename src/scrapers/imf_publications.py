@@ -51,7 +51,9 @@ def parse(url):
         return []
 
     logger.info(f"IMF Publications: 'Latest Releases' en HTML: {'latest releases' in html.lower()}")
-    logger.info(f"IMF Publications: primeros 500 chars: {html[:500]}")
+    pos = html.lower().find('latest releases')
+    if pos >= 0:
+        logger.info(f"IMF Publications: HTML alrededor de 'Latest Releases': {html[max(0, pos - 200):pos + 1000]}")
     items = _parse_html(html)
     logger.info(f"IMF Publications: {len(items)} items extraídos de {url}")
     return items

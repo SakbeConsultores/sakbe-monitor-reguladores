@@ -50,7 +50,12 @@ def parse(url):
     if not html:
         return []
 
-    logger.info(f"IMF REO: primeros 500 chars: {html[:500]}")
+    # Buscar cualquier texto que pueda indicar la sección de publicaciones
+    for marker in ['regional economic outlook', 'publications', '<li', '<ul']:
+        pos = html.lower().find(marker)
+        if pos >= 0:
+            logger.info(f"IMF REO: HTML alrededor de '{marker}': {html[max(0, pos - 100):pos + 800]}")
+            break
     items = _parse_html(html)
     logger.info(f"IMF REO: {len(items)} items extraídos de {url}")
     return items
