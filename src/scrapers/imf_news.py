@@ -43,7 +43,7 @@ def parse(url):
     logger.info("--- IMF (Global) - News")
     logger.info(f"IMF News: fetching {url}")
 
-    html = render_page(url, wait_for_selector=None, timeout_ms=60000)
+    html = render_page(url, sleep_after_load_ms=8000, timeout_ms=60000)
     if not html:
         return []
 

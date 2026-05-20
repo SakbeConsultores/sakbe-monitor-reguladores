@@ -38,7 +38,7 @@ USER_AGENT = (
 )
 
 
-def render_page(url, wait_for_selector=None, timeout_ms=30000):
+def render_page(url, wait_for_selector=None, timeout_ms=30000, sleep_after_load_ms=0):
     """
     Abre una URL con Chromium headless y devuelve el HTML completamente
     renderizado (después de ejecutar JavaScript).
@@ -51,6 +51,11 @@ def render_page(url, wait_for_selector=None, timeout_ms=30000):
             quede en idle (sin requests pendientes).
         timeout_ms: Timeout máximo de cada paso (carga inicial y espera
             del selector), en milisegundos. Default 30 segundos.
+        sleep_after_load_ms: Si se pasa un valor > 0 y no hay
+            wait_for_selector, espera el evento "load" y luego duerme
+            este número de ms para que el JS renderice el contenido.
+            Útil para sitios con analytics en background que nunca
+            alcanzan networkidle (ej. IMF).
 
     Returns:
         str con el HTML renderizado, o None si hubo cualquier error
@@ -73,6 +78,12 @@ def render_page(url, wait_for_selector=None, timeout_ms=30000):
                 # Espera explícita: el selector debe aparecer en el DOM.
                 # Es la garantía más fuerte de que el contenido ya cargó.
                 page.wait_for_selector(wait_for_selector, timeout=timeout_ms)
+            elif sleep_after_load_ms > 0:
+                # Para sitios que nunca alcanzan networkidle (analytics
+                # en background). Esperamos el evento "load" y luego
+                # dormimos un tiempo fijo para que el JS renderice.
+                page.wait_for_load_state("load", timeout=timeout_ms)
+                page.wait_for_timeout(sleep_after_load_ms)
             else:
                 # Sin selector específico: esperamos a que la red quede
                 # en idle (~500 ms sin requests). Fallback razonable.
