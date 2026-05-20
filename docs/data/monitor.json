@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-05-20T15:40:40.874861+00:00",
-  "total_items": 188,
+  "generated_at": "2026-05-20T15:58:35.004779+00:00",
+  "total_items": 194,
   "items": [
+    {
+      "id": "3660e1df-2fda-8132-aa62-ee8842eccdeb",
+      "title": "Horizontal Equity of Taxation : Citizen Beliefs and Policy Preferences",
+      "url": "http://documents.worldbank.org/curated/undefined/099718004292611926/null",
+      "published": "2026-05-20",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
+    {
+      "id": "3660e1df-2fda-8150-ba1f-f378d3e280b8",
+      "title": "Are the Poor More Exposed to Climate Hazards in Latin America?",
+      "url": "http://documents.worldbank.org/curated/undefined/099352505202617344/null",
+      "published": "2026-05-20",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
     {
       "id": "3660e1df-2fda-8168-88b2-fbce36257ef7",
       "title": "Zimbabwe: Request for a Staff-Monitored Program-Press Release; and Staff Report",
@@ -111,6 +133,28 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3660e1df-2fda-81a2-b528-d0fd034a60c2",
+      "title": "In Sickness and In Health : Motivating Improved Healthcare Using Holistic Patient Contracts",
+      "url": "http://documents.worldbank.org/curated/undefined/099743005192628024/null",
+      "published": "2026-05-19",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
+    {
+      "id": "3660e1df-2fda-8124-a383-f6fd3d264eb4",
+      "title": "World Bank Group to Double Guarantees for Africa to Catalyze Investment, Create Jobs",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/05/19/world-bank-group-to-double-guarantees-for-africa-to-catalyze-investment-create-jobs",
+      "published": "2026-05-19",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3660e1df-2fda-8165-89a7-f1dfcbaad228",
@@ -245,6 +289,17 @@
       "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
     },
     {
+      "id": "3660e1df-2fda-818e-b23b-c270c800aeac",
+      "title": "Joint Statement by Seven Multilateral Development Banks Pledging Support to Address Impacts of the Middle East Conflict",
+      "url": "https://www.worldbank.org/en/news/statement/2026/05/18/joint-statement-by-seven-multilateral-development-banks-pledging-support-to-address-impacts-of-the-middle-east-conflict",
+      "published": "2026-05-18",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
       "id": "3660e1df-2fda-8186-8606-cf43838ba53f",
       "title": "May 18, 2026United Kingdom: Staff Concluding Statement of the 2026 Article IV Mission",
       "url": "https://www.imf.org/en/news/articles/2026/05/18/pr26154-united-kingdom-staff-concluding-statement-of-the-2026-article-iv-mission",
@@ -342,6 +397,17 @@
       "country": "EU",
       "type": "Publications",
       "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3660e1df-2fda-8181-a3b6-d45216c62908",
+      "title": "When Policy Bites: State-Dependent Monetary Policy Transmission in Emerging Markets",
+      "url": "https://www.imf.org/en/publications/wp/issues/2026/05/14/when-policy-bites-state-dependent-monetary-policy-transmission-in-emerging-markets-576113",
+      "published": "2026-05-15",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
     },
     {
       "id": "3660e1df-2fda-813e-8b03-e21a41c2fee1",
