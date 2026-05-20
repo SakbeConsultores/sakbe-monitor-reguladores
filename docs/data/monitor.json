@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-05-20T17:42:07.895263+00:00",
-  "total_items": 196,
+  "generated_at": "2026-05-20T21:27:51.496479+00:00",
+  "total_items": 204,
   "items": [
+    {
+      "id": "3660e1df-2fda-8160-99f8-d3e554a218e1",
+      "title": "Índice de Capitalización de la banca múltiple al cierre de marzo de 2026",
+      "url": "https://www.gob.mx/cnbv/prensa/indice-de-capitalizacion-de-la-banca-multiple-al-cierre-de-marzo-de-2026?idiom=es",
+      "published": "2026-05-20",
+      "summary": "",
+      "regulator": "CNBV",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.gob.mx/cnbv/archivo/prensa?idiom=es"
+    },
+    {
+      "id": "3660e1df-2fda-812e-9a02-f4c7a9b48e40",
+      "title": "Minutes of the Federal Open Market Committee, April 28-29, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm",
+      "published": "2026-05-20",
+      "summary": "Minutes of the Federal Open Market Committee, April 28-29, 2026",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3660e1df-2fda-814a-9a37-d1797dadee62",
+      "title": "Federal Reserve Board requests public comment on a proposal to establish a \"payment account,\" which legally eligible financial institutions could use for the specific purpose of clearing and settling their payments",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260520a.htm",
+      "published": "2026-05-20",
+      "summary": "Federal Reserve Board requests public comment on a proposal to establish a \"payment account,\" which legally eligible financial institutions could use for the specific purpose of clearing and settling their payments",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3660e1df-2fda-8159-a0f5-c4927e90928b",
+      "title": "Bridging the Gap : Infrastructure, Services, and Labor Market Integration",
+      "url": "http://documents.worldbank.org/curated/undefined/099952405202642791/null",
+      "published": "2026-05-20",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
+    {
+      "id": "3660e1df-2fda-81af-8465-f282b1864cd3",
+      "title": "Comparing the Effectiveness of Low-Carbon Policies : A Technology Diffusion Approach",
+      "url": "http://documents.worldbank.org/curated/undefined/099855305202622697/null",
+      "published": "2026-05-20",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
+    {
+      "id": "3660e1df-2fda-81ad-a573-c45d13a75921",
+      "title": "Uruguay: Technical Assistance Report-Monetary Policy Implementation and Liquidity Management",
+      "url": "https://www.imf.org/en/publications/technical-assistance-reports/issues/2026/05/19/uruguay-technical-assistance-report-monetary-policy-implementation-and-liquidity-management-576156",
+      "published": "2026-05-20",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3660e1df-2fda-81dc-b8c1-d0ec4996b65d",
+      "title": "South Africa: Technical Assistance Report-Report on the Energy and Air Emissions Accounts (October 6–10, 2025)",
+      "url": "https://www.imf.org/en/publications/technical-assistance-reports/issues/2026/05/19/south-africa-technical-assistance-report-report-on-the-energy-and-air-emissions-accounts-576161",
+      "published": "2026-05-20",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3660e1df-2fda-8189-94a6-c42aca33941c",
+      "title": "Bhutan: Technical Assistance Report-Financial Sector Stability Review",
+      "url": "https://www.imf.org/en/publications/technical-assistance-reports/issues/2026/05/19/bhutan-technical-assistance-report-financial-sector-stability-review-576171",
+      "published": "2026-05-20",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
     {
       "id": "3660e1df-2fda-8176-81e6-f24350da00c0",
       "title": "The Economics of Cloud Infrastructure : Cost, Risk, and Comparative Advantage in a Commoditized Data Market",
