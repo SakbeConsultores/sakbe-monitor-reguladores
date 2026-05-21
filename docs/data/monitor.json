@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-05-21T08:51:57.571598+00:00",
-  "total_items": 207,
+  "generated_at": "2026-05-21T21:19:21.179639+00:00",
+  "total_items": 221,
   "items": [
+    {
+      "id": "3670e1df-2fda-81ea-8246-f4988e67fae4",
+      "title": "Encuesta Nacional de Calidad e Impacto Gubernamental (ENCIG) 2025",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10849",
+      "published": "2026-05-21",
+      "summary": "En 2025, 47.2% de las personas de 18 años y más de zonas urbanas dijo estar satisfecha con los servicios públicos básicos y bajo demanda",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3670e1df-2fda-8155-8813-cc52a898f5c0",
+      "title": "Encuesta Mensual sobre Empresas Comerciales (EMEC). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10847",
+      "published": "2026-05-21",
+      "summary": "Aumentaron 6.0% los ingresos por suministro de bienes y servicios del comercio al por mayor y 0.1%, los del comercio al por menor, en marzo de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3670e1df-2fda-81da-9c6a-e7c764e70244",
+      "title": "Encuesta Nacional de Empresas Constructoras (ENEC). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10845",
+      "published": "2026-05-21",
+      "summary": "El valor de producción de las empresas constructoras no registró variación en marzo de 2026, en términos reales y a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3670e1df-2fda-814d-90e6-f9feb97fba0b",
+      "title": "Encuesta Mensual de Servicios (EMS). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10846",
+      "published": "2026-05-21",
+      "summary": "Aumentaron 0.4% los ingresos por suministro de bienes y servicios de los servicios privados no financieros en marzo de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3670e1df-2fda-8132-9dc3-fc1a047485df",
+      "title": "Programa de la industria manufacturera, maquiladora y de servicios de exportación (IMMEX) - 2007 en adelante",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10848",
+      "published": "2026-05-21",
+      "summary": "Disminuyó el personal ocupado 0.2% en los establecimientos con programa IMMEX en marzo de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3670e1df-2fda-8177-b95f-cb632f3b06a3",
+      "title": "Coeficiente de Cobertura de Liquidez y Coeficiente de Financiamiento Estable Neto al primer trimestre de 2026",
+      "url": "https://www.gob.mx/cnbv/prensa/coeficiente-de-cobertura-de-liquidez-y-coeficiente-de-financiamiento-estable-neto-al-primer-trimestre-de-2026?idiom=es",
+      "published": "2026-05-21",
+      "summary": "",
+      "regulator": "CNBV",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.gob.mx/cnbv/archivo/prensa?idiom=es"
+    },
+    {
+      "id": "3670e1df-2fda-81ed-98c4-c490c09a9e12",
+      "title": "OCC Announces Enforcement Actions for May 2026",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-40.html",
+      "published": "2026-05-21",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today released enforcement actions for May 2026.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "3670e1df-2fda-81a3-9f55-f8562d88e332",
+      "title": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260521a.htm",
+      "published": "2026-05-21",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3670e1df-2fda-8126-8e09-f7439ed4517a",
+      "title": "Frank Elderson: A central banker’s perspective on climate change and nature degradation",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260521~ccae6782e3.en.pdf",
+      "published": "2026-05-21",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3670e1df-2fda-81f1-a3a3-de70415290f1",
+      "title": "2026 15 05 PMR - 2026 Francois-Louis Michaud",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-05/0c2d6f97-de6c-49ea-9d0d-90037fbfbf2c/2026%2005%2015%20PMR%20Francois-Louis%20Michaud.pdf",
+      "published": "2026-05-21",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3670e1df-2fda-81c4-b3bf-df00d6858046",
+      "title": "May 21, 2026France: Staff Concluding Statement of the 2026 Article IV Mission",
+      "url": "https://www.imf.org/en/news/articles/2026/05/21/mcs-052126-france-staff-concluding-statement-of-the-2026-article-iv-mission",
+      "published": "2026-05-21",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3670e1df-2fda-81a6-af87-d97f96517a75",
+      "title": "May 21, 2026IMF Staff Conclude a Mission to Chad",
+      "url": "https://www.imf.org/en/news/articles/2026/05/21/pr26162-chad-imf-staff-conclude-a-mission",
+      "published": "2026-05-21",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3670e1df-2fda-816a-898a-c7a9a45522df",
+      "title": "May 21, 2026IMF Management Approves the Third Review and Extends the Staff-Monitored Program with Haiti",
+      "url": "https://www.imf.org/en/news/articles/2026/05/21/pr26164-haiti-imf-management-approves-3rd-review-and-extends-smp",
+      "published": "2026-05-21",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3670e1df-2fda-81d8-873c-d789daeede54",
+      "title": "Elasticity of money in production networks, working capital, credit lines and financial conditions",
+      "url": "https://www.bis.org/publ/work1350.htm",
+      "published": "2026-05-21",
+      "summary": "by Ryan Niladri Banerjee, Hyun Song Shin, Jose María Vidal Pastor The elastic supply of money through overdrafts and credit lines overcomes cash-in-advance constraints, enabling large-value payments without waiting for incoming cash. This elasticity is crucial in long supply chains, where cash-in-advance constraints could otherwise cause gridlock. In essence, money elasticity and the supply of working capital are two sides of the same coin, with undrawn credit lines serving as the operative link. This paper examines how shifts in financial conditions influence money elasticity and, in turn, impact firm activity within production networks. Using granular firm-level data, we demonstrate that production-network-driven working capital needs introduce a cyclical element that dances to the tune of financial conditions. Tighter conditions, such as rising credit spreads or a stronger US dollar, significantly reduce output, with spillovers through production networks amplifying the effects. These findings underscore the importance of money elasticity in supporting economic stability.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "3670e1df-2fda-81cb-ac9f-fab2546ca9ea",
       "title": "Euro area monthly balance of payments: March 2026",
