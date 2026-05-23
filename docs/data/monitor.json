@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-05-22T20:52:57.111027+00:00",
-  "total_items": 249,
+  "generated_at": "2026-05-23T06:48:29.004103+00:00",
+  "total_items": 251,
   "items": [
+    {
+      "id": "3690e1df-2fda-81ba-9c10-faf04ffc5875",
+      "title": "Argentina: Selected Issues",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/05/20/argentina-selected-issues-576258",
+      "published": "2026-05-22",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3690e1df-2fda-817d-b725-d2668b8da090",
+      "title": "Argentina: 2026 Article IV Consultation, Second Review Under the Extended Arrangement Under the Extended Fund Facility, Requests for a Waiver of Nonobservance of a Performance Criterion, Modification of Performance Criteria, and Financing Assurances Review-Press Release; Staff Report; and Statement by the Executive Director for Argentina",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/05/22/argentina-2026-article-iv-consultation-second-review-under-the-extended-arrangement-under-576253",
+      "published": "2026-05-22",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
     {
       "id": "3680e1df-2fda-813a-8c44-c1eb72c40533",
       "title": "Índice Nacional de Precios al Consumidor (INPC). Base 2ª Quincena Julio 2018. Actualización de Canasta y Ponderadores 2024",
