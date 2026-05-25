@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-05-25T11:42:54.363637+00:00",
-  "total_items": 252,
+  "generated_at": "2026-05-25T20:19:21.401798+00:00",
+  "total_items": 255,
   "items": [
+    {
+      "id": "36b0e1df-2fda-8163-9650-d869234169a7",
+      "title": "SBS propone norma para desarrollo de nuevos productos de seguros que cubren ante eventos de la naturaleza",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3931",
+      "published": "2026-05-25",
+      "summary": "Se trata de los seguros paramétricos, que no requieren verificar los daños físicos efectivamente ocurridos ni realizar un peritaje para activar el pag",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "36b0e1df-2fda-816e-aa8a-f1a1ae381201",
+      "title": "Balanza Comercial de Mercancías de México",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10854",
+      "published": "2026-05-25",
+      "summary": "Aumentaron las exportaciones 32.6% y las importaciones 24.1% a tasa anual, en abril de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "36b0e1df-2fda-81a3-9c40-ff5e233ef69c",
+      "title": "Industria Minerometalúrgica (EIMM) - 1980 en Adelante",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10855",
+      "published": "2026-05-25",
+      "summary": "Descendió 1.4% la producción minerometalúrgica en marzo de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
     {
       "id": "36b0e1df-2fda-813d-820b-f8ea66725aa3",
       "title": "May 25, 2026Ireland: Staff Concluding Statement of the 2026 Article IV Mission",
