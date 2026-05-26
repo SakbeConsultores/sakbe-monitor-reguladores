@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-05-25T20:19:21.401798+00:00",
-  "total_items": 255,
+  "generated_at": "2026-05-26T09:03:15.153921+00:00",
+  "total_items": 260,
   "items": [
+    {
+      "id": "36c0e1df-2fda-810c-a90f-de4429e4c672",
+      "title": "Stress in global private credit markets and its implications for euro area financial stability",
+      "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202605_04~3f2135af91.en.html",
+      "published": "2026-05-26",
+      "summary": "Recent stress in parts of the US private credit market − including concerns about exposures in the software sector and redemption pressure in semi-liquid vehicles − has led to renewed focus on possible financial stability risks stemming from private credit and the potential relevance of such risks for the euro area. This special feature looks at the exposure of the euro area financial system to private credit. Using available commercial, public and proprietary data, it finds that euro area financial institutions appear to have limited direct exposure to private credit. This makes it unlikely that private credit in isolation could be a source of systemic financial instability at present. However, insurance corporations and pension funds in particular could, in an adverse scenario, face more material second-round revaluation losses from broader spillovers to leveraged loans, high-yield bonds and equities. Private credit could promote long-term growth by channelling funds from long-term investors to innovative firms, thereby supporting the objectives of the EU’s savings and investments union. The market should nonetheless be monitored closely, especially in view of worsening credit quality, possible expansion into retail-oriented structures and a potential role of private credit in AI-related financing. Reducing private credit’s opacity, addressing data gaps and working towards a harmonised definition of private credit at a global level would avoid a potential underestimation of direct exposures and enable risk to be assessed more completely.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "36c0e1df-2fda-81b4-93aa-d0990da1a965",
+      "title": "Isabel Schnabel: Interview with Reuters",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260526~6736a05aaa.en.html",
+      "published": "2026-05-26",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "36c0e1df-2fda-8115-b1ec-ece718151dde",
+      "title": "May 26, 2026Republic of Lithuania: Staff Concluding Statement of the 2026 Article IV Mission",
+      "url": "https://www.imf.org/en/news/articles/2026/05/26/mcs052626-lithuania-article-iv-mission",
+      "published": "2026-05-26",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "36c0e1df-2fda-81db-819b-c061883da80c",
+      "title": "Capital flows, exchange rates and financial conditions in EMEs in an evolving international monetary system",
+      "url": "https://www.bis.org/publ/bppdf/bispap171.htm",
+      "published": "2026-05-26",
+      "summary": "The papers in this volume reflect the key themes discussed at the meeting, exploring the intersection of global and domestic factors shaping EMEs' financial conditions. They examine the evolving dynamics of capital flows and exchange rates, the role of local and foreign investors and the transmission of global financial shocks to EMEs.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "36c0e1df-2fda-8116-87dc-fa2467babd3b",
+      "title": "SBS inicia devolución de depósitos de Caja Rural Del Centro en liquidación no cubiertos por el FSD",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3932",
+      "published": "2026-05-25",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
     {
       "id": "36b0e1df-2fda-8163-9650-d869234169a7",
       "title": "SBS propone norma para desarrollo de nuevos productos de seguros que cubren ante eventos de la naturaleza",
