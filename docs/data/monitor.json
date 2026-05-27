@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-05-26T21:20:35.157202+00:00",
-  "total_items": 308,
+  "generated_at": "2026-05-27T08:57:55.945638+00:00",
+  "total_items": 318,
   "items": [
+    {
+      "id": "36d0e1df-2fda-8109-be73-e0141892941f",
+      "title": "From dictionaries to AI: a new era in sentiment analysis for financial stability",
+      "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202605_01~fe2f4ea541.en.html",
+      "published": "2026-05-27",
+      "summary": "Financial stability communication is challenging because its task is not to forecast financial crises, let alone predict their precise timing. Rather, it is to identify vulnerabilities and explain how the financial system is likely to fare should it be confronted with adverse shocks. Great care is needed in this endeavour, because the sentiment of financial stability communication can influence market perceptions and risk assessments, as well as broader economic and financial outcomes. Given the presence of this potential feedback loop, the task of financial stability communication at the ECB has long been guided by a broad concept of financial stability: the smooth allocation of financial resources, effective management of risk by financial institutions and the capacity of the financial system to absorb shocks. Using the messages conveyed in the ECB’s Financial Stability Review over two decades, this special feature compares dictionary-based, FinBERT and prompt-based AI approaches to extracting financial stability sentiment. It finds broad co-movement across methods, while the GPT-based filter isolates sentences that contain explicit risk assessments, capturing subtle shifts in tone and context that were previously difficult to quantify. Used carefully, such tools can support risk monitoring and drafting consistency over time, but they remain complementary to expert judgement, vulnerability analysis and stress testing, rather than substitutes for it. A deep-dive box in the special feature also shows how AI can be used to systematically extract information from financial news to create an indicator for the severity and probability of triggers (SPOT) for financial stability risks.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "36d0e1df-2fda-813b-9b51-f5e6a194b0bf",
+      "title": "Rising bankruptcies, resilient loan books: unpacking euro area corporate credit risk",
+      "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202605_02~0fd2f6b569.en.html",
+      "published": "2026-05-27",
+      "summary": "Corporate bankruptcies in the euro area have been on the rise, but the aggregate asset quality of banks’ corporate lending has remained broadly stable. This special feature analyses this divergence and its implications for financial stability. It shows that rising bankruptcies may partly be explained by the normalisation of firm turnover since the COVID-19 pandemic, albeit with marked cross-country unevenness. At the same time, firm-level evidence suggests that balance sheet and profitability challenges are concentrated in a vulnerable tail of firms, but have remained stable for the average euro area company. Structural changes in corporate financing, including a declining reliance on bank loans and a larger role for equity, debt securities and non-bank lending, imply that a greater share of corporate risk might be outside the banking system. The analysis also shows that broadly stable aggregate asset quality reflects diverging trends in loan performance across countries and firm sizes, as well as banks’ proactive management of non-performing loans. Overall, it does not find any systematic evidence for banks delaying the recognition of non-performing loans in their loan books. Instead, the analysis indicates that weaker firm fundamentals result in a higher probability of bank exposures being reclassified from performing to non-performing.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "36d0e1df-2fda-815c-a61f-ee0ef05cc4b7",
+      "title": "House price booms and policy choices: insights from a meta-regression analysis",
+      "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202605_03~90365ff1cb.en.html",
+      "published": "2026-05-27",
+      "summary": "This special feature examines policy-assignment dilemmas facing macroprudential authorities when housing markets boom: which instruments work best, on which objectives, and in combination with which other tools? It does so by revitalising Mundell’s Principle of Effective Market Classification, the policy-space analogue of Ricardo’s comparative advantage principle, and by applying it to macroprudential policy. The analysis uses a novel G-search literature-search algorithm and an AI-supported, replicable data-extraction system to assemble estimates of policy-impact parameters from the empirical literature. It then distinguishes standard, instrument-by-instrument evidence, from jointly estimated policy-impact parameters, which are needed to account for rival instruments acting in the same empirical setting. Three findings emerge. First, the results confirm earlier meta-analytic evidence that macroprudential policy moderates household credit growth more clearly than it does house price growth, that tightening has more visible effects than loosening, and that instruments differ in their strengths and weaknesses. Second, joint estimates sharpen policy-assignment analysis by revealing how relative effects change when instruments are assessed together rather than alone. Third, applying the Mundell framework identifies instrument pairings that satisfy necessary conditions for substitutability or complementarity. Overall, the menu of options available to effectively tame housing market booms is wide, provided instruments are assigned to objectives by their relative – not absolute – effectiveness.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "36d0e1df-2fda-8134-8b8a-e816f1bf10ca",
+      "title": "Financial Stability Review, May 2026",
+      "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/html/ecb.fsr202605~50566915a7.en.html",
+      "published": "2026-05-27",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "36d0e1df-2fda-812c-b9a6-e6e521f2fe02",
+      "title": "Financial stability vulnerabilities remain elevated as geoeconomic shock unfolds",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260527~92140c5054.en.html",
+      "published": "2026-05-27",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "36d0e1df-2fda-81dc-aad0-d32dc600ca90",
+      "title": "Luis de Guindos: Financial Stability Review - May 2026",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260527~bc724e42c1.en.pdf",
+      "published": "2026-05-27",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "36d0e1df-2fda-81ec-a848-d8ed5e20ccec",
+      "title": "May 27, 2026Italy: Staff Concluding Statement of the 2026 Article IV Mission",
+      "url": "https://www.imf.org/en/news/articles/2026/05/27/mcs-05262026-italy-staff-concluding-statement-of-the-2026-article-iv-mission",
+      "published": "2026-05-27",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "36d0e1df-2fda-81dc-92cf-e5db3f96ef92",
+      "title": "SBS avanza de manera progresiva y sostenida en la implementación de las Finanzas Abiertas",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3933",
+      "published": "2026-05-26",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "36d0e1df-2fda-81ec-84a1-d8d1500135f5",
+      "title": "Inequality of Opportunity in South Asia: The Puzzle of Educational Gains Without Consumption Gains",
+      "url": "http://documents.worldbank.org/curated/undefined/099858205262616012/null",
+      "published": "2026-05-26",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
+    {
+      "id": "36d0e1df-2fda-811a-a7a5-d84beda3cb2d",
+      "title": "May 26, 2026IMF Executive Board Concludes 2026 Article IV Consultation and Completes Fifth and Sixth Reviews Under the Extended Fund Facility and Resilience and Sustainability Facility with Seychelles",
+      "url": "https://www.imf.org/en/news/articles/2026/05/26/pr26171-seychelles-imf-concludes-2026-aiv-consultation-completes-5th-6th-rev-under-eff-and-rsf",
+      "published": "2026-05-26",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
     {
       "id": "36c0e1df-2fda-81db-b1bf-ed3e90a3aa26",
       "title": "Encuesta Nacional de Ocupación y Empleo (ENOE), población de 15 años y más de edad",
