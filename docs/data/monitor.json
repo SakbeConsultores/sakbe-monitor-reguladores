@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-05-29T09:02:08.148535+00:00",
-  "total_items": 385,
+  "generated_at": "2026-05-29T21:32:23.953669+00:00",
+  "total_items": 403,
   "items": [
+    {
+      "id": "36f0e1df-2fda-8183-8a85-e93fe8b87710",
+      "title": "Producto Interno Bruto Trimestral (PIBT). Año base 2018. Por el Método del Gasto",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10928",
+      "published": "2026-05-29",
+      "summary": "Representó la remuneración de los asalariados 32.3% del PIB en el cuarto trimestre de 2025",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "36f0e1df-2fda-8136-895e-ec9febd11102",
+      "title": "Producto Interno Bruto Trimestral (PIBT). Año base 2018. Por el Método del Ingreso",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10927",
+      "published": "2026-05-29",
+      "summary": "Representó la remuneración de los asalariados 32.3% del PIB en el cuarto trimestre de 2025",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "36f0e1df-2fda-81ad-a2d8-d8ff6d54b140",
+      "title": "Cuentas por Sectores Institucionales Trimestrales (CSIT). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10926",
+      "published": "2026-05-29",
+      "summary": "Generaron Sociedades no financieras y Hogares 77.6% del PIB, en el cuarto trimestre de 2025",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "36f0e1df-2fda-8120-959b-c8af9d45b81d",
+      "title": "Índices Globales de Personal y Remuneraciones de los Sectores Económicos (IGPERSE)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10925",
+      "published": "2026-05-29",
+      "summary": "Disminuyó 0.1% el índice global de personal ocupado respecto al mes previo, en marzo de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "36f0e1df-2fda-8122-b3c2-db39e4a2d113",
+      "title": "FEDS Paper: Skill and Efficiency in the U.S. Mutual Fund Industry",
+      "url": "https://www.federalreserve.gov/econres/feds/skill-and-efficiency-in-the-us-mutual-fund-industry.htm",
+      "published": "2026-05-29",
+      "summary": "Dong Hwan Oh and Andrew J. Patton We propose a new measure of mutual fund manager ability: \"efficiency\" is the ability to accrue the risk premium associated with a risk factor. The familiar abnormal return, or alpha, is shown to be the sum of two distinct measures of ability: \"aggregate efficiency\" which is the beta-weighted sum of the fund's (in)efficiencies across risk factors, and \"skill,\" the component that is unrelated to factor exposures. Using a panel of U.S. equity mutual fund returns from 1999-2023, we document significant heterogeneity in mutual fund manager skill and efficiency. We employ regression trees and their extensions to capture this heterogeneity. We find that efficiency is more persistent than skill, and we show that future abnormal returns can be better predicted by decomposing lagged abnormal returns into skill and efficiency.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "36f0e1df-2fda-81fc-bd2a-f71e91067599",
+      "title": "FEDS Paper: Alternative Scenarios at the Federal Reserve from 1968 to 2020: Data, Interpretation, and Evaluation",
+      "url": "https://www.federalreserve.gov/econres/feds/alternative-scenarios-at-the-federal-reserve-from-1968-to-2020-data-interpretation-and-evaluation.htm",
+      "published": "2026-05-29",
+      "summary": "Edward Herbst , Scott Konzem , and Cristina Scofield We comprehensively document 1,265 Federal Reserve staff alternative scenarios presented to the Federal Open Market Committee in publicly released materials from 1968 to 2020. Scenarios grew in frequency and sophistication, typically spanning a range of outcomes around the baseline. We construct a taxonomy with six categories: aggregate demand, aggregate supply, external risks, financial conditions, fiscal policy, and expectation shifts. Staff qualitative risk assessments complemented the scenario composition. Comparing scenario forecasts to realized outcomes, the most accurate scenarios often anticipated major macroeconomic developments even when magnitudes were missed, revealing the value and limits of scenario analysis for central bank risk management.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "36f0e1df-2fda-8113-87ca-cd7596631a8f",
+      "title": "Letter from the ECB President to Mr Fabio de Masi, MEP, on institutional matters",
+      "url": "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter260529_Fabio_de_Masi~7462168237.en.pdf",
+      "published": "2026-05-29",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "36f0e1df-2fda-81cd-b87d-fd16180e3976",
+      "title": "Worldwide Job Losses Due to Natural Hazards",
+      "url": "http://documents.worldbank.org/curated/undefined/099555005292625254/null",
+      "published": "2026-05-29",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
+    {
+      "id": "36f0e1df-2fda-81ad-b303-f69b52f8a400",
+      "title": "Gender and Goals Matter for Youth Employment : Returns to Socio-Emotional Skills Training in Tanzania",
+      "url": "http://documents.worldbank.org/curated/undefined/099355405292662886/null",
+      "published": "2026-05-29",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
+    {
+      "id": "36f0e1df-2fda-8193-8aa7-e27c136c6b55",
+      "title": "Joint Statement by the Heads of the International Energy Agency, International Monetary Fund, World Bank Group and World Trade Organization",
+      "url": "https://www.worldbank.org/en/news/statement/2026/05/29/joint-statement-by-the-heads-of-the-international-energy-agency-international-monetary-fund-world-bank-group-and-world-t",
+      "published": "2026-05-29",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "36f0e1df-2fda-8122-a020-e6c439018542",
+      "title": "ISORA 2023: Tax Administration: Performance and Practices",
+      "url": "https://www.imf.org/en/publications/departmental-papers-policy-papers/issues/2026/05/27/isora-2023-tax-administration-performance-and-practices-575496",
+      "published": "2026-05-29",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "36f0e1df-2fda-8191-938e-f3be2bd14ab4",
+      "title": "Peru: 2026 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for Peru",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/05/27/peru-2026-article-iv-consultation-press-release-staff-report-and-statement-by-the-576380",
+      "published": "2026-05-29",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "36f0e1df-2fda-816b-8cf4-c242e3e5c867",
+      "title": "Class Discipline, Class Size and Scholastic Achievement Across Countries: A Theoretical and Empirical View of Educational Production",
+      "url": "https://www.imf.org/en/publications/wp/issues/2026/05/29/class-discipline-class-size-and-scholastic-achievement-across-countries-a-theoretical-and-576422",
+      "published": "2026-05-29",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "36f0e1df-2fda-8179-9791-ee16c8695665",
+      "title": "What Explains Timely Repayments to the IMF? The Roles of Policy Reforms and Borrower Fundamentals",
+      "url": "https://www.imf.org/en/publications/wp/issues/2026/05/29/what-explains-timely-repayments-to-the-imf-the-roles-of-policy-reforms-and-borrower-576419",
+      "published": "2026-05-29",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "36f0e1df-2fda-8134-8bfe-d6dc3d6eae55",
+      "title": "May 29, 2026Joint Statement by the Heads of the International Energy Agency, International Monetary Fund, World Bank Group and World Trade Organization",
+      "url": "https://www.imf.org/en/news/articles/2026/05/29/pr26176-joint-statement-by-heads-of-iea-imf-wbg-and-wto",
+      "published": "2026-05-29",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "36f0e1df-2fda-81b3-8929-f47bad795705",
+      "title": "May 29, 2026IMF Executive Board Concludes 2026 Article IV Consultation and Mid-Term Review Under the Flexible Credit Line Arrangement with Costa Rica",
+      "url": "https://www.imf.org/en/news/articles/2026/05/29/pr26177-costa-rica-exec-board-concludes-2026-aiv-consult-mid-term-review-fcl-arrangement",
+      "published": "2026-05-29",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
     {
       "id": "36f0e1df-2fda-8118-9133-fb9c3b9002a3",
       "title": "ECB appoints three Directors General",
@@ -12,6 +188,28 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "36f0e1df-2fda-8112-8663-e4fe440be855",
+      "title": "Adaptación y transición climática: claves para la estabilidad financiera, dice la SFC",
+      "url": "https://www.superfinanciera.gov.co/10116139",
+      "published": "2026-05-28",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "36f0e1df-2fda-819d-9ab4-c11d8a6d5c7a",
+      "title": "Hemos abierto la puerta, ahora tenemos que entrar",
+      "url": "https://www.superfinanciera.gov.co/10116140",
+      "published": "2026-05-28",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
     },
     {
       "id": "36e0e1df-2fda-8175-87f7-efb1db62d7f7",
