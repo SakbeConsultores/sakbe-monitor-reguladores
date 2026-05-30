@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-05-30T07:36:24.778662+00:00",
-  "total_items": 405,
+  "generated_at": "2026-05-30T18:52:03.854584+00:00",
+  "total_items": 416,
   "items": [
+    {
+      "id": "3700e1df-2fda-819a-abbe-e1e00a891bcf",
+      "title": "International Conference of the Fondazione Centesimus Annus Pro Pontifice",
+      "url": "https://www.worldbank.org/en/news/speech/2026/05/29/international-conference-of-the-fondazione-centesimus-annus-pro-pontifice",
+      "published": "2026-05-29",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3700e1df-2fda-8127-bce4-eb094c381b8e",
+      "title": "Joint Statement by the Heads of the International Energy Agency, International Monetary Fund, World Bank Group and World Trade Organization",
+      "url": "http://www.worldbank.org/en/news/statement/2026/05/29/joint-statement-by-the-heads-of-the-international-energy-agency-international-monetary-fund-world-bank-group-and-world-t",
+      "published": "2026-05-29",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3700e1df-2fda-8188-ba78-dcd91d26b78b",
       "title": "May 29, 2026IMF Executive Board Concludes 2026 Article IV Consultation with Fiji",
@@ -201,6 +223,50 @@
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
     },
     {
+      "id": "3700e1df-2fda-8195-b240-e40e5488ed24",
+      "title": "Thailand’s Next Growth Chapter:    Valuing Nature to Power a More Competitive Economy",
+      "url": "http://www.worldbank.org/en/news/feature/2026/05/28/thailand-s-next-growth-chapter-valuing-nature-to-power-a-more-competitive-economy",
+      "published": "2026-05-28",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3700e1df-2fda-8151-a6ca-d414563a4c15",
+      "title": "Building Ethiopia’s Logistics Future: From Bottlenecks to Flow",
+      "url": "http://www.worldbank.org/en/news/feature/2026/05/28/building-ethiopia-s-logistics-future-from-bottlenecks-to-flow",
+      "published": "2026-05-28",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3700e1df-2fda-8180-bba9-db0ab6f0c017",
+      "title": "Making Water Work in Mozambique for Economic Growth, People, Food and the Planet",
+      "url": "http://www.worldbank.org/en/news/feature/2026/05/28/making-water-work-in-mozambique-for-economic-growth-people-food-and-the-planet",
+      "published": "2026-05-28",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3700e1df-2fda-8151-ae00-c6ee23abc91d",
+      "title": "New World Bank Project will Help Transform Ukraine's Social Protection System",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/05/28/new-world-bank-project-will-help-transform-ukraines-social-protection-system",
+      "published": "2026-05-28",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
       "id": "36f0e1df-2fda-8112-8663-e4fe440be855",
       "title": "Adaptación y transición climática: claves para la estabilidad financiera, dice la SFC",
       "url": "https://www.superfinanciera.gov.co/10116139",
@@ -386,6 +452,39 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3700e1df-2fda-81b0-9ed3-e2e757273941",
+      "title": "World Bank Group Debars China National Technical Import & Export Corporation",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/05/27/world-bank-group-debars-china-national-technical-import-export-corporation",
+      "published": "2026-05-27",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3700e1df-2fda-81a9-9f64-da737afa9280",
+      "title": "World Bank Group Helps Lesotho to Expand Energy Access and Economic Opportunity for Nearly 147,000 People",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/05/27/world-bank-group-helps-lesotho-to-expand-energy-access-and-economic-opportunity-for-nearly-147-000-people",
+      "published": "2026-05-27",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3700e1df-2fda-81ae-92ca-c56752d89d2f",
+      "title": "Barbados Can Translate Strong Education Access into Skills for the Future, World Bank Group Review Finds",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/05/27/barbados-can-translate-strong-education-access-into-skills-for-the-future-world-bank-group-review-finds",
+      "published": "2026-05-27",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3700e1df-2fda-8187-9f03-ed0e37d07e61",
@@ -1024,6 +1123,17 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3700e1df-2fda-81a6-8901-c64eae775876",
+      "title": "Building Ethiopia’s Pharmaceutical Future: From Strong Regulation to Local Production",
+      "url": "http://www.worldbank.org/en/news/feature/2026/05/26/building-ethiopia-s-pharmaceutical-future-from-strong-regulation-to-local-production",
+      "published": "2026-05-26",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "36d0e1df-2fda-8148-b6ec-f1cf4e5c36e0",
@@ -2608,6 +2718,17 @@
       "country": "EU",
       "type": "Publications",
       "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3700e1df-2fda-8140-87de-e5b76aaf7c5b",
+      "title": "Joint Statement by Seven Multilateral Development Banks Pledging Support to Address Impacts of the Middle East Conflict",
+      "url": "http://www.worldbank.org/en/news/statement/2026/05/18/joint-statement-by-seven-multilateral-development-banks-pledging-support-to-address-impacts-of-the-middle-east-conflict",
+      "published": "2026-05-18",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3660e1df-2fda-818e-b23b-c270c800aeac",
