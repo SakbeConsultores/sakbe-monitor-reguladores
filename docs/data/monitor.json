@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-05-29T21:32:23.953669+00:00",
-  "total_items": 403,
+  "generated_at": "2026-05-30T07:36:24.778662+00:00",
+  "total_items": 405,
   "items": [
+    {
+      "id": "3700e1df-2fda-8188-ba78-dcd91d26b78b",
+      "title": "May 29, 2026IMF Executive Board Concludes 2026 Article IV Consultation with Fiji",
+      "url": "https://www.imf.org/en/news/articles/2026/05/29/pr26178-fiji-imf-executive-board-concludes-2026-article-iv-consultation",
+      "published": "2026-05-29",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
     {
       "id": "36f0e1df-2fda-8183-8a85-e93fe8b87710",
       "title": "Producto Interno Bruto Trimestral (PIBT). Año base 2018. Por el Método del Gasto",
@@ -375,6 +386,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3700e1df-2fda-8187-9f03-ed0e37d07e61",
+      "title": "Portugal: Public Investment Management Assessment with the Climate Module",
+      "url": "https://www.imf.org/en/publications/high-level-summary-technical-assistance-reports/issues/2026/05/26/portugal-public-investment-management-assessment-with-the-climate-module-576338",
+      "published": "2026-05-27",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
     },
     {
       "id": "36e0e1df-2fda-8132-a28a-fb881548dc38",
