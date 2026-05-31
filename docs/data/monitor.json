@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-05-31T08:28:52.005627+00:00",
-  "total_items": 416,
+  "generated_at": "2026-05-31T18:59:51.458760+00:00",
+  "total_items": 417,
   "items": [
+    {
+      "id": "3710e1df-2fda-81f9-8b2e-c2884df0b17f",
+      "title": "Luis de Guindos: Interview with Expansión",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260531~f648dbde70.en.html",
+      "published": "2026-05-31",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
     {
       "id": "3700e1df-2fda-819a-abbe-e1e00a891bcf",
       "title": "International Conference of the Fondazione Centesimus Annus Pro Pontifice",
