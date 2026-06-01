@@ -200,10 +200,17 @@
   // Carga del JSON
   // ───────────────────────────────────────────────────────────────
 
-  async function loadData(){
-    document.getElementById('updated').innerHTML = 'Cargando<span class="loading-dots"></span>';
-    document.getElementById('root').innerHTML =
-      '<div class="loading"><span class="loading-dots">Descargando datos</span></div>';
+  async function loadData(isReload){
+    // Muestra "Recargando..." en el botón si es recarga manual; si es
+    // carga inicial, muestra el spinner en todo el header.
+    if (isReload) {
+      const reloadBtn = document.querySelector('#updated .reload');
+      if (reloadBtn) reloadBtn.textContent = 'Recargando…';
+    } else {
+      document.getElementById('updated').innerHTML = 'Cargando<span class="loading-dots"></span>';
+      document.getElementById('root').innerHTML =
+        '<div class="loading"><span class="loading-dots">Descargando datos</span></div>';
+    }
     try {
       const resp = await fetch(DATA_URL + '?t=' + Date.now(), { cache: 'no-store' });
       if (!resp.ok) throw new Error('HTTP ' + resp.status);
@@ -224,9 +231,14 @@
       const updatedStr = genDate && !isNaN(genDate)
         ? genDate.toLocaleString('es-MX', { dateStyle:'short', timeStyle:'short' })
         : 'desconocido';
+
+      // Timestamp del último intento de recarga (no del JSON, sino del fetch).
+      const fetchedStr = new Date().toLocaleTimeString('es-MX', { timeStyle:'short' });
+
       document.getElementById('updated').innerHTML =
-        (data.total_items || items.length) + ' items · ' + updatedStr +
-        ' <span class="reload" onclick="loadData()">Recargar</span>';
+        (data.total_items || items.length) + ' items · datos: ' + updatedStr +
+        ' · recargado: ' + fetchedStr +
+        ' <span class="reload" onclick="loadData(true)">Recargar</span>';
 
       renderFilters();
       applyFilter(currentFilter);
@@ -237,7 +249,7 @@
         '<div class="error-box">No se pudo cargar el JSON: ' + escapeHtml(e.message) +
         '. Esperar a que el workflow de GitHub Actions corra al menos una vez.</div>';
       document.getElementById('updated').innerHTML =
-        'Error <span class="reload" onclick="loadData()">Reintentar</span>';
+        'Error <span class="reload" onclick="loadData(true)">Reintentar</span>';
     }
   }
 

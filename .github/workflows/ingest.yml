@@ -19,10 +19,10 @@ on:
   # GitHub Actions tiene latencia de unos minutos, así que en la
   # práctica corre algunos minutos después del horario indicado.
   schedule:
-    # 9:00 am CDMX = 15:00 UTC
-    - cron: '0 15 * * *'
-    # 3:00 pm CDMX = 21:00 UTC
-    - cron: '0 21 * * *'
+    # 9:05 am CDMX = 15:05 UTC
+    - cron: '5 15 * * *'
+    # 3:05 pm CDMX = 21:05 UTC
+    - cron: '5 21 * * *'
 
   # Permite disparar el workflow manualmente desde la UI de GitHub.
   # Esencial para el primer test y para forzar corridas.
