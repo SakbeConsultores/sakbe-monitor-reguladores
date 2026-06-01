@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-05-31T18:59:51.458760+00:00",
-  "total_items": 417,
+  "generated_at": "2026-06-01T22:56:35.194914+00:00",
+  "total_items": 438,
   "items": [
+    {
+      "id": "3720e1df-2fda-81d2-8f8f-f50f55819c99",
+      "title": "Encuesta Mensual de Opinión Empresarial (EMOE). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10929",
+      "published": "2026-06-01",
+      "summary": "Disminuyó 0.3 puntos el Indicador Global de Opinión Empresarial de Tendencia en mayo de 2026, respecto al mes anterior",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3720e1df-2fda-81e9-aa72-d4eb138eef51",
+      "title": "Encuesta Mensual de Opinión Empresarial (EMOE). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10930",
+      "published": "2026-06-01",
+      "summary": "Disminuyó 0.1 puntos el Indicador Global de Opinión Empresarial de Confianza en mayo de 2026, respecto al mes anterior",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3720e1df-2fda-8116-a6c1-f9d39e4a6518",
+      "title": "Encuesta Mensual de Opinión Empresarial (EMOE). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10931",
+      "published": "2026-06-01",
+      "summary": "Disminuyó 1.1 puntos el Indicador de Pedidos Manufactureros en mayo de 2026, respecto al mes anterior",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3720e1df-2fda-81e1-9dd1-ea453c529722",
+      "title": "OCC Releases CRA Performance Evaluations for 18 National Banks and Federal Savings Associations",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-43.html",
+      "published": "2026-06-01",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today released a list of Community Reinvestment Act (CRA) performance evaluations that became public during the period of May 1, 2026, through May 31, 2026.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "3720e1df-2fda-816f-a25f-f8e867d8effe",
+      "title": "OCC Announces Senior Deputy Comptroller for Regional and Midsize Financial Institutions",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-44.html",
+      "published": "2026-06-01",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today announced Benjamin Eddy will serve as the Senior Deputy Comptroller for Regional and Midsize Financial Institutions, effective June 1.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "3720e1df-2fda-81d4-9090-d9430b369869",
+      "title": "FEDS Paper: Financial Liberalizations, Booms, and Crashes",
+      "url": "https://www.federalreserve.gov/econres/feds/financial-liberalizations-booms-and-crashes.htm",
+      "published": "2026-06-01",
+      "summary": "Maximilian Grimm , Moritz Schularick, and Emil Verner Financial liberalization is often seen as a way to deepen credit markets and stimulate economic growth, but it may also fuel credit booms that end in crisis. We construct a new cross-country database of banking regulation policies covering 21 regulatory indicators for 18 advanced economies since World War II. We distinguish liberalizations that directly relax constraints on credit supply from broader financial reforms. Liberalizations that directly affect credit supply lead to substantial expansions in private credit. Credit expansion is concentrated in non-tradable sectors and is not accompanied by higher interest rates or credit spreads in the short run, consistent with an outward shift in credit supply. Real GDP rises over the following 2 to 4 years, but the gains are temporary. On average, GDP returns to trend in the medium run, and there is an increase in the risk of financial crisis and worse downside growth outcomes. Only liberalizations that directly expand credit supply generate these boom-bust dynamics. Based on these estimates, financial liberalization is welfare-improving for coefficients of relative risk aversion below 7.2, a moderately high value.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3720e1df-2fda-813e-b9e4-d93957675a17",
+      "title": "The rise of China in academic research",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3241~e5f6278489.en.pdf",
+      "published": "2026-06-01",
+      "summary": "Analyzing more than 300,000 articles across 40 top-tier journals between 2000 and 2022, this study demonstrates that China’s 2006 National Medium-and Long-Term Plan for the Development of Science and Technology catalyzed a surge in publication volume and citations, propelling China past the United States as the world’s leading producer of scientific research. Controlling for national income, population, and human capital, we find these gains are concentrated in fields explicitly targeted by the government’s plan—physics, chemistry, biology, and medicine—while fields excluded from the plan, such as mathematics and economics, show significantly less growth. Our findings suggest that targeted state-led investment can effectively drive scientific progress, at least within a centrally planned economy.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3720e1df-2fda-81e6-901a-c261bee30106",
+      "title": "Monetary developments in the euro area: April 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html",
+      "published": "2026-06-01",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Statistical Releases",
+      "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
+    },
+    {
+      "id": "3720e1df-2fda-81ef-b45d-f4d214a93b0a",
+      "title": "Isabel Schnabel: From money market funds to stablecoins: lessons for central banks",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260601~38dffe5ec5.en.html",
+      "published": "2026-06-01",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3720e1df-2fda-810a-a94c-dd668bb19ba4",
+      "title": "ECB Consumer Expectations Survey results – April 2026",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html",
+      "published": "2026-06-01",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3720e1df-2fda-8108-abdc-ce8dc42b9382",
+      "title": "2026 05 31 PMR Francois-Louis Michaud",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/8aedf514-704f-4976-bb18-30baac0e1c03/2026%2005%2031%20PMR%20Francois-Louis%20Michaud.pdf",
+      "published": "2026-06-01",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3720e1df-2fda-8118-8ef0-d7a9813707af",
+      "title": "People's Republic of China-Hong Kong Special Administrative Region: Selected Issues",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/05/29/people-s-republic-of-china-hong-kong-special-administrative-region-selected-issues-576406",
+      "published": "2026-06-01",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3720e1df-2fda-81f1-9471-c51a5739110f",
+      "title": "People's Republic of China-Hong Kong Special Administrative Region: 2026 Article IV Consultation Discussions-Press Release; and Staff Report",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/05/29/people-s-republic-of-china-hong-kong-special-administrative-region-2026-article-iv-576398",
+      "published": "2026-06-01",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3720e1df-2fda-81c8-ae47-fa11ae699630",
+      "title": "Lebanon: Technical Assistance Report - Diagnostic Report Governance and Corruption",
+      "url": "https://www.imf.org/en/publications/technical-assistance-reports/issues/2026/05/29/lebanon-technical-assistance-report-diagnostic-report-governance-and-corruption-576434",
+      "published": "2026-06-01",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3720e1df-2fda-81c9-8cb1-ddc62a885330",
+      "title": "Lebanon: Diagnostic of Governance and Corruption",
+      "url": "https://www.imf.org/en/publications/high-level-summary-technical-assistance-reports/issues/2026/05/29/lebanon-diagnostic-of-governance-and-corruption-576439",
+      "published": "2026-06-01",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3720e1df-2fda-811b-98f1-fc2df14d469a",
+      "title": "Costa Rica: Report for the 2026 Article IV Consultation and Review under the Flexible Credit Line Arrangement-Press Release; Staff Report; Informational Annex; and Statement by the Executive Director for Costa Rica",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/05/29/costa-rica-report-for-the-2026-article-iv-consultation-and-review-under-the-flexible-576427",
+      "published": "2026-06-01",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3720e1df-2fda-813f-88f2-d6b6b9d85e8f",
+      "title": "June 1, 2026IMF Staff Completes 2026 Article IV Visit to Brazil",
+      "url": "https://www.imf.org/en/news/articles/2026/06/01/pr26179-brazil-imf-staff-completes-2026-article-iv",
+      "published": "2026-06-01",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3720e1df-2fda-81d3-aff5-d967b7113b0a",
+      "title": "Monetary policy according to households: perceptions, reactions and channels",
+      "url": "https://www.bis.org/publ/work1354.htm",
+      "published": "2026-06-01",
+      "summary": "by Francesco Grigoli, Damiano Sandri, Yuriy Gorodnichenko, Olivier Coibion This paper studies how households perceive the transmission of monetary policy and how these perceptions affect their decisions. Using a large-scale survey of over 25,000 U.S. households combined with randomized information treatments, we measure how households expect changes in the federal funds rate to affect economic conditions and their own behavior.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "3710e1df-2fda-81f9-8b2e-c2884df0b17f",
       "title": "Luis de Guindos: Interview with Expansión",
@@ -4577,6 +4775,39 @@
       "country": "Global",
       "type": "Central Bank Research Hub",
       "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3720e1df-2fda-8123-b572-df51dc91d2c9",
+      "title": "Trade Finance Use by Heterogeneous Firms",
+      "url": "http://documents.worldbank.org/curated/undefined/099456206012615782/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
+    {
+      "id": "3720e1df-2fda-81e7-a131-f54b2aaea72a",
+      "title": "The (Fiscal) Dividend of Infrastructure : Roads and Revenues in Rwanda",
+      "url": "http://documents.worldbank.org/curated/undefined/099535006012615930/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
+    {
+      "id": "3720e1df-2fda-8196-bbde-d87cbd287cd6",
+      "title": "Measuring Agency Through Psychological Constructs in Lower-Income Settings",
+      "url": "http://documents.worldbank.org/curated/undefined/099218506012639611/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3640e1df-2fda-8090-bc96-c7ef383a8a4f",
