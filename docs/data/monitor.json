@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-06-02T12:20:50.125215+00:00",
-  "total_items": 455,
+  "generated_at": "2026-06-02T22:41:51.469106+00:00",
+  "total_items": 476,
   "items": [
+    {
+      "id": "3730e1df-2fda-81c7-a9c7-df60ac1663f9",
+      "title": "Positivo balance de las mesas público-privadas para impulsar el mercado de capitales",
+      "url": "https://www.superfinanciera.gov.co/10116143",
+      "published": "2026-06-02",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "3730e1df-2fda-819a-99ff-e3aa304e64ad",
+      "title": "Estadísticas a propósito de...",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10932",
+      "published": "2026-06-02",
+      "summary": "En 2023, de las 328 078 unidades económicas, 41.5 % separó residuos y desechos.",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "Statistical Releases",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,3"
+    },
+    {
+      "id": "3730e1df-2fda-8145-8aea-c54cd11a118b",
+      "title": "Bank Supervision: Removing References to Reputation Risk",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-23.html",
+      "published": "2026-06-02",
+      "summary": "The OCC, FDIC, and Federal Reserve Board have reissued 15 interagency guidance documents in which references to reputation risk have been removed.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "3730e1df-2fda-81d8-8a1a-e722451c02d1",
+      "title": "Agencies Remove Additional References to Reputation Risk",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-45.html",
+      "published": "2026-06-02",
+      "summary": "The federal bank regulatory agencies today jointly updated certain interagency documents to remove references to reputation risk.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "3730e1df-2fda-8197-8651-dee1e785110c",
+      "title": "FEDS Paper: Paying More and Buying Less: 2025 Tariffs and U.S. Household Spending",
+      "url": "https://www.federalreserve.gov/econres/feds/paying-more-and-buying-less-2025-tariffs-and-us-household-spending.htm",
+      "published": "2026-06-02",
+      "summary": "Sinem Hacıoğlu Hoke and Leo Feler This paper estimates the effects of the 2025 U.S. tariffs on household spending using transaction-level data linked to tariff exposure and a tariff sentiment survey. Comparing high versus low tariff-exposed categories, we find 15 to 20 percent price pass-through. At the mean increase in tariff exposure, prices rise by 1 to 2 percent while spending falls by roughly 4 percent. Survey evidence linking stated intentions to revealed behavior identifies a mechanism for the large spending response: reallocation toward essentials and trade-down within categories, concentrated among middle-income households with discretionary slack who express tariff concerns. Low-income households bear a disproportionate welfare burden through regressive pass-through.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3730e1df-2fda-812c-b0cb-e5e7da8652c4",
+      "title": "FEDS Paper: Double Inertia, Taylor Rules, and Monetary Policy Gradualism",
+      "url": "https://www.federalreserve.gov/econres/feds/double-inertia-taylor-rules-and-monetary-policy-gradualism.htm",
+      "published": "2026-06-02",
+      "summary": "Edmund Crawley , William Goodwin, Margaret M. Jacobson , and Fabian Winkler In recent decades, an empirically estimated double-inertial rule fits the path of changes in the federal funds rate better than a standard inertial Taylor rule. Inertial Taylor rules aim to capture monetary policy gradualism via slow adjustments in the level of the policy rate. Double-inertial rules build on this specification by also gradually adjusting the pace of change in the policy rate. Because a double-inertial rule explains more than twice the variation of changes in the policy rate than its standard inertial counterpart, we argue that practitioners should consider a double-inertial rule when characterizing U.S. monetary policy.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3730e1df-2fda-81b8-b9e1-f38d5eb84213",
+      "title": "FEDS Paper: The Fragility of Perfectly Safe Digital Money",
+      "url": "https://www.federalreserve.gov/econres/feds/the-fragility-of-perfectly-safe-digital-money.htm",
+      "published": "2026-06-02",
+      "summary": "Elizabeth C. Klee , Arazi Lubis , Chase P. Ross , Sharon Y. Ross , and Alexandros P. Vardoulakis Digital money differs from previous forms of money in an important way: it unbundles trust. Instead of relying on a trustworthy institution to settle payments, it relies on decentralized verification, whose cost is priced separately through congestion-sensitive gas fees. This arrangement creates a novel fragility from the interaction of two opposing forces: network externalities, which make digital money more valuable as adoption rises, and congestion fees, which make it more costly to use. We show that these forces generate strategic complementarities in redemption decisions and can create runs even when digital money is backed by perfectly safe reserves.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3730e1df-2fda-8198-b879-ce06abe228f1",
+      "title": "Agencies remove additional references to reputation risk",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm",
+      "published": "2026-06-02",
+      "summary": "Agencies remove additional references to reputation risk",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3730e1df-2fda-814d-8e5a-f2e25d5e4757",
+      "title": "Boris Vujčić: A European perspective on currency and convergence",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260602~101b71c594.en.html",
+      "published": "2026-06-02",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3730e1df-2fda-8125-bff7-d112e1fc5172",
+      "title": "Supervisory cooperation MoU between the NYDFS and the EBA on stablecoin activities",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/653d3144-0414-4565-8b10-81d6e91d6dec/Public%20version%20Supervisory%20cooperation%20MoU%20between%20the%20NYDFS%20and%20the%20EBA%20on%20stablecoin%20activities.pdf",
+      "published": "2026-06-02",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3730e1df-2fda-81d6-9237-fc5600e6bae1",
+      "title": "The EBA and the New York State Department of Financial Services sign a Memorandum of Understanding to foster cooperation in the supervision of international stablecoin activities",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-and-new-york-state-department-financial-services-sign-memorandum-understanding-foster",
+      "published": "2026-06-02",
+      "summary": "The European Banking Authority (EBA) has signed a Memorandum of Understanding (MoU) with the New York State Department of Financial Services (NYDFS) under the Markets in Crypto-Assets Regulation (MiCA). The agreement aims to strengthen cooperation in the supervision of entities engaged in cross-border stablecoin activities.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3730e1df-2fda-8199-afdd-c0654dc55c03",
+      "title": "June 2, 2026IMF Announces Appointment of Mateusz Szczurek as Director of the European Department",
+      "url": "https://www.imf.org/en/news/articles/2026/06/02/pr26180-imf-announces-appointment-of-mateusz-szczurek-director-of-eur-dep",
+      "published": "2026-06-02",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
     {
       "id": "3730e1df-2fda-81d2-9e2f-f0d359c18e58",
       "title": "The international role of the euro, June 2026",
@@ -78,6 +210,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3730e1df-2fda-819b-9d04-df7c01c995a5",
+      "title": "WBG and Japan Expand Cooperation to Strengthen Critical Minerals Supply Chains and Energy Resilience",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/06/01/the-world-bank-group-and-japan-expand-cooperation-to-strengthen-critical-minerals-supply-chains-and-energy-resilience",
+      "published": "2026-06-01",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3720e1df-2fda-8198-a20d-f732e6a1fcb7",
@@ -4962,6 +5105,94 @@
       "country": "Global",
       "type": "Central Bank Research Hub",
       "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3730e1df-2fda-81dd-9bf0-eac737e850d8",
+      "title": "Firm’s Preferences for Emissions Reducing Measures and Willingness to Pay for a Carbon Tax in Viet Nam",
+      "url": "http://documents.worldbank.org/curated/undefined/099222506022672608/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
+    {
+      "id": "3730e1df-2fda-812f-b4fd-d7ba8de5df1b",
+      "title": "Assessing The Real-World Economic Value of Weather Forecasts under Compounding Extremes : A Decision-Specific Framework",
+      "url": "http://documents.worldbank.org/curated/undefined/099836006022622606/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
+    {
+      "id": "3730e1df-2fda-81c1-baae-f5d0ae13101a",
+      "title": "Shock Absorbers",
+      "url": "https://www.imf.org/en/publications/fandd/issues/2026/06/picture-this-shock-absorbers",
+      "published": "",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3730e1df-2fda-8148-b342-cb0350207288",
+      "title": "Şebnem Kalemli-Özcan: Micro Maestro",
+      "url": "https://www.imf.org/en/publications/fandd/issues/2026/06/people-in-economics-micro-maestro-chris-wellisz",
+      "published": "",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3730e1df-2fda-81c1-9661-fcefa2664ae9",
+      "title": "Keynes for Our Times",
+      "url": "https://www.imf.org/en/publications/fandd/issues/2026/06/keynes-for-our-times-robert-skidelsky",
+      "published": "",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3730e1df-2fda-8123-8ffe-e8715ef55658",
+      "title": "Dirty Money and Policy Gaps",
+      "url": "https://www.imf.org/en/publications/fandd/issues/2026/06/book-review-dirty-money-and-policy-gaps-chady-el-khoury",
+      "published": "",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3730e1df-2fda-81e7-9bf6-dd6baa3caf73",
+      "title": "How Much Does the World Work?",
+      "url": "https://www.imf.org/en/publications/fandd/issues/2026/06/how-much-does-the-world-work-amory-gethin",
+      "published": "",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3730e1df-2fda-817f-9420-dcbc7ba19f2b",
+      "title": "What Are Commodities?",
+      "url": "https://www.imf.org/en/publications/fandd/issues/2026/06/back-to-basics-what-are-commodities-jean-marc-natal",
+      "published": "",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
     },
     {
       "id": "3720e1df-2fda-8123-b572-df51dc91d2c9",
