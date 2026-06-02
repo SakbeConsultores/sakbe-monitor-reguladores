@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-06-01T22:56:35.194914+00:00",
-  "total_items": 438,
+  "generated_at": "2026-06-02T12:20:50.125215+00:00",
+  "total_items": 455,
   "items": [
+    {
+      "id": "3730e1df-2fda-81d2-9e2f-f0d359c18e58",
+      "title": "The international role of the euro, June 2026",
+      "url": "https://www.ecb.europa.eu//press/other-publications/ire/html/ecb.ire202606.en.html",
+      "published": "2026-06-02",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3730e1df-2fda-81ee-9d79-d5bc23343b9f",
+      "title": "Investment composition and growth: the role of intangible and tangible ICT capital in the EU and other economies",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3242~873057c617.en.pdf",
+      "published": "2026-06-02",
+      "summary": "This paper examines whether differences in the composition of investment help explain economic growth disparities in the EU and other advanced economies from 1996 to 2021. While overall investment levels in the EU and the US are broadly similar, the EU invests less in intangible and tangible ICT capital. This difference in composition is associated with part of the EU’s productivity gap with the US. Employing panel fixed effects and local projection methods, we find that intangible and tangible ICT investments -particularly in communications equipment, R&D, and other intellectual property products- are associated with higher GDP per capita growth than other forms of investment. To quantify these differences, we construct a novel investment efficiency ratio that relates the estimated economic growth contribution of each asset to its share in total investment. The results are robust across empirical methods, country samples, and time periods, and reveal substantial heterogeneity: the growth association of ICT-related investment is stronger in countries with higher income levels and greater human capital. Overall, the findings suggest that improving the allocation and efficiency of investment, rather than simply increasing its volume, is key to enhancing long-term growth.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3730e1df-2fda-8185-a44b-c6455a7c0050",
+      "title": "International role of the euro increased moderately in 2025",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260602~f941e87516.en.html",
+      "published": "2026-06-02",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3730e1df-2fda-8102-8cd8-ccf87d87c689",
+      "title": "2025 OSII List",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/0e446482-d0c8-494f-88be-90bb383d3a98/2025%20OSII%20List.xlsx",
+      "published": "2026-06-02",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3730e1df-2fda-81dd-a6b1-fc903538a046",
+      "title": "The EBA updates list of other systemically important institutions",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-updates-list-other-systemically-important-institutions-2",
+      "published": "2026-06-02",
+      "summary": "The European Banking Authority (EBA) today updated the list of other systemically important institutions (O-SIIs) in the EU, based on notifications received from national authorities during 2025. The publication aims to increase transparency and provides a consistent overview of institutions identified as systemically important across Member States.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3730e1df-2fda-8126-b9ce-cafc528fe97c",
+      "title": "Basel Committee publishes report on information and communication technology risk management",
+      "url": "https://www.bis.org/press/p260602.htm",
+      "published": "2026-06-02",
+      "summary": "The Basel Committee on Banking Supervision today published a range of practices report on information and communication technology (ICT) risk management. ICT is a key component of operational risk management, playing a vital role in supporting the broader goal of achieving operational resilience.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.bis.org/doclist/all_pressrels.rss"
+    },
+    {
+      "id": "3730e1df-2fda-81ae-8758-ec3f13206142",
+      "title": "Making stablecoins stabler(r): can regulation help?",
+      "url": "https://www.bis.org/publ/work1355.htm",
+      "published": "2026-06-02",
+      "summary": "by Tirupam Goel, Ulf Lewrick, Isha Agarwal We model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3720e1df-2fda-8198-a20d-f732e6a1fcb7",
+      "title": "SBS reconoció las mejores iniciativas de educación financiera de la Semana Mundial del Ahorro 2026",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3934",
+      "published": "2026-06-01",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
     {
       "id": "3720e1df-2fda-81d2-8f8f-f50f55819c99",
       "title": "Encuesta Mensual de Opinión Empresarial (EMOE). Serie 2018",
@@ -210,6 +298,28 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3730e1df-2fda-810c-938b-d12d4f7a72ea",
+      "title": "Heterogeneous Views and Currency Swing Prediction: Evidence from Trade Repository Data",
+      "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2026/data/wp26e10.pdf",
+      "published": "2026-05-29",
+      "summary": "Bank of Japan Working Papers by Kohei Maehashi, Daisuke Miyakawa and Takatoshi Sasaki",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3730e1df-2fda-819f-90b1-d1d4c67917b4",
+      "title": "Algorithms as Shadow Regulation: Secondary Market Access Overrides Home Buyer Credit Risk",
+      "url": "https://doi.org/10.20955/wp.2026.011",
+      "published": "2026-05-29",
+      "summary": "Federal Reserve Bank of St Louis Working Papers by Manu García and Carlos Garriga",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3700e1df-2fda-819a-abbe-e1e00a891bcf",
@@ -430,6 +540,39 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3730e1df-2fda-8179-bb2c-f79ebd11f5ea",
+      "title": "What drives mortgage default in Europe? The role of liquidity, equity and debt enforcement (Peter Lindner, Aleksandra Riedl)",
+      "url": "https://www.oenb.at/dam/jcr:13b459a9-6566-46bc-b45f-293346a1ac4a/wp-279.pdf",
+      "published": "2026-05-28",
+      "summary": "National Bank of the Republic of Austria Working Papers by Peter Lindner and Aleksandra Riedl",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3730e1df-2fda-818a-8adf-ed945c42046b",
+      "title": "Nonresponse Imputations and Related Measurement Issues in the CPI for Shelter",
+      "url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/2026/wp2613.pdf",
+      "published": "2026-05-28",
+      "summary": "Federal Reserve Bank of Cleveland Working Papers by Lara Loewenstein, Hugh Montag and Randal J. Verbrugge",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3730e1df-2fda-8157-bc1e-f453cbbffa67",
+      "title": "Interchange Fees in Payment Networks Implications for Prices, Profits, and Welfare",
+      "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2026/wp26-29.pdf",
+      "published": "2026-05-28",
+      "summary": "Federal Reserve Bank of Philadelphia Working Papers by Robert M. Hunt, Konstantinos Serfes and Yin Zhang",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3700e1df-2fda-8195-b240-e40e5488ed24",
@@ -661,6 +804,28 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3730e1df-2fda-8175-8328-efa26485fd74",
+      "title": "Sticky Rents: A Simple Implicit-Contracts Theory",
+      "url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/2026/wp2612.pdf",
+      "published": "2026-05-27",
+      "summary": "Federal Reserve Bank of Cleveland Working Papers by Hugh Montag and Randal J. Verbrugge",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3730e1df-2fda-813f-bbbd-d98fad045983",
+      "title": "Rental Prices and the Cost of Living in the United States, 1914-2006",
+      "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2026/wp26-28.pdf",
+      "published": "2026-05-27",
+      "summary": "Federal Reserve Bank of Philadelphia Working Papers by Rowena Gray, Ronan Lyons and Allison Shertzer",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3700e1df-2fda-81b0-9ed3-e2e757273941",
@@ -1332,6 +1497,17 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3730e1df-2fda-81fa-8c7a-f8c6ffa29ad5",
+      "title": "The Causal Effect of Debt on Interest Rates",
+      "url": "https://www.federalreserve.gov/econres/feds/files/2026031pap.pdf",
+      "published": "2026-05-26",
+      "summary": "Board of Governors of the Federal Reserve System Finance and Economics Discussion Series by Abhik Bhatt, Anthony M. Diercks, Benjamin Eyal and Arsenios Skaperdas",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3700e1df-2fda-81a6-8901-c64eae775876",
@@ -3279,6 +3455,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3730e1df-2fda-81c2-9dac-fa0cdb83433d",
+      "title": "Anchored to the Dot Plot: Central Bank Projections and Interest Rate Expectations",
+      "url": "https://www.federalreserve.gov/econres/feds/files/2026026pap.pdf",
+      "published": "2026-05-14",
+      "summary": "Board of Governors of the Federal Reserve System Finance and Economics Discussion Series by Eric Engstrom",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3660e1df-2fda-8185-a89d-e1443491bedb",
