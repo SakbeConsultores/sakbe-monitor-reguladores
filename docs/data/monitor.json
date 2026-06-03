@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-06-03T14:22:24.230842+00:00",
-  "total_items": 495,
+  "generated_at": "2026-06-03T22:58:36.655778+00:00",
+  "total_items": 503,
   "items": [
+    {
+      "id": "3740e1df-2fda-81f2-ad76-c945d8d2146a",
+      "title": "Comunicado a los socios depositantes de la Coopac Rural Abancay",
+      "url": "https://www.sbs.gob.pe/Comunicado/Detallecomunicado?IdComunicado=1052",
+      "published": "2026-06-03",
+      "summary": "Los depósitos de los socios se encuentran protegidos por el Fondo de Seguro de Depósitos Cooperativo ...",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3740e1df-2fda-819e-98c9-c28c9ccd3062",
+      "title": "Mejora de la situación financiera de los hogares impulsa el crédito y reduce el endeudamiento",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3935",
+      "published": "2026-06-03",
+      "summary": "A marzo de 2026, los créditos de consumo crecieron 8% anual y el segmento hipotecario lo hizo en 6.8% en dicho periodo, según el Informe de Estabilida",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3740e1df-2fda-8149-a6a9-e01683f16b16",
+      "title": "Colombia destino de inversión: nuevo sitio web en inglés para extranjeros interesados en el mercado de capitales",
+      "url": "https://www.superfinanciera.gov.co/10116145",
+      "published": "2026-06-03",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "3740e1df-2fda-8125-b838-e20a94bc5c15",
+      "title": "Rol de los defensores del consumidor financiero en un mercado cambiante",
+      "url": "https://www.superfinanciera.gov.co/10116146",
+      "published": "2026-06-03",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "3740e1df-2fda-81a9-9706-db54d52a3b06",
+      "title": "Juntas directivas deben estar alerta de los riesgos sociales, ambientales y climáticos: SFC",
+      "url": "https://www.superfinanciera.gov.co/10116147",
+      "published": "2026-06-03",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "3740e1df-2fda-81d8-b8d0-dfb7d6bfbf51",
+      "title": "Índice de Capitalización de Casas de Bolsa al cierre de marzo de 2026",
+      "url": "https://www.gob.mx/cnbv/prensa/indice-de-capitalizacion-de-casas-de-bolsa-al-cierre-de-marzo-de-2026?idiom=es",
+      "published": "2026-06-03",
+      "summary": "",
+      "regulator": "CNBV",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.gob.mx/cnbv/archivo/prensa?idiom=es"
+    },
+    {
+      "id": "3740e1df-2fda-8154-9214-ec8b3649b58f",
+      "title": "FEDS Paper: The Role of Inflation Perceptions in Consumer Inflation Expectations: Evidence from the Euro Area",
+      "url": "https://www.federalreserve.gov/econres/feds/the-role-of-inflation-perceptions-in-consumer-inflation-expectations-evidence-from-the-euro-area.htm",
+      "published": "2026-06-03",
+      "summary": "Matthieu Bussi&egrave;re, Johanna Gilbert, and Olesya Grishchenko Using data on euro-area household inflation forecasts from the European Commission Consumer Survey, we show that households' perceptions of recent price changes play a key role in the formation of their inflation expectations. Such a relationship remains robust when we account for specific inflation components, household characteristics, and macroeconomic conditions, even though the perceptions-expectations relationship is heterogeneous across countries. These results highlight the importance of perceptions about inflation for the conduct of monetary policy.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3740e1df-2fda-81cd-b99e-e4d6d08566c1",
+      "title": "June 3, 2026IMF Reaches Staff Level Agreement on the Fifth Review of the Extended Credit Facility for Ethiopia",
+      "url": "https://www.imf.org/en/news/articles/2026/06/03/pr26183-ethiopia-imf-reaches-staff-level-agreement-fifth-review-extended-credit-facility",
+      "published": "2026-06-03",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
     {
       "id": "3740e1df-2fda-819f-818d-f4b268090c30",
       "title": "Mediciones Trimestrales de los Puestos de Trabajo y sus Remuneraciones por Entidad Federativa (MTPTREF). Año base 2018",
