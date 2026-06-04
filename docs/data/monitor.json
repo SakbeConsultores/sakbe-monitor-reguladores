@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-06-04T10:48:19.942594+00:00",
-  "total_items": 506,
+  "generated_at": "2026-06-04T21:20:07.634877+00:00",
+  "total_items": 514,
   "items": [
+    {
+      "id": "3750e1df-2fda-8182-9ccb-f6d8d2fdef55",
+      "title": "Indicador Mensual del Consumo Privado (IMCP). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10937",
+      "published": "2026-06-04",
+      "summary": "Aumentó 1.2% el consumo privado en marzo de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3750e1df-2fda-81aa-8529-dd3b2921b095",
+      "title": "Indicador Mensual de la Formación Bruta de Capital Fijo (IMFBCF). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10938",
+      "published": "2026-06-04",
+      "summary": "Aumentó 0.4% la inversión fija bruta en marzo de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3750e1df-2fda-8132-9107-dbbbaccb0302",
+      "title": "Comptroller Gould Testifies on Agency Activities",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-46.html",
+      "published": "2026-06-04",
+      "summary": "Comptroller Jonathan V. Gould today testified on the Office of the Comptroller of the Currency's (OCC) priorities and activities before the U.S. House of Representatives Committee on Financial Services.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "3750e1df-2fda-8152-98c5-d9546d9068fb",
+      "title": "FEDS Paper: Household Consumption Does Not Respond Directly to Interest Rates: Evidence From 10 Macroeconomic Shocks(Revised)",
+      "url": "https://www.federalreserve.gov/econres/feds/household-consumption-does-not-respond-directly-to-interest-rates.htm",
+      "published": "2026-06-04",
+      "summary": "Edmund Crawley and William L. Gamber We estimate how much household spending responds directly to changes in interest rates. We develop a Bayesian procedure that uses the empirical impulse responses to macroeconomic shocks to discipline the consumer block of a HANK model. The procedure can be applied shock-by-shock or pooled jointly. We apply this method in two ways using 10 macroeconomic shocks: a structural model with sticky expectations over both income and interest rates, and a non-parametric estimation of the consumption-to-interest-rate Jacobian. We find no evidence that households respond directly to interest rates at any horizon, leaving essentially no role for a direct interest rate channel.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3750e1df-2fda-81f0-affc-f59edcb7d5db",
+      "title": "FEDS Paper: Slow Learning",
+      "url": "https://www.federalreserve.gov/econres/feds/slow-learning.htm",
+      "published": "2026-06-04",
+      "summary": "Lawrence J. Christiano, Martin Eichenbaum, and Benjamin K. Johannsen This paper provides an analytic characterization of the speed of convergence under learning to a rational expectations equilibrium (REE) for a large class of multivariate models. We show that learning is slower when people's beliefs about model outcomes are more self-fulfilling. The paper also investigates which features of a model economy make beliefs more self-fulfilling, using variants of the simple new-Keynesian model and a medium-scale DSGE model. For empirically plausible specifications of these models, convergence of a learning equilibrium to the REE is so slow that analysis based on rational expectations can be misleading.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3750e1df-2fda-8199-a3ed-c5b608df1fd3",
+      "title": "Italy: Budgetary Frameworks and the Net Expenditure Path",
+      "url": "https://www.imf.org/en/publications/high-level-summary-technical-assistance-reports/issues/2026/06/04/italy-budgetary-frameworks-and-the-net-expenditure-path-576534",
+      "published": "2026-06-04",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3750e1df-2fda-8102-b8aa-f8799f84d012",
+      "title": "Aging-Related Depreciation of Office Rents and Renovation Effects",
+      "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2026/data/wp26e11.pdf",
+      "published": "2026-06-04",
+      "summary": "Bank of Japan Working Papers by Kimiaki Shinozaki, Kouhei Shintani, Tetsuto Sogabe, Yoshio Nakayama and Sahoko Furuta",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
     {
       "id": "3750e1df-2fda-81a7-982d-eebf66b0f494",
       "title": "Christine Lagarde: Women and leadership: widening the pipeline",
@@ -287,6 +364,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3750e1df-2fda-81f8-bad9-c2d0d2ca23bc",
+      "title": "A Nonparametric Approach to Augmenting a Bayesian VAR with Nonlinear Factors",
+      "url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/2026/wp2614.pdf",
+      "published": "2026-06-02",
+      "summary": "Federal Reserve Bank of Cleveland Working Papers by Todd E. Clark, Florian Huber and Gary Koop",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3750e1df-2fda-8144-8f9e-c17367810af1",
