@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-06-03T22:58:36.655778+00:00",
-  "total_items": 503,
+  "generated_at": "2026-06-04T10:48:19.942594+00:00",
+  "total_items": 506,
   "items": [
+    {
+      "id": "3750e1df-2fda-81a7-982d-eebf66b0f494",
+      "title": "Christine Lagarde: Women and leadership: widening the pipeline",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260604~f5d373b29f.en.html",
+      "published": "2026-06-04",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3750e1df-2fda-812a-9460-ea062bcbc3b4",
+      "title": "Earth, Wind, and Sun: Harnessing Local Resources for Job Creation and Energy Security in the Philippines",
+      "url": "http://www.worldbank.org/en/news/feature/2026/06/03/earth-wind-and-sun-harnessing-local-resources-for-job-creation-and-energy-security-in-the-philippines",
+      "published": "2026-06-03",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3740e1df-2fda-81f2-ad76-c945d8d2146a",
       "title": "Comunicado a los socios depositantes de la Coopac Rural Abancay",
@@ -265,6 +287,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3750e1df-2fda-8144-8f9e-c17367810af1",
+      "title": "Saving the Flock: How World Bank Support is Fortifying Jamaican Farmers",
+      "url": "http://www.worldbank.org/en/news/feature/2026/06/02/saving-the-flock-how-world-bank-support-is-fortifying-jamaican-farmers",
+      "published": "2026-06-02",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3730e1df-2fda-81c7-a9c7-df60ac1663f9",
