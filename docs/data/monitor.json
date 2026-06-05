@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-06-04T21:20:07.634877+00:00",
-  "total_items": 514,
+  "generated_at": "2026-06-05T09:09:16.924633+00:00",
+  "total_items": 517,
   "items": [
+    {
+      "id": "3760e1df-2fda-8102-9352-f6f45bcc2e0d",
+      "title": "Euro area bank interest rate statistics: April 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html",
+      "published": "2026-06-05",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Statistical Releases",
+      "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
+    },
+    {
+      "id": "3760e1df-2fda-8128-aac7-c7a0686d74fb",
+      "title": "June 4, 2026Press Briefing Transcript: Julie Kozack, Director, Communications Department, June 4, 2026",
+      "url": "https://www.imf.org/en/news/articles/2026/06/04/tr-06042026-imf-regular-briefing-june-4-2026",
+      "published": "2026-06-04",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3760e1df-2fda-81b8-874b-ce1caa4cd59b",
+      "title": "June 4, 2026IMF Executive Board Concludes 2026 Article IV Consultation with Kyrgyz Republic",
+      "url": "https://www.imf.org/en/news/articles/2026/06/04/pr26185-kyrgyz-republic-imf-executive-board-concludes-2026-article-iv-consultation",
+      "published": "2026-06-04",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
     {
       "id": "3750e1df-2fda-8182-9ccb-f6d8d2fdef55",
       "title": "Indicador Mensual del Consumo Privado (IMCP). Año base 2018",
