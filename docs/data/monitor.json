@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-06-05T09:09:16.924633+00:00",
-  "total_items": 517,
+  "generated_at": "2026-06-05T21:04:55.911816+00:00",
+  "total_items": 530,
   "items": [
+    {
+      "id": "3760e1df-2fda-8135-b1a4-c8de17ad62fe",
+      "title": "La SFC fue sede del \"Curso Riesgo Tecnológico y de Ciberseguridad\"",
+      "url": "https://www.superfinanciera.gov.co/10116151",
+      "published": "2026-06-05",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "3760e1df-2fda-81e3-81b1-ef94653c9ab1",
+      "title": "Encuesta Nacional sobre Confianza del Consumidor (ENCO)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10939",
+      "published": "2026-06-05",
+      "summary": "Disminuyó 0.7 puntos la confianza del consumidor en mayo de 2026, respecto al mes previo",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3760e1df-2fda-818d-9467-f6bc4ff6cac1",
+      "title": "FEDS Paper: Settlement Speed and Financial Stability(Revised)",
+      "url": "https://www.federalreserve.gov/econres/feds/settlement-speed-and-financial-stability.htm",
+      "published": "2026-06-05",
+      "summary": "Agostino Capponi and Jin-Wook Chang This paper investigates how settlement speed affects financial stability in payment networks, accounting for netting benefits, liquidity costs, and counterparty risks. Faster settlement reduces crisis likelihood but amplifies crisis severity. The net welfare effect depends on network topology and proximity to default threshold points&#8212;settlement times at which the number of defaulting agents changes discontinuously. The optimal settlement speed is not universal: it depends on payment network structure and liquidity conditions. Deteriorating liquidity shifts the optimum toward slower settlement, even when faster settlement reduces counterparty default probability.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3760e1df-2fda-81a5-a7c2-e2d1de12bea4",
+      "title": "EBA - SB Composition 04-06-2026",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/8a7e7f27-2337-4d7c-813c-cc9af495c567/EBA%20-%20SB%20Composition%2004-06-2026.pdf",
+      "published": "2026-06-05",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3760e1df-2fda-815d-aaee-dd189719b0a9",
+      "title": "There Will Be Liquidity! But Will There Be Transmission?",
+      "url": "https://www.imf.org/en/publications/wp/issues/2026/06/05/there-will-be-liquidity-but-will-there-be-transmission-576583",
+      "published": "2026-06-05",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3760e1df-2fda-81b5-ab2a-c57570376fb2",
+      "title": "Key Trends in Implementing the Fund's Transparency Policy",
+      "url": "https://www.imf.org/en/publications/policy-papers/issues/2026/06/04/key-trends-in-implementing-the-fund-s-transparency-policy-576529",
+      "published": "2026-06-05",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3760e1df-2fda-816b-acae-c722c32c1e65",
+      "title": "Republic of Fiji: 2026 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for Republic of Fiji",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/05/republic-of-fiji-2026-article-iv-consultation-press-release-staff-report-and-statement-by-576549",
+      "published": "2026-06-05",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3760e1df-2fda-81bd-9556-c7e1e663f2f6",
+      "title": "Republic of Fiji: Selected Issues",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/05/republic-of-fiji-selected-issues-576554",
+      "published": "2026-06-05",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3760e1df-2fda-8194-a523-d17e77c67c2a",
+      "title": "The Chair’s Summing Up: Independent Evaluation Office — The IMF and Climate Change",
+      "url": "https://www.imf.org/en/publications/policy-papers/issues/2026/06/04/the-chairs-summing-up-independent-evaluation-office-the-imf-and-climate-change-576544",
+      "published": "2026-06-05",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3760e1df-2fda-81bf-94a8-f5d24def3538",
+      "title": "Statement by the Managing Director on the Independent Evaluation Office Report on the IMF and Climate Change",
+      "url": "https://www.imf.org/en/publications/policy-papers/issues/2026/06/04/statement-by-the-managing-director-on-the-independent-evaluation-office-report-on-the-imf-576539",
+      "published": "2026-06-05",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3760e1df-2fda-818d-9ca1-fdaa4501be2c",
+      "title": "June 5, 2026IMF Staff Concludes Visit to San Marino",
+      "url": "https://www.imf.org/en/news/articles/2026/06/05/pr26186-san-marino-imf-staff-concludes-visit-to-san-marino",
+      "published": "2026-06-05",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3760e1df-2fda-81ed-ae2f-e7b95981b944",
+      "title": "The credibility of bail-in",
+      "url": "https://www.bis.org/publ/work1356.htm",
+      "published": "2026-06-05",
+      "summary": "by Alessandro Di Stefano, Yvan Lengwiler, Kumar Rishabh The resolution framework for global systemically important banks has been over a decade in the making. The failure of Credit Suisse (CS) in March 2023 was its first major test. Authorities had a resolution plan in place but chose a different path amid financial stability concerns.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "3760e1df-2fda-8102-9352-f6f45bcc2e0d",
       "title": "Euro area bank interest rate statistics: April 2026",
@@ -12,6 +144,17 @@
       "country": "EU",
       "type": "Statistical Releases",
       "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
+    },
+    {
+      "id": "3760e1df-2fda-813e-a051-e979bbc53f23",
+      "title": "June 5, 2026Statement by IMF Deputy Managing Director Kenji Okumura at the Conclusion of His Visit to Thailand",
+      "url": "https://www.imf.org/en/news/articles/2026/06/04/pr-26184-thailand-statement-by-imf-dmd-kenji-okumura-at-the-conclusion-of-his-visit-to-thailand",
+      "published": "2026-06-04",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
     },
     {
       "id": "3760e1df-2fda-8128-aac7-c7a0686d74fb",
