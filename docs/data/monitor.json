@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-06-05T21:04:55.911816+00:00",
-  "total_items": 530,
+  "generated_at": "2026-06-06T07:41:59.027159+00:00",
+  "total_items": 533,
   "items": [
+    {
+      "id": "3770e1df-2fda-8110-a234-ebee04b7b9ba",
+      "title": "CRAC del Centro en Liquidación: Aviso de subasta pública en cartera de créditos",
+      "url": "https://www.sbs.gob.pe/Comunicado/Detallecomunicado?IdComunicado=1053",
+      "published": "2026-06-05",
+      "summary": "La subasta pública se realizará el 22.06.2026 a las 10:00 am. en el local ubicado en Jr. Cusco 327, ...",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3770e1df-2fda-81e0-a1ee-d40d2138c721",
+      "title": "Drivers of Germany’s Growth Downturn",
+      "url": "https://www.imf.org/en/publications/wp/issues/2026/06/05/drivers-of-germanys-growth-downturn-576616",
+      "published": "2026-06-05",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3770e1df-2fda-8193-86df-c4054174ed09",
+      "title": "Haiti: Technical Assistance Report-Improving Public Investment Management in Times of Fragility",
+      "url": "https://www.imf.org/en/publications/technical-assistance-reports/issues/2026/06/05/haiti-technical-assistance-report-improving-public-investment-management-in-times-of-576393",
+      "published": "2026-06-05",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
     {
       "id": "3760e1df-2fda-8135-b1a4-c8de17ad62fe",
       "title": "La SFC fue sede del \"Curso Riesgo Tecnológico y de Ciberseguridad\"",
