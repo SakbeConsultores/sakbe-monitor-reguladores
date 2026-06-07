@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-06-07T08:42:35.634383+00:00",
-  "total_items": 533,
+  "generated_at": "2026-06-07T20:07:44.640459+00:00",
+  "total_items": 534,
   "items": [
+    {
+      "id": "3780e1df-2fda-8184-b5b2-e16737eedd6a",
+      "title": "Leveraging Non-traditional Data for Macroeconomic Nowcasting: The Case of Morocco",
+      "url": "https://www.imf.org/en/publications/wp/issues/2026/06/05/leveraging-non-traditional-data-for-macroeconomic-nowcasting-the-case-of-morocco-576047",
+      "published": "2026-06-05",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
     {
       "id": "3770e1df-2fda-8110-a234-ebee04b7b9ba",
       "title": "CRAC del Centro en Liquidación: Aviso de subasta pública en cartera de créditos",
