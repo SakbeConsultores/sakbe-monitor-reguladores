@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-06-07T20:07:44.640459+00:00",
-  "total_items": 534,
+  "generated_at": "2026-06-08T13:02:46.789178+00:00",
+  "total_items": 542,
   "items": [
+    {
+      "id": "3790e1df-2fda-81e5-966a-fe6856b25492",
+      "title": "Impartición de Justicia en Materia Laboral",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10940",
+      "published": "2026-06-08",
+      "summary": "Al cierre de 2025 había 261 personas juzgadoras en materia laboral estatal, 6.5% más que en 2024",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3790e1df-2fda-818b-ba4d-fb9220cf4312",
+      "title": "Registro administrativo de la industria automotriz de vehículos ligeros",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10941",
+      "published": "2026-06-08",
+      "summary": "Se produjeron 342 926 vehículos ligeros en México y se exportaron 306 288, en mayo de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3790e1df-2fda-81c4-b3e9-cc70db7e95f2",
+      "title": "ECB announces main milestones for roll-out of Integrated Reporting Framework",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260608~6766ec7154.en.html",
+      "published": "2026-06-08",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3790e1df-2fda-81b8-8ad1-f530ec46d7ae",
+      "title": "IT solutions P3DH - Contact persons for notifications - template",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/aa848941-ec59-4ede-a893-aa323a4c35f7/IT%20solutions%20P3DH%20-%20Contact%20persons%20for%20notifications%20-%20template.xlsx",
+      "published": "2026-06-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3790e1df-2fda-81ec-82ae-cbf4b3d4c43f",
+      "title": "IT solutions P3DH - Contact persons for notifications - instructions",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/565b822b-e7bf-4d7e-8b88-10a1874fec80/IT%20solutions%20P3DH%20-%20Contact%20persons%20for%20notifications%20-%20instructions.docx",
+      "published": "2026-06-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3790e1df-2fda-81d5-a12d-f8bddd871f44",
+      "title": "Discussion paper on Pillar 3 Data Hub process to SNCIs",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/571e1ec7-2e50-42db-9035-1c2b21f75004/Discussion%20paper%20-%20P3DH%20SNCIs.pdf",
+      "published": "2026-06-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3790e1df-2fda-81f9-a026-c00cdb1d3382",
+      "title": "The digitalisation of banking and social media: implications for deposit pricing",
+      "url": "https://www.bis.org/publ/work1357.htm",
+      "published": "2026-06-08",
+      "summary": "by Michael Brei, Giulio Cornelli, Leonardo Gambacorta, Boris Hofmann This paper examines the implications of two coincident digital trends &#8211; the digitalisation of banking and the widespread adoption of social media &#8211; for the pricing of deposits in the United States. Using branch-level data, we analyse how both trends interact to influence the level of deposit rates as well as their adjustment to changes in the policy rate.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "3780e1df-2fda-8184-b5b2-e16737eedd6a",
       "title": "Leveraging Non-traditional Data for Macroeconomic Nowcasting: The Case of Morocco",
@@ -815,6 +892,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3790e1df-2fda-8138-b9e0-ef7fffa278b9",
+      "title": "The credibility of bail-in",
+      "url": "https://www.bis.org/publ/work1356.pdf",
+      "published": "2026-06-01",
+      "summary": "Bank for International Settlements BIS Working Papers by Alessandro Di Stefano, Yvan Lengwiler and Kumar Rishabh",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3740e1df-2fda-8183-b226-e1139f017a25",
