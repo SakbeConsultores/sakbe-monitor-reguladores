@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-06-08T13:02:46.789178+00:00",
-  "total_items": 542,
+  "generated_at": "2026-06-08T21:38:49.418064+00:00",
+  "total_items": 556,
   "items": [
+    {
+      "id": "3790e1df-2fda-8148-a3e5-c74ce93cea49",
+      "title": "The EBA launches Discussion Paper on Pillar 3 Data Hub for small banks",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-discussion-paper-pillar-3-data-hub-small-banks",
+      "published": "2026-06-08",
+      "summary": "The European Banking Authority (EBA) today published a Discussion Paper which proposes a simplified process for small and non-complex institutions (SNCIs) when implementing the Pillar 3 Data Hub (P3DH). The objective is to gather stakeholder feedback on a streamlined approach under which the EBA would collect and perform the calculation and publication of Pillar 3 disclosures for SNCIs, thereby reducing the burden for the latter.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3790e1df-2fda-81ea-beee-f14dc4fa1447",
+      "title": "Nepal: 2026 Article IV Consultation and Seventh Review under the Extended Credit Facility Arrangement-Press Release; Staff Report; Staff Supplement; and Statement by the Executive Director for Nepal",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/08/nepal-2026-article-iv-consultation-and-seventh-review-under-the-extended-credit-facility-576691",
+      "published": "2026-06-08",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3790e1df-2fda-818a-b694-cb2a1e9befee",
+      "title": "Republic of North Macedonia: 2026 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for Republic of North Macedonia",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/05/republic-of-north-macedonia-2026-article-iv-consultation-press-release-staff-report-and-576624",
+      "published": "2026-06-08",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3790e1df-2fda-81dc-85a6-c36debf62caf",
+      "title": "Republic of North Macedonia: Selected Issues",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/05/republic-of-north-macedonia-selected-issues-576629",
+      "published": "2026-06-08",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3790e1df-2fda-817e-8b7d-e552692a871f",
+      "title": "Nepal: Selected Issues",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/08/nepal-selected-issues-576696",
+      "published": "2026-06-08",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3790e1df-2fda-810a-a28a-c37dc16eba1a",
+      "title": "June 8, 2026Tobias Adrian to Step Down as IMF Financial Counsellor and Director of the Monetary and Capital Markets Department",
+      "url": "https://www.imf.org/en/news/articles/2026/06/08/pr26189-tobias-adrian-step-down-imf-financial-counsellor-director-mcm-department",
+      "published": "2026-06-08",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3790e1df-2fda-8188-8569-d5e338b5c6ad",
+      "title": "June 8, 2026Guatemala: Staff Concluding Statement of the 2026 Article IV Mission",
+      "url": "https://www.imf.org/en/news/articles/2026/06/08/mcs060826-guatemala-staff-concluding-statement-of-the-2026-article-iv-mission",
+      "published": "2026-06-08",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3790e1df-2fda-81ef-b9c6-c75aa97a2a67",
+      "title": "June 8, 2026IMF Executive Board Approves Rwanda’s Request for an Extended Credit Facility Arrangement",
+      "url": "https://www.imf.org/en/news/articles/2026/06/08/pr26191-imf-executive-board-approves-rwandas-request-ecf-arrangement",
+      "published": "2026-06-08",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3790e1df-2fda-8123-9b35-f11d4c1ad327",
+      "title": "June 8, 2026IMF Executive Board Concludes the 2026 Article IV Consultation with Nepal and Completes the Seventh Review under the Extended Credit Facility",
+      "url": "https://www.imf.org/en/news/articles/2026/06/08/pr26188-nepal-imf-exec-board-concludes-2026-article-iv-consult-completes-seventh-review-ecf",
+      "published": "2026-06-08",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3790e1df-2fda-8112-b5c2-cb6cebd0a05d",
+      "title": "June 8, 2026IMF Executive Board Concludes the Sixth Reviews Under the Extended Arrangement Under the Extended Fund Facility and the Arrangement Under the Extended Credit Facility, and Third Review Under the Resilience and Sustainability Facility Arrangement with Papua New Guinea",
+      "url": "https://www.imf.org/en/news/articles/2026/06/08/pr26192-papua-new-guinea-imf-concl-6th-rev-under-ext-arr-eff-arr-under-ecf-3rd-rev-rsf-arr",
+      "published": "2026-06-08",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
     {
       "id": "3790e1df-2fda-81e5-966a-fe6856b25492",
       "title": "Impartición de Justicia en Materia Laboral",
@@ -78,6 +188,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3790e1df-2fda-81c3-b736-fb80e2e47f0f",
+      "title": "June 8, 2026IMF Executive Board Concludes 2026 Article IV Consultation with Republic of North Macedonia",
+      "url": "https://www.imf.org/en/news/articles/2026/06/05/pr-26187-republic-of-north-macedonia-imf-executive-board-concludes-2026-article-iv-consultation",
+      "published": "2026-06-05",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
     },
     {
       "id": "3780e1df-2fda-8184-b5b2-e16737eedd6a",
@@ -5820,6 +5941,39 @@
       "country": "Global",
       "type": "Central Bank Research Hub",
       "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3790e1df-2fda-81d5-8613-ce98fe624523",
+      "title": "Federal Research Funding and STEM Education",
+      "url": "http://documents.worldbank.org/curated/undefined/099715406082640446/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
+    {
+      "id": "3790e1df-2fda-8137-a45f-c695d792cfbd",
+      "title": "Transportation Infrastructure and Total Factor Productivity : Development Heterogeneity and Resilience under Adverse Shocks",
+      "url": "http://documents.worldbank.org/curated/undefined/099525006082629316/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
+    {
+      "id": "3790e1df-2fda-8124-9e8f-e9aa9c0d14a6",
+      "title": "Do Information-Based Interventions Influence Tax Compliance Differently across Men and Women ? Experimental Evidence from Ethiopia",
+      "url": "http://documents.worldbank.org/curated/undefined/099451206082624390/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3740e1df-2fda-8129-b630-fd366ab5c44a",
