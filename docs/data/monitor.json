@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-06-08T21:38:49.418064+00:00",
-  "total_items": 556,
+  "generated_at": "2026-06-09T08:54:52.723761+00:00",
+  "total_items": 565,
   "items": [
+    {
+      "id": "37a0e1df-2fda-81f6-944f-e7136fcbaa23",
+      "title": "Strong Policy Action Key to Protecting Cambodia's Jobs and Livelihoods Amid Shocks",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/06/09/strong-policy-action-key-to-protecting-cambodia-s-jobs-and-livelihoods-amid-shocks",
+      "published": "2026-06-09",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "37a0e1df-2fda-8172-8b89-d253d6d72874",
+      "title": "June 9, 2026Republic of Estonia: Staff Concluding Statement of the 2026 Article IV Mission",
+      "url": "https://www.imf.org/en/news/articles/2026/06/09/pr26193-republic-of-estonia-staff-concluding-statement-of-the-2026-article-iv-mission",
+      "published": "2026-06-09",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "37a0e1df-2fda-8102-a9c1-d894b1f9cf69",
+      "title": "In Tanzania, Clean Water Improves Lives and Health Outcomes",
+      "url": "http://www.worldbank.org/en/news/feature/2026/06/08/in-tanzania-clean-water-improves-lives-and-health-outcomes",
+      "published": "2026-06-08",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "37a0e1df-2fda-81fb-9525-c14580097dee",
+      "title": "Where the Ocean Creates Jobs",
+      "url": "http://www.worldbank.org/en/news/feature/2026/06/08/where-the-ocean-creates-jobs",
+      "published": "2026-06-08",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "37a0e1df-2fda-815c-9d0d-f4fe8a7cdbf1",
+      "title": "Before the Storm: How Haiti is Protecting Lives and Livelihoods through Resilient Infrastructure",
+      "url": "http://www.worldbank.org/en/news/feature/2026/06/08/before-the-storm-how-haiti-is-protecting-lives-and-livelihoods-through-resilient-infrastructure",
+      "published": "2026-06-08",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "37a0e1df-2fda-8142-b515-ffb613b94e74",
+      "title": "Global Leaders Convene in Istanbul to Advance AI-Driven Public Procurement",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/06/08/global-leaders-convene-in-istanbul-to-advance-ai-driven-public-procurement",
+      "published": "2026-06-08",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3790e1df-2fda-8148-a3e5-c74ce93cea49",
       "title": "The EBA launches Discussion Paper on Pillar 3 Data Hub for small banks",
@@ -188,6 +254,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "37a0e1df-2fda-81f9-a7b4-e67674963e03",
+      "title": "New US$900 million World Bank Financing to Improve Iraq’s Road Connectivity and Support Job Creation",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/06/05/new-us-900-million-world-bank-financing-to-improve-iraq-s-road-connectivity-and-support-job-creation",
+      "published": "2026-06-05",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3790e1df-2fda-81c3-b736-fb80e2e47f0f",
@@ -386,6 +463,28 @@
       "country": "EU",
       "type": "Statistical Releases",
       "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
+    },
+    {
+      "id": "37a0e1df-2fda-810b-ab12-e13cde480128",
+      "title": "Social Forestry in Indonesia: Empowering Communities, Creating Jobs, and Protecting Forests",
+      "url": "http://www.worldbank.org/en/news/feature/2026/06/04/social-forestry-in-indonesia-empowering-communities-creating-jobs-and-protecting-forests",
+      "published": "2026-06-04",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "37a0e1df-2fda-81a5-bd90-f281232d87cb",
+      "title": "World Bank Provides Additional Support to Help Marshall Islands Respond to Energy Crisis",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/06/04/world-bank-provides-additional-support-to-help-marshall-islands-respond-to-energy-crisis",
+      "published": "2026-06-04",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3760e1df-2fda-813e-a051-e979bbc53f23",
