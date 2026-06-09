@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-06-09T08:54:52.723761+00:00",
-  "total_items": 565,
+  "generated_at": "2026-06-09T21:28:25.373349+00:00",
+  "total_items": 585,
   "items": [
+    {
+      "id": "37a0e1df-2fda-81d9-be60-dea19ff6b22a",
+      "title": "SBS otorga autorización de funcionamiento a Prex Perú como empresa de créditos 100% digital",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3936",
+      "published": "2026-06-09",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "37a0e1df-2fda-8172-a690-fe8c61e1e058",
+      "title": "Barranquilla será escenario de una nueva jornada para prevenir la captación ilegal de dinero",
+      "url": "https://www.superfinanciera.gov.co/10116155",
+      "published": "2026-06-09",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "37a0e1df-2fda-8162-a905-fda685daf47f",
+      "title": "Índice Nacional de Precios Productor (INPP). Año base julio 2019. Actualización 2025",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10942",
+      "published": "2026-06-09",
+      "summary": "Aumentó 2.98% el INPP total en mayo de 2026, a tasa anual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "37a0e1df-2fda-817e-b725-e46a744bf8a5",
+      "title": "Índice Nacional de Precios al Consumidor (INPC). Base 2ª Quincena Julio 2018. Actualización de Canasta y Ponderadores 2024",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10943",
+      "published": "2026-06-09",
+      "summary": "La inflación anual fue de 3.94% en mayo de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "37a0e1df-2fda-814d-b452-c77d1589571f",
+      "title": "Registro Administrativo de la Industria Automotriz de Vehículos Pesados",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10944",
+      "published": "2026-06-09",
+      "summary": "Se vendieron en México 2 840 vehículos pesados al menudeo y 2 841 al mayoreo, en mayo de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "37a0e1df-2fda-817e-b03b-df947b4f44c0",
+      "title": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm",
+      "published": "2026-06-09",
+      "summary": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "37a0e1df-2fda-810d-a077-cc8e5405b0c9",
+      "title": "2026 05 31 PMR - Jonathan Overett Somnier",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/e36009c9-7bef-4f27-b657-e2bda9995cea/2026%2005%2031%20PMR%20-%20Jonathan%20Overett%20Somnier.pdf",
+      "published": "2026-06-09",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "37a0e1df-2fda-81bd-8c76-f59417a9d119",
+      "title": "Nigeria: Selected Issues",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/08/nigeria-selected-issues-576686",
+      "published": "2026-06-09",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37a0e1df-2fda-819d-9ca2-ec578b221c6e",
+      "title": "Nigeria: 2026 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for Nigeria",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/08/nigeria-2026-article-iv-consultation-press-release-staff-report-and-statement-by-the-576681",
+      "published": "2026-06-09",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37a0e1df-2fda-815a-bcc9-c4b550fac26d",
+      "title": "June 9, 2026A Stronger Europe for Tougher Times",
+      "url": "https://www.imf.org/en/news/articles/2026/06/09/sp060926-md-a-stronger-europe-for-tougher-times",
+      "published": "2026-06-09",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "37a0e1df-2fda-81a5-bb95-fa50285c0902",
+      "title": "June 9, 20262026 MENA Research Conference in Morocco",
+      "url": "https://www.imf.org/en/news/articles/2026/06/09/pr26174-2026-mena-research-conference-in-morocco",
+      "published": "2026-06-09",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "37a0e1df-2fda-813e-b449-c21a536cad80",
+      "title": "June 9, 2026IMF Executive Board Concludes 2026 Article IV Consultation with Nigeria",
+      "url": "https://www.imf.org/en/news/articles/2026/06/09/pr26190-nigeria-imf-executive-board-concludes-2026-article-iv-consultation-with-nigeria",
+      "published": "2026-06-09",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "37a0e1df-2fda-81ee-9b78-cafc2aec6864",
+      "title": "Asset price bubbles and systemic risk in money market funds",
+      "url": "https://www.bis.org/publ/work1358.htm",
+      "published": "2026-06-09",
+      "summary": "by Matteo Aquilina, Peter Cincinelli, Giovanni Urga We investigate the systemic risk contribution of 3,500 Money Market Funds (MMFs) in normal periods and during asset price bubbles in the US from January 2004 to December 2022. Using state-of-the-art statistical techniques for bubble detection and granular fund-level data, we show that MMF characteristics significantly influence systemic risk.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "37a0e1df-2fda-81f6-944f-e7136fcbaa23",
       "title": "Strong Policy Action Key to Protecting Cambodia's Jobs and Livelihoods Amid Shocks",
@@ -608,6 +751,17 @@
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
     },
     {
+      "id": "37a0e1df-2fda-81ed-a090-c4836f943e30",
+      "title": "The Role of Inflation Perceptions in Consumer Inflation Expectations: Evidence from the Euro Area",
+      "url": "https://www.federalreserve.gov/econres/feds/files/2026038pap.pdf",
+      "published": "2026-06-03",
+      "summary": "Board of Governors of the Federal Reserve System Finance and Economics Discussion Series by Matthieu Bussi&#258;¨re, Johanna Gilbert and Olesya V. Grishchenko",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
       "id": "3750e1df-2fda-812a-9460-ea062bcbc3b4",
       "title": "Earth, Wind, and Sun: Harnessing Local Resources for Job Creation and Energy Security in the Philippines",
       "url": "http://www.worldbank.org/en/news/feature/2026/06/03/earth-wind-and-sun-harnessing-local-resources-for-job-creation-and-energy-security-in-the-philippines",
@@ -883,6 +1037,39 @@
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
+      "id": "37a0e1df-2fda-8122-ad50-d55a2ffd97a5",
+      "title": "Paying More and Buying Less: 2025 Tariffs and U.S. Household Spending",
+      "url": "https://www.federalreserve.gov/econres/feds/files/2026035pap.pdf",
+      "published": "2026-06-02",
+      "summary": "Board of Governors of the Federal Reserve System Finance and Economics Discussion Series by Leo Feler and Sinem Hacioglu Hoke",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "37a0e1df-2fda-814f-879c-ede3150aaa66",
+      "title": "Double Inertia, Taylor Rules, and Monetary Policy Gradualism",
+      "url": "https://www.federalreserve.gov/econres/feds/files/2026036pap.pdf",
+      "published": "2026-06-02",
+      "summary": "Board of Governors of the Federal Reserve System Finance and Economics Discussion Series by Edmund Crawley, William Goodwin, Margaret M. Jacobson and Fabian Winkler",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "37a0e1df-2fda-818e-93cc-d39be2940557",
+      "title": "The Fragility of Perfectly Safe Digital Money",
+      "url": "https://www.federalreserve.gov/econres/feds/files/2026037pap.pdf",
+      "published": "2026-06-02",
+      "summary": "Board of Governors of the Federal Reserve System Finance and Economics Discussion Series by Elizabeth C. Klee, Arazi Lubis, Chase Ross, Sharon Y. Ross and Alexandros Vardoulakis",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
       "id": "3750e1df-2fda-81f8-bad9-c2d0d2ca23bc",
       "title": "A Nonparametric Approach to Augmenting a Bayesian VAR with Nonlinear Factors",
       "url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/2026/wp2614.pdf",
@@ -1112,6 +1299,39 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "37a0e1df-2fda-811a-ab05-f520ef086280",
+      "title": "The digitalisation of banking and social media: implications for deposit pricing",
+      "url": "https://www.bis.org/publ/work1357.pdf",
+      "published": "2026-06-01",
+      "summary": "Bank for International Settlements BIS Working Papers by Giulio Cornelli, Leonardo Gambacorta, Boris Hofmann and Michael Brei",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "37a0e1df-2fda-8173-b02c-ea5caa9a5c0d",
+      "title": "The role of confidence measures in European unemployment dynamics",
+      "url": "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/26/Files/dt2616e.pdf",
+      "published": "2026-06-01",
+      "summary": "Bank of Spain Working Papers by Marta García-Rodríguez and Clemente Pinilla-Torremocha",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "37a0e1df-2fda-81df-9f7d-e2f3460b5391",
+      "title": "Financial Liberalizations, Booms, and Crashes",
+      "url": "https://www.federalreserve.gov/econres/feds/files/2026034pap.pdf",
+      "published": "2026-06-01",
+      "summary": "Board of Governors of the Federal Reserve System Finance and Economics Discussion Series by Maximilian Grimm, Moritz Schularick and Emil Verner",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3790e1df-2fda-8138-b9e0-ef7fffa278b9",
