@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-06-09T21:28:25.373349+00:00",
-  "total_items": 585,
+  "generated_at": "2026-06-10T11:20:49.290163+00:00",
+  "total_items": 588,
   "items": [
+    {
+      "id": "37b0e1df-2fda-818c-b8d0-dbac07616158",
+      "title": "June 10, 2026Navigating the Shock in a Fiscally Responsible Way",
+      "url": "https://www.imf.org/en/news/articles/2026/06/10/sp061026-dmd-speech-the-eleventh-tokyo-fiscal-forum",
+      "published": "2026-06-10",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "37b0e1df-2fda-81e7-aafc-c0d425eef598",
+      "title": "June 9, 2026IMF Executive Board Completes the First Review Under the Stand-By Arrangement with Armenia",
+      "url": "https://www.imf.org/en/news/articles/2026/06/09/pr-26195-armenia-imf-executive-board-completes-the-first-review-under-the-stand-by-arrangement",
+      "published": "2026-06-09",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
     {
       "id": "37a0e1df-2fda-81d9-be60-dea19ff6b22a",
       "title": "SBS otorga autorización de funcionamiento a Prex Perú como empresa de créditos 100% digital",
@@ -6260,6 +6282,17 @@
       "country": "Global",
       "type": "Central Bank Research Hub",
       "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "37b0e1df-2fda-816a-9e05-e229797e1c2c",
+      "title": "Learning at Scale : Infrastructure, Aid Effectiveness, and World Bank Performance",
+      "url": "http://documents.worldbank.org/curated/undefined/099026406092610622/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3790e1df-2fda-81d5-8613-ce98fe624523",
