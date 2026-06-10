@@ -1,12 +1,122 @@
 {
-  "generated_at": "2026-06-10T11:20:49.290163+00:00",
-  "total_items": 588,
+  "generated_at": "2026-06-10T22:31:05.905507+00:00",
+  "total_items": 599,
   "items": [
+    {
+      "id": "37b0e1df-2fda-8118-9e98-cc3b93825739",
+      "title": "Indicador Mensual de la Actividad Industrial por Entidad Federativa (IMAIEF). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10946",
+      "published": "2026-06-10",
+      "summary": "Aumentó la actividad industrial a tasa mensual en Oaxaca (13.5 %), en Quintana Roo (8.9 %) y en Baja California Sur (5.9 %) en febrero de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "37b0e1df-2fda-8191-bb81-eb11a4141cc3",
+      "title": "Índice de Productividad Laboral y Costo Unitario de la Mano de Obra. Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10945",
+      "published": "2026-06-10",
+      "summary": "Disminuyó 0.1% el Índice Global de Productividad Laboral de la Economía, en el periodo enero-marzo de 2026, a tasa trimestral",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "37b0e1df-2fda-81ed-8181-d24cc2dbaa54",
+      "title": "Frank Elderson: Interview with Het Financieele Dagblad",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260610~439aa97519.en.html",
+      "published": "2026-06-10",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "37b0e1df-2fda-8101-845e-c52abcdbe80b",
+      "title": "Suriname: Post-Financing Assessment Discussions-Press Release; and Staff Report",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/10/suriname-post-financing-assessment-discussions-press-release-and-staff-report-576744",
+      "published": "2026-06-10",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37b0e1df-2fda-81a6-9b97-fcb40eceafb9",
+      "title": "Ukraine: Technical Assistance Report-Customs’ National Revenue Strategy Implementation and Key Corporate Functions",
+      "url": "https://www.imf.org/en/publications/technical-assistance-reports/issues/2026/06/10/ukraine-technical-assistance-report-customs-national-revenue-strategy-implementation-and-576716",
+      "published": "2026-06-10",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37b0e1df-2fda-8105-b68a-ed6ac17ca0cc",
+      "title": "Republic of the Marshall Islands: Technical Assistance Report-Operationalizing A New Monetary Authority",
+      "url": "https://www.imf.org/en/publications/technical-assistance-reports/issues/2026/06/10/republic-of-the-marshall-islands-technical-assistance-report-operationalizing-a-new-576711",
+      "published": "2026-06-10",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37b0e1df-2fda-8188-aeda-d739a4f618c4",
+      "title": "Republic of Armenia: First Review Under the Stand-By Arrangement, Request for Modification of Performance Criteria and Monetary Policy Consultation Clause-Press Release; and Staff Report",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/10/republic-of-armenia-first-review-under-the-stand-by-arrangement-request-for-modification-576749",
+      "published": "2026-06-10",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37b0e1df-2fda-81af-8f83-db72b5575a6f",
+      "title": "Papua New Guinea: Sixth Reviews Under the Extended Arrangement Under the Extended Fund Facility and the Arrangement Under the Extended Credit Facility, Request for a Waiver of Nonobservance of Performance Criterion, and Second Review Under the Resilience and Sustainability Facility Arrangement-Press Release; Staff Report; and Statement by the Executive Director for Papua New Guinea",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/10/papua-new-guinea-sixth-reviews-under-the-extended-arrangement-under-the-extended-fund-576729",
+      "published": "2026-06-10",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37b0e1df-2fda-819f-a317-d48e7327cf4f",
+      "title": "June 10, 2026IMF Executive Board Concludes 2026 Article IV Consultation with Georgia",
+      "url": "https://www.imf.org/en/news/articles/2026/06/10/pr-26197-georgia-imf-executive-board-concludes-2026-article-iv-consultation",
+      "published": "2026-06-10",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
     {
       "id": "37b0e1df-2fda-818c-b8d0-dbac07616158",
       "title": "June 10, 2026Navigating the Shock in a Fiscally Responsible Way",
       "url": "https://www.imf.org/en/news/articles/2026/06/10/sp061026-dmd-speech-the-eleventh-tokyo-fiscal-forum",
       "published": "2026-06-10",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "37b0e1df-2fda-8106-8cc2-d836b7fda1f9",
+      "title": "June 10, 2026Sierra Leone: IMF Staff Reaches Staff-Level Agreement on the Third Review Under the Extended Credit Facility (ECF) Arrangement and an Arrangement under the Resilience and Sustainability Facility (RSF)",
+      "url": "https://www.imf.org/en/news/articles/2026/06/09/pr-26194-sierra-leone-imf-reaches-agreement-on-3rd-rev-under-ecf-arrang-and-arrang-under-rsf",
+      "published": "2026-06-09",
       "summary": "",
       "regulator": "IMF",
       "country": "Global",
@@ -6282,6 +6392,17 @@
       "country": "Global",
       "type": "Central Bank Research Hub",
       "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "37b0e1df-2fda-812b-8d93-c1124b642642",
+      "title": "F&D Issue Archives",
+      "url": "https://www.imf.org/en/publications/fandd/issues",
+      "published": "",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
     },
     {
       "id": "37b0e1df-2fda-816a-9e05-e229797e1c2c",
