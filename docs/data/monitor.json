@@ -1,7 +1,216 @@
 {
-  "generated_at": "2026-06-11T12:32:42.048187+00:00",
-  "total_items": 607,
+  "generated_at": "2026-06-11T22:31:31.347500+00:00",
+  "total_items": 627,
   "items": [
+    {
+      "id": "37c0e1df-2fda-810e-9aa2-faeb18ab681c",
+      "title": "SBS y WWF Perú realizaron taller sobre la importancia de la información ambiental para el sector financiero",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3938",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "37c0e1df-2fda-811c-9d55-edf95db0cf56",
+      "title": "Colombianos cuentan con una nueva herramienta para “reforzar la defensa” frente al fraude financiero",
+      "url": "https://www.superfinanciera.gov.co/10116157",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "37c0e1df-2fda-8144-ab2e-cf78b181b9a0",
+      "title": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
+      "published": "2026-06-11",
+      "summary": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "37c0e1df-2fda-81cf-a304-ee30424e9477",
+      "title": "Eurosystem staff macroeconomic projections for the euro area, June 2026",
+      "url": "https://www.ecb.europa.eu//press/projections/html/ecb.projections202606_eurosystemstaff~a495110f8d.en.html",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "37c0e1df-2fda-81fa-92e4-c0f022db8a46",
+      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
+      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260611~372040d313.en.html",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "37c0e1df-2fda-8175-80fe-e79e9842a996",
+      "title": "ROPAp - Pillar 3 Datahub",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/51a1227a-ff51-461a-b6e0-67e807ccc8db/ROPAp%20-%20Pillar%203%20Datahub.pdf",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "37c0e1df-2fda-81d1-8b7d-f3fc37e714c9",
+      "title": "2027 EU-wide stress test - Draft Templates",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/60d20e15-f027-4d87-980b-27aeaa7fb6d8/2027%20EU-wide%20stress%20test%20-%20Draft%20Templates.xlsx",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "37c0e1df-2fda-8160-b0fd-d1fe5164321d",
+      "title": "2027 EU-wide stress test - Draft Template Guidance",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/e4eedf91-0957-4f02-b4c9-22154f491904/2027%20EU-wide%20stress%20test%20-%20Draft%20Template%20Guidance.pdf",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "37c0e1df-2fda-81f3-9c50-fc73c569e658",
+      "title": "2027 EU-wide stress test - Draft Methodological Note",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/7185aac4-4a70-4d83-ae1b-1cfca979ae07/2027%20EU-wide%20stress%20test%20-%20Draft%20Methodological%20Note.pdf",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "37c0e1df-2fda-81b4-abc0-d1c91d62eeb7",
+      "title": "The EBA launches early consultation on simplified EU-wide stress test, with climate risk integration",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-early-consultation-simplified-eu-wide-stress-test-climate-risk-integration",
+      "published": "2026-06-11",
+      "summary": "The European Banking Authority (EBA) published today the draft methodology, templates, and template guidance for the 2027 EU-wide stress test. The 2027 exercise introduces significant simplifications to improve efficiency and risk sensitivity, while preserving the robustness and comparability of results. Key changes include a substantial reduction in data requirements, the alignment of information with harmonised supervisory reporting, and the integration of climate risks into the EU-wide stress test. A total of 63 banks from the EU and Norway, including 47 from the euro area, will participate, covering 75% of the EU banking sector. The industry consultation is being launched at an earlier stage than for previous EBA stress tests, to facilitate banks’ preparedness.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "37c0e1df-2fda-8143-a698-d56c3e3c0709",
+      "title": "Middle East Conflict Sends Global Growth to Lowest Rate Since COVID-19",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/06/11/global-economic-prospects-june-2026-press-release",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "37c0e1df-2fda-81b0-92c1-df3a1549862b",
+      "title": "Republic of Moldova: Financial Sector Assessment Program-Technical Note on Macroprudential Framework and Policies",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/11/republic-of-moldova-financial-sector-assessment-program-technical-note-on-macroprudential-576821",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37c0e1df-2fda-81ed-a260-c0ffeafa3309",
+      "title": "Resilience Through Inclusion: Women and Data-Driven Climate Policies in Rwanda",
+      "url": "https://www.imf.org/en/publications/selected-issues-papers/issues/2026/06/11/resilience-through-inclusion-women-and-data-driven-climate-policies-in-rwanda-576831",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37c0e1df-2fda-8112-8025-fc1193cde75b",
+      "title": "Unlocking Rwanda’s Export Potential: Removing Structural Bottlenecks",
+      "url": "https://www.imf.org/en/publications/selected-issues-papers/issues/2026/06/11/unlocking-rwandas-export-potential-removing-structural-bottlenecks-576837",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37c0e1df-2fda-81ff-8b11-fe17b63650eb",
+      "title": "Namibia: 2026 Article IV Consultation-Press Release; and Staff Report",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/11/namibia-2026-article-iv-consultation-press-release-and-staff-report-576809",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37c0e1df-2fda-816c-826a-e1c2f1808226",
+      "title": "Namibia: Selected Issues",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/11/namibia-selected-issues-576814",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37c0e1df-2fda-81d4-a23f-ddb252d6bd7b",
+      "title": "Peru: Selected Issues",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/10/peru-selected-issues-576739",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37c0e1df-2fda-81f6-8f8f-e0fe48e42292",
+      "title": "June 11, 2026Toward a European Energy Union",
+      "url": "https://www.imf.org/en/news/articles/2026/06/11/sp061126-md-toward-a-european-energy-union",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "37c0e1df-2fda-81aa-a3b7-f2e4357165eb",
+      "title": "June 11, 2026IMF Executive Board Concludes 2026 Article IV Consultation with Namibia",
+      "url": "https://www.imf.org/en/news/articles/2026/06/11/pr-26198-namibia-imf-executive-board-concludes-2026-article-iv-consultation",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
     {
       "id": "37c0e1df-2fda-81ff-9de5-c315b16a5fb7",
       "title": "Encuesta de Viajeros Internacionales (EVI)",
@@ -67,6 +276,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "37c0e1df-2fda-81cc-a086-c8202f2aee6f",
+      "title": "June 11, 2026Euro Area: IMF Staff Concluding Statement of the 2026 Mission on Common Policies for Member Countries",
+      "url": "https://www.imf.org/en/news/articles/2026/06/10/mcs-06112026-euro-area-imf-cs-of-2026-mission-on-common-policies-for-member-countries",
+      "published": "2026-06-10",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
     },
     {
       "id": "37c0e1df-2fda-8154-8c4d-eb6d718570d7",
