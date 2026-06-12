@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-06-11T22:31:31.347500+00:00",
-  "total_items": 627,
+  "generated_at": "2026-06-12T11:33:16.525285+00:00",
+  "total_items": 631,
   "items": [
+    {
+      "id": "37d0e1df-2fda-813a-8bd3-e92f7adfd724",
+      "title": "EU structural financial indicators: end of 2025",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260612~ab34769159.en.html",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "37d0e1df-2fda-81f8-b015-d8126b278fe1",
+      "title": "GENIUS Act: Reporting Forms and Instructions for Permitted Payment Stablecoin Issuers Subject to the Jurisdiction of the Office of the Comptroller of the Currency",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-24.html",
+      "published": "2026-06-11",
+      "summary": "The OCC is proposing a new information collection that would include weekly and quarterly reporting forms that must be completed by permitted payment stablecoin issuers and foreign payment stablecoin issuers registered with the OCC under the Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act. Comments are requested on these forms within 60 days of publication of the information collection in the Federal Register.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "37d0e1df-2fda-8173-b203-ce4f4d19ff4a",
+      "title": "Financial Data Transparency Act of 2022: Final Rule",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-25.html",
+      "published": "2026-06-11",
+      "summary": "The Office of the Comptroller of the Currency (OCC), the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the National Credit Union Administration, the Consumer Financial Protection Bureau, the Federal Housing Finance Agency, the Commodity Futures Trading Commission, the Securities and Exchange Commission, and the Department of Treasury are issuing a joint final rule to implement the Financial Data Transparency Act of 2022. To promote interoperability of financial regulatory data, the joint final rule establishes joint data standards for certain collections of information reported by regulated financial entities and data collected on behalf of the Financial Stability Oversight Council.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "37d0e1df-2fda-8145-895c-d45fce3d30cb",
+      "title": "June 11, 2026Transcript: IMF Managing Directors Press Conference on the Annual Economic Assessment of the Euro Area",
+      "url": "https://www.imf.org/en/news/articles/2026/06/11/tr-06112026-euro-area-imf-managing-directors-press-conference-on-annual-economic-assessment",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
     {
       "id": "37c0e1df-2fda-810e-9aa2-faeb18ab681c",
       "title": "SBS y WWF Perú realizaron taller sobre la importancia de la información ambiental para el sector financiero",
