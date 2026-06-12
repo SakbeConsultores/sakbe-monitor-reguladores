@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-06-12T11:33:16.525285+00:00",
-  "total_items": 631,
+  "generated_at": "2026-06-12T21:23:26.683335+00:00",
+  "total_items": 649,
   "items": [
+    {
+      "id": "37d0e1df-2fda-813e-a24f-f05c0e3b3abd",
+      "title": "Letter from the ECB President to Mr Bruno Gonçalves, MEP, on financing the green transition",
+      "url": "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter260612_Goncalves~ef717525ca.en.pdf",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "37d0e1df-2fda-811c-85a3-dce160f61199",
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260612~12de4776f6.en.html",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "37d0e1df-2fda-812e-a266-fc357478a6f3",
+      "title": "EBA Learning Hub Course Offer for Public - June 2026 edition",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/bed91174-c4f8-450f-b756-b5b67e543f65/EBA%20Learning%20Hub%20Course%20Offer%20for%20Public%20-%20June%202026%20edition.pdf",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "37d0e1df-2fda-81fa-959b-c3e93c149137",
+      "title": "Central Clearing for Government Securities Repos: A CCP-Centric Perspective",
+      "url": "https://www.imf.org/en/publications/wp/issues/2026/06/12/central-clearing-for-government-securities-repos-a-ccp-centric-perspective-576850",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37d0e1df-2fda-81ab-843c-dade99fd59a0",
+      "title": "Wage Dynamics in Europe: Drivers, Institutional Amplifiers, and Policy Spillovers",
+      "url": "https://www.imf.org/en/publications/wp/issues/2026/06/12/wage-dynamics-in-europe-drivers-institutional-amplifiers-and-policy-spillovers-576876",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37d0e1df-2fda-817e-a499-fc2f6cc644bf",
+      "title": "Decoding Fiscal Messaging: How G7 Finance Ministries Communicate",
+      "url": "https://www.imf.org/en/publications/wp/issues/2026/06/10/decoding-fiscal-messaging-how-g7-finance-ministries-communicate-575169",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37d0e1df-2fda-8164-9526-f90efe6fb443",
+      "title": "HANK-Based Fiscal Consolidation for a High-Debt Advanced Euro Area Economy",
+      "url": "https://www.imf.org/en/publications/wp/issues/2026/06/12/hank-based-fiscal-consolidation-for-a-high-debt-advanced-euro-area-economy-576864",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37d0e1df-2fda-81fa-816c-ea242dc6111f",
+      "title": "Innovation, Human Capital, and Taxation: Evidence from a Structural Model of the Canadian Economy",
+      "url": "https://www.imf.org/en/publications/wp/issues/2026/06/10/innovation-human-capital-and-taxation-evidence-from-a-structural-model-of-the-canadian-576734",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37d0e1df-2fda-81b5-9fb5-cc553f1cc861",
+      "title": "Targeting State Aid: Firm-level Evidence from France",
+      "url": "https://www.imf.org/en/publications/wp/issues/2026/06/12/targeting-state-aid-firm-level-evidence-from-france-576867",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37d0e1df-2fda-81c7-8fb0-d274f3dfe5f3",
+      "title": "June 12, 2026IMF Staff Concludes Visit to Mozambique",
+      "url": "https://www.imf.org/en/news/articles/2026/06/12/pr26199-mozambique-imf-staff-concludes-visit",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "37d0e1df-2fda-8161-a253-f427f2176610",
+      "title": "June 12, 2026IMF and Niger Reach Staff-Level Agreement on the Ninth Review Under the Extended Credit Facility",
+      "url": "https://www.imf.org/en/news/articles/2026/06/12/pr-26200-niger-imf-reaches-agreement-on-9th-rev-under-ecf",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "37d0e1df-2fda-812b-85f1-d950ff24b8a0",
+      "title": "June 12, 2026IMF Staff Reaches Staff Level Agreement on the First Review of the Extended Fund Facility Arrangement and Concludes Discussions of the 2026 Article IV Consultation with Ukraine",
+      "url": "https://www.imf.org/en/news/articles/2026/06/12/pr-26202-ukraine-imf-reaches-agreement-1st-rev-of-eff-arrang-2026-art-iv-consult",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "37d0e1df-2fda-812d-a936-d6faaccdb38a",
+      "title": "June 12, 2026IMF Executive Board Completes the Eleventh Review under the Extended Credit Facility Arrangement for Guinea-Bissau",
+      "url": "https://www.imf.org/en/news/articles/2026/06/12/pr-26204-guinea-bissau-imf-completes-the-11th-rev-under-ecf-arrang",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "37d0e1df-2fda-819c-809c-cf969ce64cd9",
+      "title": "Credit supply in the wake of distressed bank acquisitions",
+      "url": "https://www.bis.org/publ/work1360.htm",
+      "published": "2026-06-12",
+      "summary": "by Ryan Niladri Banerjee, Francisco González, José E Gutierrez, José María Serena Garralda This paper examines the credit supply effects of sale-of-business (SoB) bank resolutions under the post-Global Financial Crisis regulatory framework, focusing on the resolution of a major Spanish bank. We provide the first micro-level evidence of how an SoB resolution reshapes credit allocation. The acquiring bank preserved lending relationships, prioritizing support for riskier inherited borrowers most exposed to competing banks' retrenchment. This stabilization was achieved despite tighter capital conditions, as the acquiring bank strategically reallocated credit within its broader portfolio, shifting away from more capital-intensive exposures.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "37d0e1df-2fda-813a-8bd3-e92f7adfd724",
       "title": "EU structural financial indicators: end of 2025",
@@ -12,6 +166,28 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "37d0e1df-2fda-81c2-8d05-c9235f2d0461",
+      "title": "Middle East Conflict Sends Global Growth to Lowest Rate Since COVID-19",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/06/11/global-economic-prospects-june-2026-press-release",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "37d0e1df-2fda-81f7-ad0c-e7e21bcb7d01",
+      "title": "World Bank Support to Help Solomon Islands Recover from Tropical Cyclone Maila",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/06/11/world-bank-support-to-help-solomon-islands-recover-from-tropical-cyclone-maila",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "37d0e1df-2fda-81f8-b015-d8126b278fe1",
@@ -463,6 +639,28 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "37d0e1df-2fda-811f-88a2-fb3773b5830b",
+      "title": "Kyrgyz Republic to Access Innovative Finance Through Energy Reform Program",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/06/09/kyrgyz-republic-to-access-innovative-finance-through-energy-reform-program",
+      "published": "2026-06-09",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "37d0e1df-2fda-81bb-ba20-c6ca2d87efaa",
+      "title": "Harnessing Urban Growth for Recovery: New World Bank Report Charts Pathways for Resilient and Inclusive Cities in South Sudan",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/06/09/harnessing-urban-growth-for-recovery-new-world-bank-report-charts-pathways-for-resilient-and-inclusive-cities-in-south-s",
+      "published": "2026-06-09",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "37b0e1df-2fda-8106-8cc2-d836b7fda1f9",
