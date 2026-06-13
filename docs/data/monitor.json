@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-06-12T21:23:26.683335+00:00",
-  "total_items": 649,
+  "generated_at": "2026-06-13T08:43:04.851101+00:00",
+  "total_items": 653,
   "items": [
+    {
+      "id": "37e0e1df-2fda-814f-8024-eb3a68c8752b",
+      "title": "La Superfinanciera abre sus puertas: convocatoria de prácticas y judicaturas 2026",
+      "url": "https://www.superfinanciera.gov.co/10116161",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "37e0e1df-2fda-8183-b5a5-d0b443229019",
+      "title": "ASEAN’s Trade and Investment in a Fragmented World",
+      "url": "https://www.imf.org/en/publications/wp/issues/2026/06/12/aseans-trade-and-investment-in-a-fragmented-world-576586",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37e0e1df-2fda-810d-860e-d07a80302cb8",
+      "title": "Barriers to a European Banking Union",
+      "url": "https://www.imf.org/en/publications/wp/issues/2026/06/12/barriers-to-a-european-banking-union-576858",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "37e0e1df-2fda-816e-8f10-dfc6af0d5746",
+      "title": "June 12, 2026IMF Executive Board Concludes 2026 Article IV Consultation with St. Vincent and the Grenadines",
+      "url": "https://www.imf.org/en/news/articles/2026/06/12/pr-26205-st-vincent-and-the-grenadines-imf-concludes-2026-art-iv-consult",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
     {
       "id": "37d0e1df-2fda-813e-a24f-f05c0e3b3abd",
       "title": "Letter from the ECB President to Mr Bruno Gonçalves, MEP, on financing the green transition",
