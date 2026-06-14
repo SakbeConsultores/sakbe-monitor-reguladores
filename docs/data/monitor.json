@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-06-14T09:06:54.720779+00:00",
-  "total_items": 653,
+  "generated_at": "2026-06-14T20:20:39.844001+00:00",
+  "total_items": 659,
   "items": [
+    {
+      "id": "37f0e1df-2fda-81e5-b16f-db6c011b2fc4",
+      "title": "Water Flows, Jobs Follow - Karnataka Shows the Way",
+      "url": "http://www.worldbank.org/en/news/feature/2026/06/12/water-flows-jobs-follow-karnataka-shows-the-way",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "37f0e1df-2fda-8172-89e8-c7e3f75994c8",
+      "title": "Kyrgyz Republic to Improve Water Security and Agricultural Productivity with World Bank Support",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/06/12/kyrgyz-republic-to-improve-water-security-and-agricultural-productivity-with-world-bank-support",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "37f0e1df-2fda-81c9-9086-f2a30d886557",
+      "title": "Two New Programs to Advance Morocco's Digital Transformation and Climate Resilience",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/06/12/two-new-programs-to-advance-morocco-s-digital-transformation-and-climate-resilience",
+      "published": "2026-06-12",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "37e0e1df-2fda-814f-8024-eb3a68c8752b",
       "title": "La Superfinanciera abre sus puertas: convocatoria de prácticas y judicaturas 2026",
@@ -210,6 +243,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "37f0e1df-2fda-81c2-ab79-e4b910269194",
+      "title": "Farming is Building a Stronger Rural Economy in Uttar Pradesh, India",
+      "url": "http://www.worldbank.org/en/news/feature/2026/06/11/farming-is-building-a-stronger-rural-economy-in-uttar-pradesh-india",
+      "published": "2026-06-11",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "37d0e1df-2fda-81c2-8d05-c9235f2d0461",
@@ -542,6 +586,17 @@
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
+      "id": "37f0e1df-2fda-81fa-bca1-feba475d3b7b",
+      "title": "Carbon Revenues Support Clean Water Access and Make a Generational Shift in Quality of Life in the Democratic Republic of Congo (DRC)",
+      "url": "http://www.worldbank.org/en/news/feature/2026/06/10/carbon-revenues-support-clean-water-access-and-make-a-generational-shift-in-quality-of-life-in-drc",
+      "published": "2026-06-10",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
       "id": "37c0e1df-2fda-81cc-a086-c8202f2aee6f",
       "title": "June 11, 2026Euro Area: IMF Staff Concluding Statement of the 2026 Mission on Common Policies for Member Countries",
       "url": "https://www.imf.org/en/news/articles/2026/06/10/mcs-06112026-euro-area-imf-cs-of-2026-mission-on-common-policies-for-member-countries",
@@ -683,6 +738,17 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "37f0e1df-2fda-817e-8a21-c2c656d99623",
+      "title": "South–South Learning to Strengthen Environmental and Social Risk Management Across Somalia",
+      "url": "http://www.worldbank.org/en/news/feature/2026/06/09/south-south-learning-to-strengthen-environmental-and-social-risk-management-across-somalia",
+      "published": "2026-06-09",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "37d0e1df-2fda-811f-88a2-fb3773b5830b",
