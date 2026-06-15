@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-06-15T16:29:46.286536+00:00",
-  "total_items": 674,
+  "generated_at": "2026-06-15T22:40:12.265496+00:00",
+  "total_items": 677,
   "items": [
+    {
+      "id": "3800e1df-2fda-814c-b3da-f889663b3f1c",
+      "title": "From Degraded Hillsides to Productive Land: Ethiopia’s Landscape Management Program",
+      "url": "http://www.worldbank.org/en/news/feature/2026/06/15/from-degraded-hillsides-to-productive-land-ethiopia-s-landscape-management-program",
+      "published": "2026-06-15",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3800e1df-2fda-815d-a2eb-ffc717c1da14",
+      "title": "Smarter Agricultural Public Spending is Key to Jobs, Productivity and Resilience in Bangladesh",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/06/15/smarter-agricultural-public-spending-is-key-to-jobs-productivity-and-resilience-in-bangladesh",
+      "published": "2026-06-15",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3800e1df-2fda-81c9-9a8d-c6b3a9b4428b",
+      "title": "Second Emerging Markets CLO Advances World Bank Group Push to Mobilize Private Capital for Jobs",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/06/15/second-emerging-markets-clo-advances-world-bank-group-push-to-mobilize-private-capital-for-jobs",
+      "published": "2026-06-15",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3800e1df-2fda-811a-92cc-da514009660b",
       "title": "Financial stability considerations for monetary policy at the European Central Bank: conceptual framework and quantitative tools",
