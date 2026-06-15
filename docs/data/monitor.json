@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-06-14T20:20:39.844001+00:00",
-  "total_items": 659,
+  "generated_at": "2026-06-15T16:29:46.286536+00:00",
+  "total_items": 674,
   "items": [
+    {
+      "id": "3800e1df-2fda-811a-92cc-da514009660b",
+      "title": "Financial stability considerations for monetary policy at the European Central Bank: conceptual framework and quantitative tools",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpdps/ecb.dp30~efc21667a0.en.pdf",
+      "published": "2026-06-15",
+      "summary": "The paper documents models used to analyse the interactions and trade-offs between price and financial stability at the European Central Bank. The paper describes a simple conceptual framework to think about the short- and medium-term trade-offs between price and financial stability. Short-term trade-offs arise whenever current inflationary pressure is high, but the financial system is experiencing stress. Medium-term trade-offs arise whenever current inflationary pressure is low, but risk is building up in the financial system. We document four main sets of models used to quantify trade-offs: time series models, balance sheet models, credit risk models and DSGE models with banking and financial frictions.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3800e1df-2fda-8136-8fae-c4e3fc03a1aa",
+      "title": "FDI, gravity, and aggregation: revisiting the distance elasticity with sector-level FDI data",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3245~4d5ee7e8ea.en.pdf",
+      "published": "2026-06-15",
+      "summary": "This paper re-examines foreign direct investment motives in the ‘FDI gravity’ model (Kleinert and Toubal, 2010), focusing on the role of distance. More precisely, we investigate whether aggregate and pooled gravity models for FDI obscure relevant heterogeneities across sectors. This is possible through the novel MREID dataset, which provides us with FDI data at the 2-digit NAICS level for 184 countries over the period 2010 to 2020. Our results reveal that aggregate and pooled models mask significant sector heterogeneities in two aspects: (i) in the importance of horizontal versus vertical FDI motives, and (ii) in the distance elasticity. Distance is negatively correlated with FDI on an aggregate level, which is robust to multiple econometric specifications, but exhibits significant sector heterogeneity. Our analysis suggests the presence of complex sector-specific components that cannot easily be explained with standard economic rationales.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3800e1df-2fda-815c-ae88-c3c3819fd549",
+      "title": "Christine Lagarde: Money in transition",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html",
+      "published": "2026-06-15",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3800e1df-2fda-81f2-a04a-fbc8542baea8",
+      "title": "Carbon emissions of ECB and Eurosystem portfolios continue to decline",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260615~92388776dd.en.html",
+      "published": "2026-06-15",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3800e1df-2fda-81bb-a822-ca9976f6fa30",
+      "title": "Specific DPN Data collection - Contact Persons",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/bd0bf9c1-2170-4ace-a86d-cabd991dda81/Specific%20DPN%20Data%20collection%20-%20Contact%20Persons.pdf",
+      "published": "2026-06-15",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3800e1df-2fda-81e9-9e2d-c9683e532d2b",
+      "title": "Republic of Serbia: Third Review Under the Policy Coordination Instrument; Press Release and Staff Report",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/12/republic-of-serbia-third-review-under-the-policy-coordination-instrument-press-release-and-576843",
+      "published": "2026-06-15",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3800e1df-2fda-8173-8aaa-cc6a3dd02e95",
+      "title": "June 15, 2026IMF Executive Board Concludes the Third Review Under the Policy Coordination Instrument for the Republic of Serbia",
+      "url": "https://www.imf.org/en/news/articles/2026/06/15/pr26201-serbia-imf-concludes-the-third-review-under-pci",
+      "published": "2026-06-15",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3800e1df-2fda-814b-9a0c-dbca91592775",
+      "title": "BIS Quarterly Review, June 2026",
+      "url": "https://www.bis.org/publ/qtrpdf/r_qt2606.htm",
+      "published": "2026-06-15",
+      "summary": "Central banks have begun recalibrating their lending operations to bolster market resilience given shifts in the demand for liquidity. Most currency trades are settled in ways that avoid or minimise settlement risk, but more work is needed to mitigate risks.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "37f0e1df-2fda-81e5-b16f-db6c011b2fc4",
       "title": "Water Flows, Jobs Follow - Karnataka Shows the Way",
@@ -1191,6 +1279,17 @@
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
+      "id": "3800e1df-2fda-81a3-8a0c-f809af6a7bc6",
+      "title": "Reconciling Micro Elasticities with the Macro Decline in Labor Supply",
+      "url": "https://www.minneapolisfed.org/research/wp/wp814.pdf",
+      "published": "2026-06-05",
+      "summary": "Federal Reserve Bank of Minneapolis Working Papers by Loukas Karabarbounis",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
       "id": "37a0e1df-2fda-81f9-a7b4-e67674963e03",
       "title": "New US$900 million World Bank Financing to Improve Iraq’s Road Connectivity and Support Job Creation",
       "url": "http://www.worldbank.org/en/news/press-release/2026/06/05/new-us-900-million-world-bank-financing-to-improve-iraq-s-road-connectivity-and-support-job-creation",
@@ -2091,6 +2190,72 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3800e1df-2fda-8105-943a-c6c17c77056e",
+      "title": "Assessing the Effects of Recent Provisioning Rules on Consumer Credit Allocation in Colombia",
+      "url": "https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/11392/be_1356.pdf?utm_source=RePec=referral=BE=BE_1356",
+      "published": "2026-06-01",
+      "summary": "Central Bank of Colombia Working Papers by Diego Fernando Cuesta-Mora, Fredy Alejandro Gamboa-Estrada and Camilo Eduardo Sánchez-Quinto",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3800e1df-2fda-811a-b4f1-f794d9abfba9",
+      "title": "Asset price bubbles and systemic risk in money market funds",
+      "url": "https://www.bis.org/publ/work1358.pdf",
+      "published": "2026-06-01",
+      "summary": "Bank for International Settlements BIS Working Papers by Matteo Aquilina, Peter Cincinelli and Giovanni Urga",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3800e1df-2fda-8163-9ded-e5af4807b003",
+      "title": "The anatomy of stablecoin transactions",
+      "url": "https://www.bis.org/publ/work1359.pdf",
+      "published": "2026-06-01",
+      "summary": "Bank for International Settlements BIS Working Papers by Anneke Kosse, Tara Rice, Fabian Schär, Takeshi Shirakami and Jirapat Siridhasanakul",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3800e1df-2fda-81a5-92e2-f9f16a36d8ce",
+      "title": "Credit supply in the wake of distressed bank acquisitions",
+      "url": "https://www.bis.org/publ/work1360.pdf",
+      "published": "2026-06-01",
+      "summary": "Bank for International Settlements BIS Working Papers by Ryan Niladri Banerjee, Francisco González, José E Gutierrez and José María Serena Garralda",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3800e1df-2fda-81d0-ac2a-e98002f8fc61",
+      "title": "Processing forward-looking loan loss provisions: evidence from the adoption of the CECL model",
+      "url": "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/26/Files/dt2617e.pdf",
+      "published": "2026-06-01",
+      "summary": "Bank of Spain Working Papers by Daniel Dejuan-Bitria",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3800e1df-2fda-81f0-899d-f52aee136eca",
+      "title": "Credit Supply in the Wake of Distressed Bank Acquisitions",
+      "url": "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/26/Files/dt2618e.pdf",
+      "published": "2026-06-01",
+      "summary": "Bank of Spain Working Papers by Ryan Banerjee, Francisco González, José E. Gutiérrez and José María Serena",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "37a0e1df-2fda-811a-ab05-f520ef086280",
