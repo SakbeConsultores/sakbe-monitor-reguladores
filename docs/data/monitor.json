@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-06-16T16:13:26.594727+00:00",
-  "total_items": 696,
+  "generated_at": "2026-06-16T22:35:46.262918+00:00",
+  "total_items": 700,
   "items": [
+    {
+      "id": "3810e1df-2fda-81bb-bdf6-dd6770af91cd",
+      "title": "Superfinanciera realizó las primeras mesas técnicas en el proceso de implementación de las  Finanzas Abiertas obligatorias",
+      "url": "https://www.superfinanciera.gov.co/10116162",
+      "published": "2026-06-16",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "3810e1df-2fda-81d4-a30a-e7ce6eeb882f",
+      "title": "Report on simplifying the stacking orders of the EU prudential and resolution framework",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/fa80675a-1caa-4098-822f-511c6fad0616/Report%20on%20simplifying%20the%20stacking%20orders%20of%20the%20EU%20prudential%20and%20resolution%20framework.pdf",
+      "published": "2026-06-16",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3810e1df-2fda-8139-bf64-cd4d42598ac8",
+      "title": "Annual Report 2025 - Part 1",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/40a1da62-eba5-43e9-bf59-b5e55457c9ee/Annual%20Report%202025%20-%20Part%201.pdf",
+      "published": "2026-06-16",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3810e1df-2fda-81c5-9b25-da075eb59157",
+      "title": "efif_meeting_February_2026_minutes",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/ec7d07b5-adec-4dfc-bb82-62fde70773bc/EBA%20EFIF%20SoCs%20meeting%20on%2012%20February%202026.pdf",
+      "published": "2026-06-16",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
     {
       "id": "3810e1df-2fda-815e-9642-c6eb6c814899",
       "title": "Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares (ENDUTIH) 2025",
