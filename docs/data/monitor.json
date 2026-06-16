@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-06-15T22:40:12.265496+00:00",
-  "total_items": 677,
+  "generated_at": "2026-06-16T16:13:26.594727+00:00",
+  "total_items": 696,
   "items": [
+    {
+      "id": "3810e1df-2fda-815e-9642-c6eb6c814899",
+      "title": "Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares (ENDUTIH) 2025",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10953",
+      "published": "2026-06-16",
+      "summary": "En 2025, 86.1 % de la población mexicana usó internet, es decir, 104.9 millones de personas de 6 años y más",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3810e1df-2fda-8117-ba80-e8b4a77a9cb5",
+      "title": "Indicador Oportuno del Consumo Privado",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10952",
+      "published": "2026-06-16",
+      "summary": "El IOCP anticipa un incremento anual de 2.2% del consumo privado para abril y de 2.6% para mayo de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3810e1df-2fda-8118-9def-ebf666766609",
+      "title": "Encuesta Mensual de la Industria Manufacturera (EMIM). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10951",
+      "published": "2026-06-16",
+      "summary": "Aumentó 0.5% el volumen de la producción manufacturera en abril de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3810e1df-2fda-81a7-bf12-d220457eb216",
+      "title": "Transporte Urbano de Pasajeros",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10950",
+      "published": "2026-06-16",
+      "summary": "Viajaron 244.1 millones de personas pasajeras en los sistemas de transporte urbano durante abril de 2026: 5.1% más que el año anterior",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3810e1df-2fda-811d-9177-d880d715da61",
+      "title": "Household Finance and Consumption Survey: Methodological report for the 2023 wave",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpsps/ecb.sps52~20e2b58784.en.pdf",
+      "published": "2026-06-16",
+      "summary": "This report summarises the methodologies used in the fifth wave of the Eurosystem Household Finance and Consumption Survey, which provides household-level data collected in a harmonised way in the 20 euro area countries at the time of collection, as well as in the Czech Republic and Hungary. The total sample size comprises almost 90,000 households. Although the survey does not refer to the same time period in all countries, the most common reference period for the data is 2023. The report presents the methodologies applied in areas such as data collection, sample design, weighting, imputation and variance estimation. It also addresses statistical disclosure control issues and analyses issues that may have an effect on the comparability of the survey data across countries and waves.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3810e1df-2fda-8116-8436-d3c169076521",
+      "title": "Household Finance and Consumption Survey: Results from the 2023 wave",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpsps/ecb.sps53~7267e5b389.en.pdf",
+      "published": "2026-06-16",
+      "summary": "This report summarises the stylised facts from the 2023 wave of the Eurosystem Household Finance and Consumption Survey, which provides household-level data collected in a harmonised way in 20 euro area countries, as well as in the Czech Republic and Hungary, for a sample of almost 90,000 households. When compared with previous waves, the 2023 results are strongly affected by the temporary surge in inflation experienced in the euro area between 2021 and 2023. Since asset prices had not caught up with the price level by the time the survey was conducted, the real value of both assets and liabilities decreased for most households. In terms of net wealth, therefore, reductions were more pronounced for asset-rich households, while poorer, more indebted households tended to lose less, and sometimes benefit, from the price level increase. For real gross incomes, due to the slow adjustment of nominal wages, declines were recorded in the lower and middle parts of the distribution, including the median household, while those in the top income decile experienced gains. Expenditures on food were mostly stable in the aggregate, while those on utilities recorded some increase.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3810e1df-2fda-8114-af03-f06f2607c40f",
+      "title": "Innovation without borders? The geography of technological diffusion",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3246~e9aa80d0b9.en.pdf",
+      "published": "2026-06-16",
+      "summary": "How well does innovation diffuse across geographic boundaries? To shed light on this question, we present a large-scale field experiment involving 3,300 firms across twelve European Union countries. We elicit firms’ perceptions of the share of similar firms in their own country that had invested in artificial intelligence (AI), as well as the corresponding share among similar firms in Germany, France, and Italy. We randomly provide half of the sample with accurate information about both domestic and foreign AI investment. We show that firms substantially underestimate competitors’ current AI investment, both domestically and abroad, and that they update their expectations about competitors’ future AI investment in response to the information treatment. The treatment also causes a statistically significant increase in firms’ own expected AI investment rate. We find strong strategic complementarities within borders: a 1 pp increase in the expected share of domestic peers investing in AI raises a firm’s own expected AI investment rate by 0.570 pp. These complementarities are absent across borders: the effect of an increase in the expected share of foreign peers investing in AI on a firm’s own expected AI investment rate is statistically insignificant. Overall, our evidence shows that innovation diffusion and strategic complementarities in AI investment are much stronger domestically than internationally.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3810e1df-2fda-8117-adcf-f7934d5f7278",
+      "title": "Effectiveness of supervisory activities in mitigating banks’ commercial real estate risk",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3247~e9939db1a7.en.pdf",
+      "published": "2026-06-16",
+      "summary": "We assess the effectiveness of supervisory activities in mitigating credit risk stemming from banks’ commercial real estate portfolios. We analyse two activity types deployed by European banking supervisors: (a) on-site inspections, which assess in depth banks’ risk-taking and internal controls, but can only be selectively applied, and (b) off-site targeted reviews, which survey risk management practices across institutions, are less intrusive but are applied more widely. Using quarterly confidential supervisory data for large euro area banks between 2020 and 2024, we employ a Difference-in-Differences framework with an event-study design to capture the effects of these activities on the coverage ratio of banks’ commercial real estate portfolios. We find that on-site inspections are followed by persistent increases in coverage ratios, while targeted reviews are associated with immediate improvements which are significant but short-lived. The results highlight the complementary nature of the two activity types, which have different outreach possibilities and effects.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3810e1df-2fda-8129-9cfc-c9f116258d89",
+      "title": "Philip R. Lane: Outlook for the euro area economy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260616~8076dabd2c.en.pdf",
+      "published": "2026-06-16",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3810e1df-2fda-81b4-8762-e0b49f21d61a",
+      "title": "The EBA proposes simplifications to the EU bank capital framework in a holistic manner to strengthen its efficiency",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-proposes-simplifications-eu-bank-capital-framework-holistic-manner-strengthen-its-efficiency",
+      "published": "2026-06-16",
+      "summary": "The European Banking Authority (EBA) continues to execute on its simplification and efficiency programme. After proposals in April to reduce the reporting burden for banks and for a simpler stress-test in 2027, it publishes today a comprehensive review of the EU bank microprudential, macroprudential and resolution capital framework, including proposals to simplify it. The proposals aim to reduce complexity while preserving banks’ resilience and resolvability as well as authorities’ tools, and to ensure the framework remains focused on emerging and materially evolving risks.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3810e1df-2fda-8191-a45f-e081629c890e",
+      "title": "The EBA publishes its 2025 Annual Report outlining key achievements",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-2025-annual-report-outlining-key-achievements",
+      "published": "2026-06-16",
+      "summary": "The European Banking Authority (EBA) today published its 2025 Annual Report, outlining its main achievements and activities in delivering on its mandates under its Work Programme. In 2025, the EBA focused on streamlining and improving the efficiency of the EU regulatory framework while expanding its supervisory role, particularly under the Digital Operational Resilience Act (DORA) and Markets in Crypto-Assets Regulation (MiCA).",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3810e1df-2fda-8117-924f-ff7afe20293c",
+      "title": "June 16, 2026Bosnia and Herzegovina; Staff Concluding Statement of the 2026 Article IV Mission",
+      "url": "https://www.imf.org/en/news/articles/2026/06/16/mcs-06162026-bosnia-and-herzegovina-staff-concluding-statement-of-the-2026-article-iv-mission",
+      "published": "2026-06-16",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3810e1df-2fda-8161-b8dd-ea0c846bcb4d",
+      "title": "June 16, 2026Stablecoins in Nigeria: A Growing Cross-Border Channel",
+      "url": "https://www.imf.org/en/news/articles/2026/06/16/stablecoins-in-nigeria",
+      "published": "2026-06-16",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3810e1df-2fda-8193-ab59-e23524db9824",
+      "title": "Bond yield responses to macro news: the role of macro forecast disagreement and monetary policy uncertainty",
+      "url": "https://www.bis.org/publ/work1361.htm",
+      "published": "2026-06-16",
+      "summary": "by Peter Hördahl, Burçin K&#305;sac&#305;ko&#287;lu, Dora Xia Bond yields react to macroeconomic surprises, but the magnitude of this responsiveness depends on macroeconomic forecast disagreement and monetary policy uncertainty. Using intraday responses of US Treasury futures to surprises in macroeconomic data releases, we find that greater forecast disagreement about an economic indicator prior to its release dampens the yield curve response, while higher monetary policy uncertainty amplifies it. An exception is inflation surprises: prior to the post-COVID inflation surge, bond yield reactions to inflation surprises were not amplified by monetary policy uncertainty.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3810e1df-2fda-8183-8433-d179c07b301f",
+      "title": "June 16, 2026IMF Staff Concludes Visit to Kazakhstan",
+      "url": "https://www.imf.org/en/news/articles/2026/06/15/pr26207-kazakhstan-imf-staff-concludes-visit",
+      "published": "2026-06-15",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3810e1df-2fda-81b2-b9bc-dad4c298ac29",
+      "title": "June 16, 2026IMF Staff Concludes Staff Visit to the Sultanate of Oman",
+      "url": "https://www.imf.org/en/news/articles/2026/06/15/pr-26206-oman-imf-staff-concludes-staff-visit-to-the-sultanate-of-oman",
+      "published": "2026-06-15",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
     {
       "id": "3800e1df-2fda-814c-b3da-f889663b3f1c",
       "title": "From Degraded Hillsides to Productive Land: Ethiopia’s Landscape Management Program",
@@ -1532,6 +1708,17 @@
       "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
     },
     {
+      "id": "3810e1df-2fda-819e-9b0b-e1ea30cd1914",
+      "title": "Slow Learning",
+      "url": "https://www.federalreserve.gov/econres/feds/files/2026039pap.pdf",
+      "published": "2026-06-04",
+      "summary": "Board of Governors of the Federal Reserve System Finance and Economics Discussion Series by Lawrence J. Christiano, Martin S. Eichenbaum and Benjamin K. Johannsen",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
       "id": "37a0e1df-2fda-810b-ab12-e13cde480128",
       "title": "Social Forestry in Indonesia: Empowering Communities, Creating Jobs, and Protecting Forests",
       "url": "http://www.worldbank.org/en/news/feature/2026/06/04/social-forestry-in-indonesia-empowering-communities-creating-jobs-and-protecting-forests",
@@ -2223,6 +2410,28 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3810e1df-2fda-8155-971e-fff86d2058d9",
+      "title": "The evolution of central banks' lending operations: insights from the Markets Committee Compendium",
+      "url": "https://www.bis.org/publ/qtrpdf/r_qt2606b.pdf",
+      "published": "2026-06-01",
+      "summary": "Bank for International Settlements BIS Quarterly Review by Hinako Kijima, Patrick McGuire and Bertrand Rime",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3810e1df-2fda-8152-bc8e-c5e62cb2edd8",
+      "title": "Uncovering FX settlement risk: new measures from the 2025 BIS Triennial Survey",
+      "url": "https://www.bis.org/publ/qtrpdf/r_qt2606c.pdf",
+      "published": "2026-06-01",
+      "summary": "Bank for International Settlements BIS Quarterly Review by Matthew Conway, Mathias Drehmann, Natalie Lovell, Patrick McGuire and Takeshi Shirakami",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3800e1df-2fda-8105-943a-c6c17c77056e",
