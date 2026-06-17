@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-06-17T12:41:57.042029+00:00",
-  "total_items": 707,
+  "generated_at": "2026-06-17T22:26:44.934287+00:00",
+  "total_items": 715,
   "items": [
+    {
+      "id": "3820e1df-2fda-81a8-b79f-e28a3214b336",
+      "title": "Índice de Capitalización de la banca múltiple al cierre de abril de 2026",
+      "url": "https://www.gob.mx/cnbv/prensa/indice-de-capitalizacion-de-la-banca-multiple-al-cierre-de-abril-de-2026?idiom=es",
+      "published": "2026-06-17",
+      "summary": "",
+      "regulator": "CNBV",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.gob.mx/cnbv/archivo/prensa?idiom=es"
+    },
+    {
+      "id": "3820e1df-2fda-816f-8d39-c1dc7ecc81e9",
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
+      "published": "2026-06-17",
+      "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3820e1df-2fda-8157-af31-d80acccd7f41",
+      "title": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+      "published": "2026-06-17",
+      "summary": "Federal Reserve issues FOMC statement",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3820e1df-2fda-81e0-b7ba-f156701daa2a",
+      "title": "Republic of Madagascar: Technical Assistance Report-Report on Government Finance Statistics Mission (March 16-20, 2026)",
+      "url": "https://www.imf.org/en/publications/technical-assistance-reports/issues/2026/06/17/republic-of-madagascar-technical-assistance-report-report-on-government-finance-statistics-577006",
+      "published": "2026-06-17",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3820e1df-2fda-81e6-8e67-c34aa00514a1",
+      "title": "Kenya: Technical Assistance Report-Revamping the Central Bank of Kenya’s Core Quarterly Projection Model",
+      "url": "https://www.imf.org/en/publications/technical-assistance-reports/issues/2026/06/17/kenya-technical-assistance-report-revamping-the-central-bank-of-kenyas-core-quarterly-577012",
+      "published": "2026-06-17",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3820e1df-2fda-812e-9071-f5e9ed927a1b",
+      "title": "June 17, 2026IMF Executive Board Concludes 2026 Article IV Consultation with Burundi",
+      "url": "https://www.imf.org/en/news/articles/2026/06/17/imf-pr-26210-burundi-imf-executive-board-concludes-2026-article-iv-consultation-with-burundi",
+      "published": "2026-06-17",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3820e1df-2fda-81d5-b438-e328734d1c8d",
+      "title": "June 17, 2026IMF Executive Board Completes Fifth Review under the Extended Fund Facility and Second Review under the Resilience and Sustainability Facility Arrangements for Jordan",
+      "url": "https://www.imf.org/en/news/articles/2026/06/17/pr26211-jordan-imf-completes-5th-review-under-eff-and-2nd-review-under-rsf-arrangements",
+      "published": "2026-06-17",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
     {
       "id": "3820e1df-2fda-81fe-b26f-e3b917b26a3f",
       "title": "Indicador Oportuno de la Actividad Económica",
@@ -56,6 +133,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3820e1df-2fda-8113-bbf8-f894d97c65f5",
+      "title": "Under Mission 300, A New Way of Doing Business Connects Over 50 Million People to Electricity Across Africa",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/06/16/under-mission-300-a-new-way-of-doing-business-connects-over-50-million-people-to-electricity-across-africa",
+      "published": "2026-06-16",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3820e1df-2fda-814b-b00d-f4def15d43aa",
