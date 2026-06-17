@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-06-16T22:35:46.262918+00:00",
-  "total_items": 700,
+  "generated_at": "2026-06-17T12:41:57.042029+00:00",
+  "total_items": 707,
   "items": [
+    {
+      "id": "3820e1df-2fda-81fe-b26f-e3b917b26a3f",
+      "title": "Indicador Oportuno de la Actividad Económica",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10954",
+      "published": "2026-06-17",
+      "summary": "El IOAE anticipa un crecimiento anual de 1.1% y sin variación mensual del IGAE, para mayo de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3820e1df-2fda-8197-a750-e5af43ad1e97",
+      "title": "Beat the heat, the role of heat waves and droughts in regional EU economies",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3248~f871c3bd85.en.pdf",
+      "published": "2026-06-17",
+      "summary": "Europe is increasingly exposed to heat waves and droughts, but their short-term economic effects across sectors remain hard to predict. This study develops climate-augmented models to predict real growth in per capita value added across 1,117 EU regions (2002–2022), by combining economic indicators with high-frequency climate data. When using machine learning (ML, Random Forest and XGBoost), climate variables improve predictions in agriculture, while gains for other sectors are limited and do not outperform economic models. Heat wave indicators consistently enhance predictive performance, whereas drought effects vary by sector. Simulations of extreme combined heat and drought scenarios suggest that agricultural annual growth could fall by 1.9 to 7.6 percentage points in most regions, whereas industry, and manufacturing in particular, is less affected, although impacts are more pronounced in Eastern Europe and the Baltic states. Overall, ML models better reflect complex climate–economic interactions, supporting their use for early warning, policy planning, and targeted adaptation.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3820e1df-2fda-81e6-a567-e695d77ec5a6",
+      "title": "New data release: ECB wage tracker points to stable negotiated wage pressures in 2026",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260617~79dfc49802.en.html",
+      "published": "2026-06-17",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3820e1df-2fda-81c1-ab2f-e785d9bfeae3",
+      "title": "Embracing carbon uncertainty in portfolio construction",
+      "url": "https://www.bis.org/publ/work1362.htm",
+      "published": "2026-06-17",
+      "summary": "by Dora Xia, Omar Zulaica We propose a framework for constructing fixed-income portfolios of sovereign bonds that integrates financial and environmental considerations. Central to our approach is the introduction of carbon returns, a concept analogous to financial returns, modeled as random variables to capture the inherent uncertainty of future carbon emissions.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3820e1df-2fda-818d-80db-e50ea5c5f7de",
+      "title": "Cyber insurance unpacked: the corporate digital safety net",
+      "url": "https://www.bis.org/fsi/publ/insights75.htm",
+      "published": "2026-06-17",
+      "summary": "In a more digitalised and interconnected world, cyber risk is increasingly recognised as a significant threat to economic and financial stability. The rapid evolution of cyber threats driven by technological advances, including artificial intelligence (AI), rising geopolitical tensions and the interconnected nature of digital ecosystems, is increasing the speed, scale, sophistication and systemic nature of both malicious and non-malicious cyber incidents.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3820e1df-2fda-814b-b00d-f4def15d43aa",
+      "title": "June 17, 2026IMF Staff Completes 2026 Article IV Mission to the Maldives",
+      "url": "https://www.imf.org/en/news/articles/2026/06/16/pr-26208-maldives-imf-staff-completes-2026-article-iv-mission",
+      "published": "2026-06-16",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
     {
       "id": "3810e1df-2fda-81bb-bdf6-dd6770af91cd",
       "title": "Superfinanciera realizó las primeras mesas técnicas en el proceso de implementación de las  Finanzas Abiertas obligatorias",
@@ -2454,6 +2520,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3820e1df-2fda-81f5-8731-d631814cbaa9",
+      "title": "Bond yield responses to macro news: the role of macro forecast disagreement and monetary policy uncertainty",
+      "url": "https://www.bis.org/publ/work1361.pdf",
+      "published": "2026-06-01",
+      "summary": "Bank for International Settlements BIS Working Papers by Peter Hoerdahl, Burcin Kisacikoglu and Dora Xia",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3810e1df-2fda-8155-971e-fff86d2058d9",
