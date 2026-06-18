@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-06-17T22:26:44.934287+00:00",
-  "total_items": 715,
+  "generated_at": "2026-06-18T11:59:39.413484+00:00",
+  "total_items": 726,
   "items": [
+    {
+      "id": "3830e1df-2fda-8121-8641-f76a5cbff84b",
+      "title": "Euro area monthly balance of payments: April 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260618~e4d92a6f16.en.html",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Statistical Releases",
+      "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
+    },
+    {
+      "id": "3830e1df-2fda-81ef-868f-ccbdf202d63b",
+      "title": "2026 06 15 PMR Francois-Louis Michaud",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/7bcd9319-f530-467b-9c47-4ddfe3bc87fd/2026%2006%2015%20PMR%20Francois-Louis%20Michaud.pdf",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3830e1df-2fda-81e0-b8aa-db4ec3716b03",
+      "title": "Report results from the 2025 credit risk benchmarking exercise",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/addc87e5-36b9-4eb5-bba7-d5168aa19819/EBA%20Report%20results%20from%20the%202025%20credit%20risk%20benchmarking%20exercise.pdf",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3830e1df-2fda-81d7-9b8a-c44d7f939c36",
+      "title": "Report results from the 2025 market risk benchmarking exercise - ASA",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/15f27c99-5c42-429b-bbac-d64cce671672/EBA%20Report%20results%20from%20the%202025%20Market%20Risk%20Benchmarking%20Exercise%20-%20ASA.pdf",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3830e1df-2fda-81d5-999d-d515da0e556c",
+      "title": "Report results from the 2025 market risk benchmarking exercise - IMA",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/5430e673-4f48-4852-9018-31c1fc38118f/EBA%20Report%20results%20from%20the%202025%20Market%20Risk%20Benchmarking%20Exercise%20-%20IMA.pdf",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3830e1df-2fda-8172-a773-f866044f29d7",
+      "title": "The EBA publishes its annual assessment of banks’ internal approaches for capital requirements calculation",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-annual-assessment-banks-internal-approaches-capital-requirements-calculation",
+      "published": "2026-06-18",
+      "summary": "The European Banking Authority (EBA) today published its 2025 Reports on the annual market and credit risk benchmarking exercises, highlighting continued progress in the consistency and reliability of banks’ internal models across the EU, while identifying areas for supervisory attention as key regulatory reforms approach full implementation.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3830e1df-2fda-814b-9cf8-d254c3a9207d",
+      "title": "Greece: Financial Sector Assessment Program-Technical Note on Insolvency and Creditor Rights and Workout of Distressed Debt by Credit Servicers",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/17/greece-financial-sector-assessment-program-technical-note-on-insolvency-and-creditor-576986",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3830e1df-2fda-816c-9a23-eafa72f61fc0",
+      "title": "Greece: Financial Sector Assessment Program-Technical Note on Macroprudential Policy Framework and Tools",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/17/greece-financial-sector-assessment-program-technical-note-on-macroprudential-policy-577001",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3830e1df-2fda-81a0-baf2-d6c31ed1c028",
+      "title": "Greece: Financial Sector Assessment Program-Technical Note on Regulation and Supervision of Less Significant Institutions",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/17/greece-financial-sector-assessment-program-technical-note-on-regulation-and-supervision-of-576991",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3830e1df-2fda-8122-a0a5-f8a440170038",
+      "title": "Greece: Financial Sector Assessment Program-Technical Note on Systemic Risk Analysis",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/17/greece-financial-sector-assessment-program-technical-note-on-systemic-risk-analysis-576996",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3830e1df-2fda-81d1-ae9f-d0ac9f125133",
+      "title": "June 18, 2026IMF and Austria Renew Agreement Underpinning the Work of the Joint Vienna Institute",
+      "url": "https://www.imf.org/en/news/articles/2026/06/17/pr-26209-austria-imf-and-austria-renew-agreement-joint-vienna-institute",
+      "published": "2026-06-17",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
     {
       "id": "3820e1df-2fda-81a8-b79f-e28a3214b336",
       "title": "Índice de Capitalización de la banca múltiple al cierre de abril de 2026",
