@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-06-18T18:11:23.016460+00:00",
-  "total_items": 747,
+  "generated_at": "2026-06-18T23:01:24.072636+00:00",
+  "total_items": 751,
   "items": [
+    {
+      "id": "3830e1df-2fda-8183-9d8c-e043d8cba09b",
+      "title": "Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618b.htm",
+      "published": "2026-06-18",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3830e1df-2fda-81f6-a8e0-f8a45d425267",
+      "title": "June 18, 2026Sierra Leone: IMF Executive Board Approves Arrangement Under the Resilience and Sustainability Facility and Completes Third Review Under the Extended Credit Facility",
+      "url": "https://www.imf.org/en/news/articles/2026/06/18/pr-26213-sierra-leone-imf-approves-arrangement-under-the-rsf-and-completes-3rd-rev-under-ecf",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3830e1df-2fda-8116-83f6-eb5e62d9a874",
+      "title": "June 18, 2026IMF Executive Board Concludes 2026 Article IV Consultation with the Republic of Uzbekistan",
+      "url": "https://www.imf.org/en/news/articles/2026/06/18/pr-26214-uzbekistan-imf-executive-board-concludes-2026-article-iv-consultation",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
     {
       "id": "3830e1df-2fda-8178-b24a-f80cbe3160fb",
       "title": "SFC realizó Jornada Académica LAFT I 2026 para fortalecer capacidades de oficiales de cumplimiento",
@@ -8020,6 +8053,17 @@
       "country": "Global",
       "type": "Central Bank Research Hub",
       "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3830e1df-2fda-811b-b666-eb0ec97589fa",
+      "title": "Decentralization, Service Delivery, and Legitimacy : The Case of Mali",
+      "url": "http://documents.worldbank.org/curated/undefined/099815506182699424/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "37b0e1df-2fda-812b-8d93-c1124b642642",
