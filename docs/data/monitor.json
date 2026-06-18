@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-06-18T11:59:39.413484+00:00",
-  "total_items": 726,
+  "generated_at": "2026-06-18T18:11:23.016460+00:00",
+  "total_items": 747,
   "items": [
+    {
+      "id": "3830e1df-2fda-8178-b24a-f80cbe3160fb",
+      "title": "SFC realizó Jornada Académica LAFT I 2026 para fortalecer capacidades de oficiales de cumplimiento",
+      "url": "https://www.superfinanciera.gov.co/10116167",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "3830e1df-2fda-8183-91d6-c7989ff04787",
+      "title": "Oferta y Utilización Trimestral (OUT). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10956",
+      "published": "2026-06-18",
+      "summary": "Aumentaron 0.3% la oferta y demanda global y 2.4% el ahorro bruto, a tasa trimestral, en el primer trimestre de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3830e1df-2fda-81a5-a039-c0977ccec9e4",
+      "title": "Indicador Trimestral del Ahorro Bruto (ITAB). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10955",
+      "published": "2026-06-18",
+      "summary": "Aumentaron 0.3% la oferta y demanda global y 2.4% el ahorro bruto, a tasa trimestral, en el primer trimestre de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3830e1df-2fda-8189-a23f-c091fd7d7b27",
+      "title": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
+      "published": "2026-06-18",
+      "summary": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3830e1df-2fda-81aa-a378-cd5cbcf2810f",
+      "title": "Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618a.htm",
+      "published": "2026-06-18",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3830e1df-2fda-81fc-9462-ff36c16300ac",
+      "title": "Piero Cipollone: Digital euro: the future of money",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260618~da08e71469.en.pdf",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3830e1df-2fda-811e-ae85-e68f700e0ad4",
+      "title": "EBA MB 2026 085 rev. 1 (Final Minutes MB conference call on 7 April 2026)",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/541016c9-d7ed-45fb-9866-77e3ab090a97/EBA%20MB%202026%20085%20rev.%201%20%28Final%20Minutes%20MB%20conference%20call%20on%207%20April%202026%29.pdf",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3830e1df-2fda-8192-9aa1-f9e9112b0f1a",
+      "title": "List of written procedures and their voting results from 18 March 2026 to 20 April 2026",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/6cc8147e-eb78-4c1f-8626-3e2be47d5b3b/List%20of%20written%20procedures%20and%20their%20voting%20results%20from%2018%20March%202026%20to%2020%20April%202026.pdf",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3830e1df-2fda-8178-9caa-d95398470898",
+      "title": "EBA BS 2026 287 rev. 1 (Minutes - BoS meeting on 20 and 21 April 2026)",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/0ecb649e-ae81-40da-9afd-19b77d925f13/EBA%20BS%202026%20287%20rev.%201%20%28Minutes%20-%20BoS%20meeting%20on%2020%20and%2021%20April%202026%29.pdf",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3830e1df-2fda-8111-8834-d574d4143dbf",
+      "title": "EU/EEA banks remain resilient amid rising geopolitical, market and technological risks",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eueea-banks-remain-resilient-amid-rising-geopolitical-market-and-technological-risks",
+      "published": "2026-06-18",
+      "summary": "The European Banking Authority (EBA) published its Spring 2026 Risk Assessment Report (RAR), Q1 2026 Risk Dashboard (RDB) and Spring 2026 Risk Assessment Questionnaire (RAQ) results today.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3830e1df-2fda-8185-a05a-d6515fd7cbb7",
+      "title": "World Bank Approves Additional Financing to Strengthen Health Workforce Education in Cambodia",
+      "url": "http://www.worldbank.org/en/news/feature/2026/06/18/world-bank-approves-additional-financing-to-strengthen-health-workforce-education-in-cambodia",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3830e1df-2fda-81d1-bfbe-d5dd527a10c3",
+      "title": "June 18, 2026IMF Staff Completes Visit to Malawi",
+      "url": "https://www.imf.org/en/news/articles/2026/06/18/pr-26212-malawi-imf-staff-completes-visit-to-malawi",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
     {
       "id": "3830e1df-2fda-8121-8641-f76a5cbff84b",
       "title": "Euro area monthly balance of payments: April 2026",
@@ -111,6 +243,61 @@
       "country": "Global",
       "type": "Publications",
       "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3830e1df-2fda-811a-93dc-f15b2fa6e4d2",
+      "title": "From Fire to Resilience: Rethinking How Algeria Manages Its Forests",
+      "url": "http://www.worldbank.org/en/news/feature/2026/06/17/from-fire-to-resilience-rethinking-how-algeria-manages-its-forests",
+      "published": "2026-06-17",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3830e1df-2fda-819e-aeb6-d7af0ffe91f0",
+      "title": "Memories of My Youth - If I could go back in time to Fix the Struggle for Water",
+      "url": "http://www.worldbank.org/en/news/feature/2026/06/17/memories-of-my-youth-if-i-could-go-back-in-time-to-fix-the-struggle-for-water",
+      "published": "2026-06-17",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3830e1df-2fda-8138-9882-e8de1dc5af2f",
+      "title": "International organisations leading the way in artificial intelligence  – the next frontier for capital markets",
+      "url": "http://www.worldbank.org/en/news/feature/2026/06/17/international-organisations-leading-the-way-in-artificial-intelligence-the-next-frontier-for-capital-markets",
+      "published": "2026-06-17",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3830e1df-2fda-816e-9573-e7fd30e1fe47",
+      "title": "Malawi: Unlocking Private Investment, Jobs, and Foreign Exchange Through Reforms",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/06/17/malawi-unlocking-private-investment-jobs-and-foreign-exchange-through-reforms",
+      "published": "2026-06-17",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3830e1df-2fda-81f9-bd3b-f6045891df2d",
+      "title": "Enhanced Rural Infrastructure in Uzbekistan to Improve Living Standards for 1.2 Million People and Expand Access to Jobs",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/06/17/uzbekistan-second-phase-of-the-rural-infrastructure-development-program",
+      "published": "2026-06-17",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3830e1df-2fda-81d1-ae9f-d0ac9f125133",
@@ -254,6 +441,28 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3830e1df-2fda-8110-ad9e-e454b5aa7cc7",
+      "title": "New World Bank Group Partnership with Poland Focuses on Mobilizing Private Capital, Driving Innovation, and Creating Better Jobs",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/06/16/new-world-bank-group-partnership-poland-focuses-mobilizing-private-capital-driving-innovation-and-creating-better-jobs",
+      "published": "2026-06-16",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3830e1df-2fda-813b-9bbf-cb3efcb39664",
+      "title": "Under Mission 300, A New Way of Doing Business Connects Over 50 Million People to Electricity Across Africa",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/06/16/under-mission-300-a-new-way-of-doing-business-connects-over-50-million-people-to-electricity-across-africa",
+      "published": "2026-06-16",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3820e1df-2fda-8113-bbf8-f894d97c65f5",
@@ -474,6 +683,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3830e1df-2fda-8129-9591-ffda4c47400d",
+      "title": "Risk Assessment Report - June 2026",
+      "url": "https://www.eba.europa.eu/publications-and-media/publications/risk-assessment-report-june-2026",
+      "published": "2026-06-15",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
     },
     {
       "id": "3810e1df-2fda-8183-8433-d179c07b301f",
@@ -2729,6 +2949,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3830e1df-2fda-81ab-a18c-f7fd392528be",
+      "title": "The real effects of monetary policy transmission via the floating-rate channel",
+      "url": "https://www.bancaditalia.it/pubblicazioni/temi-discussione/2026/2026-1536/en_tema_1536.pdf",
+      "published": "2026-06-01",
+      "summary": "Bank of Italy Working Papers by Margherita Bottero, Michele Cascarano, Alessandro Modica and Federico Maria Signoretti",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3820e1df-2fda-81f5-8731-d631814cbaa9",
