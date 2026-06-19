@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-06-19T17:23:47.827661+00:00",
-  "total_items": 768,
+  "generated_at": "2026-06-19T22:11:59.043849+00:00",
+  "total_items": 775,
   "items": [
+    {
+      "id": "3840e1df-2fda-812b-8b09-c4494f543e88",
+      "title": "Latin America seeks to transform its mineral wealth into jobs and sustainable development",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/06/19/latin-america-seeks-to-transform-its-mineral-wealth-into-jobs-and-sustainable-development",
+      "published": "2026-06-19",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3840e1df-2fda-816e-9f32-fc8012ff835d",
+      "title": "Minimum Wages and the Informality Constraint",
+      "url": "https://www.imf.org/en/publications/wp/issues/2026/06/19/minimum-wages-and-the-informality-constraint-577070",
+      "published": "2026-06-19",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3840e1df-2fda-81e3-92cf-e07b8979ba8a",
+      "title": "The (Many) Consequences of the Housing Affordability Problem in the EU: A Machine-Learning Empirical Analysis",
+      "url": "https://www.imf.org/en/publications/wp/issues/2026/06/18/the-many-consequences-of-the-housing-affordability-problem-in-the-eu-a-machine-learning-577050",
+      "published": "2026-06-19",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3840e1df-2fda-812c-b517-f75a6986a2dc",
+      "title": "Long-term Effects of US Tariff Increases on CAPDR",
+      "url": "https://www.imf.org/en/publications/wp/issues/2026/06/19/long-term-effects-of-us-tariff-increases-on-capdr-577065",
+      "published": "2026-06-19",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
     {
       "id": "3840e1df-2fda-81fb-9729-d7732e76577a",
       "title": "Industria Minerometalúrgica (EIMM) - 1980 en Adelante",
@@ -78,6 +122,39 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3840e1df-2fda-816b-986d-db79fa719125",
+      "title": "Additional Financing to Strengthen Djibouti’s Regional Economic Corridor",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/06/18/additional-financing-to-strengthen-djibouti-s-regional-economic-corridor",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3840e1df-2fda-8173-a84d-ca80ad96d520",
+      "title": "World Bank Group Provides New Financing in Support of India’s Reform Program to Boost Growth and Jobs",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/06/18/world-bank-group-provides-new-financing-in-support-of-india-s-reform-program-to-boost-growth-and-jobs",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3840e1df-2fda-81eb-a649-d7baebc80474",
+      "title": "Eastern Africa Set to Gain More Reliable, Affordable Power with World Bank Group Support",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/06/18/-eastern-africa-set-to-gain-more-reliable-affordable-power-with-world-bank-group-support",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3840e1df-2fda-81a9-a05c-f37f51d96a5c",
