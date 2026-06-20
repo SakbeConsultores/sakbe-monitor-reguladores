@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-06-19T22:11:59.043849+00:00",
-  "total_items": 775,
+  "generated_at": "2026-06-20T16:24:10.822376+00:00",
+  "total_items": 776,
   "items": [
+    {
+      "id": "3850e1df-2fda-81ac-890c-d0214adc6882",
+      "title": "SBS autoriza la organización de Sanitas Seguros S.A. para ingresar al mercado peruano de seguros de vida",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3939",
+      "published": "2026-06-19",
+      "summary": "Se trata de la primera autorización otorgada por la Coordinación Ejecutiva de Organización de Empresas (CEO) de la institución, emitida en un plazo de",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
     {
       "id": "3840e1df-2fda-812b-8b09-c4494f543e88",
       "title": "Latin America seeks to transform its mineral wealth into jobs and sustainable development",
