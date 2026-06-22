@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-06-22T18:51:05.928913+00:00",
-  "total_items": 806,
+  "generated_at": "2026-06-22T22:52:31.107437+00:00",
+  "total_items": 808,
   "items": [
+    {
+      "id": "3870e1df-2fda-81e4-9e24-ed2cad2caa05",
+      "title": "FEDS Paper: A Static Capital Buffer is Hard To Beat",
+      "url": "https://www.federalreserve.gov/econres/feds/a-static-capital-buffer-is-hard-to-beat.htm",
+      "published": "2026-06-22",
+      "summary": "Matthew Canzoneri, Behzad Diba, Luca Guerrieri , and Arsenii Mishin In a model with endogenous risk-taking, deposit insurance and limited liability may lead banks to make risky loans that are socially inefficient. Capital requirements can prevent excessive risk-taking at the cost of reducing liquidity-producing bank deposits. A policy that sets capital requirements just high enough to prevent excessive risktaking will move capital requirements pro-, counter-, or a-cyclically depending on the shock source. However, such a policy requires full knowledge of all the shocks hitting the economy and is not implementable. Simple rules that respond to cyclical conditions&#8212;in line with Basel III guidance&#8212;perform poorly, whereas a small static capital buffer can do much better.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3870e1df-2fda-816e-ac03-d847e49b0b13",
+      "title": "FEDS Paper: Local Labor Market Tightness and Job Quality: Evidence from Job Changers",
+      "url": "https://www.federalreserve.gov/econres/feds/local-labor-market-tightness-and-job-quality-evidence-from-job-changers.htm",
+      "published": "2026-06-22",
+      "summary": "Brad Hershbein, Katherine Lim, Douglas Webber , and Mike Zabek Using novel data from the Survey of Household Economics and Decisionmaking, we examine how labor market tightness affects workers&#8217; job quality. We estimate that a 10 percent increase in job vacancies not only increases the probability of changing jobs, it yields an 11&#8211;18 percent increase in the (unconditional) probability of switching to a better job overall, and one with greater pay and benefits, interest in the work, and advancement opportunities. Because tight labor markets improve both worker pay and job amenities in roughly the same proportion, their benefits to workers are underestimated when based on pay alone.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
     {
       "id": "3870e1df-2fda-813b-b648-e8f263742ecd",
       "title": "SBS propone nuevo marco normativo para flexibilizar los mecanismos de aportes previsionales a través de billeteras digitales y aplicativos móviles para ampliar cobertura",
