@@ -1,7 +1,293 @@
 {
-  "generated_at": "2026-06-21T22:21:25.803499+00:00",
-  "total_items": 776,
+  "generated_at": "2026-06-22T18:51:05.928913+00:00",
+  "total_items": 806,
   "items": [
+    {
+      "id": "3870e1df-2fda-813b-b648-e8f263742ecd",
+      "title": "SBS propone nuevo marco normativo para flexibilizar los mecanismos de aportes previsionales a través de billeteras digitales y aplicativos móviles para ampliar cobertura",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3940",
+      "published": "2026-06-22",
+      "summary": "También plantea un proyecto que modifica el reglamento de inversiones dirigido a ampliar herramientas con las que cuentan las EAF para aprovechar opor",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3870e1df-2fda-8134-aa5c-e8548199db28",
+      "title": "Programa de la industria manufacturera, maquiladora y de servicios de exportación (IMMEX) - 2007 en adelante",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10958",
+      "published": "2026-06-22",
+      "summary": "Incrementó el personal ocupado 0.1 % en los establecimientos con programa IMMEX en abril de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3870e1df-2fda-8136-ad71-c8354b77010a",
+      "title": "GENIUS Act: Anti-Money Laundering/Countering the Financing of Terrorism and Sanctions Compliance: Notice of Proposed Rulemaking",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-28.html",
+      "published": "2026-06-22",
+      "summary": "The Office of the Comptroller of the Currency (OCC) is issuing a notice of proposed rulemaking to implement Bank Secrecy Act (BSA) and sanctions compliance standards applicable to OCC-supervised permitted payment stablecoin issuers (PPSI), as required by the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act).",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "3870e1df-2fda-81b4-bdfc-da00af6f7e50",
+      "title": "FEDS Paper: New U.S. Business Establishments: Surging or Stalling?",
+      "url": "https://www.federalreserve.gov/econres/feds/new-us-business-establishments-surging-or-stalling.htm",
+      "published": "2026-06-22",
+      "summary": "Dan Cao, Henry Hyatt, Toshihiko Mukoyama, and Erick Sager Since the 1990s, the Bureau of Labor Statistics (BLS) has reported much more rapid growth in U.S. private sector employer establishments than has the Census Bureau &#8211; the gap reached roughly 1.6 million by 2023. Using linked BLS-Census microdata, we document two main drivers. First, a large and growing number of employers providing services to the elderly and persons with disabilities are in scope for the BLS frame but not the Census Bureau&#8217;s. Second, many firms appear with substantially more establishments in the BLS frame. These discrepancies substantially affect the measured establishment size distribution and quantitative policy analysis.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3870e1df-2fda-81d9-a6fa-d54a263c768c",
+      "title": "IFDP Paper: Fiscal Policy, Portfolio Frictions, and International Transmission",
+      "url": "https://www.federalreserve.gov/econres/ifdp/fiscal-policy-portfolio-frictions-and-international-transmission.htm",
+      "published": "2026-06-22",
+      "summary": "Marcos Mac Mullen I study the international transmission of fiscal policy and its impact on the real exchange rate (RER) and net exports. I document that periods of high government debt are strongly associated with a depreciated RER and subsequent increases in net exports. I present causal evidence that debt-financed fiscal expansions transmit primarily through deviations from uncovered interest parity, leading to a depreciated RER and increases in net exports over time. I propose a model in which portfolio rebalancing frictions drive the international transmission of fiscal policy that explains the empirical evidence, and show that this mechanism generates dynamics consistent with the RER disconnect.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3870e1df-2fda-81e7-94f4-cec34a22d1f1",
+      "title": "FEDS Paper: The Spillovers of LSAPs on Banks in the Euro Area(Revised)",
+      "url": "https://www.federalreserve.gov/econres/feds/the-spillovers-of-lsaps-on-banks-in-the-euro-area.htm",
+      "published": "2026-06-22",
+      "summary": "Marco Graziano, Marius Koechlin, and Andreas Tischbirek We study the spillovers of large-scale asset purchases (LSAPs) in the U.S. on financial intermediation in the euro area using bank-level supervisory data and high-frequency identified policy surprises. Our detailed panel data permit us to trace the impact of LSAPs through bank balance sheets. We find that the Federal Reserve affects credit provision in the euro area through a channel that we refer to as the &#8220;international bank capital channel&#8221; of unconventional monetary policy. In response to an LSAP shock that leads to a steepening of the U.S. Treasury yield curve, the Treasury positions of euro area banks shrink, capital ratios worsen, and banks that are less well capitalized contract their lending relative to banks that are better capitalized. Our results are consistent with an important role of revaluation effects, imperfect risk hedging, and credit as an adjustment margin for banks in the proximity of regulatory capital constraints.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3870e1df-2fda-81e4-a3fb-d12a416d32f7",
+      "title": "FEDS Paper: Beyond Reserves: The Federal Reserve's Balance Sheet and the Repo Market",
+      "url": "https://www.federalreserve.gov/econres/feds/beyond-reserves-the-federal-reserves-balance-sheet-and-the-repo-market.htm",
+      "published": "2026-06-22",
+      "summary": "Sriya Anbil , Alyssa Anderson , Ethan Cohen, and Romina Ruprecht We present a new constraint on the size of the Fed&#8217;s balance sheet: repo market capacity. Calibrating a structural model to the recent monetary tightening cycle, we show that repo market capacity&#8212;driven by money market fund liquidity supply&#8212;is the binding constraint on the Fed&#8217;s balance sheet, not bank reserve demand, which was highlighted in the events of September 2019. We also demonstrate a novel complementarity between interest rate and balance sheet policies: higher policy rates expand repo capacity, allowing the central bank to operate with a smaller balance sheet.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3870e1df-2fda-8116-a577-ed7198a32b43",
+      "title": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
+      "published": "2026-06-22",
+      "summary": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3870e1df-2fda-8145-8e02-f74447e1eeed",
+      "title": "AI and the US labour market: effects on employment growth",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_01~d9259db536.en.html",
+      "published": "2026-06-22",
+      "summary": "The adoption of AI is reshaping the US labour market, with its impact on employment growth varying across occupations. AI has led to a job reallocation, particularly disadvantaging occupations with a high risk of AI substitution compared to those with low substitution risk. An econometric analysis confirms that AI has widened the gap in employment growth between employment in high-risk occupations and low-risk occupations between 2019 and 2025. However, this divergence in employment growth has not translated into wage disparities.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3870e1df-2fda-81d7-a3a5-fa8942b5e2d6",
+      "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260622~b060a27b78.en.html",
+      "published": "2026-06-22",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3870e1df-2fda-8102-bc75-dc039dd6c321",
+      "title": "MREL Dashboard - Q4 2025",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/010e3ba1-a6cf-4b7c-8067-7879ad823cb5/MREL%20Dashboard%20-%20Q4%202025.pdf",
+      "published": "2026-06-22",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3870e1df-2fda-8150-82be-ebc799d9e8d4",
+      "title": "Annex XXXIX (Annex I -Section 21- Disclosure of ESG risks)_clean",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/51aa78a8-7537-4b45-a347-cfe4778d5876/Annex%20XXXIX%20%28Annex%20I%20-Section%2021-%20Disclosure%20of%20ESG%20risks%29_CV.xlsx",
+      "published": "2026-06-22",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3870e1df-2fda-81cf-9cb3-fa63cb638bf7",
+      "title": "Annex XXXIX (Annex I -Section 21- Disclosure of ESG risks)_track changes",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/9c5a19b4-b5d1-4cb0-8f15-7791acde76b4/Annex%20XXXIX%20%28Annex%20I%20-Section%2021-%20Disclosure%20of%20ESG%20risks%29_TC.xlsx",
+      "published": "2026-06-22",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3870e1df-2fda-81f2-8d47-d2091784c038",
+      "title": "Overview templates and IT solutions_track changes",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/cf7f235a-82e5-441d-82a4-c1826f8faf63/Overview%20%20templates%20and%20IT%20solutions_TC.xlsx",
+      "published": "2026-06-22",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3870e1df-2fda-812f-ad40-c6f9248920b0",
+      "title": "Overview templates and IT solutions)_clean version",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/d5da33a8-5970-49aa-a5de-3467a30389ec/Overview%20%20templates%20and%20IT%20solutions%29_CV.xlsx",
+      "published": "2026-06-22",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3870e1df-2fda-8187-a7ad-c3696c77f833",
+      "title": "IT solutions - track changes",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/22abc61c-7ca1-4cbc-8811-c551b4abc365/IT%20solutions%20-%20track%20changes.zip",
+      "published": "2026-06-22",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3870e1df-2fda-8119-bb21-dade1dd2d010",
+      "title": "IT solutions - clean version",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/83fed680-2d05-40d3-b413-7f58489ea4a1/IT%20solutions%20-%20clean.zip",
+      "published": "2026-06-22",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3870e1df-2fda-8109-a8fd-c0e8a21b67e0",
+      "title": "Templates - track changes",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/dc8e1ad3-37a7-43fe-8671-9a8c896a738e/Templates%20-%20track%20changes.zip",
+      "published": "2026-06-22",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3870e1df-2fda-81cc-8571-d35f7dd80699",
+      "title": "Templates - clean version",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/68fedd32-cc62-46cd-9587-47a3d1f4cf18/Templates%20-%20clean%20version.zip",
+      "published": "2026-06-22",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3870e1df-2fda-8151-8d49-f4a926de2842",
+      "title": "Final report on Draft ITS on amended disclosure requirements for ESG risks, equity exposures and aggregate exposure to shadow banking entities",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/96e1c806-c918-460c-bc8b-4e547b0d85e6/Final%20report%20on%20Draft%20ITS%20on%20amended%20disclosure%20requirements%20for%20ESG%20risks%2C%20equity%20exposures%20and%20aggregate%20exposure%20to%20shadow%20banking%20entities.pdf",
+      "published": "2026-06-22",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3870e1df-2fda-816f-bc2a-ee2e8e32ddc4",
+      "title": "EBA updates Pillar 3 disclosure requirements on ESG risks, equity and shadow banking exposures, as part of simplification effort",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-updates-pillar-3-disclosure-requirements-esg-risks-equity-and-shadow-banking-exposures-part",
+      "published": "2026-06-22",
+      "summary": "The European Banking Authority (EBA) has published today its final draft Implementing Technical Standards (ITS) amending the Pillar 3 disclosure framework on environmental, social and governance (ESG) risks, and introducing disclosure requirements on equity and shadow banking exposures. The package finalises the implementation of the disclosure requirements introduced by the Capital Requirements Regulation (CRR 3). Developed in line with the EU’s simplification agenda and the Omnibus package, the ITS streamline existing requirements, and enhance usability and consistency. The ITS are aligned with the European Sustainability Reporting Standards (ESRS) and with the EBA draft ITS on ESG reporting requirements, which are currently under consultation. They should, therefore, be read in conjunction with this Consultation paper to ensure a comprehensive understanding of the overall ESG framework and to support informed feedback.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3870e1df-2fda-8163-b8a7-ed116e989dcd",
+      "title": "Latest EBA MREL dashboard shows that MREL requirements range from 25% to 29% of risk-weighted assets, depending on bank category, while bail-in remains the preferred resolution strategy",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/latest-eba-mrel-dashboard-shows-mrel-requirements-range-25-29-risk-weighted-assets-depending-bank",
+      "published": "2026-06-22",
+      "summary": "The European Banking Authority (EBA) today published its latest semi-annual dashboard on the minimum requirement for own funds and eligible liabilities (MREL), providing an update on the state of resolution planning and on the resources that banks are using to meet their requirements. As of December 2025, bail-in remains the preferred resolution strategy in terms of risk-weighed assets (RWAs), while rollover needs reach EUR 231 billion for instruments set to become ineligible over the next 12 months.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3870e1df-2fda-81d9-a86d-c400f1f1987b",
+      "title": "June 22, 2026Aid Is Falling Fast. What Can African Countries Do?",
+      "url": "https://www.imf.org/en/news/articles/2026/06/22/aid-is-falling-fast-what-can-african-countries-do",
+      "published": "2026-06-22",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3870e1df-2fda-816e-8834-f337333854f0",
+      "title": "June 22, 2026IMF Staff Concludes Visit to Senegal",
+      "url": "https://www.imf.org/en/news/articles/2026/06/22/pr26216-senegal-imf-staff-concludes-visit",
+      "published": "2026-06-22",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3870e1df-2fda-810a-b899-e2dd771a19e9",
+      "title": "June 22, 2026IMF Reaches Staff-Level Agreement with São Tomé and Príncipe on the Third Review under the Extended Credit Facility Arrangement",
+      "url": "https://www.imf.org/en/news/articles/2026/06/22/pr26217-sao-tome-and-principe-imf-reaches-staff-level-agreement-on-the-third-review-ecf-arrangement",
+      "published": "2026-06-22",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3870e1df-2fda-81f2-9161-fc454d1c2564",
+      "title": "June 22, 2026IMF Staff Completes 2026 Article IV Mission to Turkmenistan",
+      "url": "https://www.imf.org/en/news/articles/2026/06/22/pr26218-turkmenistan-imf-staff-completes-2026-article-iv-mission",
+      "published": "2026-06-22",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
+    },
     {
       "id": "3850e1df-2fda-81ac-890c-d0214adc6882",
       "title": "SBS autoriza la organización de Sanitas Seguros S.A. para ingresar al mercado peruano de seguros de vida",
@@ -133,6 +419,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3870e1df-2fda-817d-981b-e3990c5b18db",
+      "title": "OCC Announces Enforcement Actions for June 2026",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-48.html",
+      "published": "2026-06-18",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today released enforcement actions for June 2026.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
     },
     {
       "id": "3840e1df-2fda-816b-986d-db79fa719125",
@@ -498,6 +795,28 @@
       "feed_url": "https://www.imf.org/en/publications"
     },
     {
+      "id": "3870e1df-2fda-815f-b178-c4d9c28fbd88",
+      "title": "Filing Decision Process",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-27.html",
+      "published": "2026-06-17",
+      "summary": "The Office of the Comptroller of the Currency is issuing this bulletin to clarify the standards for its decisions on filings.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "3870e1df-2fda-8167-88f8-f350ef8b067e",
+      "title": "OCC Clarifies Filing Decision Process",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-47.html",
+      "published": "2026-06-17",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today clarified the standards for its decisions on filings.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
       "id": "3840e1df-2fda-819f-9169-d0e92cedc9a4",
       "title": "Statistical Annex Spring 2026 RAQ",
       "url": "https://www.eba.europa.eu/sites/default/files/2026-06/a3781e48-b19d-484a-80fa-b02cfaa01344/Statistical_annex_Spring2026RAQ%20%282%29.xlsx",
@@ -749,6 +1068,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3870e1df-2fda-81b8-a667-fff4292d4d98",
+      "title": "Minority Depository Institutions: Reissuance of Policy Statement",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-26.html",
+      "published": "2026-06-16",
+      "summary": "The Office of the Comptroller (OCC) is updating its policy statement on minority depository institutions (MDI) in the Federal Register. This update relates to the agency's rescission or amending of certain regulations that are unnecessary, based on anything other than the best reading of the underlying statutory authority, or lacking clear statutory authority, consistent with Executive Order 14219, \"Ensuring Lawful Governance and Implementing the President's 'Department of Government Efficiency' Deregulatory Initiative\" (EO 14219). The updated statement revises the definition of an MDI to more closely align with the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (FIRREA). The update also removed information about the agency that has proven vulnerable to obsolescence. The document includes other conforming edits.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
     },
     {
       "id": "3830e1df-2fda-8110-ad9e-e454b5aa7cc7",
