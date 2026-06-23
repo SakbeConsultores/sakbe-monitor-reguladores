@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-06-23T17:22:01.024022+00:00",
-  "total_items": 822,
+  "generated_at": "2026-06-23T22:21:29.108954+00:00",
+  "total_items": 825,
   "items": [
+    {
+      "id": "3880e1df-2fda-8106-be0c-e34b94988c90",
+      "title": "FEDS Paper: The Response of Equity Yields to a Long-Run Shock",
+      "url": "https://www.federalreserve.gov/econres/feds/the-response-of-equity-yields-to-a-long-run-shock.htm",
+      "published": "2026-06-23",
+      "summary": "Martijn Boons, Anthony M. Diercks , Petra Sinagl, and Andrea Tamoni We study how macroeconomic developments affect asset prices by analyzing the response of equity yields to a well-identified long-run growth shock. Using synthetic equity yield data from Giglio et al. (2024), we show that a positive long-run shock steepens the equity yield curve by increasing expected dividend growth while leaving discount rates largely unchanged. We examine how the investment driving this growth is financed and how yields respond across value and growth firms. Growth-firm yields respond more strongly than value-firm yields, reflecting larger changes in expected dividend growth. Ai et al. (2018)'s model, modified to separate cash dividends from total payout, best matches these responses relative to benchmark equity term structure models.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
     {
       "id": "3880e1df-2fda-8178-ba7b-ff080816ad16",
       "title": "SBS adelanta plazo máximo de envío de información sobre posición crediticia de los deudores del sistema financiero",
@@ -133,6 +144,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3880e1df-2fda-8102-9c0a-cd346db73c05",
+      "title": "June 22, 2026IMF Executive Board Approves 36-month US$257 million Precautionary Stand-By Arrangement for Barbados and Concludes 2026 Article IV Consultation",
+      "url": "https://www.imf.org/en/news/articles/2026/06/22/pr26219-barbados-imf-exec-board-approves-36mo-us257m-psb-arr-concludes-2026-aiv-consult",
+      "published": "2026-06-22",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
     },
     {
       "id": "3880e1df-2fda-8123-8295-dfcfd811ecfa",
@@ -584,6 +606,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3880e1df-2fda-8119-a6f3-f1f6b4da7c4b",
+      "title": "June 23, 2026IMF Executive Board Concludes 2026 Article IV Consultation with Cyprus",
+      "url": "https://www.imf.org/en/news/articles/2026/06/18/pr-26215-cyprus-imf-executive-board-concludes-2026-article-iv-consultation",
+      "published": "2026-06-18",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
     },
     {
       "id": "3870e1df-2fda-817d-981b-e3990c5b18db",
