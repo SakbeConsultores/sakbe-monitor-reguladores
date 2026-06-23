@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-06-22T22:52:31.107437+00:00",
-  "total_items": 808,
+  "generated_at": "2026-06-23T17:22:01.024022+00:00",
+  "total_items": 822,
   "items": [
+    {
+      "id": "3880e1df-2fda-8178-ba7b-ff080816ad16",
+      "title": "SBS adelanta plazo máximo de envío de información sobre posición crediticia de los deudores del sistema financiero",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3941",
+      "published": "2026-06-23",
+      "summary": "El plazo de entrega del Reporte Crediticio de Deudores bajará de 15 a 10 días de manera progresiva, facilitando un acceso más oportuno a la informació",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3880e1df-2fda-81d2-befe-da3f000e3959",
+      "title": "Indicador Global de la Actividad Económica (IGAE). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10960",
+      "published": "2026-06-23",
+      "summary": "Incrementó 1.2% el IGAE a tasa mensual y 2.2% a tasa anual, en abril de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3880e1df-2fda-8184-a7fb-df1e151b54bd",
+      "title": "Encuesta Mensual sobre Empresas Comerciales (EMEC). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10962",
+      "published": "2026-06-23",
+      "summary": "Aumentaron 0.6% los ingresos por suministro de bienes y servicios del comercio al por mayor y 0.8%, los del comercio al por menor, en abril de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3880e1df-2fda-8180-9aa2-f10772189600",
+      "title": "Encuesta Mensual de Servicios (EMS). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10961",
+      "published": "2026-06-23",
+      "summary": "Incrementaron 0.2% los ingresos por suministro de bienes y servicios de los servicios privados no financieros en abril de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3880e1df-2fda-81e9-a456-d8bf964753d9",
+      "title": "Indicador Mensual Oportuno de la Actividad Manufacturera (IMOAM)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10959",
+      "published": "2026-06-23",
+      "summary": "En mayo de 2026, el IMOAM estima una disminución de la actividad manufacturera de 0.1% respecto a mayo de 2025",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3880e1df-2fda-8114-859f-f0940ceab3b7",
+      "title": "Five years of the ECB Survey of Monetary Analysts: evolution and insights",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/articles/2026/html/ecb.ebart202604_01~1fcadce39a.en.html",
+      "published": "2026-06-23",
+      "summary": "The Survey of Monetary Analysts (SMA) is a valuable information set for understanding the expectations of financial market participants regarding monetary policy and macroeconomic developments in the euro area. This article reviews the evolution of the SMA over the past five years, highlighting key development milestones, including changes to the panel, questionnaire and analytical use of the survey. It explains how SMA data enhance regular monetary policy assessments and the understanding of expectation formation. In particular, the links between the expected policy rate path and the macroeconomic expectations of respondents provide structured insights into the views of the analysts. This has proven to be particularly valuable during periods of economic uncertainty, including during the post-pandemic surge in inflation and the subsequent period of disinflation. The article also evaluates the forecast accuracy of the SMA, as well as the disagreement among respondents, and the dispersion of their macroeconomic expectations.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3880e1df-2fda-8127-9de5-f556c019f6c0",
+      "title": "State aid in the EU: an evolving landscape",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_03~a3ff0e07f6.en.html",
+      "published": "2026-06-23",
+      "summary": "State aid expenditure in the EU has risen in recent years against the background of economic shocks such as the COVID-19 pandemic, Russia’s unjustified war against Ukraine and, most recently, the crisis in the Middle East, as well as a global resurgence of interventionist industrial policy. While traditionally aimed at addressing market failures and achieving policy objectives like regional cohesion and environmental transition, State aid has increasingly shifted towards supporting industrial competitiveness, decarbonisation and strategic resilience. This box provides first evidence of this evolution, while further analysis is warranted on how State aid can effectively support shared EU objectives and new industrial priorities while safeguarding competition within the Single Market and maintaining fiscal sustainability.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3880e1df-2fda-8186-a712-f210fcccf33c",
+      "title": "Philip R. Lane: Introductory remarks",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623~c112a749e2.en.html",
+      "published": "2026-06-23",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3880e1df-2fda-813b-ad2b-f562659acf2e",
+      "title": "Boris Vujčić: Outlook for the euro area economy and monetary policy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623_1~e421434341.en.pdf",
+      "published": "2026-06-23",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3880e1df-2fda-81f2-af95-cc4bd3507d14",
+      "title": "The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS",
+      "url": "https://www.bis.org/press/p260623.htm",
+      "published": "2026-06-23",
+      "summary": "Digital innovation is transforming finance, potentially enabling greater competition and efficiency in payment systems and financial intermediation. However, it also poses new macro-financial challenges and raises the broader question of how to preserve trust in money in the digital age...",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.bis.org/doclist/all_pressrels.rss"
+    },
+    {
+      "id": "3880e1df-2fda-81ad-91a2-cd75c939764f",
+      "title": "The macroeconomics of stablecoins",
+      "url": "https://www.bis.org/publ/work1363.htm",
+      "published": "2026-06-23",
+      "summary": "by Boris Hofmann, Matthias Kaldorf, Matthias Rottner We analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3880e1df-2fda-8188-b9e7-f6078c18a09e",
+      "title": "Annual Economic Report 2026",
+      "url": "https://www.bis.org/publ/arpdf/ar2026e.htm",
+      "published": "2026-06-23",
+      "summary": "A special chapter of our Annual Economic Report has been released on 23 June. The remaining chapters, to be released on 28 June, will examine how the global economy is faring as progress meets rising perils &#8211; including a new fiscal&#8211;financial stability nexus and shifting inflation dynamics.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3880e1df-2fda-8123-8295-dfcfd811ecfa",
+      "title": "How Small is Small? Non-linearities in Heterogeneous Agent Models",
+      "url": "https://www.minneapolisfed.org/research/wp/wp815.pdf",
+      "published": "2026-06-22",
+      "summary": "Federal Reserve Bank of Minneapolis Working Papers by Javier Bianchi and Greg Kaplan",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
     {
       "id": "3870e1df-2fda-81e4-9e24-ed2cad2caa05",
       "title": "FEDS Paper: A Static Capital Buffer is Hard To Beat",
@@ -815,6 +958,17 @@
       "country": "Global",
       "type": "Publications",
       "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3880e1df-2fda-81d8-baeb-e0f015f95385",
+      "title": "Remarks by Wencai Zhang at 2026 Lujiazui Forum",
+      "url": "https://www.worldbank.org/en/news/speech/2026/06/17/remarks-by-wencai-zhang-at-2026-lujiazui-forum",
+      "published": "2026-06-17",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3870e1df-2fda-815f-b178-c4d9c28fbd88",
