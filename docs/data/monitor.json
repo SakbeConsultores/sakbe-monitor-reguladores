@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-06-23T22:21:29.108954+00:00",
-  "total_items": 825,
+  "generated_at": "2026-06-24T17:10:14.754428+00:00",
+  "total_items": 833,
   "items": [
+    {
+      "id": "3890e1df-2fda-8115-820d-d2d933a4ada7",
+      "title": "Índice Nacional de Precios al Consumidor (INPC). Base 2ª Quincena Julio 2018. Actualización de Canasta y Ponderadores 2024",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10963",
+      "published": "2026-06-24",
+      "summary": "La inflación anual fue de 3.55% en la primera quincena de junio de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3890e1df-2fda-8156-adb2-fa5fcd05c46d",
+      "title": "Encuesta Nacional de Empresas Constructoras (ENEC). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10964",
+      "published": "2026-06-24",
+      "summary": "Aumentó 0.4% el valor de producción de las empresas constructoras en abril de 2026, en términos reales y a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3890e1df-2fda-81be-b3dc-c935ccc26054",
+      "title": "FEDS Paper: An Evaluation of Difference-in-Differences Methods Using Placebo Event Studies",
+      "url": "https://www.federalreserve.gov/econres/feds/an-evaluation-of-difference-in-differences-methods-using-placebo-event-studies.htm",
+      "published": "2026-06-24",
+      "summary": "John Coglianese and Jade A. Fang Researchers are faced with the choice of which of the many recently developed difference-in-differences methods to use in practice. To assess these estimators' relative performance for single-unit event studies, we conduct 134,000+ state-level placebo event studies across 13 estimators. We find that no single method dominates. Performance is context-dependent, with synthetic-control-like methods sometimes outperforming and sometimes underperforming two-way-fixed-effect-like and matching methods. Performance also varies across states at least as much as it does across estimators. Our results highlight the need for practitioners to conduct placebo tests to understand the performance of methods in their research context.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3890e1df-2fda-81ef-8104-ebd2c433fd46",
+      "title": "Convergence Report, June 2026",
+      "url": "https://www.ecb.europa.eu//press/other-publications/convergence/html/ecb.cr202606~30e75ae1c2.en.html",
+      "published": "2026-06-24",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3890e1df-2fda-81bb-8f05-cc4c2dbc3a86",
+      "title": "Higher oil prices from the war in the Middle East: assessing the headwinds for euro area growth",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_04~9b6a4036fc.en.html",
+      "published": "2026-06-24",
+      "summary": "Oil supply disruptions related to the war in the Middle East have triggered a sharp rise in oil prices, posing headwinds for euro area economic activity. This box assesses the macroeconomic effects of the shock using a Bayesian vector autoregressive model with identified geopolitical oil supply shocks. The results suggest that supply-driven oil price increases associated with geopolitical events have a persistent negative effect on euro area growth, operating through lower private consumption and investment. Historical evidence from past geopolitical oil supply disruptions indicates that the current shock is likely to weigh noticeably on euro area growth, although the magnitude of the effects remains uncertain and will depend on the future path of oil prices and the evolving geopolitical situation.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3890e1df-2fda-8167-a1fa-ec6e08e993fa",
+      "title": "Iceland joins TIPS for instant payments",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html",
+      "published": "2026-06-24",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3890e1df-2fda-81d1-857d-d4b92833b44e",
+      "title": "ECB reports on progress towards euro adoption",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html",
+      "published": "2026-06-24",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
     {
       "id": "3880e1df-2fda-8106-be0c-e34b94988c90",
       "title": "FEDS Paper: The Response of Equity Yields to a Long-Run Shock",
@@ -8867,6 +8944,17 @@
       "country": "Global",
       "type": "Central Bank Research Hub",
       "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3890e1df-2fda-812b-b699-d77d74bb7966",
+      "title": "The Agricultural Gender Gap in Sub-Saharan Africa : Magnitude, Drivers, and Policy Directions",
+      "url": "http://documents.worldbank.org/curated/undefined/099210306242642476/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3830e1df-2fda-811b-b666-eb0ec97589fa",
