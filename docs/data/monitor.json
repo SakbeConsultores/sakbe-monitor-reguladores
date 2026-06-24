@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-06-24T17:10:14.754428+00:00",
-  "total_items": 833,
+  "generated_at": "2026-06-24T22:25:37.614707+00:00",
+  "total_items": 835,
   "items": [
+    {
+      "id": "3890e1df-2fda-812c-ae95-eaec9c65b144",
+      "title": "FEDS Paper: Sequence-Space Jacobians of Life-Cycle Models",
+      "url": "https://www.federalreserve.gov/econres/feds/sequence-space-jacobians-of-life-cycle-models.htm",
+      "published": "2026-06-24",
+      "summary": "Bence Bard&oacute;czy , Akshay Shanker, and Mateo Vel&aacute;squez-Giraldo The sequence-space Jacobian (SSJ) method of Auclert et al. (2021a) has made heterogeneous-agent models far easier to solve, fueling an explosion of applications. But even SSJ strains against capacity constraints when state spaces grow very large, as in economies with overlapping generations of heterogeneous agents (HA-OLG). We show how to exploit the special properties of age&#8212;finite planning horizons and deterministic transitions between ages&#8212;to compute the Jacobians of a general class of HA-OLG models orders of magnitude faster. We provide rigorous proofs, age-specific Jacobians that decompose aggregate dynamics across cohorts, an application to the dynamic general-equilibrium effects of secularly declining birth rates, and an accessible cookbook for adopting our method.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3890e1df-2fda-81a8-ae51-e08e5bd82ae7",
+      "title": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm",
+      "published": "2026-06-24",
+      "summary": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
     {
       "id": "3890e1df-2fda-8115-820d-d2d933a4ada7",
       "title": "Índice Nacional de Precios al Consumidor (INPC). Base 2ª Quincena Julio 2018. Actualización de Canasta y Ponderadores 2024",
