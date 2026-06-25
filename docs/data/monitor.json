@@ -1,7 +1,238 @@
 {
-  "generated_at": "2026-06-24T22:25:37.614707+00:00",
-  "total_items": 835,
+  "generated_at": "2026-06-25T17:16:11.279628+00:00",
+  "total_items": 857,
   "items": [
+    {
+      "id": "38a0e1df-2fda-815a-b3a5-d1fdb82f5f77",
+      "title": "SBS publica propuesta de reglamento para fortalecer la gestión del riesgo de liquidez en las Coopac",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3942",
+      "published": "2026-06-25",
+      "summary": "El nuevo marco normativo busca reforzar la capacidad de respuesta de las cooperativas frente a escenarios de estrés financiero y consolidar la sosteni",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "38a0e1df-2fda-81ae-88a0-c790b9ca4eb9",
+      "title": "Relaciones Laborales de Jurisdicción Local",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10966",
+      "published": "2026-06-25",
+      "summary": "82.9% de las desavenencias en las relaciones laborales que se atendieron en el ámbito de las entidades federativas se resolvió mediante convenios de trabajo prejudiciales",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "38a0e1df-2fda-8164-89f7-f354be497175",
+      "title": "Encuesta Nacional de Ocupación y Empleo (ENOE), población de 15 años y más de edad",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10965",
+      "published": "2026-06-25",
+      "summary": "Sumó 62.1 millones de personas la población económicamente activa en mayo de 2026: 460 mil personas más que en mayo de 2025",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "38a0e1df-2fda-814c-a2c3-ec4b4ef6b1e9",
+      "title": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
+      "published": "2026-06-25",
+      "summary": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "38a0e1df-2fda-81ee-a3fc-e1edeec9e9c4",
+      "title": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
+      "published": "2026-06-25",
+      "summary": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "38a0e1df-2fda-8119-9a41-df1a6bf87139",
+      "title": "How US financial markets react to geopolitical shocks hitting oil supply",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_02~7d79ce3c90.en.html",
+      "published": "2026-06-25",
+      "summary": "This box assesses how energy supply disruptions associated with geopolitical shocks are transmitted to US financial markets, leveraging on the indicator developed by Iacoviello and Tong (2026). Whereas negative geopolitical events typically reduce output, they are ambiguous with respect to inflation. However, those that also constrain global oil supply are inflationary and lead to deeper recessions. In these cases, stock prices fall more persistently, the dollar appreciates markedly, and risk metrics such as corporate bond spreads increase and remain elevated. This pattern is driven by oil price dynamics: instead of falling, as they would if supply were unaffected, oil prices rise sharply and persistently. Applying model-implied elasticities to the war in the Middle East which started in February 2026 suggests that markets have reacted only moderately to the shock. This may reflect confidence in the robustness of the US economy or expectations that the conflict will be short-lived, but it also leaves markets vulnerable to abrupt repricing if these assumptions prove wrong.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "38a0e1df-2fda-812c-ad71-ec39e98a2e8c",
+      "title": "Tracking euro area labour market developments through restructuring announcements",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_05~a606096644.en.html",
+      "published": "2026-06-25",
+      "summary": "This box examines whether large-scale restructuring announcements recorded in the European Restructuring Monitor (ERM) compiled by Eurofound contain economically meaningful signals of euro area labour market dynamics. We construct a net job changes indicator, demonstrating that its lagged values contain information on episodes of below-average employment performance ahead of official data releases. While ERM coverage is limited by construction, focusing on large firms and manufacturing-intensive sectors, it captures restructuring events in firms employing between one-third and one-half of the total euro area workforce, making it a timely complement to standard aggregate statistics.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "38a0e1df-2fda-81cf-8e93-ea0c2fb743b1",
+      "title": "What has kept goods inflation low? The role of the import exposure to China",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_06~f469938e52.en.html",
+      "published": "2026-06-25",
+      "summary": "This box analyses the impact of prices of imports from China on euro area goods inflation. Inflation for China-exposed goods has been persistently lower than total goods inflation, with model-based estimates suggesting that shocks which bring down the prices of imports from China by 10% in exposed sectors reduce inflation by 0.1-0.7 percentage points in key categories such as furniture and appliances. A historical decomposition estimated over the period between January 2002 and April 2026 shows that, cumulatively, import price shocks from China reduced goods inflation by 0.27 percentage points by April 2026, with delayed effects from the appreciation of the euro in 2025 further dampening goods inflation.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "38a0e1df-2fda-8172-98a0-f26de2d18201",
+      "title": "Liquidity conditions and monetary policy operations from 11 February to 5 May 2026",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_07~e257cabcc5.en.html",
+      "published": "2026-06-25",
+      "summary": "This box describes the Eurosystem liquidity conditions and monetary policy operations in the first and second reserve maintenance periods of 2026, from 11 February to 5 May 2026.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "38a0e1df-2fda-815b-8f42-c9e684cfbe0d",
+      "title": "The narrowing of the euro area current account balance in 2025",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202604_08~de66a3786d.en.html",
+      "published": "2026-06-25",
+      "summary": "This box examines the narrowing of the euro area current account surplus from 2.7% of GDP in 2024 to 1.7% in 2025. The decline was driven mainly by services trade and income flows and particularly by developments vis-à-vis the United States and China. For the United States, this reflected the role of US multinational enterprises, whose euro area affiliates supported goods exports but generated larger services and income deficits. Imports from China grew, especially in machinery and manufactured goods. AI-related goods had only a limited direct effect on the goods balance, but it is likely that rising AI adoption boosted imports of digital services. From a saving and investment perspective, the lower surplus reflected reduced net lending by non-financial corporations, owing to both lower saving and higher domestic investment needs. Overall, the euro area current account surplus is expected to remain below its 2024 level over the medium term.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "38a0e1df-2fda-815f-8203-c90393111a09",
+      "title": "Economic Bulletin Issue 4, 2026",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/html/eb202604.en.html",
+      "published": "2026-06-25",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "38a0e1df-2fda-8134-a4ac-e6ec0bb8a95d",
+      "title": "Isabel Schnabel: Interview with Die Zeit",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260626~c18c7252f3.en.html",
+      "published": "2026-06-25",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "38a0e1df-2fda-817a-8967-fe13d1439b3c",
+      "title": "ECB to integrate non-financial credit claim portfolios into general collateral framework, phasing out temporary measures",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260625~edee181785.en.html",
+      "published": "2026-06-25",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "38a0e1df-2fda-81f0-a5b9-f19a50c40d58",
+      "title": "Piero Cipollone: Central bank money for the digital era",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260625~db26a75179.en.pdf",
+      "published": "2026-06-25",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "38a0e1df-2fda-811f-b460-f6dfd39a7e80",
+      "title": "2026 06 15 PMR - Jonathan Overett Somnier",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/6d14a3b3-9fce-42dd-b98c-fe0dcf359a47/2026%2006%2015%20PMR%20-%20Jonathan%20Overett%20Somnier.pdf",
+      "published": "2026-06-25",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "38a0e1df-2fda-816f-b418-fa1844f8d70b",
+      "title": "PH Guidelines on limits on exposures to shadow banking entitites",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/6ab74df4-54cf-4568-82e4-5e5481526528/PH%20Guidelines%20on%20limits%20on%20exposures%20to%20shadow%20banking%20entitites.pdf",
+      "published": "2026-06-25",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "38a0e1df-2fda-8108-b0d2-de847c954d62",
+      "title": "Connected Farmers, Better Harvests: How Cameroon’s Agritech Innovators Are Transforming Agriculture",
+      "url": "http://www.worldbank.org/en/news/feature/2026/06/25/connected-farmers-better-harvests-how-cameroon-agritech-innovators-are-transforming-agriculture",
+      "published": "2026-06-25",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "38a0e1df-2fda-817d-8abe-ffe974352fe4",
+      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
+      "url": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
+      "published": "2026-06-25",
+      "summary": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "38a0e1df-2fda-819e-a8bd-c83af461af82",
+      "title": "Guinea-Bissau 2026 Economic Update: Pathways for Unlocking Productivity-Led Private Sector Growth",
+      "url": "http://www.worldbank.org/en/news/feature/2026/06/24/guinea-bissau-2026-economic-update-pathways-for-unlocking-productivity-led-private-sector-growth",
+      "published": "2026-06-24",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "38a0e1df-2fda-8159-a170-fade8efe9e15",
+      "title": "World Bank Partnership with Uganda’s Makerere University is Building Skills and Job Potential",
+      "url": "http://www.worldbank.org/en/news/feature/2026/06/24/world-bank-partnership-with-uganda-s-makerere-university-is-building-skills-and-job-potential",
+      "published": "2026-06-24",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "38a0e1df-2fda-81ef-80b1-d5caae428af3",
+      "title": "Building Smarter Cities: How Digital Tools Are Transforming Public Services in Viet Nam",
+      "url": "http://www.worldbank.org/en/news/feature/2026/06/24/building-smarter-cities-how-digital-tools-are-transforming-public-services-in-viet-nam",
+      "published": "2026-06-24",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3890e1df-2fda-812c-ae95-eaec9c65b144",
       "title": "FEDS Paper: Sequence-Space Jacobians of Life-Cycle Models",
@@ -100,6 +331,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "38a0e1df-2fda-81da-97b5-f624ce5f0e3a",
+      "title": "Opening remarks by Anna Bjerde, World Bank Managing Director of Operations, at the OPEC Fund Development Forum 2026",
+      "url": "http://www.worldbank.org/en/news/statement/2026/06/23/opening-remarks-by-anna-bjerde-world-bank-managing-director-of-operations-at-the-opec-fund-development-forum-2026",
+      "published": "2026-06-23",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3880e1df-2fda-8106-be0c-e34b94988c90",
