@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-06-25T17:16:11.279628+00:00",
-  "total_items": 857,
+  "generated_at": "2026-06-25T22:26:37.975394+00:00",
+  "total_items": 861,
   "items": [
+    {
+      "id": "38a0e1df-2fda-81c0-b15a-f969cdfe36b8",
+      "title": "Credit Risk: “Lending and Loan Portfolio Risk Management” Booklet of the Comptroller’s Handbook and Rescissions",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-29.html",
+      "published": "2026-06-25",
+      "summary": "The Office of the Comptroller of the Currency today issued the \"Lending and Loan Portfolio Risk Management\" booklet of the Comptroller's Handbook.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "38a0e1df-2fda-81c7-8d28-ef632e72ac68",
+      "title": "Comptroller's Handbook: Lending and Loan Portfolio Risk Management",
+      "url": "https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/lending-loan-portfolio-risk-management/index-lending-loan-portfolio.html",
+      "published": "2026-06-25",
+      "summary": "This booklet provides information about lending, risks associated with lending, risk management practices applicable to all phases of a loan’s life cycle, and loan portfolio risk management.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Publications",
+      "feed_url": "https://www.occ.treas.gov/rss/occ-publications.xml"
+    },
+    {
+      "id": "38a0e1df-2fda-81ec-8006-c5caf6ae245f",
+      "title": "Comptroller Issues Statement at FDIC Board Meeting",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-49.html",
+      "published": "2026-06-25",
+      "summary": "Comptroller of the Currency Jonathan V. Gould issued a statement today on his Federal Deposit Insurance Corporation (FDIC) votes concerning resolution planning, assessments, and the disclosure of confidential supervisory information.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
     {
       "id": "38a0e1df-2fda-815a-b3a5-d1fdb82f5f77",
       "title": "SBS publica propuesta de reglamento para fortalecer la gestión del riesgo de liquidez en las Coopac",
@@ -331,6 +364,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "38a0e1df-2fda-81e4-9b2b-d4aa8972089f",
+      "title": "2026 Cybersecurity and Financial System Resilience Report",
+      "url": "https://www.occ.gov/publications-and-resources/publications/cybersecurity-and-financial-system-resilience/files/2026-cybersecurity-report.html",
+      "published": "2026-06-23",
+      "summary": "The annual Cybersecurity and Financial System Resilience Report provides Congress with an overview of measures that the OCC takes to strengthen cybersecurity with respect to the agency's functions as a regulator. Functions include the supervision and regulation of financial institutions and, when applicable, third-party service providers.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Publications",
+      "feed_url": "https://www.occ.treas.gov/rss/occ-publications.xml"
     },
     {
       "id": "38a0e1df-2fda-81da-97b5-f624ce5f0e3a",
