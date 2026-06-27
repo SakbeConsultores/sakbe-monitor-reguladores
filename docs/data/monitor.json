@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-06-26T22:20:46.147940+00:00",
-  "total_items": 884,
+  "generated_at": "2026-06-27T16:10:06.483863+00:00",
+  "total_items": 885,
   "items": [
+    {
+      "id": "38c0e1df-2fda-8129-8216-c6d06a448038",
+      "title": "Isabel Schnabel: Is inflation back?",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260627~3807c2766e.en.pdf",
+      "published": "2026-06-27",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
     {
       "id": "38b0e1df-2fda-8156-be07-d85fa20ca4f1",
       "title": "SBS publica proyecto para modernizar proceso de autorización de nuevas empresas financieras y de seguros",
