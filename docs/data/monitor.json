@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-06-27T22:10:10.714982+00:00",
-  "total_items": 885,
+  "generated_at": "2026-06-28T16:15:37.514149+00:00",
+  "total_items": 891,
   "items": [
+    {
+      "id": "38d0e1df-2fda-8143-96b5-c7b316c355dd",
+      "title": "Global economic pressure points call for policy discipline: BIS",
+      "url": "https://www.bis.org/press/p260628.htm",
+      "published": "2026-06-28",
+      "summary": "The sustainability of the AI boom, financial vulnerabilities and strained public finances are among pressure points facing the global economy, along with the return of inflation. The interplay of record-high public debt with the increasing role of highly-leveraged hedge funds creates a new sovereign-financial stability nexus and poses growing financial stability risks. Safeguarding price stability, ensuring fiscal sustainability, strengthening financial stability beyond the banking perimeter and structural reforms must be policy priorities. Discipline in each arm of policy expands the room in which the others have to act.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.bis.org/doclist/all_pressrels.rss"
+    },
+    {
+      "id": "38d0e1df-2fda-818b-a090-c73022e78edd",
+      "title": "Annual Report 2025/26",
+      "url": "https://www.bis.org/about/areport/areport2026.htm",
+      "published": "2026-06-28",
+      "summary": "The Annual Report introduces the BIS's new strategy and shows how the BIS has supported stakeholders throughout the year.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "38d0e1df-2fda-8166-92d3-c7036f72128c",
+      "title": "Public debt and monetary policy transmission: evidence from advanced and emerging Europe",
+      "url": "https://www.bis.org/publ/work1365.htm",
+      "published": "2026-06-28",
+      "summary": "by Christopher Johns, Aaron Mehrotra, Fabrizio Zampolli Using high-frequency euro area monetary policy shocks and panel local projections for the period 2001-2020, this paper examines how macroeconomic variables respond based on the level and the maturity structure of public debt. The results show that public debt plays a significant role in influencing monetary policy transmission.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "38d0e1df-2fda-817a-bc8d-efc401c77331",
+      "title": "Financial and real effects of fiscal risk",
+      "url": "https://www.bis.org/publ/work1364.htm",
+      "published": "2026-06-28",
+      "summary": "by Denis Gorea, Ding Xuan Ng, Fabrizio Zampolli This paper estimates the macroeconomic and financial effects of fiscal risk shocks using a novel identification from bond yields. We first recover country-specific fiscal risk shocks from a daily Bayesian VAR model in sovereign and safe corporate bond yields, identified via contemporaneous sign restrictions that capture portfolio rebalancing away from government debt toward private safe assets.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "38c0e1df-2fda-8129-8216-c6d06a448038",
       "title": "Isabel Schnabel: Is inflation back?",
@@ -12,6 +56,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "38d0e1df-2fda-817d-934a-eda16c0b2304",
+      "title": "Supporting Women’s Economic Recovery in Conflict-Affected Ethiopia",
+      "url": "http://www.worldbank.org/en/news/feature/2026/06/26/supporting-womens-economic-recovery-in-conflict-affected-ethiopia",
+      "published": "2026-06-26",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "38b0e1df-2fda-8156-be07-d85fa20ca4f1",
@@ -188,6 +243,17 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "38d0e1df-2fda-8157-88d5-f254350c3952",
+      "title": "World Bank Group Statement on Venezuela Earthquakes",
+      "url": "http://www.worldbank.org/en/news/statement/2026/06/25/world-bank-group-statement-on-venezuela-earthquakes",
+      "published": "2026-06-25",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "38b0e1df-2fda-810b-89b0-c9a8d9857892",
