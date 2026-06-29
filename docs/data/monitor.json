@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-06-28T22:08:13.700438+00:00",
-  "total_items": 891,
+  "generated_at": "2026-06-29T17:49:05.360326+00:00",
+  "total_items": 909,
   "items": [
+    {
+      "id": "38e0e1df-2fda-813a-a522-d24305576679",
+      "title": "Estadísticas sobre Personas Adolescentes en Conflicto con la Ley (EPACOL) 2026",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10968",
+      "published": "2026-06-29",
+      "summary": "Durante 2024, 35 193 personas adolescentes fueron imputadas por la presunta comisión de un delito",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "38e0e1df-2fda-816c-bad6-f92b6b052130",
+      "title": "Monetary developments in the euro area: May 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/md/html/ecb.md2605~3c7ea02712.en.html",
+      "published": "2026-06-29",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Statistical Releases",
+      "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
+    },
+    {
+      "id": "38e0e1df-2fda-812a-bf96-c4610639bb0f",
+      "title": "Report on Supervisory Convergence 2025",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/ca46f10c-6f22-40fc-949a-00fa54f7716c/Report%20on%20Supervisory%20Convergence%202025.pdf",
+      "published": "2026-06-29",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "38e0e1df-2fda-81c1-a6a8-e3a340226f2b",
+      "title": "Roadmap on the delivery of the DGSD mandates",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/e3e5cd23-92cb-40ae-b765-b9e8234f4e7d/Roadmap%20on%20the%20delivery%20of%20the%20DGSD%20mandates.pdf",
+      "published": "2026-06-29",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "38e0e1df-2fda-810d-bfb4-da692e9946a3",
+      "title": "EBA Learning Hub Course Offer for Public - July 2026 edition",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/85dae53d-722f-4d10-ba2b-0c120cacb0e9/EBA%20Learning%20Hub%20Course%20Offer%20for%20Public%20-%20July%202026%20edition.pdf",
+      "published": "2026-06-29",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "38e0e1df-2fda-813e-8b7b-d872cb4428e2",
+      "title": "The EBA publishes a roadmap on the delivery of its mandates under the revised Deposit Guarantee Schemes Directive",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-roadmap-delivery-its-mandates-under-revised-deposit-guarantee-schemes-directive",
+      "published": "2026-06-29",
+      "summary": "The European Banking Authority (EBA) today published a roadmap outlining how it will deliver its mandates under the revised Deposit Guarantee Schemes Directive (DGSD3). The roadmap sets out the EBA’s role in implementing DGSD3 by developing a set of regulatory products to strengthen depositor protection across the EU. It also presents the timeline for these deliverables, which will ensure depositors are better informed about their rights, better protected, and that deposit guarantee schemes are prepared to act when needed.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "38e0e1df-2fda-8145-bacf-f75cdf466c8c",
+      "title": "The EBA publishes its 2025 Report on supervisory convergence, supporting a simpler and more efficient EU prudential framework",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-2025-report-supervisory-convergence-supporting-simpler-and-more-efficient-eu",
+      "published": "2026-06-29",
+      "summary": "The European Banking Authority (EBA) today published its 2025 Report on supervisory convergence, as part of its broader efforts to contribute to a more efficient, streamlined and effective EU prudential framework. This work responds to the EBA’s initiatives to increase the efficiency of the regulatory and supervisory framework, including through greater transparency and a focus on supervisory convergence. The Report highlights continued progress in aligning supervisory practices across the European Union (EU), while identifying areas where further convergence is needed. It shows how strong and consistent supervision can support the simplification of the regulatory framework, reduce unnecessary complexity, and help secure a level playing field across the Single Market.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
     {
       "id": "38d0e1df-2fda-8143-96b5-c7b316c355dd",
       "title": "Global economic pressure points call for policy discipline: BIS",
@@ -56,6 +133,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "38e0e1df-2fda-817e-bb50-cfdd2ff350bb",
+      "title": "Cyclical Fluctuations, Financial Frictions, and Productivity Differences across Firms",
+      "url": "https://www.federalreserve.gov/econres/feds/files/2026047pap.pdf",
+      "published": "2026-06-26",
+      "summary": "Board of Governors of the Federal Reserve System Finance and Economics Discussion Series by Luca Guerrieri, Jinill Kim and Arsenii Mishin",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "38d0e1df-2fda-817d-934a-eda16c0b2304",
@@ -509,6 +597,28 @@
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
+      "id": "38e0e1df-2fda-81eb-b06d-ea9486675296",
+      "title": "The Local Economic Impact of Coal Mine Closures",
+      "url": "https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2026/wp26-30.pdf",
+      "published": "2026-06-24",
+      "summary": "Federal Reserve Bank of Philadelphia Working Papers by David Nason, Adam Scavette and Heather Stephens",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "38e0e1df-2fda-818a-a37f-c7220788de58",
+      "title": "Sequence-Space Jacobians of Life-Cycle Models",
+      "url": "https://www.federalreserve.gov/econres/feds/files/2026046pap.pdf",
+      "published": "2026-06-24",
+      "summary": "Board of Governors of the Federal Reserve System Finance and Economics Discussion Series by Bence Bardóczy, Akshay Shanker and Mateo Velásquez-Giraldo",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
       "id": "38b0e1df-2fda-81dd-ad96-d188e77750db",
       "title": "June 24, 2026IMF Executive Board Concludes 2026 Article IV Consultation with Portugal",
       "url": "https://www.imf.org/en/news/articles/2026/06/24/pr26220-portugal-imf-executive-board-concludes-2026-article-iv-consultation",
@@ -696,6 +806,28 @@
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
     },
     {
+      "id": "38e0e1df-2fda-8155-a2ec-de3eec5f2ff8",
+      "title": "How Times Have Changed: The Impact of the 2026 Iran War on the U.S. Economy",
+      "url": "https://www.dallasfed.org/research/papers/2026/wp2615",
+      "published": "2026-06-23",
+      "summary": "Federal Reserve Bank of Dallas Working Papers by Lutz Kilian, Michael D. Plante and Alexander W. Richter",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "38e0e1df-2fda-81b2-96ea-e5bbaf5beb4f",
+      "title": "The Response of Equity Yields to a Long-Run Shock",
+      "url": "https://www.federalreserve.gov/econres/feds/files/2026044pap.pdf",
+      "published": "2026-06-23",
+      "summary": "Board of Governors of the Federal Reserve System Finance and Economics Discussion Series by Martijn Boons, Anthony M. Diercks, Petra Sinagl and Andrea Tamoni",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
       "id": "38a0e1df-2fda-81e4-9b2b-d4aa8972089f",
       "title": "2026 Cybersecurity and Financial System Resilience Report",
       "url": "https://www.occ.gov/publications-and-resources/publications/cybersecurity-and-financial-system-resilience/files/2026-cybersecurity-report.html",
@@ -859,6 +991,50 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "38e0e1df-2fda-8187-b5ea-f9fe29623b8f",
+      "title": "The Interest Rate Effect of Government Debt and Deficits: Does Domestic Borrowing Have a Different Impact Than Foreign Borrowing?",
+      "url": "https://www.dallasfed.org/~/media/documents/research/papers/2026/wp2614.pdf",
+      "published": "2026-06-22",
+      "summary": "Federal Reserve Bank of Dallas Working Papers by J. Scott Davis and Lillian Derr",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "38e0e1df-2fda-81be-ac20-f25957a63016",
+      "title": "New U.S. Business Establishments: Surging or Stalling?",
+      "url": "https://www.federalreserve.gov/econres/feds/files/2026040pap.pdf",
+      "published": "2026-06-22",
+      "summary": "Board of Governors of the Federal Reserve System Finance and Economics Discussion Series by Dan Cao, Henry Hyatt, Toshihiko Mukoyama and Erick Sager",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "38e0e1df-2fda-818e-bb9e-cac5199a40c7",
+      "title": "A Static Capital Buffer is Hard To Beat",
+      "url": "https://www.federalreserve.gov/econres/feds/files/2026042pap.pdf",
+      "published": "2026-06-22",
+      "summary": "Board of Governors of the Federal Reserve System Finance and Economics Discussion Series by Matthew B. Canzoneri, Behzad T. Diba, Luca Guerrieri and Arsenii Mishin",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "38e0e1df-2fda-81b4-a78f-e9133b1809ec",
+      "title": "Local Labor Market Tightness and Job Quality: Evidence from Job Changers",
+      "url": "https://www.federalreserve.gov/econres/feds/files/2026043pap.pdf",
+      "published": "2026-06-22",
+      "summary": "Board of Governors of the Federal Reserve System Finance and Economics Discussion Series by Brad Hershbein, Katherine Lim, Douglas A. Webber and Mike Zabek",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3880e1df-2fda-8102-9c0a-cd346db73c05",
@@ -2245,6 +2421,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "38e0e1df-2fda-811d-bddc-ea1f029de7a3",
+      "title": "Living in Infamy: Bad Reputations in Emerging Markets",
+      "url": "https://doi.org/10.20955/wp.2026.012",
+      "published": "2026-06-15",
+      "summary": "Federal Reserve Bank of St Louis Working Papers by Zachary Stangebye and Mark L. J. Wright",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3830e1df-2fda-8129-9591-ffda4c47400d",
@@ -9582,6 +9769,17 @@
       "country": "Global",
       "type": "Central Bank Research Hub",
       "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "38e0e1df-2fda-8166-b28d-cd82ff21d14b",
+      "title": "Beyond the Urban Sweet Spot : Firm-Level Evidence of Over-Agglomeration in Mongolia’s Capital",
+      "url": "http://documents.worldbank.org/curated/undefined/099526406292634418/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3890e1df-2fda-812b-b699-d77d74bb7966",
