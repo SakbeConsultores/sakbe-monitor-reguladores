@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-06-29T17:49:05.360326+00:00",
-  "total_items": 909,
+  "generated_at": "2026-06-29T22:15:50.360769+00:00",
+  "total_items": 919,
   "items": [
+    {
+      "id": "38e0e1df-2fda-8143-9b48-e9e60d92791d",
+      "title": "OCC Announces Senior Personnel Changes",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-50.html",
+      "published": "2026-06-29",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today announced two senior personnel changes to support the evolution of the agency's technology and information infrastructure and to elevate experienced supervisory leadership within our most complex portfolios.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "38e0e1df-2fda-8106-9e39-c03f405e9dac",
+      "title": "Christine Lagarde: Back to basics in an uncertain environment",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260629~cb5a2e2168.en.html",
+      "published": "2026-06-29",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "38e0e1df-2fda-8182-a3dd-d2b1a2e79896",
+      "title": "The Fiscal Policy of Autonomous Communities: Its Macroeconomic Effects and the Role of the National Fiscal Rule",
+      "url": "https://www.imf.org/en/publications/selected-issues-papers/issues/2026/06/26/the-fiscal-policy-of-autonomous-communities-its-macroeconomic-effects-and-the-role-of-the-577333",
+      "published": "2026-06-29",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "38e0e1df-2fda-811b-9030-c266e3bd9d73",
+      "title": "The Case for Borrower-Based Macroprudential Measures in Spain",
+      "url": "https://www.imf.org/en/publications/selected-issues-papers/issues/2026/06/26/the-case-for-borrower-based-macroprudential-measures-in-spai-577339",
+      "published": "2026-06-29",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "38e0e1df-2fda-81ea-b704-f80b6941cf54",
+      "title": "Firm-Level Innovation in Spain: Patterns, Drivers and Policy Implications",
+      "url": "https://www.imf.org/en/publications/selected-issues-papers/issues/2026/06/26/firm-level-innovation-in-spain-patterns-drivers-and-policy-implications-577345",
+      "published": "2026-06-29",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "38e0e1df-2fda-81a0-b62a-cde5fa3bd0d0",
+      "title": "Ireland: Selected Issues",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/26/ireland-selected-issues-577235",
+      "published": "2026-06-29",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "38e0e1df-2fda-8180-b51d-f018984b17dc",
+      "title": "Ireland: 2026 Article IV Consultation-Press Release; and Staff Report",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/26/ireland-2026-article-iv-consultation-press-release-and-staff-report-577230",
+      "published": "2026-06-29",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "38e0e1df-2fda-814d-9239-d03b12beb1b3",
+      "title": "Islamic Republic of Mauritania: Requests for an Extended Arrangement Under the Extended Fund Facility and Arrangement Under the Extended Credit Facility, Cancellation of the Current Arrangements Under the Extended Fund Facility and the Extended Credit Facility, and Fifth Review Under the Resilience and Sustainability Facility Arrangement-Press Release; Staff Report; and Statement by the Executive Director for the Islamic Republic of Mauritania",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/29/islamic-republic-of-mauritania-requests-for-an-extended-arrangement-under-the-extended-577367",
+      "published": "2026-06-29",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
     {
       "id": "38e0e1df-2fda-813a-a522-d24305576679",
       "title": "Estadísticas sobre Personas Adolescentes en Conflicto con la Ley (EPACOL) 2026",
@@ -9769,6 +9857,28 @@
       "country": "Global",
       "type": "Central Bank Research Hub",
       "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "38e0e1df-2fda-8179-8d1f-ddd23e234d88",
+      "title": "The Potential Market for Care in East Asia and Pacific",
+      "url": "http://documents.worldbank.org/curated/undefined/099831306292627215/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
+    {
+      "id": "38e0e1df-2fda-817b-840a-d896784c85a2",
+      "title": "Bilateral Import Demand Elasticities and Balanced Trade Protection",
+      "url": "http://documents.worldbank.org/curated/undefined/099737206292610405/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "38e0e1df-2fda-8166-b28d-cd82ff21d14b",
