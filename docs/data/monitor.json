@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-06-30T17:10:57.991047+00:00",
-  "total_items": 936,
+  "generated_at": "2026-06-30T22:20:57.746332+00:00",
+  "total_items": 941,
   "items": [
+    {
+      "id": "38f0e1df-2fda-812a-9dea-e6f06520f462",
+      "title": "SBS modifica el Reglamento para la supervisión consolidada de conglomerados financieros y mixtos",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3945",
+      "published": "2026-06-30",
+      "summary": "La SBS busca focalizar sus recursos de supervisión en aquellos conglomerados que, por su estructura, actividades y riesgos, requieren una revisión más",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "38f0e1df-2fda-8107-9aab-d049d87324f5",
+      "title": "Quarterly Report on Bank Trading and Derivatives Activities: First Quarter 2026",
+      "url": "https://www.occ.gov/publications-and-resources/publications/quarterly-report-on-bank-trading-and-derivatives-activities/files/q1-2026-derivatives-quarterly.html",
+      "published": "2026-06-30",
+      "summary": "Cumulative trading revenue of U.S. commercial banks and savings associations was $16.3 billion in the first quarter of 2026. Trading revenue was $1.7 billion, or 11.4 percent, more than in the previous quarter and $862 million, or 5.6 percent, more than a year earlier.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Publications",
+      "feed_url": "https://www.occ.treas.gov/rss/occ-publications.xml"
+    },
+    {
+      "id": "38f0e1df-2fda-81fc-b760-d5b086263590",
+      "title": "OCC Reports Mortgage Performance for First Quarter of 2026",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-52.html",
+      "published": "2026-06-30",
+      "summary": "The Office of the Comptroller of the Currency (OCC) reported on the performance of first-lien mortgages in the federal banking system during the first quarter of 2026.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "38f0e1df-2fda-81ae-be30-ed499f9006df",
+      "title": "OCC Reports First Quarter 2026 Bank Trading Revenue",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-53.html",
+      "published": "2026-06-30",
+      "summary": "The Office of the Comptroller of the Currency (OCC) reported cumulative trading revenue of U.S. commercial banks and savings associations of $16.3 billion in the first quarter of 2026. The first quarter trading revenue was $1.7 billion, or 11.4 percent, more than in the previous quarter and $862 million, or 5.6 percent, more than a year earlier.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
     {
       "id": "38f0e1df-2fda-81ea-8887-e7000e8d4570",
       "title": "Exportaciones por Entidad Federativa",
@@ -133,6 +177,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "38f0e1df-2fda-811a-98d6-e08e70065c47",
+      "title": "Update on the World Bank Group Climate Change Action Plan",
+      "url": "http://www.worldbank.org/en/news/statement/2026/06/29/update-on-the-world-bank-group-climate-change-action-plan",
+      "published": "2026-06-29",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "38f0e1df-2fda-81d5-981e-f9102d8b48f3",
