@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-06-29T22:15:50.360769+00:00",
-  "total_items": 919,
+  "generated_at": "2026-06-30T17:10:57.991047+00:00",
+  "total_items": 936,
   "items": [
+    {
+      "id": "38f0e1df-2fda-81ea-8887-e7000e8d4570",
+      "title": "Exportaciones por Entidad Federativa",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10969",
+      "published": "2026-06-30",
+      "summary": "Creció 17.9% el valor total de las exportaciones de las entidades federativas en el primer trimestre de 2026, a tasa anual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "38f0e1df-2fda-8120-851f-de6005285072",
+      "title": "Índices Globales de Personal y Remuneraciones de los Sectores Económicos (IGPERSE)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10970",
+      "published": "2026-06-30",
+      "summary": "Disminuyó 0.1% el índice global de personal ocupado respecto al mes previo, en abril de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "38f0e1df-2fda-815a-92ef-ff94f25fe96c",
+      "title": "Agencies Release List of Distressed or Underserved Nonmetropolitan Middle-Income Geographies",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-51.html",
+      "published": "2026-06-30",
+      "summary": "Federal bank regulatory agencies today released the 2026 list of certain geographies where certain bank activities are eligible for Community Reinvestment Act (CRA) credit.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "38f0e1df-2fda-8184-860b-e3460326d165",
+      "title": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
+      "published": "2026-06-30",
+      "summary": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "38f0e1df-2fda-8125-8a70-d3c30002551d",
+      "title": "ECB publishes indicative operational calendars for 2027",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630~9f54a0a4fb.en.html",
+      "published": "2026-06-30",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "38f0e1df-2fda-8166-b876-ffb8ba3d80c0",
+      "title": "ECB publishes indicative operational calendars for 2028",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html",
+      "published": "2026-06-30",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "38f0e1df-2fda-8164-a414-c77846e831d3",
+      "title": "Consolidated version of EBA-GL-2015-18 on product oversight and governance",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/8f6eeb6c-371d-4a96-ad85-f6c6d07142cc/Consolidated%20version%20of%20EBA-GL-2015-18%20on%20product%20oversight%20and%20governance%20.pdf",
+      "published": "2026-06-30",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "38f0e1df-2fda-81ee-85c3-d81b1bada008",
+      "title": "EBA amending GLs on POG GLs - Final report",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/d4b262c5-d8b7-45fa-a772-89a3719b61cd/EBA%20amending%20GLs%20on%20POG%20GLs%20-%20Final%20report.pdf",
+      "published": "2026-06-30",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "38f0e1df-2fda-817b-93b4-e5817fe5a620",
+      "title": "DGSD data - public file - 2015-2025 final",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/88be2943-d1fe-424a-89d2-7943463859d5/DGSD%20data%20-%20public%20file%20-%202015-2025_0.xlsx",
+      "published": "2026-06-30",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "38f0e1df-2fda-8168-821e-f0e2eccec7e0",
+      "title": "DGSD data - public file - 2015-2025",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-06/dc34bbd2-f4d1-48d2-884e-f9217fb072fb/DGSD%20data%20-%20public%20file%20-%202015-2025_0.xlsx",
+      "published": "2026-06-30",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "38f0e1df-2fda-8106-9e1a-e601dafc648b",
+      "title": "EU deposit guarantee scheme funds to protect depositors against bank failures continue to grow and have reached a volume of €85bn, the EBA observes",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eu-deposit-guarantee-scheme-funds-protect-depositors-against-bank-failures-continue-grow-and-have",
+      "published": "2026-06-30",
+      "summary": "The European Banking Authority (EBA) today published end-2025 data on two key concepts and indicators in the DGSD, namely financial means available to, and covered deposits protected by DGSs. This annual publication, covering each Member State, enhances transparency and accountability across the EU to the benefit of depositors, markets, policymakers, DGSs and Members States.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "38f0e1df-2fda-81d6-bab1-d57c7b49b0ba",
+      "title": "The EBA clarifies its Product Oversight and Governance Guidelines which address greenwashing risks in ESG products",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-clarifies-its-product-oversight-and-governance-guidelines-which-address-greenwashing-risks-esg",
+      "published": "2026-06-30",
+      "summary": "The European Banking Authority (EBA) today published revised Guidelines on product oversight and governance (POG) for retail banking products. They clarify requirements for products with environmental, social and governance (ESG) features whenever offered and sold to consumers and address greenwashing risks. The Guidelines aim to ensure that financial institutions apply robust standards when designing and distributing ESG-related retail products, with a view to reducing the risk of consumers being misled or sold products that do not meet their needs.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "38f0e1df-2fda-81d5-981e-f9102d8b48f3",
+      "title": "Update on the World Bank Group Climate Change Action Plan",
+      "url": "https://www.worldbank.org/en/news/statement/2026/06/29/update-on-the-world-bank-group-climate-change-action-plan",
+      "published": "2026-06-29",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "38f0e1df-2fda-81b2-b5e7-c02e69b11da3",
+      "title": "Upgrading the Global Financial Safety Net: Implications of a Synthetic Reserve Deposit",
+      "url": "https://www.imf.org/en/publications/wp/issues/2026/06/29/upgrading-the-global-financial-safety-net-implications-of-a-synthetic-reserve-deposit-577328",
+      "published": "2026-06-29",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
     {
       "id": "38e0e1df-2fda-8143-9b48-e9e60d92791d",
       "title": "OCC Announces Senior Personnel Changes",
@@ -9857,6 +10011,39 @@
       "country": "Global",
       "type": "Central Bank Research Hub",
       "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "38f0e1df-2fda-8130-b588-fc492532614a",
+      "title": "Does Informal Competition Reduce Firm-Provided Worker Training among Formal Manufacturing SMEs in Sub-Saharan Africa ?",
+      "url": "http://documents.worldbank.org/curated/undefined/099009406292677062/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
+    {
+      "id": "38f0e1df-2fda-818a-957c-d05a5934bb59",
+      "title": "Trade Diversion and Jobs : Evidence from Mexican Municipalities",
+      "url": "http://documents.worldbank.org/curated/undefined/099936406292629013/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
+    {
+      "id": "38f0e1df-2fda-8193-828d-f41608b10096",
+      "title": "Assessing the Impact of Renewable versus Fossil Fuels Energy on Economic Growth : A Meta-Analysis of the Elasticity across Development Stages",
+      "url": "http://documents.worldbank.org/curated/undefined/099301006302623396/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "38e0e1df-2fda-8179-8d1f-ddd23e234d88",
