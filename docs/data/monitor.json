@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-07-01T17:19:41.068086+00:00",
-  "total_items": 951,
+  "generated_at": "2026-07-01T22:24:50.475628+00:00",
+  "total_items": 959,
   "items": [
+    {
+      "id": "3900e1df-2fda-815c-876d-e49aa33c401b",
+      "title": "Coming Soon: World Economic Outlook Update, July 2026",
+      "url": "https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3900e1df-2fda-81ee-acf2-eda34aed22b3",
+      "title": "Federal Reserve issues initial findings from its 2025 triennial payments study",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
+      "published": "2026-07-01",
+      "summary": "Federal Reserve issues initial findings from its 2025 triennial payments study",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3900e1df-2fda-8194-832d-dfc2ff9b3d2e",
+      "title": "Israel: Selected Issues",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/30/israel-selected-issues-577394",
+      "published": "2026-07-01",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3900e1df-2fda-8186-b8e1-ec058ec6b82f",
+      "title": "Israel: 2026 Article IV Consultation-Press Release; Staff Report; and Statement by the Alternate Executive Director for Israel",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/30/israel-2026-article-iv-consultation-press-release-staff-report-and-statement-by-the-577389",
+      "published": "2026-07-01",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3900e1df-2fda-81ec-b9c5-f1fefb78a51f",
+      "title": "Peru: Technical Assistance Report-Report on Physical Energy Flow and Air Emissions Accounts (October 6–10, 2025)",
+      "url": "https://www.imf.org/en/publications/technical-assistance-reports/issues/2026/07/01/peru-technical-assistance-report-report-on-physical-energy-flow-and-air-emissions-accounts-577377",
+      "published": "2026-07-01",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
     {
       "id": "3900e1df-2fda-8104-974f-c600a259906d",
       "title": "Encuesta Mensual de Opinión Empresarial (EMOE). Serie 2018",
@@ -56,6 +111,28 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3900e1df-2fda-8100-98de-df5a9243be48",
+      "title": "Luxembourg: 2026 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for Luxembourg",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/30/luxembourg-2026-article-iv-consultation-press-release-staff-report-and-statement-by-the-577372",
+      "published": "2026-06-30",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3900e1df-2fda-8106-9c46-deac5b08f475",
+      "title": "Honduras: Fourth and Fifth Reviews Under the Extended Fund Facility and the Extended Credit Facility Arrangements, and Requests for a Waiver of Nonobservance of Performance Criterion and Extension of the Arrangements-Press Release; Staff Report; and Statement by the Executive Director for Honduras",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/06/30/honduras-fourth-and-fifth-reviews-under-the-extended-fund-facility-and-the-extended-credit-577382",
+      "published": "2026-06-30",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
     },
     {
       "id": "3900e1df-2fda-813a-b224-ecb1f8fd101f",
@@ -10154,6 +10231,17 @@
       "country": "Global",
       "type": "Central Bank Research Hub",
       "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3900e1df-2fda-81f5-a5d5-d4f05d308d7c",
+      "title": "Human Capital Expenditure and Its Effectiveness on Multi-Program Coverage : A Policy Prioritization Investigation",
+      "url": "http://documents.worldbank.org/curated/undefined/099719207012635161/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3900e1df-2fda-81f7-b014-ff309921eb99",
