@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-06-30T22:20:57.746332+00:00",
-  "total_items": 941,
+  "generated_at": "2026-07-01T17:19:41.068086+00:00",
+  "total_items": 951,
   "items": [
+    {
+      "id": "3900e1df-2fda-8104-974f-c600a259906d",
+      "title": "Encuesta Mensual de Opinión Empresarial (EMOE). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10971",
+      "published": "2026-07-01",
+      "summary": "Aumentó 0.8 puntos el Indicador Global de Opinión Empresarial de Tendencia en junio de 2026, respecto al mes anterior",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3900e1df-2fda-8123-9325-f832eca792a3",
+      "title": "Encuesta Mensual de Opinión Empresarial (EMOE). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10972",
+      "published": "2026-07-01",
+      "summary": "No presentó variación el Indicador Global de Opinión Empresarial de Confianza en junio de 2026, respecto al mes anterior",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3900e1df-2fda-81c8-b610-cf2c660b069a",
+      "title": "Encuesta Mensual de Opinión Empresarial (EMOE). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10973",
+      "published": "2026-07-01",
+      "summary": "Aumentó 0.8 puntos el Indicador de Pedidos Manufactureros en junio de 2026, respecto al mes anterior",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3900e1df-2fda-8186-a4e0-e52054bddb62",
+      "title": "Annual Report 2025",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/362ae588-c9bb-4dbe-92be-e1aba2f243ce/Annual%20Report%202025.pdf",
+      "published": "2026-07-01",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3900e1df-2fda-8159-bcaf-c02296eefa0e",
+      "title": "The EBA launches consultation on key performance indicators of Taxonomy disclosures",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-consultation-key-performance-indicators-taxonomy-disclosures",
+      "published": "2026-07-01",
+      "summary": "The European Banking Authority (EBA) today published a Discussion Paper on certain key performance indicators (KPIs) and other aspects of the Disclosures Delegated Act, under Article 8 of the Taxonomy Regulation. The aim is to consult the public on potential measures to simplify and enhance the usability of information disclosed by credit institutions and investment firms. The consultation is open until 12 August 2026.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3900e1df-2fda-813a-b224-ecb1f8fd101f",
+      "title": "Pricing-to-Market in Business Cycle Models",
+      "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2026/wp26-31.pdf",
+      "published": "2026-06-30",
+      "summary": "Federal Reserve Bank of Philadelphia Working Papers by Lukasz A. Drozd, Marcin Kolasa and Jaromir B. Nosal",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
     {
       "id": "38f0e1df-2fda-812a-9dea-e6f06520f462",
       "title": "SBS modifica el Reglamento para la supervisión consolidada de conglomerados financieros y mixtos",
@@ -430,6 +496,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3900e1df-2fda-811b-94ec-f624908e606a",
+      "title": "June 26, 2026Mongolia: Staff Concluding Statement of the 2026 Article IV Mission",
+      "url": "https://www.imf.org/en/news/articles/2026/06/26/mcs062626-mongolia-staff-concluding-statement-of-the-2026-article-iv-mission",
+      "published": "2026-06-26",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.imf.org/en/news"
     },
     {
       "id": "38e0e1df-2fda-817e-bb50-cfdd2ff350bb",
@@ -1288,6 +1365,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3900e1df-2fda-8186-b192-d5d809d2bf5a",
+      "title": "Fiscal Policy, Portfolio Frictions, and International Transmission",
+      "url": "https://www.federalreserve.gov/econres/ifdp/files/ifdp1439.pdf",
+      "published": "2026-06-22",
+      "summary": "Board of Governors of the Federal Reserve System International Financial Discussion Papers by Marcos Mac Mullen",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "38e0e1df-2fda-8187-b5ea-f9fe29623b8f",
@@ -10066,6 +10154,28 @@
       "country": "Global",
       "type": "Central Bank Research Hub",
       "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3900e1df-2fda-81f7-b014-ff309921eb99",
+      "title": "When Digital Nudges Nag : Evidence on Program Take-up from a WhatsApp Intervention",
+      "url": "http://documents.worldbank.org/curated/undefined/099512006302615377/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
+    {
+      "id": "3900e1df-2fda-81c7-b0ed-eecbf1ff5df4",
+      "title": "Fusing Data Sources to Measure Multidimensional Poverty",
+      "url": "http://documents.worldbank.org/curated/undefined/099536107012637783/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "38f0e1df-2fda-8130-b588-fc492532614a",
