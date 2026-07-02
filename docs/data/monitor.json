@@ -1,12 +1,67 @@
 {
-  "generated_at": "2026-07-02T16:54:23.934167+00:00",
-  "total_items": 971,
+  "generated_at": "2026-07-02T22:21:40.688925+00:00",
+  "total_items": 976,
   "items": [
     {
       "id": "3900e1df-2fda-815c-876d-e49aa33c401b",
       "title": "Coming Soon: World Economic Outlook Update, July 2026",
       "url": "https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026",
       "published": "2026-07-08",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3910e1df-2fda-81b4-8526-ef79ceada1c6",
+      "title": "SBS autoriza la organización de Lima del Sol del Grupo Lemon como empresa emisora de dinero electrónico",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3948",
+      "published": "2026-07-02",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3910e1df-2fda-81a3-a8cd-d9eeb4515149",
+      "title": "Piero Cipollone: The digital transformation of money, payments and finance",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702_1~c58dcd8150.en.pdf",
+      "published": "2026-07-02",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3910e1df-2fda-81bb-907a-d2600eeed868",
+      "title": "Christine Lagarde: Interview with Les Échos",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260702~c56db179c3.en.html",
+      "published": "2026-07-02",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3910e1df-2fda-817b-9486-d3191e70acf3",
+      "title": "Kyrgyz Republic: 2026 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for Kyrgyz Republic",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/07/02/kyrgyz-republic-2026-article-iv-consultation-press-release-staff-report-and-statement-by-577447",
+      "published": "2026-07-02",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3910e1df-2fda-81d0-93d0-e86404e9d9d6",
+      "title": "Kyrgyz Republic: Selected Issues",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/07/02/kyrgyz-republic-selected-issues-577452",
+      "published": "2026-07-02",
       "summary": "",
       "regulator": "IMF",
       "country": "Global",
