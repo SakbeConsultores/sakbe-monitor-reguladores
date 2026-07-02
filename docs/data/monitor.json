@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T22:24:50.475628+00:00",
-  "total_items": 959,
+  "generated_at": "2026-07-02T16:54:23.934167+00:00",
+  "total_items": 971,
   "items": [
     {
       "id": "3900e1df-2fda-815c-876d-e49aa33c401b",
@@ -12,6 +12,127 @@
       "country": "Global",
       "type": "Publications",
       "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3910e1df-2fda-8154-9582-d7c7dc5e6bdc",
+      "title": "Entidades financieras deben informar de manera oportuna sobre eventos que puedan afectar a sus clientes",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3947",
+      "published": "2026-07-02",
+      "summary": "SBS aprueba modificaciones a los reglamentos de gestión de conducta de mercado y de comisiones y gastos del sistema financiero para reforzar protecció",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3910e1df-2fda-81ee-b3d1-f854cdf1e5c6",
+      "title": "Censo Nacional de Impartición de Justicia Federal (CNIJF) 2026",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10974",
+      "published": "2026-07-02",
+      "summary": "En 2025, los Tribunales Unitarios Agrarios (TUA) emitieron 55 026 resoluciones, 5.6% más que en 2024",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3910e1df-2fda-8152-bd1f-fa887ad71b0b",
+      "title": "Registro administrativo de la industria automotriz de vehículos ligeros",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10975",
+      "published": "2026-07-02",
+      "summary": "Se vendieron en México 126 778 vehículos ligeros en junio de 2026; 7.6% más que en junio de 2025",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3910e1df-2fda-81dd-8c32-e539f398fc49",
+      "title": "FEDS Paper: The Standards Are in the Mail: Comparing Credit Card Supply Indicators",
+      "url": "https://www.federalreserve.gov/econres/feds/the-standards-are-in-the-mail-comparing-credit-card-supply-indicators.htm",
+      "published": "2026-07-02",
+      "summary": "John C. Driscoll , Benjamin S. Kay , Geng Li , and Cindy M. Vojtech We provide the first lender-level analysis linking two independently constructed credit supply measures: the Federal Reserve's Senior Loan Officer Opinion Survey (SLOOS) and credit card mail offers from Mintel Comperemedia. Using a matched panel of 73 banks from 2000 to 2019, we find that quarterly mail volume growth was 18 percent lower when banks reported tightening credit card lending standards, a relationship robust to including credit demand indicators. In addition, SLOOS responses on credit limits and interest rate spreads are also correlated with these terms observed in mail offers. Our findings validate both measures as informative credit supply indicators.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3910e1df-2fda-8161-a837-eb48f6ca813b",
+      "title": "Federal Reserve Board issues enforcement action with Small Business Bank and announces termination enforcement actions with BNP Paribas S.A., BNP Paribas USA, Inc., BNP Paribas Securities Corp., and Community Bankshares, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260702a.htm",
+      "published": "2026-07-02",
+      "summary": "Federal Reserve Board issues enforcement action with Small Business Bank and announces termination enforcement actions with BNP Paribas S.A., BNP Paribas USA, Inc., BNP Paribas Securities Corp., and Community Bankshares, Inc.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3910e1df-2fda-81cf-baa1-e144167e7963",
+      "title": "Frank Elderson: The green transition – benefits and barriers",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702~49c4f8e9a6.en.html",
+      "published": "2026-07-02",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3910e1df-2fda-8103-9e2f-d57af8b651b9",
+      "title": "Peer review Report on Pillar 3 Disclosures",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/749ee07d-9405-42ce-8a1d-bafe9858b547/Peer%20review%20Report%20on%20Pillar%203%20Disclosures.pdf",
+      "published": "2026-07-02",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3910e1df-2fda-8124-9570-dc0659a76791",
+      "title": "Targeted EBA peer review finds high compliance on Pillar 3 disclosures but calls for greater consistency",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/targeted-eba-peer-review-finds-high-compliance-pillar-3-disclosures-calls-greater-consistency",
+      "published": "2026-07-02",
+      "summary": "The European Banking Authority (EBA) today published the results of its targeted Peer Review on the supervision of compliance with the Capital Requirements Regulation (CRR) and the Bank Recovery and Resolution Directive (BRRD) provisions aiming to facilitate market discipline through bank disclosure (“Pillar 3”). The Review found that the competent authorities under review have fully or largely embedded Pillar 3 requirements into their supervisory frameworks and that their practices are efficient overall. Consistency across jurisdictions could, however, improve.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3910e1df-2fda-8105-b580-caae154e160d",
+      "title": "Financial Market Infrastructures Evolution in a Tokenized Economy",
+      "url": "https://www.imf.org/en/publications/wp/issues/2026/07/01/financial-market-infrastructures-evolution-in-a-tokenized-economy-577325",
+      "published": "2026-07-02",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3910e1df-2fda-8106-8415-ec069afbc82e",
+      "title": "The Rise of Tokenization: Deciphering New Trends in Payments and Asset Tokenization",
+      "url": "https://www.imf.org/en/publications/imf-notes/issues/2026/07/01/the-rise-of-tokenization-deciphering-new-trends-in-payments-and-asset-tokenization-577138",
+      "published": "2026-07-02",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3900e1df-2fda-81b0-ba1b-ec29ae702181",
+      "title": "Mañana se inicia el pago de la cobertura del FSDC a los socios depositantes de la Coopac Rural Abancay en disolución",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3946",
+      "published": "2026-07-01",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
     },
     {
       "id": "3900e1df-2fda-81ee-acf2-eda34aed22b3",
@@ -111,6 +232,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3910e1df-2fda-812c-b83f-e54cda220a60",
+      "title": "International Risk-Sharing in a Fragmented World",
+      "url": "https://www.minneapolisfed.org/research/wp/wp816.pdf",
+      "published": "2026-06-30",
+      "summary": "Federal Reserve Bank of Minneapolis Working Papers by Javier Bianchi, Sebastian Horn, Giovanni Russo and C&#258;&#352;sar Sosa-Padilla",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3900e1df-2fda-8100-98de-df5a9243be48",
