@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T16:29:27.158459+00:00",
-  "total_items": 984,
+  "generated_at": "2026-07-03T22:12:21.029467+00:00",
+  "total_items": 986,
   "items": [
     {
       "id": "3900e1df-2fda-815c-876d-e49aa33c401b",
@@ -12,6 +12,17 @@
       "country": "Global",
       "type": "Publications",
       "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3920e1df-2fda-8105-b5ce-d9cc9c38ff51",
+      "title": "Superfinanciera impone orden de suspensión a las actividades de captación no autorizadas adelantadas por Jerson Lucumí y Yury Lucumí",
+      "url": "https://www.superfinanciera.gov.co/10116176",
+      "published": "2026-07-03",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
     },
     {
       "id": "3920e1df-2fda-81b7-8d04-d0bb7f96cbc2",
@@ -78,6 +89,17 @@
       "country": "EU",
       "type": "Statistical Releases",
       "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
+    },
+    {
+      "id": "3920e1df-2fda-8140-baa4-ef65b10a6844",
+      "title": "Peer review on Pillar 3 Disclosures June 2026.pdf",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/749ee07d-9405-42ce-8a1d-bafe9858b547/Peer%20review%20on%20Pillar%203%20Disclosures%20June%202026.pdf",
+      "published": "2026-07-02",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
     },
     {
       "id": "3920e1df-2fda-8171-a9e4-c0f2324548c4",
