@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T22:21:40.688925+00:00",
-  "total_items": 976,
+  "generated_at": "2026-07-03T16:29:27.158459+00:00",
+  "total_items": 984,
   "items": [
     {
       "id": "3900e1df-2fda-815c-876d-e49aa33c401b",
@@ -12,6 +12,83 @@
       "country": "Global",
       "type": "Publications",
       "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3920e1df-2fda-81b7-8d04-d0bb7f96cbc2",
+      "title": "SBS reglamenta el modelo BaaS que permitirá a entidades financieras ofrecer productos y servicios digitales innovadores",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3949",
+      "published": "2026-07-03",
+      "summary": "El reglamento precisa que, bajo este modelo, la responsabilidad frente a los clientes y ante la SBS recaerá siempre en la entidad financiera que actúa",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3920e1df-2fda-8140-9213-dbe4747ef7cc",
+      "title": "Encuesta Nacional sobre Confianza del Consumidor (ENCO)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10976",
+      "published": "2026-07-03",
+      "summary": "Aumentó 0.4 puntos la confianza del consumidor en junio de 2026, respecto al mes previo",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3920e1df-2fda-81b4-b413-d35e8541dcf7",
+      "title": "Sistema de Indicadores Cíclicos",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10977",
+      "published": "2026-07-03",
+      "summary": "Aumentó 0.05 puntos el Indicador Coincidente en abril de 2026, respecto a marzo pasado",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3920e1df-2fda-8194-9019-fbbfaa9612db",
+      "title": "Euro area quarterly balance of payments and international investment position: first quarter of 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq260703~7d2888b3ee.en.html",
+      "published": "2026-07-03",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Statistical Releases",
+      "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
+    },
+    {
+      "id": "3920e1df-2fda-8101-864c-fc64256a058e",
+      "title": "Euro area bank interest rate statistics: May 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2607~f27327115e.en.html",
+      "published": "2026-07-03",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Statistical Releases",
+      "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
+    },
+    {
+      "id": "3920e1df-2fda-818c-b49f-d61787b93c00",
+      "title": "Households and non-financial corporations in the euro area: first quarter of 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_early2026q1~af06811912.en.html",
+      "published": "2026-07-03",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Statistical Releases",
+      "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
+    },
+    {
+      "id": "3920e1df-2fda-8171-a9e4-c0f2324548c4",
+      "title": "OCC Announces Deputy Comptroller for Supervision System and Analytical Support",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-55.html",
+      "published": "2026-07-02",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today announced the promotion of Jamie Wilds to Deputy Comptroller for Supervision System and Analytical Support (SSAS).",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
     },
     {
       "id": "3910e1df-2fda-81b4-8526-ef79ceada1c6",
@@ -177,6 +254,17 @@
       "country": "Global",
       "type": "Publications",
       "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3920e1df-2fda-814b-8151-f9565d3a19f5",
+      "title": "OCC Releases CRA Performance Evaluations for 20 National Banks and Federal Savings Associations",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-54.html",
+      "published": "2026-07-01",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today released a list of Community Reinvestment Act (CRA) performance evaluations that became public during the period of June 1, 2026, through June 30, 2026.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
     },
     {
       "id": "3900e1df-2fda-81b0-ba1b-ec29ae702181",
