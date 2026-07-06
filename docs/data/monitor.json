@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T17:48:30.660505+00:00",
-  "total_items": 1002,
+  "generated_at": "2026-07-06T22:20:47.134608+00:00",
+  "total_items": 1003,
   "items": [
     {
       "id": "3900e1df-2fda-815c-876d-e49aa33c401b",
@@ -12,6 +12,17 @@
       "country": "Global",
       "type": "Publications",
       "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3950e1df-2fda-819c-a0a9-feff65d7bc5f",
+      "title": "Philip R. Lane: AI and monetary policy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260706~b81aa4e329.en.html",
+      "published": "2026-07-06",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
     },
     {
       "id": "3950e1df-2fda-818a-8510-ecc51da2375a",
