@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T22:09:32.305873+00:00",
-  "total_items": 986,
+  "generated_at": "2026-07-06T17:48:30.660505+00:00",
+  "total_items": 1002,
   "items": [
     {
       "id": "3900e1df-2fda-815c-876d-e49aa33c401b",
@@ -12,6 +12,116 @@
       "country": "Global",
       "type": "Publications",
       "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3950e1df-2fda-818a-8510-ecc51da2375a",
+      "title": "Talento que fortalece el Perú: SBS abre convocatoria para formar a la próxima generación de especialistas en supervisión financiera",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3950",
+      "published": "2026-07-06",
+      "summary": "El PEXT es una iniciativa orientada a fortalecer el desarrollo del talento peruano mediante una formación especializada en finanzas, gestión de riesgo",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3950e1df-2fda-81d4-a065-c0fa0839c4e7",
+      "title": "SFC actualiza herramientas de supervisión y control contra el lavado de activos en el sistema financiero",
+      "url": "https://www.superfinanciera.gov.co/10116179",
+      "published": "2026-07-06",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "3950e1df-2fda-815a-9249-f86c05dde2f4",
+      "title": "Indicador Mensual del Consumo Privado (IMCP). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10978",
+      "published": "2026-07-06",
+      "summary": "Aumentó 0.1% el consumo privado en abril de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3950e1df-2fda-8124-b6a5-f24b1a4f9e53",
+      "title": "Indicador Mensual de la Formación Bruta de Capital Fijo (IMFBCF). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10979",
+      "published": "2026-07-06",
+      "summary": "Incrementó 4.0% la inversión fija bruta en abril de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3950e1df-2fda-81ad-aba5-c7f058c31bbb",
+      "title": "Immovable property loss - Q4 2025",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/d763c7b1-e7f2-4e0a-bdae-93fd1db81a75/Immovable%20property%20loss%20-%20Q4%202025.pdf",
+      "published": "2026-07-06",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3950e1df-2fda-810b-9c4f-faf52c325602",
+      "title": "Org chart 1 July 2026",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/6b86b74e-d9c6-4917-a639-e57053057d7e/Org%20chart%201%20July%202026.pdf",
+      "published": "2026-07-06",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3950e1df-2fda-8155-a0dc-d5903cd14dae",
+      "title": "EBA BSG 2026 022 rev. 1 (Final Minutes of BSG meeting on 22 April 2026)",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/7d94ef02-6fbc-4614-821d-cc9d39c394bf/EBA%20BSG%202026%20022%20rev.%201%20%28Final%20Minutes%20of%20BSG%20meeting%20on%2022%20April%202026%29%20%28002%29.pdf",
+      "published": "2026-07-06",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3950e1df-2fda-81d0-ac38-fcfdb17ac014",
+      "title": "EBA BSG 2026 015 rev. 1 (Final Minutes of BSG meeting on 17 February 2026)",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/9a2e84bc-fca7-4dc6-88f5-896f3c27e8a4/EBA%20BSG%202026%20015%20rev.%201%20%28Final%20Minutes%20of%20BSG%20meeting%20on%2017%20February%202026%29%20%28004%29.pdf",
+      "published": "2026-07-06",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3950e1df-2fda-8197-a26a-dc259eb31093",
+      "title": "The EBA publishes 2025 loss data for immovable property markets under Article 430a of the Capital Requirements Regulation",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-2025-loss-data-immovable-property-markets-under-article-430a-capital-requirements",
+      "published": "2026-07-06",
+      "summary": "The European Banking Authority (EBA) today published its annual dataset on losses and exposures for residential and commercial immovable property across the European Union and European Economic Area for 2025, in line with Article 430a(3) of the Capital Requirements Regulation (CRR). The publication provides a centralised and harmonised source of data on losses and exposures relating to residential and commercial immovable property across the EU/EEA. The data are drawn from supervisory reporting submitted by institutions and are presented by national immovable property market.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3950e1df-2fda-8135-a3a7-f715a4d25b89",
+      "title": "Blockchain consensus mechanisms and fragmentation",
+      "url": "https://www.bis.org/publ/bisbull126.htm",
+      "published": "2026-07-06",
+      "summary": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz Rybarczyk While all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
       "id": "3920e1df-2fda-8105-b5ce-d9cc9c38ff51",
@@ -89,6 +199,17 @@
       "country": "EU",
       "type": "Statistical Releases",
       "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
+    },
+    {
+      "id": "3950e1df-2fda-8160-84e3-cf101bd70107",
+      "title": "The Case for A General Allocation Of SDRs during the Thirteenth Basic Period",
+      "url": "https://www.imf.org/en/publications/policy-papers/issues/2026/07/02/the-case-for-a-general-allocation-of-sdrs-during-the-thirteenth-basic-period-577460",
+      "published": "2026-07-02",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
     },
     {
       "id": "3920e1df-2fda-8140-baa4-ef65b10a6844",
@@ -276,6 +397,61 @@
       "country": "Global",
       "type": "Publications",
       "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3950e1df-2fda-81d6-b9b9-fed1d7cb560a",
+      "title": "Monetary policy transmission via banks to firms",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op389.en.pdf",
+      "published": "2026-07-01",
+      "summary": "European Central Bank Occasional Papers by Carlo Altavilla, Margherita Bottero, Björn Imbierowicz, Jorge Abad, Sofia Anyfantaki, Konstantins Benkovskis, Sebastian Bredl, Lorenzo Burlon, Tomás Carrera de Souza, Massimo Giovannini, Simona Malovaná, Franziska Maruhn, Giulio Nicoletti, K&#257;rlis Vilerts, Tommaso Gasparini, Zuzana Gric, Alessandro Modica and Aino Silvo",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3950e1df-2fda-814f-9e08-ff84c0000d74",
+      "title": "Monetary policy transmission through the financial system to households",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op390.en.pdf",
+      "published": "2026-07-01",
+      "summary": "European Central Bank Occasional Papers by Diana Bonfim, Laura Moretti, Simone Auer, Emil Bandoni, Tamás Briglevics, Annalisa Ferrando, Olivier De Jonghe, Stephen Kho, Caterina Mendicino, Maria Rodriguez-Moreno, Afonso S. Moura, Alicia Aguilar, Dominic Cucic and Stefano Pica",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3950e1df-2fda-8113-afaf-d6270e1392de",
+      "title": "Monetary policy transmission and non-bank financial intermediation",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op391.en.pdf",
+      "published": "2026-07-01",
+      "summary": "European Central Bank Occasional Papers by Sofia Anyfantaki, Dominic Cucic, Daniel Fricke, Philipp Hartmann, Christoph Kaufmann, Elizaveta Lukmanova, Angela Maddaloni and Ricardo Barahona",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3950e1df-2fda-81a5-a599-ffea499ebe11",
+      "title": "The propagation of shocks across the production network and implications for monetary policy",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op392.en.pdf",
+      "published": "2026-07-01",
+      "summary": "European Central Bank Occasional Papers by Stefan Gebauer, Anton Nakov, Galo Nuño, Chiara Osbat, Gonzalo Paz-Pardo, Alari Paulus, Javier Quintana, Maria Teresa Valderrama and Alberto Palazzolo",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3950e1df-2fda-813e-ade5-cc6902e9dd26",
+      "title": "Monetary policy transmission and structural changes",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op393.en.pdf",
+      "published": "2026-07-01",
+      "summary": "European Central Bank Occasional Papers by Guido Ascari, Gert Bijnens, Alina Bobasu, Andrea Colciago, Emmanuel Dhyne, Michaela Elfsbacka-Schmöller, Alex Grimaud, Maria Teresa Valderrama, Andrejs Zlobins and Volha Audzei",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3920e1df-2fda-814b-8151-f9565d3a19f5",
