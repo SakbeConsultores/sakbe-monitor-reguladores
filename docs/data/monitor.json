@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T22:20:47.134608+00:00",
-  "total_items": 1003,
+  "generated_at": "2026-07-07T17:20:03.507727+00:00",
+  "total_items": 1014,
   "items": [
     {
       "id": "3900e1df-2fda-815c-876d-e49aa33c401b",
@@ -12,6 +12,116 @@
       "country": "Global",
       "type": "Publications",
       "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3960e1df-2fda-81c4-b6d6-c9df9331b2b7",
+      "title": "SBS propone reglamento para fortalecer gestión del riesgo de crédito en el sistema cooperativo",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3951",
+      "published": "2026-07-07",
+      "summary": "La idea central es proveer un reporte que sea una herramienta de gestión de las Coopac para su uso en la medición, monitoreo, y seguimiento del riesgo",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3960e1df-2fda-814c-8647-e507ac36588f",
+      "title": "Módulo sobre Ciberacoso (MOCIBA) 2025",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10981",
+      "published": "2026-07-07",
+      "summary": "En 2025, de 94.9 millones de personas usuarias de internet de 12 años y más, 20.4 % vivió alguna situación de ciberacoso",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3960e1df-2fda-8122-8da4-ca8de48b4bba",
+      "title": "Registro administrativo de la industria automotriz de vehículos ligeros",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10980",
+      "published": "2026-07-07",
+      "summary": "Se produjeron 354 221 vehículos ligeros en México y se exportaron 301 009, en junio de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3960e1df-2fda-813c-b715-de64d48fc7ee",
+      "title": "FEDS Paper: Capturing Heterogeneity: Machine Learning Approaches to Implied Volatility Forecasting",
+      "url": "https://www.federalreserve.gov/econres/feds/capturing-heterogeneity-machine-learning-approaches-to-implied-volatility-forecasting.htm",
+      "published": "2026-07-07",
+      "summary": "Hyung Joo Kim and Dong Hwan Oh Despite documented heterogeneity in volatility dynamics across the option surface, standard implied volatility forecasting models apply homogeneous parameters throughout. We introduce a machine-learning framework that uses regression trees to partition the surface along both moneyness and maturity dimensions, identifying data-driven regions where distinct forecasting models perform best. Extending the Surface Heterogeneous Autoregressive (SHAR) framework of Dufays, Jacobs, and Rombouts (2025), we develop tree-based SHAR specifications that preserve interpretable structure while allowing model parameters to vary across the surface. Empirical analysis using S&P 500 options demonstrates that the boosted tree-based specification achieves the lowest out-of-sample forecast errors across all horizons, reducing one-month-ahead RMSE by 13 percent versus the benchmark SHAR model. The improvements are statistically significant and particularly pronounced during stress periods. The estimated tree presents economically interpretable segmentation: short-dated options exhibit higher daily persistence but lower monthly persistence than long-dated options, while deep out-of-the-money calls or puts display distinct dynamics from near-the-money contracts.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3960e1df-2fda-81db-b2e8-c899ad0fb984",
+      "title": "Barriers to a European Banking Union",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3249~d8b9cf2aed.en.pdf",
+      "published": "2026-07-07",
+      "summary": "We quantify barriers to cross-border bank lending to firms within the euro area and their consequences for credit allocation and output. Using loan-level data from the European credit registry (AnaCredit) and group structures (RIAD),we estimate barriers to relationship formation, loan pricing, and banks’ branching decisions at the country-pair level. We find that barriers to cross-border relationships between banks and firms and cross-border bank entry are large while wedges on interest rates and loan quantities are comparatively small. The estimated wedges are strongly associated with differences in national banking regulations, measured using a novel dataset on regulatory distances. We embed our estimates into a quantitative spatial general equilibrium model with heterogeneous banks and firms subject to cross-border frictions in relationship formation, loan pricing, and bank entry. Partially relaxing frictions predicts sizable and heterogeneous output gains across euro area countries. These gains are primarily driven by increases in capital and labor rather than improvements in allocative efficiency.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3960e1df-2fda-81df-8edd-ef7643b1930e",
+      "title": "Measuring geoeconomic tension: a large-language-model approach for the euro area",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3250~d58748cc6f.en.pdf",
+      "published": "2026-07-07",
+      "summary": "We construct an index of geopolitical and geoeconomic tension for the euro area using Large-Language Models (LLMs) that prompt a large dataset of European, local-language newspaper articles. The resulting LLM Geoeconomic and Geopolitical Tension (LGPT) index and its subindices seek to provide an accurate narrative of tensions and their sources over the past quarter century. The multilingual LLM approach allows for a separation between geopolitical and geoeconomic tensions and for granularity in the identification of the source of such tensions including trade, energy and finance. This lends itself to more accurate economic analysis of the impact of geopolitics and geoeconomics on the euro area economy. The LLM approach is efficient and capable among other things of extracting trends regarding the international institutional actors involved in developments. We also illustrate one potential use of the index by estimating the impact of geoeconomic tensions on output and inflation in the euro area in a Bayesian structural VAR framework.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3960e1df-2fda-8192-927d-ce88d2755096",
+      "title": "Final Report on Guidelines on the authorisation of third-country branches",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/7e51bdcd-7c73-4f94-b31c-03375fe53359/Final%20Report%20on%20Guidelines%20on%20the%20authorisation%20of%20third-country%20branches%20.pdf",
+      "published": "2026-07-07",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3960e1df-2fda-8102-a6b9-f1ee4cc4fd7b",
+      "title": "The ESAs support ESRB warning on systemic cyber risks from frontier AI models",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-support-esrb-warning-systemic-cyber-risks-frontier-ai-models",
+      "published": "2026-07-07",
+      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) welcome and support today’s warning from European Systemic Risk Board (ESRB) on the systemic cyber risks posed by frontier AI models.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3960e1df-2fda-813e-b56a-d1e651bb61c3",
+      "title": "The EBA publishes final Guidelines on the authorisation of third-country branches under the Capital Requirements Directive",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-final-guidelines-authorisation-third-country-branches-under-capital-requirements",
+      "published": "2026-07-07",
+      "summary": "The European Banking Authority (EBA) today published its final Guidelines on authorisation of third-country credit institutions to set-up a third-country branch (TCB) in a Member State. These Guidelines were mandated by the Capital Requirements Directive (CRD6) which introduced a new regime for TCBs and contribute to the harmonised access to the EU market for banking services.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3960e1df-2fda-8132-9a95-e554b9e88627",
+      "title": "The Tradition of Federal Reserve Independence",
+      "url": "https://doi.org/10.20955/wp.2026.013",
+      "published": "2026-07-06",
+      "summary": "Federal Reserve Bank of St Louis Working Papers by Jonathan D. Rose and David C. Wheelock",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3950e1df-2fda-819c-a0a9-feff65d7bc5f",
@@ -210,6 +320,17 @@
       "country": "EU",
       "type": "Statistical Releases",
       "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
+    },
+    {
+      "id": "3960e1df-2fda-8141-b482-f90d8a82141c",
+      "title": "The Health Channel of Business Cycles",
+      "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2026/wp26-32.pdf",
+      "published": "2026-07-02",
+      "summary": "Federal Reserve Bank of Philadelphia Working Papers by Thorsten Drautzburg, Grey Gordon, Pablo Guerrón-Quintana and Alexey Khazanov",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3950e1df-2fda-8160-84e3-cf101bd70107",
