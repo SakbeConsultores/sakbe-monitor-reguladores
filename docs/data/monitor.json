@@ -1,12 +1,78 @@
 {
-  "generated_at": "2026-07-07T17:20:03.507727+00:00",
-  "total_items": 1014,
+  "generated_at": "2026-07-07T22:17:29.024925+00:00",
+  "total_items": 1020,
   "items": [
     {
       "id": "3900e1df-2fda-815c-876d-e49aa33c401b",
       "title": "Coming Soon: World Economic Outlook Update, July 2026",
       "url": "https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026",
       "published": "2026-07-08",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3960e1df-2fda-8118-8de4-d673e577573e",
+      "title": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
+      "published": "2026-07-07",
+      "summary": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3960e1df-2fda-8133-a910-f3295c080752",
+      "title": "Strengthening GCC-CCA Economic Cooperation",
+      "url": "https://www.imf.org/en/publications/departmental-papers-policy-papers/issues/2026/07/01/strengthening-gcc-cca-economic-cooperation-573479",
+      "published": "2026-07-07",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3960e1df-2fda-8117-91cd-eeeae93ed244",
+      "title": "Solomon Islands: 2026 Article IV Consultation-Press Release; and Staff Report",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/07/06/solomon-islands-2026-article-iv-consultation-press-release-and-staff-report-577502",
+      "published": "2026-07-07",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3960e1df-2fda-8153-98bc-c298873502e7",
+      "title": "Solomon Islands: Selected Issues",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/07/06/solomon-islands-selected-issues-577507",
+      "published": "2026-07-07",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3960e1df-2fda-81d3-b15d-cbea0f36a4ae",
+      "title": "Sierra Leone: Third Review Under the Extended Credit Facility Arrangement, Requests for Waivers of Nonobservance of Performance Criteria, Modification of Performance Criteria, and Request for an Arrangement Under the Resilience and Sustainability Facility-Press Release; Staff Report; and Statement by the Executive Director for Sierra Leone",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/07/07/sierra-leone-third-review-under-the-extended-credit-facility-arrangement-requests-for-577544",
+      "published": "2026-07-07",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3960e1df-2fda-812b-8c61-f64b665c2441",
+      "title": "Enhancing Social Protection in Kiribati",
+      "url": "https://www.imf.org/en/publications/selected-issues-papers/issues/2026/07/07/enhancing-social-protection-in-kiribati-577559",
+      "published": "2026-07-07",
       "summary": "",
       "regulator": "IMF",
       "country": "Global",
