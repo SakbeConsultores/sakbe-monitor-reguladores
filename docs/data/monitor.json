@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-07-08T16:58:49.852183+00:00",
-  "total_items": 1041,
+  "generated_at": "2026-07-08T22:15:28.996759+00:00",
+  "total_items": 1044,
   "items": [
+    {
+      "id": "3970e1df-2fda-8129-a7e9-c3d196a27984",
+      "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
+      "published": "2026-07-08",
+      "summary": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3970e1df-2fda-81e6-85f0-f37cccb5040e",
+      "title": "Chile: 2026 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for Chile",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/07/08/chile-2026-article-iv-consultation-press-release-staff-report-and-statement-by-the-577549",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3970e1df-2fda-8143-8f34-ee1470f7b12e",
+      "title": "Chile: Selected Issues",
+      "url": "https://www.imf.org/en/publications/cr/issues/2026/07/08/chile-selected-issues-577554",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
     {
       "id": "3970e1df-2fda-81ae-b9bf-d86e2ae8652e",
       "title": "IFDP Paper: Multi-Plant Firms, Variable Capacity Utilization, and the Aggregate Hours Elasticity",
