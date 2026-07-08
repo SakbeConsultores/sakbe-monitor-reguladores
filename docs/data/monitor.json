@@ -1,7 +1,216 @@
 {
-  "generated_at": "2026-07-07T22:17:29.024925+00:00",
-  "total_items": 1020,
+  "generated_at": "2026-07-08T16:58:49.852183+00:00",
+  "total_items": 1041,
   "items": [
+    {
+      "id": "3970e1df-2fda-81ae-b9bf-d86e2ae8652e",
+      "title": "IFDP Paper: Multi-Plant Firms, Variable Capacity Utilization, and the Aggregate Hours Elasticity",
+      "url": "https://www.federalreserve.gov/econres/ifdp/multi-plant-firms-variable-capacity-utilization-and-the-aggregate-hours-elasticity.htm",
+      "published": "2026-07-08",
+      "summary": "Domenico Ferraro, Giuseppe Fiori , and Damian Pierri We develop a business cycle model with perfectly competitive product and labor markets in which production requires a minimum labor input, generating endogenous capacity utilization. The aggregate production function is kinked, featuring constant returns to scale below capacity&#8212;typically in recessions&#8212;and decreasing returns at capacity in expansions. Motivated by new empirical evidence that narratively identified labor tax shocks have significantly larger effects on hours and output when capacity utilization is below trend, we calibrate the model to U.S. data and show that the aggregate hours elasticity is higher in recessions, differing markedly from the micro elasticity implied by preferences.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3970e1df-2fda-8148-9594-cb75aa447487",
+      "title": "How do economies with open labour markets work? The role of temporary migration in the European Union",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3251~6ae71665ab.en.pdf",
+      "published": "2026-07-08",
+      "summary": "This paper studies how temporary migration affects macroeconomic fluctuations and the conduct of stabilisation policies using a two-country DSGE model with search-and-matching frictions and endogenous cross-border labour mobility. The analysis shows that migration responds endogenously to both labour market conditions and exchange rate movements, making it an important channel of cross-country adjustment. Labour mobility alters the transmission of shocks in three main ways. First, it redistributes adjustment to productivity shocks across regions, smoothing output fluctuations in receiving economies while producing more nuanced effects in sending economies. Second, it favorably affects policy trade-offs: migration reduces the output costs of monetary tightening, and it mitigates the crowdingout effects of fiscal expansions. Third, it strengthens cross-country spillovers by transmitting labour market shocks across regions and reshaping their domestic propagation. Overall, temporary migration emerges as a powerful but non-neutral adjustment mechanism that affects both the effectiveness of stabilization policies and the distribution of macroeconomic outcomes across integrated economies.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3970e1df-2fda-81ac-9ada-c2b453298eb3",
+      "title": "FITD_Press_release_27_03_2026_Banca_Progetto",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/aa544c4a-a9be-4f58-94a9-e450ceb8a087/FITD_Press_release_27_03_2026_Banca_Progetto.pdf",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3970e1df-2fda-8101-b4ec-e9ad72053c89",
+      "title": "Opinion on the implementation of the IFRS18 (Finrep) (complete package)",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/f9b0b213-baa9-42b3-b957-ca1720d7deb8/Opinion%20on%20the%20implementation%20of%20the%20IFRS18%20%28Finrep%29%20%28complete%20package%29.zip",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3970e1df-2fda-81da-a666-dc3317c65aed",
+      "title": "Annex 2 (Finrep instructions IFRS 18- Annex V) - track changes",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/a22aef94-2016-46f4-8cf0-cb68cf6342cc/Annex%202%20%28Finrep%20instructions%20IFRS%2018-%20Annex%20V%29_TC.docx",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3970e1df-2fda-81fb-8821-dc2c80ea3dc6",
+      "title": "Annex 2 (Finrep instructions IFRS 18- Annex V) - clean version",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/b60caba1-0106-4517-8f7e-ca3b2589eb96/Annex%202%20%28Finrep%20instructions%20IFRS%2018-%20Annex%20V%29_CV.docx",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3970e1df-2fda-8172-8d87-f93b618c371f",
+      "title": "Annex 2 (Finrep templates IFRS 18- Annex IV) - track changes",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/89d8cb9b-d62c-4fa3-8a9c-1d722c4157c2/Annex%202%20%28Finrep%20templates%20IFRS%2018-%20Annex%20IV%29_TC.xlsx",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3970e1df-2fda-81e5-a72c-d2fb6e16018d",
+      "title": "Annex 2 (Finrep templates IFRS 18- Annex IV) - clean version",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/cdd7de07-9c8b-47c9-bca2-381e4b0f54c7/Annex%202%20%28Finrep%20templates%20IFRS%2018-%20Annex%20IV%29_CV.xlsx",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3970e1df-2fda-8175-b53d-cc94b6b29c2c",
+      "title": "Annex 2 (Finrep templates IFRS 18- Annex III) - track changes",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/9472c596-31c7-4b2d-b115-3b350bd8428e/Annex%202%20%28Finrep%20templates%20IFRS%2018-%20Annex%20III%29_TC.xlsx",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3970e1df-2fda-8103-b174-de90a0fde2ae",
+      "title": "Annex 2 (Finrep templates IFRS 18- Annex III) - clean version",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/ab4444ec-c483-4e27-993c-31800dff5c93/Annex%202%20%28Finrep%20templates%20IFRS%2018-%20Annex%20III%29_CV.xlsx",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3970e1df-2fda-811c-ad31-ccf1d1b5aaf7",
+      "title": "Final Report on draft ITS on the implementation of IFRS 18 in supervisory financial reporting (FINREP)",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/ad6fd07d-c637-42d3-a4a7-4a4802a8ff26/Annex%201%20%28Final%20Report%20-%20Finrep%20IFRS%2018%29.pdf",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3970e1df-2fda-8115-80d3-cac67a73fbae",
+      "title": "Opinion on the implementation of IFRS 18 in supervisory financial reporting (FINREP) - interim period",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/5ebd21e8-52f4-4b99-acbc-f7d725c3694e/Opinion%20Finrep%20IFRS%2018%20-%20interim%20period.pdf",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3970e1df-2fda-8189-8733-d3ab26bd0e7c",
+      "title": "cv_korbi.pdf",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/bb71c2ac-9065-47ab-a047-efae47f3ccb4/cv_korbi.pdf",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3970e1df-2fda-8185-8543-ec9aafeec3f2",
+      "title": "cv_hoefner.pdf",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/6848d549-5d93-49f4-9361-caf2c11cbe96/cv_hoefner.pdf",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3970e1df-2fda-811d-824a-c7c9986531ee",
+      "title": "cv_cannata.pdf",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/d17a50bb-ecd5-44ae-9b2c-db89d636d06a/cv_cannata.pdf",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3970e1df-2fda-81ee-b9eb-d91695b70ffb",
+      "title": "ResCo_Declarations of Interests_2026_July",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/68ae0bb4-bed6-4ea9-a978-fc75639ecbfe/ResCo_Declarations%20of%20Interests_2026_July.xlsx",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3970e1df-2fda-81bb-a440-ddcf52cfb8c3",
+      "title": "The EBA issues Opinion on the implementation of IFRS 18 in supervisory financial reporting to support consistency with IFRS requirements",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-issues-opinion-implementation-ifrs-18-supervisory-financial-reporting-support-consistency-ifrs",
+      "published": "2026-07-08",
+      "summary": "The European Banking Authority (EBA) has published today an Opinion providing guidance on how institutions can report profit or loss information during the interim period between the first application date of IFRS 18 and the first application date of the amending Implementing Technical Standards (ITS) on supervisory financial reporting (FINREP), which are currently under consultation. The Opinion aims to support institutions by avoiding the operational burden of maintaining two different profit or loss formats during the transition period. It is also consistent with the EBA’s broader efforts to simplify and streamline the EU supervisory reporting framework.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3970e1df-2fda-8143-a363-ed9cf9400a52",
+      "title": "State Owned Enterprises in Uzbekistan: Issues and Reform Options",
+      "url": "https://www.imf.org/en/publications/selected-issues-papers/issues/2026/07/07/state-owned-enterprises-in-uzbekistan-issues-and-reform-options-577571",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "IMF",
+      "country": "Global",
+      "type": "Publications",
+      "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3970e1df-2fda-81b4-b406-e5efceea2fb2",
+      "title": "On the comparison of capital requirements for global systemically important banks",
+      "url": "https://www.bis.org/fsi/publ/insights76.htm",
+      "published": "2026-07-08",
+      "summary": "Basel III introduced a comprehensive package of capital reforms to bolster the resilience of the global banking system. While the standard supports regulatory convergence across jurisdictions by establishing a common minimum set of requirements for internationally active banks, it also gives national authorities flexibility to exceed the minimum standards. Heterogeneous applications of Basel III across jurisdictions have fuelled perceptions of an uneven playing field and have become central to current debates on how regulation may influence banks' competitiveness.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "3900e1df-2fda-815c-876d-e49aa33c401b",
       "title": "Coming Soon: World Economic Outlook Update, July 2026",
@@ -177,6 +386,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3970e1df-2fda-818b-a730-f0392cda0371",
+      "title": "Innovation Booms, Easy Financing, and Human Capital Accumulation",
+      "url": "https://www.atlantafed.org/-/media/Project/Atlanta/FRBA/Documents/research/publication/working-paper/2026/07/06/08-innovation-booms-easy-financing-and-human-capital-accumulation.pdf",
+      "published": "2026-07-06",
+      "summary": "Federal Reserve Bank of Atlanta Working Papers by Johan Hombert and Adrien Matray",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3960e1df-2fda-8132-9a95-e554b9e88627",
@@ -595,6 +815,17 @@
       "country": "Global",
       "type": "Publications",
       "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "3970e1df-2fda-811f-ba33-cdb48d6b0709",
+      "title": "Digitalization and credit markets: Evidence from e-Invoicing",
+      "url": "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/26/Files/dt2619e.pdf",
+      "published": "2026-07-01",
+      "summary": "Bank of Spain Working Papers by Alejandro Casado, Marco Giometti, José E. Gutiérrez, David Martínez-Miera, Alexandra Matyunina and Tammaro Terracciano",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3950e1df-2fda-81d6-b9b9-fed1d7cb560a",
