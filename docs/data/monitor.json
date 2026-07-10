@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-07-10T17:00:51.421246+00:00",
-  "total_items": 1105,
+  "generated_at": "2026-07-10T22:12:17.922042+00:00",
+  "total_items": 1108,
   "items": [
+    {
+      "id": "3990e1df-2fda-81d7-b202-f5037dfbe71a",
+      "title": "SBS fortalece las capacidades de las entidades financieras en ciberseguridad y resiliencia operacional",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3954",
+      "published": "2026-07-10",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3990e1df-2fda-8197-91d0-cd4fb9610ccd",
+      "title": "Cartagena será escenario de la campaña nacional “Me informo y cuido mi dinero”, liderada por tres Superintendencias",
+      "url": "https://www.superfinanciera.gov.co/10116187",
+      "published": "2026-07-10",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "3990e1df-2fda-8190-8e30-d9155489b0b2",
+      "title": "OCC Appoints Receiver for Kentland Federal Savings and Loan Association, Kentland, Indiana",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-56.html",
+      "published": "2026-07-10",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today appointed the Federal Deposit Insurance Corporation (FDIC) as receiver for Kentland Federal Savings and Loan Association, located in Kentland, Indiana.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
     {
       "id": "3990e1df-2fda-819b-87e1-cc506630eebd",
       "title": "Encuesta de Viajeros Internacionales (EVI)",
