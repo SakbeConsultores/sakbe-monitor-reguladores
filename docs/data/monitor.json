@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-07-12T21:58:43.688263+00:00",
-  "total_items": 1108,
+  "generated_at": "2026-07-13T17:16:07.732241+00:00",
+  "total_items": 1120,
   "items": [
+    {
+      "id": "39c0e1df-2fda-811d-a817-f99a656efab0",
+      "title": "Líneas de Pobreza (LP)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10989",
+      "published": "2026-07-13",
+      "summary": "Aumentó de manera anual el costo de los productos de la canasta alimentaria en junio de 2026: 3.1% en el ámbito rural y 4.6% en el urbano",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "39c0e1df-2fda-8176-bc51-e3340a42d564",
+      "title": "Bank Supervision: Interagency Guidance on Lending to Individuals Not Legally Authorized to Work in the United States",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-31.html",
+      "published": "2026-07-13",
+      "summary": "On July 13, 2026, following the President's Executive Order on \"Restoring Integrity to America's Financial System,\" the Office of the Comptroller of the Currency (OCC), Federal Deposit Insurance Corporation (FDIC), and National Credit Union Administration (NCUA) issued guidance reminding supervised financial institutions to apply existing safe-and-sound credit risk management practices when lending to borrowers who are not legally authorized to work in the United States (non-work authorized borrowers). The guidance advises that non-work authorized borrowers may present elevated credit risk because their ability to generate income, employment continuity, and financial stability may be more uncertain.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "39c0e1df-2fda-8144-9479-da1af7c5b041",
+      "title": "Agencies Issue Guidance on Lending to Individuals Not Legally Authorized to Work in the United States",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-57.html",
+      "published": "2026-07-13",
+      "summary": "The Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the National Credit Union Association (collectively, the agencies) today issued guidance to remind supervised financial institutions of existing supervisory expectations with respect to credit risk management, particularly as it relates to borrowers who are not legally authorized to work in the United States.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "39c0e1df-2fda-818f-8d2f-efb4819b3987",
+      "title": "Neo-conglomerates and EU regulatory perimeter challenges – state of play and evaluation of policy options",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op394.en.pdf",
+      "published": "2026-07-13",
+      "summary": "This paper examines the implications of the provision, in the European Union, of bank-like services, including payment services, by large non‑bank groups (i.e. groups that do not comprise entities with a banking licence), and evaluates policy options to address the emergence of so-called neo-conglomerates by recalibrating the regulatory perimeter. Drawing on five EU case studies (a messaging app white‑label arrangement, a complex multi‑partner “super‑app” model, a systemic payment group, a borderless financial technology firm (fintech) and a bank) – this paper illustrates how financial services may be delivered through digital unbundling and re-bundling, embedded distribution and white‑label partnerships. It maps the business models, licensing structures, fintech partnership chains and data frictions that may obscure group‑wide risks and complicate home‑host supervisory cooperation. The cases were included for illustrative purposes only, and implying no judgement at all on the soundness or governance of the firms concerned, nor on the effectiveness or adequacy of the actions taken by the relevant supervisory authorities. The paper also identifies potential “blind spots” in the regulatory frameworks applicable at the time of writing and misalignments in prudential, conduct and operational objectives. Building on guidance from standard‑setting bodies and international organisations on supervisory approaches to financial innovation, fintech and Big Tech, the paper identifies four priority areas for consideration, with a view to limit regulatory arbitrage and systemic interdependencies, while at the same time preserving innovation. [...]",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "39c0e1df-2fda-8121-a192-c3bff7dd6810",
+      "title": "Climate regulation, firm emissions, and green takeovers",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3253~e9db09cc25.en.pdf",
+      "published": "2026-07-13",
+      "summary": "We show that an unexpected tightening of the EU Emissions Trading System led high-emission-intensity firms to cut emissions relative to low-intensity peers within the same industry, without reducing output, thereby improving emission efficiency. Effects are stronger for power producers than for manufacturing firms. Examining mergers and acquisitions (M&As), we find that high-intensity manufacturing firms acquire more green targets after the tightening than low-intensity firms, with no change in the overall number of acquisitions, indicating a shift in focus rather than activity. Finally, we show that these green M&As contributed to the observed emission reductions over the study period.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "39c0e1df-2fda-81f8-bc54-ef953ab3be43",
+      "title": "Isabel Schnabel: How to foster growth and resilience in Europe",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260713~e78632b27a.en.pdf",
+      "published": "2026-07-13",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "39c0e1df-2fda-81e2-bd68-e66778678aff",
+      "title": "Piero Cipollone: Interview with Jornal de Negocios",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260713~d928475792.en.html",
+      "published": "2026-07-13",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "39c0e1df-2fda-8196-8bac-ec58c8a09b75",
+      "title": "Responses to all consultation modules",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/6beb3194-5211-4a83-ad5f-20168830524c/Responses%20to%20all%20consultation%20modules.xlsx",
+      "published": "2026-07-13",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "39c0e1df-2fda-8165-b9b4-d1dec2ae8278",
+      "title": "taxo_package.4.3",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/855cbf85-0715-463e-a33a-48d98856b538/taxo_package.zip",
+      "published": "2026-07-13",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "39c0e1df-2fda-8163-9ecc-e38c1bcfb903",
+      "title": "2026 06 30 PMR Francois-Louis Michaud",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/0e999fc3-b6d6-4f6f-94c0-077554658c89/2026%2006%2030%20PMR%20Francois-Louis%20Michaud%20%281%29.pdf",
+      "published": "2026-07-13",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "39c0e1df-2fda-81ac-9c92-ee166361faf4",
+      "title": "Competition in retail digital payments",
+      "url": "https://www.bis.org/publ/bisbull127.htm",
+      "published": "2026-07-13",
+      "summary": "by Daniele Natalizi, Vatsala Shreeti Retail payments have digitalised rapidly in both advanced economies and emerging market and developing economies. Digitalisation has altered the competitive landscape, with new entrants (eg fintechs and big techs) and new technologies, yet incumbent banks and card networks retain their dominant position in key markets. In their role as operators, overseers and catalysts in payment systems, central banks support competition in diverse ways, depending on their mandates and institutional arrangements.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "39c0e1df-2fda-81d6-85c6-c6e2b294cabd",
+      "title": "Is Mortgage Lock-In Responsible for Housing Market Tightness?",
+      "url": "https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2026/wp26-33.pdf",
+      "published": "2026-07-10",
+      "summary": "Federal Reserve Bank of Philadelphia Working Papers by Aaron Graybill and Kyle Mangum",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
     {
       "id": "3990e1df-2fda-81d7-b202-f5037dfbe71a",
       "title": "SBS fortalece las capacidades de las entidades financieras en ciberseguridad y resiliencia operacional",
