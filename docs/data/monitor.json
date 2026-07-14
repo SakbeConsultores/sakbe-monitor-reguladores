@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-07-13T22:03:00.706615+00:00",
-  "total_items": 1120,
+  "generated_at": "2026-07-14T16:19:52.212782+00:00",
+  "total_items": 1133,
   "items": [
+    {
+      "id": "39d0e1df-2fda-81a5-ab5d-c191eb597526",
+      "title": "¿Recibiste dinero extra? Sigue estas recomendaciones para protegerlo de fraudes digitales",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3955",
+      "published": "2026-07-14",
+      "summary": "Los ciberdelincuentes apelan a la ingeniería social para convencer a las personas de compartir sus claves, códigos de verificación o ingresar a página",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "39d0e1df-2fda-81c7-8de2-d0194676d9e1",
+      "title": "253 servidores SFC se certificaron en el programa de finanzas sostenibles y gestión de riesgos ambientales, sociales y climáticos",
+      "url": "https://www.superfinanciera.gov.co/10116188",
+      "published": "2026-07-14",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "39d0e1df-2fda-8181-864d-f172a27e7ab5",
+      "title": "Encuesta Nacional de Bienestar Autorreportado (ENBIARE) 2025",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10990",
+      "published": "2026-07-14",
+      "summary": "En 2025, las personas en México calificaron en promedio con 8.62 la satisfacción con su vida actual, en una escala de 0 a 10",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "39d0e1df-2fda-8148-8e6b-f264db6cc776",
+      "title": "Tariffs, production networks, and spillovers: the case of a US-China trade war",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3254~34fda3bdcc.en.pdf",
+      "published": "2026-07-14",
+      "summary": "We study the short-run macroeconomic transmission of a US–China tariff war in an open economy multi-sector New Keynesian model with input–output linkages, sectoral nominal rigidities, and heterogeneous currency invoicing. A reciprocal 10 percentage-point tariff increase generates asymmetric incidence: the tariff-imposing country bears more of the inflationary burden, while the targeted country experiences the larger output contraction. Production networks amplify this contraction by propagating the shock beyond the directly tariffed bilateral margin. Currency invoicing further shapes transmission. Under heterogeneous invoicing, dollar-priced border prices weaken the expenditure-switching role of exchange rates, deepening the contraction in China relative to producer-currency pricing and altering third-country spillovers. The EA response is small in the aggregate, but only because positive trade-diversion margins are offset by weaker demand from China and multilateral adjustments. We then exploit the model’s sectoral structure by imposing tariffs on one Chinese sector at a time. Sectoral incidence is highly concentrated, but aggregate effects cannot be inferred from the directly tariffed sector alone: domestic propagation offsets own-sector gains in the US, reinforces own-sector losses in China, and leaves the EA as a net object shaped by opposing trade margins. The results show that tariff incidence depends jointly on where the tariff lands, how the shock propagates through production networks, and how invoicing governs border-price adjustment. A framework that combines these margins delivers a materially different assessment from one built on bilateral trade shares alone.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "39d0e1df-2fda-81ce-8045-c474e87cf23d",
+      "title": "ECB selects 36 payment service providers to join digital euro pilot",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260714~8cd07d9d45.en.html",
+      "published": "2026-07-14",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "39d0e1df-2fda-8143-b760-fb7accdb4990",
+      "title": "AI disruption in private credit: exposure to software firms in BDCs",
+      "url": "https://www.bis.org/publ/bisbull128.htm",
+      "published": "2026-07-14",
+      "summary": "by Fernando Avalos, Giulio Cornelli, Egemen Eren Business development companies (BDCs) have lent around $115 billion to software firms, which represents about a fifth of all their lending and over 80% of their fast-growing technology portfolios. Borrowers' revenue uncertainty posed by generative artificial intelligence has not affected these loans yet, and neither BDCs nor their equity investors have priced software exposure differently. Recently, credit spreads have narrowed, reducing the buffers to absorb losses, and a few large BDCs are exposed to a shared pool of borrowers, though low leverage and secured lending may limit spillovers.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "39d0e1df-2fda-8160-9ef4-f9c0c3c8e1ec",
+      "title": "The AI investment race",
+      "url": "https://www.bis.org/publ/work1367.htm",
+      "published": "2026-07-14",
+      "summary": "by Phurichai Rungcharoenkitkul The AI build-out ranks among the largest technology-driven investment booms in US history. Its scale, reliance on debt and circular equity ties raise questions about the boom's sustainability and financial stability. We study a dynamic contest in which firms competing for a few dominant positions over-commit resources. The over-investment leaves the sector exposed to revenue disappointment that could turn boom into bust. The larger the boom, the deeper the eventual bust. The race to commit early through debt and circular financing also makes a bust more likely. Calibrated to balance sheet and deal data, the model points to over-investment of around 1.5 times the efficient level, rising to around three times where demand is less elastic. A network analysis shows that stress in one firm could cascade to others through chains of financial exposures.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "39d0e1df-2fda-819e-91f3-fd17c99aae8f",
+      "title": "Geoeconomics and trade",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpdps/ecb.dp31~0e62e3849a.en.pdf",
+      "published": "2026-07-13",
+      "summary": "We study the role of geoeconomics in shaping globalisation and trade policy. We first review the evolution of world trade since the end of World War II, highlighting the drivers of globalisation and its economic consequences. We then synthesise recent research on geoeconomics, which analyses how countries use trade policy as a tool to pursue geopolitical objectives. Against this background, we argue that the gradual shift in geoeconomic power from the United States toward China since the 2000s has been driving a fragmentation in world trade along geopolitical lines. We provide conceptual policy recommendations for the European Union to navigate an environment characterised by intensifying geopolitical competition.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
     {
       "id": "39c0e1df-2fda-811d-a817-f99a656efab0",
       "title": "Líneas de Pobreza (LP)",
@@ -674,6 +762,17 @@
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
+      "id": "39d0e1df-2fda-8172-b350-dc629e65d161",
+      "title": "Multi-Plant Firms, Variable Capacity Utilization, and the Aggregate Hours Elasticity",
+      "url": "https://www.federalreserve.gov/econres/ifdp/files/ifdp1440.pdf",
+      "published": "2026-07-08",
+      "summary": "Board of Governors of the Federal Reserve System International Financial Discussion Papers by Domenico Ferraro, Giuseppe Fiori and Damián Pierri",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
       "id": "3980e1df-2fda-8129-bbc5-f4624f61f868",
       "title": "July 8, 2026Opening Remarks at the July 2026 WEO Update Press Conference",
       "url": "https://www.imf.org/en/news/articles/2026/07/08/sp070826-weo-update-july-2026-press-conference-opening-remarks",
@@ -1015,6 +1114,17 @@
       "feed_url": "https://www.imf.org/en/publications"
     },
     {
+      "id": "39d0e1df-2fda-8182-9a7b-df9f3f098e84",
+      "title": "xtcipsunb: The CIPS Panel Unit Root Test for Unbalanced Panel Data",
+      "url": "https://www.dallasfed.org/~/media/documents/research/papers/2026/wp2619.pdf",
+      "published": "2026-07-07",
+      "summary": "Federal Reserve Bank of Dallas Working Papers by Alexander Chudik and Benjamin Hoham",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
       "id": "3980e1df-2fda-81ae-887f-fd5fdad794ae",
       "title": "July 7, 2026IMF Executive Board Concludes 2026 Article IV Consultation with Solomon Islands",
       "url": "https://www.imf.org/en/news/articles/2026/07/07/pr26237-solomon-islands-imf-executive-board-concludes-2026-article-iv-consultation",
@@ -1222,6 +1332,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "39d0e1df-2fda-8184-a0d3-e158f0f6b953",
+      "title": "Capturing Heterogeneity: Machine Learning Approaches to Implied Volatility Forecasting",
+      "url": "https://www.federalreserve.gov/econres/feds/files/2026049pap.pdf",
+      "published": "2026-07-06",
+      "summary": "Board of Governors of the Federal Reserve System Finance and Economics Discussion Series by Hyung Joo Kim and Dong Hwan Oh",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3980e1df-2fda-81e3-94f0-fee6d9a3c574",
@@ -1455,6 +1576,17 @@
       "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
     },
     {
+      "id": "39d0e1df-2fda-81d0-b5d6-dfc88dc9f42d",
+      "title": "The Standards Are in the Mail: Comparing Credit Card Supply Indicators",
+      "url": "https://www.federalreserve.gov/econres/feds/files/2026048pap.pdf",
+      "published": "2026-07-02",
+      "summary": "Board of Governors of the Federal Reserve System Finance and Economics Discussion Series by John C. Driscoll, Benjamin S. Kay, Geng Li and Cindy M. Vojtech",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
       "id": "3960e1df-2fda-8141-b482-f90d8a82141c",
       "title": "The Health Channel of Business Cycles",
       "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2026/wp26-32.pdf",
@@ -1662,6 +1794,17 @@
       "country": "Global",
       "type": "Publications",
       "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "39d0e1df-2fda-81b2-845d-d82c500a3fae",
+      "title": "The International RBC Model Finally Works!",
+      "url": "https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1197.pdf",
+      "published": "2026-07-01",
+      "summary": "Federal Reserve Bank of New York Staff Reports by Sushant Acharya, Edouard Challe and Louphou Coulibaly",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3980e1df-2fda-81d3-8e92-c9cd8442a969",
