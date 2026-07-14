@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-07-14T16:19:52.212782+00:00",
-  "total_items": 1133,
+  "generated_at": "2026-07-14T22:05:02.466564+00:00",
+  "total_items": 1146,
   "items": [
+    {
+      "id": "39d0e1df-2fda-81fd-8960-de7fffeb71a7",
+      "title": "Lima es sede de GAFILAT, el evento más importante en materia de lucha contra el lavado de activos en Latinoamérica",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3956",
+      "published": "2026-07-14",
+      "summary": "El LIII Pleno de Representantes del Grupo de Acción Financiera de Latinoamérica (GAFILAT) se desarrolla del 14 al 17 de julio de 2026 y es coorganizad",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "39d0e1df-2fda-81a0-9510-f5d1a207266d",
+      "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
+      "published": "2026-07-14",
+      "summary": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "39d0e1df-2fda-81bc-bb23-f2c23fdb4d5c",
+      "title": "Opportunity in the Oasis: Creating Jobs for the Next Generation in Rural Morocco",
+      "url": "http://www.worldbank.org/ext/en/news/feature/2026/07/14/opportunity-in-the-oasis-creating-jobs-for-the-next-generation-in-rural-morocco",
+      "published": "2026-07-14",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "39d0e1df-2fda-81ee-9ab3-d2b1dd82fe3a",
+      "title": "Cabo Verde Economic Update 2026: Connecting Islands, Unlocking Potential",
+      "url": "http://www.worldbank.org/ext/en/news/press-release/2026/07/14/cabo-verde-economic-update-2026-connecting-islands-unlocking-potential",
+      "published": "2026-07-14",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "39d0e1df-2fda-81a5-ab5d-c191eb597526",
       "title": "¿Recibiste dinero extra? Sigue estas recomendaciones para protegerlo de fraudes digitales",
@@ -78,6 +122,39 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "39d0e1df-2fda-81e6-9bd1-fb17035f4907",
+      "title": "Latin America Seeks to Transform Its Mineral Wealth into Jobs and Development",
+      "url": "http://www.worldbank.org/ext/en/news/feature/2026/07/13/latin-america-seeks-to-transform-its-mineral-wealth-into-jobs-and-development",
+      "published": "2026-07-13",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "39d0e1df-2fda-81aa-bed6-caa7b5b5cd5c",
+      "title": "Remarks by Anna Bjerde, World Bank Managing Director of Operations, at the Second meeting of the Palestine Donor Group – Ministerial Meeting",
+      "url": "http://www.worldbank.org/ext/en/news/statement/2026/07/13/-remarks-by-anna-bjerde-world-bank-managing-director-of-operations-at-the-second-meeting-of-the-palestine-donor-group-mi",
+      "published": "2026-07-13",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "39d0e1df-2fda-8136-9c7d-f5ebc1f52f0f",
+      "title": "New World Bank Group Support for Thailand to Scale Low-Carbon Cities and Carbon Markets",
+      "url": "http://www.worldbank.org/ext/en/news/press-release/2026/07/13/new-world-bank-group-support-for-thailand-to-scale-low-carbon-cities-and-carbon-markets",
+      "published": "2026-07-13",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "39d0e1df-2fda-819e-91f3-fd17c99aae8f",
@@ -210,6 +287,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "39d0e1df-2fda-8113-8937-e8fbb5124d07",
+      "title": "Peru to Strengthen the Arequipa–Colca Tourism Corridor and Promote Private Investment and Job Creation with World Bank Support",
+      "url": "http://www.worldbank.org/ext/en/news/press-release/2026/07/10/peru-to-strengthen-the-arequipa-colca-tourism-corridor-and-promote-private-investment-and-job-creation-with-world-bank-s",
+      "published": "2026-07-10",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "39c0e1df-2fda-81d6-85c6-c6e2b294cabd",
@@ -463,6 +551,17 @@
       "country": "Global",
       "type": "Publications",
       "feed_url": "https://www.imf.org/en/publications"
+    },
+    {
+      "id": "39d0e1df-2fda-8118-add9-ffbe8c0fc64c",
+      "title": "World Bank Supports India’s Solar Rooftop Program to Boost Clean Energy, Create Jobs, and Unlock Private Capital",
+      "url": "http://www.worldbank.org/ext/en/news/press-release/2026/07/09/world-bank-supports-india-s-solar-rooftop-program-to-boost-clean-energy-create-jobs-and-unlock-private-capital",
+      "published": "2026-07-09",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3990e1df-2fda-818f-9bb6-d90ca4f22354",
@@ -760,6 +859,28 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "39d0e1df-2fda-81f3-8039-c375cd102669",
+      "title": "Joint Statement by the Heads of the International Energy Agency, International Monetary Fund,World Bank Group, and World Trade Organization",
+      "url": "http://www.worldbank.org/ext/en/news/statement/2026/07/08/joint-statement-by-the-heads-of-the-international-energy-agency-international-monetary-fund-world-bank-group-and-world-t",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "39d0e1df-2fda-818b-af5a-ce826795cbed",
+      "title": "The World Bank Group and Inter-American Development Bank Join Forces on New Full Mutual Reliance Framework",
+      "url": "http://www.worldbank.org/ext/en/news/statement/2026/07/08/the-world-bank-group-and-inter-american-development-bank-join-forces-on-new-full-mutual-reliance-partnership",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "39d0e1df-2fda-8172-b350-dc629e65d161",
@@ -1334,6 +1455,17 @@
       "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
     },
     {
+      "id": "39d0e1df-2fda-8129-bd37-ea60c41aeeff",
+      "title": "The Agri-Entrepreneur Next Door - A global farming initiative is redefining jobs and harvests in rural Bangladesh",
+      "url": "http://www.worldbank.org/ext/en/news/feature/2026/07/06/a-global-farming-initiative-is-redefining-jobs-and-harvests-in-rural-bangladesh",
+      "published": "2026-07-06",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
       "id": "39d0e1df-2fda-8184-a0d3-e158f0f6b953",
       "title": "Capturing Heterogeneity: Machine Learning Approaches to Implied Volatility Forecasting",
       "url": "https://www.federalreserve.gov/econres/feds/files/2026049pap.pdf",
@@ -1497,6 +1629,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "39d0e1df-2fda-817c-be14-e380dabd064b",
+      "title": "5 Myths about Malaysia's Subnational Development",
+      "url": "http://www.worldbank.org/ext/en/news/feature/2026/07/03/5-myths-about-malaysia-s-subnational-development",
+      "published": "2026-07-03",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3920e1df-2fda-8105-b5ce-d9cc9c38ff51",
