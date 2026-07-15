@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-07-14T22:05:02.466564+00:00",
-  "total_items": 1146,
+  "generated_at": "2026-07-15T16:26:39.253021+00:00",
+  "total_items": 1154,
   "items": [
+    {
+      "id": "39e0e1df-2fda-81c7-aa7a-c7e1425927b4",
+      "title": "Indicador Oportuno del Consumo Privado",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10991",
+      "published": "2026-07-15",
+      "summary": "El IOCP anticipa un incremento anual de 2.8 % del consumo privado para mayo y de 2.6 % para junio de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "39e0e1df-2fda-819b-89a7-c896819d4b1b",
+      "title": "Jonathan V. Gould Marks One Year as Comptroller of the Currency",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-58.html",
+      "published": "2026-07-15",
+      "summary": "Comptroller of the Currency Jonathan V. Gould today issued remarks on his work and progress to ensure the continued relevance of the federal banking system and its ability to meet the evolving financial needs of the American people.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "39e0e1df-2fda-8133-867a-f140c5b1ba1f",
+      "title": "Bank deposit pricing in the euro area",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3255~7622aab746.en.pdf",
+      "published": "2026-07-15",
+      "summary": "We investigate the supply and demand drivers of bank deposit pricing in the Euro area during the period 2007–2024. We document that the pass-through of policy rates to sight deposit rates is low, asymmetric, varies across the monetary policy regimes, and decreases over time. We build and estimate an equilibrium model of bank deposit markets, and find that the price sensitivity of depositors exhibits large heterogeneity between households and firms, across countries, and over time. Our estimates suggest that rate-sensitive depositors increasingly switched to alternative, higher-yielding savings products over time, thereby decreasing the average rate-sensitivity of the remaining pool of sight deposits. In turn, banks’ market power over sight deposits increased, thereby accounting for the sluggish increase in overnight deposit rates following the 2022 European Central Bank’s policy rate hikes.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "39e0e1df-2fda-8153-bdc5-de288295cdbe",
+      "title": "The changing geography of banking in CESEE. Branch closures outpace openings",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3256~2bf448ead2.en.pdf",
+      "published": "2026-07-15",
+      "summary": "We study the evolution of bank branch networks in ten CESEE countries between 2013 and 2021. Using a manually compiled dataset of all branches and their geocoordinates, we document a decline exceeding 30%, with substantial heterogeneity across and within countries. We show that banking market consolidation is a key driver of closures, while profitability and local economic growth mitigate them. Branches in highly urban or very rural areas close more often. Competitive effects are nonlinear: moderate clustering lowers closure risk, but intense competition increases it. These patterns differ markedly across CESEE banking systems during the entire period we analyze.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "39e0e1df-2fda-8188-bebc-c93ff6a84f35",
+      "title": "Piero Cipollone: Interview with Ouest-France",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260715~ab95a43007.en.html",
+      "published": "2026-07-15",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "39e0e1df-2fda-8125-8ce6-f4365e17688a",
+      "title": "2026 06 30 PMR - Jonathan Overett Somnier",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/b14c6d64-3a40-46c1-b723-d94858cc41d9/2026%2006%2030%20PMR%20-%20Jonathan%20Overett%20Somnier.pdf",
+      "published": "2026-07-15",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "39e0e1df-2fda-81cf-93dd-fee7cf1367ce",
+      "title": "Geopolitical risk and emerging market sovereign risk premia",
+      "url": "https://www.bis.org/publ/work1368.htm",
+      "published": "2026-07-15",
+      "summary": "by Fredy Gamboa, José Vicente Romero This study examines how geopolitical risk (GPR) transmits to sovereign credit risk in emerging market economies (EMEs), using monthly data on the 5-year sovereign credit default swap (SCDS) and the J.P. Morgan Emerging Markets Bond Index (EMBI) spread for 13 EMEs over the period of January 2005&#8211;October 2025. Using fixed-effects panel local projections, the framework is extended to allow for state-dependent transmission. Differences in impulse responses across states are attributed to specific macro financial fundamentals. Three main findings are identified. First, an increase in the GPR index raises both SCDS and EMBI spreads. Second, disaggregating the index into its subcomponents reveals a larger response to threats than to acts, consistent with the possibility of anticipation effects in sovereign credit markets.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "39e0e1df-2fda-81e4-9dd6-ccb537bed496",
+      "title": "Geopolitical Distance and Targeted Trade: Evidence from Product-Level Export Controls",
+      "url": "https://doi.org/10.20955/wp.2026.014",
+      "published": "2026-07-14",
+      "summary": "Federal Reserve Bank of St Louis Working Papers by Bontu Ankit Patro and Ana Maria Santacreu",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
     {
       "id": "39d0e1df-2fda-81fd-8960-de7fffeb71a7",
       "title": "Lima es sede de GAFILAT, el evento más importante en materia de lucha contra el lavado de activos en Latinoamérica",
