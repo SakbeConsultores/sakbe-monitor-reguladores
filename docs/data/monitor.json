@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-07-16T16:21:15.532876+00:00",
-  "total_items": 1165,
+  "generated_at": "2026-07-16T22:09:39.267504+00:00",
+  "total_items": 1178,
   "items": [
+    {
+      "id": "39f0e1df-2fda-814d-b413-d3f66800c93c",
+      "title": "Examinations: Joint Statement on Identifying and Handling Highly Sensitive Information During Examinations",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-32.html",
+      "published": "2026-07-16",
+      "summary": "The Office of the Comptroller of the Currency (OCC), along with the Board of Governors of the Federal Reserve System and the Federal Deposit Insurance Corporation (collectively, the agencies), issued a joint statement today on the handling of highly sensitive information during examinations of supervised banks.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "39f0e1df-2fda-812a-a3ae-fa3cca2c6464",
+      "title": "Allowances for Credit Losses: Revised Comptroller’s Handbook Booklet and Rescissions",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-33.html",
+      "published": "2026-07-16",
+      "summary": "The Office of the Comptroller of the Currency (OCC) issued version 2.0 of the \"Allowances for Credit Losses\" booklet of the Comptroller's Handbook. The booklet provides information for examiners regarding allowances for credit losses under Accounting Standards Codification Topic 326, \"Financial Instruments-Credit Losses.\"",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "39f0e1df-2fda-8114-b75c-db2768535156",
+      "title": "Agencies Issue Joint Statement on Handling of Highly Sensitive Information During Bank Examinations",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-60.html",
+      "published": "2026-07-16",
+      "summary": "Agencies Issue Joint Statement on Handling of Highly Sensitive Information During Bank Examinations The federal bank regulatory agencies today issued a joint statement describing enhanced security procedures for review of highly sensitive information in connection with examinations of supervised banks, such as reviewing materials on-site rather than transferring them onto agency systems.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "39f0e1df-2fda-81b2-b057-f7fc5258736f",
+      "title": "IFDP Paper: Hidden Leverage in Nonfinancial Corporations",
+      "url": "https://www.federalreserve.gov/econres/ifdp/hidden-leverage-in-nonfinancial-corporations.htm",
+      "published": "2026-07-16",
+      "summary": "Cody Kallen A substantial portion of corporate debt remains hidden from balance sheets. I document two forms of off-balance-sheet leverage in nonfinancial corporations: operating leases (pre-2019) and intraperiod borrowing&#8212;short-term debt issued and repaid within reporting periods, which I am the first to study in nonfinancial firms. Approximately 29 percent of publicly traded firms used substantial operating leases and 12 percent show evidence of substantial intra-period borrowing, with a disproportionate subset using both types of hidden debt. Firms using substantial hidden leverage are generally smaller, more reliant on short-term funding, are less monitored by sophisticated market participants, and report lower leverage, suggesting they use off-balance-sheet debt to project false leverage profiles. When accounting changes in 2019 revealed substantial operating leases, affected firms subsequently cut capital expenditures by 25 percent and R&D by 14 percent, faced heightened risks of executive turnover and stakeholder scrutiny, and experienced more frequent accounting problems. Critically, revelation of substantial operating leases caused these exposed firms to curtail their intra-period borrowing and to raise their reported non-lease leverage.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "39f0e1df-2fda-817b-a3fa-cf2e50684fc1",
+      "title": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
+      "published": "2026-07-16",
+      "summary": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "39f0e1df-2fda-8182-996e-e4ad8c033e0c",
+      "title": "South Africa: World Bank Group Support to Boost Infrastructure Modernization and Create Nearly 600,000 Jobs",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/07/16/south-africa-world-bank-group-support-to-boost-infrastructure-modernization-and-create-nearly-600-000-jobs",
+      "published": "2026-07-16",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "39f0e1df-2fda-8192-869d-fe759ae28a09",
       "title": "Censo Nacional de Sistemas Penitenciarios Estatales (CNSIPEE) 2026",
@@ -113,6 +179,50 @@
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
+      "id": "39f0e1df-2fda-8175-8251-d4a1397938fb",
+      "title": "Building on Success: How Korea's Real Estate Expertise Is Driving Development",
+      "url": "http://www.worldbank.org/en/news/feature/2026/07/15/building-on-success-how-korea-s-real-estate-expertise-is-driving-development",
+      "published": "2026-07-15",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "39f0e1df-2fda-8107-ab74-eafaf94f4a25",
+      "title": "World Bank Approves $140 Million to Improve Road Connectivity in Senegal’s Northern and Central Agricultural Areas",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/07/15/world-bank-approves-140-million-to-improve-road-connectivity-in-senegal-s-northern-and-central-agricultural-areas",
+      "published": "2026-07-15",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "39f0e1df-2fda-81b4-bd2a-cbfb0b13a8a9",
+      "title": "Burkina Faso: New World Bank Financing to Expand Economic Opportunities and Strengthen Social Protection Systems",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/07/15/burkina-faso-new-world-bank-financing-to-expand-economic-opportunities-and-strengthen-social-protection-systems",
+      "published": "2026-07-15",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "39f0e1df-2fda-8158-84da-e547c30615c7",
+      "title": "World Bank Group and ISDA Join Forces to Strengthen Derivatives Markets in Developing Economies",
+      "url": "http://www.worldbank.org/en/news/press-release/2026/07/15/world-bank-group-and-isda-join-forces-to-strengthen-derivatives-markets-in-developing-economies",
+      "published": "2026-07-15",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
       "id": "39f0e1df-2fda-815f-aca9-e3bd2a9809b2",
       "title": "The Dynamics of Ample Reserves",
       "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2026/wp26-34.pdf",
@@ -199,6 +309,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "39f0e1df-2fda-8162-958c-c5f5d22dd27d",
+      "title": "Opportunity in the Oasis: Creating Jobs for the Next Generation in Rural Morocco",
+      "url": "http://www.worldbank.org/en/news/feature/2026/07/14/opportunity-in-the-oasis-creating-jobs-for-the-next-generation-in-rural-morocco",
+      "published": "2026-07-14",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "39e0e1df-2fda-81e4-9dd6-ccb537bed496",
@@ -331,6 +452,28 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "39f0e1df-2fda-8179-a690-f16d331506ac",
+      "title": "Latin America Seeks to Transform Its Mineral Wealth into Jobs and Development",
+      "url": "http://www.worldbank.org/en/news/feature/2026/07/13/latin-america-seeks-to-transform-its-mineral-wealth-into-jobs-and-development",
+      "published": "2026-07-13",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "39f0e1df-2fda-81ca-b457-e69a78fefa79",
+      "title": "Learning Across Borders: Uganda and Tanzania Strengthen Wildlife Conservation Partnership",
+      "url": "http://www.worldbank.org/en/news/feature/2026/07/13/learning-across-borders-uganda-and-tanzania-strengthen-wildlife-conservation-partnership",
+      "published": "2026-07-13",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "39d0e1df-2fda-81e6-9bd1-fb17035f4907",
