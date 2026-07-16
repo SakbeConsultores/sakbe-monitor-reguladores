@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-07-15T22:09:08.574278+00:00",
-  "total_items": 1154,
+  "generated_at": "2026-07-16T16:21:15.532876+00:00",
+  "total_items": 1165,
   "items": [
+    {
+      "id": "39f0e1df-2fda-8192-869d-fe759ae28a09",
+      "title": "Censo Nacional de Sistemas Penitenciarios Estatales (CNSIPEE) 2026",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10994",
+      "published": "2026-07-16",
+      "summary": "En 2025, los ingresos a los centros penitenciarios aumentaron 19.2%",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "39f0e1df-2fda-8108-be95-e847e3cc460b",
+      "title": "Censo Nacional de Sistema Penitenciario Federal (CNSIPEF) 2026",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10993",
+      "published": "2026-07-16",
+      "summary": "En 2025, los ingresos a los centros penitenciarios aumentaron 19.2%",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "39f0e1df-2fda-8183-86e0-d07645bc8555",
+      "title": "Encuesta Mensual de la Industria Manufacturera (EMIM). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10992",
+      "published": "2026-07-16",
+      "summary": "Disminuyó 0.6% el volumen de la producción manufacturera en mayo de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "39f0e1df-2fda-811e-9dac-c0ebdde2167f",
+      "title": "OCC Announces Enforcement Actions for July 2026",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-59.html",
+      "published": "2026-07-16",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today released enforcement actions for July 2026.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "39f0e1df-2fda-81d3-9daf-c747d4bb0a63",
+      "title": "Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm",
+      "published": "2026-07-16",
+      "summary": "Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "39f0e1df-2fda-81e9-953e-d34f73bb13e0",
+      "title": "Discussion Paper on Taxonomy disclosures - public hearing 16 July 2026",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/8e852eba-64df-4674-a695-f3f126a3af8b/Discussion%20Paper%20on%20Taxonomy%20disclosures%20-%20public%20hearing%2016%20July%202026.pdf",
+      "published": "2026-07-16",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "39f0e1df-2fda-81a3-a67c-c31e1755297d",
+      "title": "2026-07-16 Public Hearing EBA MiCA Fines Methodology - Presentation",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/e977f408-9c6d-4cda-a066-b4311263abf6/2026-07-16%20Public%20Hearing%20EBA%20MiCA%20Fines%20Methodology%20-%20Presentation.pdf",
+      "published": "2026-07-16",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "39f0e1df-2fda-81e3-99e0-d7465691b2fa",
+      "title": "Board of Appeal - D vs EBA - Decision BoA-D-2026-01",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/10158b52-0c16-4dd8-bf45-f34c25ba03d1/D%20v%20EBA_Final%20decision.pdf",
+      "published": "2026-07-16",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "39f0e1df-2fda-8102-8bd3-df40077278ef",
+      "title": "Joint Board of Appeal dismisses appeal against the EBA",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/joint-board-appeal-dismisses-appeal-against-eba",
+      "published": "2026-07-16",
+      "summary": "The Joint Board of Appeal of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) has issued a decision stating that an appeal brought by an individual against the European Banking Authority (EBA) is inadmissible.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "39f0e1df-2fda-81ee-8273-f65a464e0828",
+      "title": "The evolving nexus: sovereigns, banks and NBFIs",
+      "url": "https://www.bis.org/publ/work1369.htm",
+      "published": "2026-07-16",
+      "summary": "by Stefan Avdjiev, Bryan Hardy, Maximilian Jager This paper documents that the traditional sovereign-bank nexus has morphed into a broader nexus that now also includes non-bank financial institutions (NBFIs): the sovereign-bank-NBFI nexus. The classical sovereign-bank nexus has been a major financial stability concern following the eurozone crisis. Since then, sovereign debt levels have increased substantially in many major economies, while NBFIs' footprint in sovereign bond markets has grown significantly.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "39f0e1df-2fda-815f-aca9-e3bd2a9809b2",
+      "title": "The Dynamics of Ample Reserves",
+      "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2026/wp26-34.pdf",
+      "published": "2026-07-15",
+      "summary": "Federal Reserve Bank of Philadelphia Working Papers by Roc Armenter",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
     {
       "id": "39e0e1df-2fda-81c7-aa7a-c7e1425927b4",
       "title": "Indicador Oportuno del Consumo Privado",
