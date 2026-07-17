@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-17T16:19:34.686019+00:00",
-  "total_items": 1190,
+  "generated_at": "2026-07-17T22:00:22.737201+00:00",
+  "total_items": 1191,
   "items": [
+    {
+      "id": "3a00e1df-2fda-8173-bd34-cbfc0e0749e5",
+      "title": "Índice de Capitalización de la banca múltiple al cierre de mayo de 2026",
+      "url": "https://www.gob.mx/cnbv/prensa/indice-de-capitalizacion-de-la-banca-multiple-al-cierre-de-mayo-de-2026?idiom=es",
+      "published": "2026-07-17",
+      "summary": "",
+      "regulator": "CNBV",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.gob.mx/cnbv/archivo/prensa?idiom=es"
+    },
     {
       "id": "3a00e1df-2fda-81db-9643-f4f1ba16d22b",
       "title": "SBS modifica normativa aplicable a las Coopac para fortalecer su solidez patrimonial y optimizar su proceso de adecuación al marco regulatorio",
