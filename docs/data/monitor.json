@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-07-16T22:09:39.267504+00:00",
-  "total_items": 1178,
+  "generated_at": "2026-07-17T16:19:34.686019+00:00",
+  "total_items": 1190,
   "items": [
+    {
+      "id": "3a00e1df-2fda-81db-9643-f4f1ba16d22b",
+      "title": "SBS modifica normativa aplicable a las Coopac para fortalecer su solidez patrimonial y optimizar su proceso de adecuación al marco regulatorio",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3957",
+      "published": "2026-07-17",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3a00e1df-2fda-81b3-914f-dc7cb6f8b014",
+      "title": "Transporte Urbano de Pasajeros",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10995",
+      "published": "2026-07-17",
+      "summary": "Viajaron 276.1 millones de personas pasajeras en los sistemas de transporte urbano durante mayo de 2026: 3.4% más que el año anterior",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3a00e1df-2fda-8102-8a98-e66d55370a74",
+      "title": "FEDS Paper: Demand Shocks and Endogenous Uncertainty",
+      "url": "https://www.federalreserve.gov/econres/feds/demand-shocks-and-endogenous-uncertainty.htm",
+      "published": "2026-07-17",
+      "summary": "Diego Vil&aacute;n This study examines how fluctuations in firm-level uncertainty arise over the business cycle and how they influence aggregate economic activity. To do so, it develops a general equilibrium incomplete-markets model in which heterogeneous, risk-averse firms face idiosyncratic demand uncertainty and aggregate shocks to consumer credit conditions. A change in aggregate credit affects not only the expected level of firm demand, but also the cross-sectional dispersion of sales per worker by shifting the probability that firms operate at capacity. Thus, first-moment shocks give rise to endogenous second-moment effects. The model is disciplined using U.S. Compustat data on firm sales and employment and proprietary customer traffic data. The calibrated economy reproduces key cross-sectional moments and business-cycle comovements, including countercyclical dispersion in firm outcomes. Quantitatively, endogenous uncertainty accounts for roughly one quarter of the output response and one third of the employment response to aggregate credit shocks. The results suggest that uncertainty is not only an independent source of aggregate fluctuations, but also an endogenous propagation mechanism through which changes in demand conditions amplify business cycles.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3a00e1df-2fda-81d8-8ccc-f660c9176812",
+      "title": "FEDS Paper: The Last Taxi: LCR Buffers and Bank Liquidity Provision",
+      "url": "https://www.federalreserve.gov/econres/feds/the-last-taxi-lcr-buffers-and-bank-liquidity-provision.htm",
+      "published": "2026-07-17",
+      "summary": "R. Matthew Darst , Lucia Gurrieri, Arazi Lubis , and Alexandros P. Vardoulakis This paper examines whether regulatory liquidity buffers enable banks to support corporate borrowers during financial stress. Using confidential bank-firm credit data and handcollected Liquidity Coverage Ratio regulation (LCR) disclosures during COVID-19, we find that banks with higher LCR buffers above the regulatory minimum provided significantly more credit to firms with large undrawn credit lines in March 2020. Critically, only buffers, not overall LCR levels, matter, revealing that the regulatory minimum operates as a binding constraint during stress. The effect is concentrated among high-quality borrowers with clean credit profiles and disappears by mid-2020, confirming that LCR buffers provide selective, temporary liquidity insurance during acute stress.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3a00e1df-2fda-8193-a0d5-f6023b78b72a",
+      "title": "IFDP Paper: Transmission Growth-at-Risk: How Foreign Financial Vulnerabilities Shape U.S. Growth Prospects",
+      "url": "https://www.federalreserve.gov/econres/ifdp/transmission-growth-at-risk-how-foreign-financial-vulnerabilities-shape-u-s-growth-prospects.htm",
+      "published": "2026-07-17",
+      "summary": "Sai Ma , Viktors Stebunovs , Judit Temesvary We develop a Transmission Growth-at-Risk (TGaR) framework that incorporates foreign financial vulnerabilities as predictors of U.S. downside growth risk. We distinguish financial conditions, which measure current tightness in credit markets, from financial vulnerabilities, which measure structural fragilities that can amplify shocks. Elevated foreign financial vulnerabilities are associated with lower U.S. growth-at-risk, with transmission through both trade linkages and dollar integration channels. Asset valuation pressures and financial sector leverage abroad have the largest estimated amplification effects. Financial conditions primarily affect near-term tail risk, while foreign vulnerabilities weigh on U.S. GDP at a medium-term horizon. Out of sample, adding foreign vulnerabilities raises the predictive score by 53 percent at the 8-quarter horizon. Crisis-episode evidence points to the same interpretation. These findings show that monitoring foreign financial vulnerabilities is important for gauging U.S. growth prospects.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3a00e1df-2fda-81f2-b8cd-e478a4534e0a",
+      "title": "Euro area monthly balance of payments: May 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260717~978df5cd04.en.html",
+      "published": "2026-07-17",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Statistical Releases",
+      "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
+    },
+    {
+      "id": "3a00e1df-2fda-81b1-af4e-fe9fb2cf2476",
+      "title": "Piero Cipollone: The cooperative spirit at the heart of the digital euro",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260717~b6a156dc40.en.html",
+      "published": "2026-07-17",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3a00e1df-2fda-81aa-a5a2-dc6b19eac74d",
+      "title": "Final Report on draft RTS and ITS material acquisitions mat transfers mergers divisions",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/cfd37e71-4ca4-483a-ab85-090ac8010535/Final%20Report%20on%20RTS%20and%20ITS%20material%20acquisitions%20mat%20transfers%20mergers%20divisions.pdf",
+      "published": "2026-07-17",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3a00e1df-2fda-81bc-ba21-c6aa35bb2368",
+      "title": "Annex 1 (Booking instructions)",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/b9cbdd06-11b5-49ef-88ed-0bb2f9656302/Annex%201%20%28Booking%20instructions%29.pdf",
+      "published": "2026-07-17",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3a00e1df-2fda-810d-a4e5-dc12a9dd143b",
+      "title": "Consultation Paper on amending ITS on the 2027 market risk benchmarking exercise",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/989e5315-9c23-42c6-a02a-ade75288ad3b/Consultation%20Paper%20on%20amending%20ITS%20the%202027%20market%20risk%20benchmarking%20exercise.pdf",
+      "published": "2026-07-17",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3a00e1df-2fda-816a-a642-d2d06846f102",
+      "title": "The EBA consults on amendments to data collection for the 2027 market risk benchmarking exercise",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-amendments-data-collection-2027-market-risk-benchmarking-exercise",
+      "published": "2026-07-17",
+      "summary": "The European Banking Authority (EBA) today launched a consultation on amendments to the Implementing Technical Standards (ITS) governing the benchmarking of internal models and the standardised approach for market risk for the 2027 exercise. The proposed amendments aim to ensure that the benchmarking framework remains aligned with the evolving regulatory framework, while providing institutions and supervisors with adequate time to prepare for the implementation of the upcoming market risk requirements. This consultation runs until 3 September 2026.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3a00e1df-2fda-814b-a907-f2b22c86ede8",
+      "title": "The EBA publishes its final draft technical standards on material acquisitions, material transfers, mergers and divisions under the Capital Requirements Directive",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-final-draft-technical-standards-material-acquisitions-material-transfers-mergers",
+      "published": "2026-07-17",
+      "summary": "The European Banking Authority (EBA) today published its final draft Regulatory Technical Standards (RTS) and Implementing Technical Standards (ITSs) on material acquisitions, transfers of assets or liabilities, mergers and divisions involving credit institutions or (mixed) financial holding companies under the Capital Requirements Directive (CRD). The standards aim to support banking consolidation and deepen EU market integration by clarifying supervisory expectations, reducing regulatory uncertainty, and promoting a consistent prudential assessment framework across the European Union.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
     {
       "id": "39f0e1df-2fda-814d-b413-d3f66800c93c",
       "title": "Examinations: Joint Statement on Identifying and Handling Highly Sensitive Information During Examinations",
