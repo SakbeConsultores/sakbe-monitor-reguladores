@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T16:02:10.298358+00:00",
-  "total_items": 1192,
+  "generated_at": "2026-07-18T21:58:20.185113+00:00",
+  "total_items": 1204,
   "items": [
     {
       "id": "3a10e1df-2fda-8107-87a9-ead708a66041",
@@ -155,6 +155,50 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3a10e1df-2fda-812d-a1fc-e9c2894d4ead",
+      "title": "World Bank Kicks Off Fiscal Year 2027 USD Funding with USD 1.5 billion 7-year SOFR Index Linked Bond",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/07/16/world-bank-kicks-off-fiscal-year-2027-usd-funding-with-usd-1-5-billion-7-year-sofr-index-linked-bond",
+      "published": "2026-07-16",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3a10e1df-2fda-8176-b54b-efc2c5ff10f5",
+      "title": "South Africa: World Bank Group Support to Boost Infrastructure Modernization and Enable Nearly 600,000 Jobs",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/07/16/south-africa-world-bank-group-support-to-boost-infrastructure-modernization-and-create-nearly-600-000-jobs",
+      "published": "2026-07-16",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3a10e1df-2fda-8130-921e-d277bc449754",
+      "title": "South Africa: World Bank Group Support to Boost Infrastructure Modernization and Create Nearly 600,000 Jobs",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/07/16/south-africa-world-bank-group-support-to-boost-infrastructure-modernization",
+      "published": "2026-07-16",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3a10e1df-2fda-81c7-a7c4-fc1ee9b84117",
+      "title": "World Bank Group Backs Business Environment Reform and Inclusive Jobs in the state of São Paulo, Brazil",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/07/16/world-bank-group-backs-business-reform-jobs-in-s-o-paulo-brazil",
+      "published": "2026-07-16",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "39f0e1df-2fda-814d-b413-d3f66800c93c",
@@ -333,6 +377,39 @@
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
+      "id": "3a10e1df-2fda-8190-ad12-dec82aae6f2f",
+      "title": "Building on Success: How Korea's Real Estate Expertise Is Driving Development",
+      "url": "https://www.worldbank.org/en/news/feature/2026/07/15/building-on-success-how-korea-s-real-estate-expertise-is-driving-development",
+      "published": "2026-07-15",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3a10e1df-2fda-81de-9aaa-d665aad0d94e",
+      "title": "Q&A with World Bank Group's Arturo Herrera and Zahid Hasnain on Strengthening the Global Public Workforce",
+      "url": "https://www.worldbank.org/en/news/feature/2026/07/15/q-a-with-world-bank-group-s-arturo-herrera-and-zahid-hasnain",
+      "published": "2026-07-15",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3a10e1df-2fda-8150-8cfc-efc92d8b8a49",
+      "title": "Keynote Address by Anna Bjerde, World Bank Managing Director of Operations, at the African Water Forum",
+      "url": "https://www.worldbank.org/en/news/statement/2026/07/15/keynote-address-by-anna-bjerde-world-bank-managing-director-of-operations-at-the-african-water-forum",
+      "published": "2026-07-15",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
       "id": "39f0e1df-2fda-8175-8251-d4a1397938fb",
       "title": "Building on Success: How Korea's Real Estate Expertise Is Driving Development",
       "url": "http://www.worldbank.org/en/news/feature/2026/07/15/building-on-success-how-korea-s-real-estate-expertise-is-driving-development",
@@ -463,6 +540,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3a10e1df-2fda-812f-86b2-d09c16d12f25",
+      "title": "Opportunity in the Oasis: Creating Jobs for the Next Generation in Rural Morocco",
+      "url": "https://www.worldbank.org/en/news/feature/2026/07/14/opportunity-in-the-oasis-creating-jobs-for-the-next-generation-in-rural-morocco",
+      "published": "2026-07-14",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "39f0e1df-2fda-8162-958c-c5f5d22dd27d",
@@ -606,6 +694,28 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3a10e1df-2fda-81de-9d03-e2fbd416a3e6",
+      "title": "Learning Across Borders: Uganda and Tanzania Strengthen Wildlife Conservation Partnership",
+      "url": "https://www.worldbank.org/en/news/feature/2026/07/13/learning-across-borders-uganda-and-tanzania-strengthen-wildlife-conservation-partnership",
+      "published": "2026-07-13",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3a10e1df-2fda-812e-9399-c21442e17201",
+      "title": "Remarks by Anna Bjerde, World Bank Managing Director of Operations, at the Second meeting of the Palestine Donor Group – Ministerial Meeting",
+      "url": "https://www.worldbank.org/en/news/statement/2026/07/13/remarks-by-anna-bjerde-world-bank-managing-director-of-operations-at-the-second-meeting-of-the-palestine-donor-group-mi",
+      "published": "2026-07-13",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "39f0e1df-2fda-8179-a690-f16d331506ac",
@@ -1365,6 +1475,28 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3a10e1df-2fda-8154-a733-fbc3efce3d6e",
+      "title": "Joint Statement by the Heads of the International Energy Agency, International Monetary Fund,World Bank Group, and World Trade Organization",
+      "url": "https://www.worldbank.org/en/news/statement/2026/07/08/joint-statement-by-the-heads-of-the-international-energy-agency-international-monetary-fund-world-bank-group-and-world-t",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3a10e1df-2fda-8164-8009-ee9e4fa3bc7d",
+      "title": "The World Bank Group and Inter-American Development Bank Join Forces on New Full Mutual Reliance Framework",
+      "url": "https://www.worldbank.org/en/news/statement/2026/07/08/the-world-bank-group-and-inter-american-development-bank-join-forces-on-new-full-mutual-reliance-partnership",
+      "published": "2026-07-08",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "39d0e1df-2fda-81f3-8039-c375cd102669",
