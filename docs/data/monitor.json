@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-17T22:00:22.737201+00:00",
-  "total_items": 1191,
+  "generated_at": "2026-07-18T16:02:10.298358+00:00",
+  "total_items": 1192,
   "items": [
+    {
+      "id": "3a10e1df-2fda-8107-87a9-ead708a66041",
+      "title": "Avance de crimen organizado exige respuestas ágiles y coordinadas en América Latina",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3958",
+      "published": "2026-07-17",
+      "summary": "Sergio Espinosa, superintendente de Banca, Seguros y AFP, señala que el intercambio oportuno de experiencias permitirá anticiparnos eficazmente a la c",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
     {
       "id": "3a00e1df-2fda-8173-bd34-cbfc0e0749e5",
       "title": "Índice de Capitalización de la banca múltiple al cierre de mayo de 2026",
