@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-07-18T21:58:20.185113+00:00",
-  "total_items": 1204,
+  "generated_at": "2026-07-19T16:01:37.418305+00:00",
+  "total_items": 1209,
   "items": [
+    {
+      "id": "3a20e1df-2fda-8113-a4f7-f7a9da816b28",
+      "title": "Prices and Monetary Policy: The Role of Financial Constraints",
+      "url": "https://www.frbsf.org/wp-content/uploads/wp2026-13.pdf",
+      "published": "2026-07-17",
+      "summary": "Federal Reserve Bank of San Francisco Working Papers by Michael D. Bauer, Alexander Czarnota and Mathias Klein",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3a20e1df-2fda-81e0-aed9-c041362c8026",
+      "title": "Rethinking Central Bank LSAPs: The Power of Market Functioning Purchases",
+      "url": "https://www.kansascityfed.org/research/research-working-papers/rethinking-central-bank-lsaps-the-power-of-market-functioning-purchases/",
+      "published": "2026-07-17",
+      "summary": "Federal Reserve Bank of Kansas City Research Working Papers by Andrew Lee Smith and Victor J. Valcarcel",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
     {
       "id": "3a10e1df-2fda-8107-87a9-ead708a66041",
       "title": "Avance de crimen organizado exige respuestas ágiles y coordinadas en América Latina",
@@ -155,6 +177,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3a20e1df-2fda-81ce-b8b3-e76c15e5b485",
+      "title": "Long-Run Intergenerational Effects of Social Security",
+      "url": "https://www.atlantafed.org/-/media/Project/Atlanta/FRBA/Documents/research/publication/working-paper/2026/07/16/10-long-run-intergenerational-effects-of-social-security.pdf",
+      "published": "2026-07-16",
+      "summary": "Federal Reserve Bank of Atlanta Working Papers by Daniel Fetter, Lee Lockwood and Paul Mohnen",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3a10e1df-2fda-812d-a1fc-e9c2894d4ead",
@@ -542,6 +575,17 @@
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
+      "id": "3a20e1df-2fda-81bc-a0d8-d1adb53fafdc",
+      "title": "Attention-Dependent Monetary Transmission to Household Beliefs",
+      "url": "https://www.atlantafed.org/-/media/Project/Atlanta/FRBA/Documents/research/publication/working-paper/2026/07/14/09-attention-dependent-monetary-transmission-to-household-beliefs.pdf",
+      "published": "2026-07-14",
+      "summary": "Federal Reserve Bank of Atlanta Working Papers by Jaemin Jeong, Eunseong Ma and Choongryul Yang",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
       "id": "3a10e1df-2fda-812f-86b2-d09c16d12f25",
       "title": "Opportunity in the Oasis: Creating Jobs for the Next Generation in Rural Morocco",
       "url": "https://www.worldbank.org/en/news/feature/2026/07/14/opportunity-in-the-oasis-creating-jobs-for-the-next-generation-in-rural-morocco",
@@ -903,6 +947,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3a20e1df-2fda-8182-8528-ce509beb5559",
+      "title": "Recency Effects in Perceived Uncertainty",
+      "url": "https://www.frbsf.org/wp-content/uploads/wp2026-12.pdf",
+      "published": "2026-07-10",
+      "summary": "Federal Reserve Bank of San Francisco Working Papers by Miguel Acosta and Yeji Sung",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "39d0e1df-2fda-8113-8937-e8fbb5124d07",
