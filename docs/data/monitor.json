@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T16:27:31.350169+00:00",
-  "total_items": 1229,
+  "generated_at": "2026-07-20T22:06:41.727888+00:00",
+  "total_items": 1230,
   "items": [
     {
       "id": "3a30e1df-2fda-8152-810f-d1f4b64620fa",
@@ -13179,6 +13179,17 @@
       "country": "Global",
       "type": "Central Bank Research Hub",
       "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3a30e1df-2fda-81b2-9a83-f7029a94718a",
+      "title": "Stanley Fischer Memorial Lecture : Public Debt and Central Banks — The World Bank Group ABCDE Conference",
+      "url": "http://documents.worldbank.org/curated/undefined/099544107202680155/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3a30e1df-2fda-81d2-9dba-ce5a6a552f24",
