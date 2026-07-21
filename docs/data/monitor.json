@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-07-20T22:06:41.727888+00:00",
-  "total_items": 1230,
+  "generated_at": "2026-07-21T16:26:47.729528+00:00",
+  "total_items": 1239,
   "items": [
+    {
+      "id": "3a40e1df-2fda-810a-bc81-d6022fef5a05",
+      "title": "SBS advierte sobre entidades que captan dinero del público sin autorización y aplicativos informales que ofrecen préstamos de dinero",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3960",
+      "published": "2026-07-21",
+      "summary": "Empresas se promueven utilizando términos como ‘financiera’ o ‘cooperativa de ahorro y crédito’, con el propósito de hacer creer que se encuentran aut",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3a40e1df-2fda-8141-9fa0-d8e5f8dffbe2",
+      "title": "Encuesta Mensual sobre Empresas Comerciales (EMEC). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10998",
+      "published": "2026-07-21",
+      "summary": "Aumentaron 2.6% los ingresos por suministro de bienes y servicios del comercio al por mayor y disminuyeron 0.6% los del comercio al por menor, en mayo de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3a40e1df-2fda-8172-beef-c5c65c7b4069",
+      "title": "Encuesta Mensual de Servicios (EMS). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10997",
+      "published": "2026-07-21",
+      "summary": "Aumentaron 0.1% los ingresos por suministro de bienes y servicios de los servicios privados no financieros en mayo de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3a40e1df-2fda-81c6-92da-da09f47e6ab8",
+      "title": "Indicador Oportuno de la Actividad Económica",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10996",
+      "published": "2026-07-21",
+      "summary": "El IOAE anticipa un aumento anual de 1.7% y mensual de 0.2% del IGAE, para junio de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3a40e1df-2fda-815e-8ca0-f4e84ec4e1e2",
+      "title": "The euro area bank lending survey - Second quarter of 2026",
+      "url": "https://www.ecb.europa.eu//stats/ecb_surveys/bank_lending_survey/html/ecb.blssurvey2026q2~baa6b60429.en.html",
+      "published": "2026-07-21",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3a40e1df-2fda-81e3-9202-dc5ca36f70f3",
+      "title": "July 2026 euro area bank lending survey",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html",
+      "published": "2026-07-21",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3a40e1df-2fda-8123-9c52-cb797270c223",
+      "title": "ECB appoints Boris Kisselevsky as Director General Secretariat",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721_1~8c6ba4c5fb.en.html",
+      "published": "2026-07-21",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3a40e1df-2fda-816e-bb42-cbe4a8fcd4c6",
+      "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
+      "url": "https://www.bis.org/publ/work1370.htm",
+      "published": "2026-07-21",
+      "summary": "by Boris Hofmann, Aaron Mehrotra, Jan Paulick The emergence of stablecoins has created a new channel to access US dollar liquidity in emerging market and developing economies (EMDEs), similar to the historical role of foreign currency deposits, or \"deposit dollarisation\". This has raised concerns about the possible implications for monetary control in EMDEs. Drawing on data on foreign currency deposits and dollar-pegged stablecoin inflows for more than 130 economies, we compare the dynamics and drivers of \"stablecoin dollarisation\" with those of conventional deposit dollarisation.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3a40e1df-2fda-8147-9a51-e7380a7ec1d3",
+      "title": "Water, Hope, and New Beginnings: Women Rebuilding Lives in Niger's Tillabéri Region",
+      "url": "https://www.worldbank.org/en/news/feature/2026/07/20/water-hope-and-new-beginnings-women-rebuilding-lives-in-niger-s-tillaberi-region",
+      "published": "2026-07-20",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3a30e1df-2fda-8152-810f-d1f4b64620fa",
       "title": "SBS somete a consulta pública adelanto de lineamientos para implementar el Sistema de Finanzas Abiertas en el Perú",
