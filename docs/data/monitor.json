@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-07-22T16:23:46.717776+00:00",
-  "total_items": 1257,
+  "generated_at": "2026-07-22T22:10:30.063919+00:00",
+  "total_items": 1259,
   "items": [
+    {
+      "id": "3a50e1df-2fda-8179-b7aa-c9ac3798ead5",
+      "title": "SBS propone que empresas supervisadas implementen nuevos mecanismos de comercialización de productos y/o servicios",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3962",
+      "published": "2026-07-22",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3a50e1df-2fda-818e-863d-dd0412260559",
+      "title": "In the World’s Youngest Nation, How Do You Prove You Exist?",
+      "url": "https://www.worldbank.org/en/news/feature/2026/07/22/in-the-worlds-youngest-nation-how-do-you-prove-you-exist",
+      "published": "2026-07-22",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3a50e1df-2fda-812d-8cdd-e7bccc5ea9ba",
       "title": "SBS propone procedimiento para que afiliados al SPP migren de la comisión por remuneración a la comisión por saldo",
