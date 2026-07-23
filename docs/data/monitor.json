@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T16:34:04.845250+00:00",
-  "total_items": 1273,
+  "generated_at": "2026-07-23T22:10:55.522964+00:00",
+  "total_items": 1275,
   "items": [
     {
       "id": "3a60e1df-2fda-81a5-a590-f5512af63804",
@@ -13641,6 +13641,28 @@
       "country": "Global",
       "type": "Central Bank Research Hub",
       "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3a60e1df-2fda-81cd-a8f8-d3f69c7a201d",
+      "title": "The Long-Run Impacts of Protected Areas on Income, Birds, and Tourism in South Africa",
+      "url": "http://documents.worldbank.org/curated/undefined/099718007232614921/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
+    {
+      "id": "3a60e1df-2fda-8168-8b8c-d80f9cfe3f13",
+      "title": "Labor Market Effects of Public Employment Guarantee",
+      "url": "http://documents.worldbank.org/curated/undefined/099836207232635550/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3a60e1df-2fda-81ba-8b94-ca4bb90e38c4",
