@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-07-22T22:10:30.063919+00:00",
-  "total_items": 1259,
+  "generated_at": "2026-07-23T16:34:04.845250+00:00",
+  "total_items": 1273,
   "items": [
+    {
+      "id": "3a60e1df-2fda-81a5-a590-f5512af63804",
+      "title": "Índice Nacional de Precios al Consumidor (INPC). Base 2ª Quincena Julio 2018. Actualización de Canasta y Ponderadores 2024",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11003",
+      "published": "2026-07-23",
+      "summary": "La inflación anual fue de 3.10% en la primera quincena de julio de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3a60e1df-2fda-8108-8b1b-e636d3a5ad35",
+      "title": "Indicador Global de la Actividad Económica (IGAE). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11002",
+      "published": "2026-07-23",
+      "summary": "Disminuyó 0.3% el IGAE a tasa mensual y aumentó 2.0% a tasa anual, en mayo de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3a60e1df-2fda-81e9-bbf5-d4f59bfd053a",
+      "title": "Indicador Mensual Oportuno de la Actividad Manufacturera (IMOAM)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11001",
+      "published": "2026-07-23",
+      "summary": "En junio de 2026, el IMOAM estima una disminución de la actividad manufacturera de 0.8% respecto a junio de 2025",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3a60e1df-2fda-8175-b5c5-db478862e480",
+      "title": "Report of the Design Contest Jury on the winning design proposals for future euro banknotes",
+      "url": "https://www.ecb.europa.eu//press/pubbydate/2026/html/ecb.desreportbanknotes202607.en.html",
+      "published": "2026-07-23",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3a60e1df-2fda-819d-8767-d38ef1eefacb",
+      "title": "Monetary policy decisions",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
+      "published": "2026-07-23",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3a60e1df-2fda-811e-aba3-f41293adad4d",
+      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260723~b6fadd48f4.en.html",
+      "published": "2026-07-23",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3a60e1df-2fda-812c-a0f2-f1e2822d813c",
+      "title": "ECB reveals shortlisted designs for new banknotes and launches public survey",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260723~c2d43f9170.en.html",
+      "published": "2026-07-23",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3a60e1df-2fda-8136-96ce-c0cca6e21b6f",
+      "title": "Consultation paper on Guidelines on investment of available financial means",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/d60e0fc5-805d-4e76-9821-2c14b51ea155/Consultation%20paper%20on%20Guidelines%20on%20investment%20of%20available%20financial%20means.pdf",
+      "published": "2026-07-23",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3a60e1df-2fda-813f-a455-e474edf2309a",
+      "title": "Consultation Paper on ITS on depositor information",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/b81e293d-fb94-4715-b393-c81662999b35/Consultation%20Paper%20on%20ITS%20on%20depositor%20information.pdf",
+      "published": "2026-07-23",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3a60e1df-2fda-8134-b62b-d0cf358e7393",
+      "title": "Consultation Paper on ITS on information exchange",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/c7de6689-b8cf-4377-b801-e50028404482/Consultation%20Paper%20on%20ITS%20on%20information%20exchange.pdf",
+      "published": "2026-07-23",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3a60e1df-2fda-8183-beb3-c7b048cad419",
+      "title": "Consultation Paper on RTS on DGS payouts of client funds deposits",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/f3a7bf66-d0ac-4c87-88f1-6e3de76ba5a5/Consultation%20Paper%20on%20RTS%20on%20client%20funds.pdf",
+      "published": "2026-07-23",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3a60e1df-2fda-81eb-8693-e7d32327973a",
+      "title": "The EBA consults on rules to further improve depositor protection under the revised Deposit Guarantee Schemes Directive",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-rules-further-improve-depositor-protection-under-revised-deposit-guarantee-schemes",
+      "published": "2026-07-23",
+      "summary": "The European Banking Authority (EBA) today launched four public consultations on proposed rules to further strengthen depositor protection, preserve financial stability, and further harmonise depositor protection standards across the EU under the revised Deposit Guarantee Schemes Directive (DGSD3). The EBA seeks stakeholders’ feedback on Implementing Technical Standards (ITS) on depositor information, ITS on information exchange between credit institutions, Deposit Guarantee Schemes (DGSs) and other relevant authorities, Regulatory Technical Standards (RTS) on the treatment of client funds protection standards across the EU, and Guidelines (GL) on how DGSs should invest funds collected from the industry. The four consultations run until 23 October 2026.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3a60e1df-2fda-813a-bd89-f483a9eb39b0",
+      "title": "Inference Based on Scale, Label, and Economic Restrictions",
+      "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2026/wp26-36.pdf",
+      "published": "2026-07-22",
+      "summary": "Federal Reserve Bank of Philadelphia Working Papers by Jonas E. Arias, Juan F. Rubio-Ramirez and Daniel F. Waggoner",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
     {
       "id": "3a50e1df-2fda-8179-b7aa-c9ac3798ead5",
       "title": "SBS propone que empresas supervisadas implementen nuevos mecanismos de comercialización de productos y/o servicios",
@@ -13498,6 +13641,17 @@
       "country": "Global",
       "type": "Central Bank Research Hub",
       "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3a60e1df-2fda-81ba-8b94-ca4bb90e38c4",
+      "title": "Consequences of Growing Up Displaced : Evidence from Displaced Children in Colombia",
+      "url": "http://documents.worldbank.org/curated/undefined/099444007232618273/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3a30e1df-2fda-81b2-9a83-f7029a94718a",
