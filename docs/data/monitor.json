@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-07-24T12:54:40.200205+00:00",
-  "total_items": 335,
+  "generated_at": "2026-07-24T16:46:35.510092+00:00",
+  "total_items": 343,
   "items": [
+    {
+      "id": "3a70e1df-2fda-814b-93b0-c533458aa107",
+      "title": "SBS modifica su Reglamento de Infracciones y Sanciones",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3963",
+      "published": "2026-07-24",
+      "summary": "Esta modificación permitirá que la institución cuente con mecanismos efectivos para ejercer su potestad sancionadora y así proteger a los usuarios de",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3a70e1df-2fda-8170-bdf1-eed0331dbd59",
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html",
+      "published": "2026-07-24",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3a70e1df-2fda-81c2-be50-c45db0dab6d0",
+      "title": "Philip R. Lane: Outlook for the euro area economy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf",
+      "published": "2026-07-24",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3a70e1df-2fda-8176-aba7-fea4a5245b6c",
+      "title": "IFC Celebrates First Tanzanian Shilling Bond Issuance at London Stock Exchange",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/07/24/ifc-celebrates-first-tanzanian-shilling-bond-issuance-at-london-stock-exchange",
+      "published": "2026-07-24",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3a70e1df-2fda-81d4-935b-d8e036800520",
       "title": "Encuesta Nacional de Empresas Constructoras (ENEC). Serie 2018",
@@ -322,6 +366,39 @@
       "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
     },
     {
+      "id": "3a70e1df-2fda-81da-afa3-e9819dee367c",
+      "title": "Corridor to Trade, Jobs, and Services",
+      "url": "https://www.worldbank.org/en/news/feature/2026/07/23/corridor-to-trade-jobs-and-services",
+      "published": "2026-07-23",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3a70e1df-2fda-814e-9a60-e871434776d6",
+      "title": "Jobs at the Center",
+      "url": "https://www.worldbank.org/en/news/feature/2026/07/23/jobs-at-the-center-operationalizing-the-wbg-job-creation-agenda",
+      "published": "2026-07-23",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3a70e1df-2fda-816e-aff7-d398a5cef137",
+      "title": "World Bank Group Estimates Venezuela Earthquakes Damage at $19.6 Billion",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/07/23/world-bank-group-estimates-venezuela-earthquakes-damage",
+      "published": "2026-07-23",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
       "id": "3a60e1df-2fda-81a5-a590-f5512af63804",
       "title": "Índice Nacional de Precios al Consumidor (INPC). Base 2ª Quincena Julio 2018. Actualización de Canasta y Ponderadores 2024",
       "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11003",
@@ -452,6 +529,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3a70e1df-2fda-819f-8479-ccf4505f93a4",
+      "title": "Powering Bangladesh’s Future with Renewable Energy",
+      "url": "https://www.worldbank.org/en/news/feature/2026/07/22/powering-bangladesh-s-future-with-renewable-energy",
+      "published": "2026-07-22",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3a60e1df-2fda-813a-bd89-f483a9eb39b0",
