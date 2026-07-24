@@ -28,6 +28,13 @@ settings:
   # de capturarlos. Sube o baja este número según necesites.
   max_age_days: 20
 
+  # Ventana (en días) que se PUBLICA en docs/data/monitor.json y, por lo
+  # tanto, lo que ve el dashboard web. Notion conserva el histórico
+  # completo como archivo; aquí solo recortamos lo que se muestra para no
+  # arrastrar meses de comunicados viejos. Items sin fecha se conservan.
+  # Ajusta este número para probar distintas ventanas (10, 20, 30...).
+  display_window_days: 20
+
 feeds:
 
   # ═══════════════════════════ GLOBAL ═══════════════════════════

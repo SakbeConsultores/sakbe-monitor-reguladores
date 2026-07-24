@@ -121,6 +121,9 @@ def main():
     feeds = config.get("feeds", [])
     settings = config.get("settings", {})
     max_age_days = settings.get("max_age_days", 20)
+    # Ventana que se publica en el JSON del dashboard (independiente del
+    # filtro de inserción a Notion). Notion guarda todo el histórico.
+    display_window_days = settings.get("display_window_days", 20)
 
     log.info(
         "Procesando %d feeds. Filtro de antigüedad: %d días.",
@@ -189,17 +192,33 @@ def main():
     log.info("Generando export JSON para el artifact...")
     all_items = notion.get_all_items()
 
+    # Recortamos a la ventana de días que queremos mostrar en el dashboard.
+    # Notion conserva el histórico completo; aquí solo publicamos lo
+    # reciente para no arrastrar meses de comunicados viejos.
+    # Reusamos is_too_old: se conserva el item si NO es más viejo que la
+    # ventana. Items sin fecha se conservan (misma lógica que la ingesta).
+    total_before = len(all_items)
+    display_items = [
+        i for i in all_items
+        if not is_too_old(i.get("published", ""), display_window_days)
+    ]
+
     # Ordenamos por fecha de publicación descendente. Items sin fecha
     # se van al final.
-    all_items.sort(
+    display_items.sort(
         key=lambda i: i.get("published") or "",
         reverse=True,
     )
 
+    log.info(
+        "Ventana de publicación: %d días. %d de %d items pasan al JSON.",
+        display_window_days, len(display_items), total_before,
+    )
+
     export = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
-        "total_items": len(all_items),
-        "items": all_items,
+        "total_items": len(display_items),
+        "items": display_items,
     }
 
     docs_dir = SRC_DIR.parent / "docs" / "data"
@@ -208,7 +227,7 @@ def main():
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(export, f, ensure_ascii=False, indent=2)
 
-    log.info("Export JSON guardado: %s (%d items)", json_path, len(all_items))
+    log.info("Export JSON guardado: %s (%d items)", json_path, len(display_items))
 
 
 if __name__ == "__main__":
