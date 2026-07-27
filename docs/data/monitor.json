@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-27T17:01:46.055132+00:00",
-  "total_items": 319,
+  "generated_at": "2026-07-27T22:14:05.353246+00:00",
+  "total_items": 320,
   "items": [
+    {
+      "id": "3aa0e1df-2fda-81ac-980e-cc74e0589b6f",
+      "title": "Comptroller Gould Highlights OCC’s Financial Literacy Efforts at Financial Literacy and Education Commission Meeting",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-61.html",
+      "published": "2026-07-27",
+      "summary": "WASHINGTON - Comptroller of the Currency Jonathan V. Gould today highlighted the OCC's efforts to expand financial literacy, support responsible innovation, and provide consumers with practical educational resources in remarks at the Financial Literacy and Education Commission meeting.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
     {
       "id": "3aa0e1df-2fda-81e4-a1a6-f2ecb84e440e",
       "title": "Balanza Comercial de Mercancías de México",
