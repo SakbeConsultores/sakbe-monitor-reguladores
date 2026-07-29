@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-07-29T16:26:01.839939+00:00",
-  "total_items": 300,
+  "generated_at": "2026-07-29T22:06:52.287480+00:00",
+  "total_items": 305,
   "items": [
+    {
+      "id": "3ac0e1df-2fda-81ff-966c-d4c377b8442f",
+      "title": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+      "published": "2026-07-29",
+      "summary": "Federal Reserve issues FOMC statement",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3ac0e1df-2fda-81c1-b689-ced8b1e4ce80",
+      "title": "Building South Sudan’s Homegrown Seed Industry is Creating Local Opportunities",
+      "url": "https://www.worldbank.org/en/news/feature/2026/07/29/building-south-sudans-homegrown-seed-industry-is-creating-local-opportunities",
+      "published": "2026-07-29",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3ac0e1df-2fda-8101-addb-c7680765d0c2",
       "title": "Indicador Trimestral de la Actividad Económica Estatal (ITAEE). Año base 2018",
@@ -441,6 +463,39 @@
       "country": "EU",
       "type": "Publications",
       "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3ac0e1df-2fda-814b-90cd-e05736132ba3",
+      "title": "Turning Climate Risk into Resilient Growth: Why Institutions Matter for Malaysia’s Future",
+      "url": "https://www.worldbank.org/en/news/feature/2026/07/28/turning-climate-risk-into-resilient-growth-why-institutions-matter-for-malaysia-s-",
+      "published": "2026-07-28",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3ac0e1df-2fda-8158-a704-c3b4b0e17261",
+      "title": "Development Partners Power Timor-Leste’s Energy Future with Landmark Investment in Solar And Battery Storage",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/07/28/development-partners-power-timor-leste-s-energy-future-with-landmark-investment",
+      "published": "2026-07-28",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3ac0e1df-2fda-815f-8e94-e2be985be39f",
+      "title": "World Bank Group Supports Reforms to Promote Investment and Jobs in Ecuador",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/07/28/world-bank-group-supports-reforms-to-promote-investment-and-jobs-in-ecuador",
+      "published": "2026-07-28",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3ab0e1df-2fda-8121-be08-fa1f23058b80",
