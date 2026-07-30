@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-30T16:31:20.425800+00:00",
-  "total_items": 305,
+  "generated_at": "2026-07-30T22:12:20.960321+00:00",
+  "total_items": 306,
   "items": [
+    {
+      "id": "3ad0e1df-2fda-81c2-80e6-cc6dc1d30906",
+      "title": "OCC Releases CRA Performance Evaluations for 14 National Banks and Federal Savings Associations",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-63.html",
+      "published": "2026-07-30",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today released a list of Community Reinvestment Act (CRA) performance evaluations that became public during the period of July 1, 2026, through July 30, 2026.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
     {
       "id": "3ad0e1df-2fda-81f3-a222-c71ccbf723c1",
       "title": "SFC lanza el micrositio del MURIC que centraliza la información técnica y facilita la transmisión de datos de cartera de crédito",
