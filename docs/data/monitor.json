@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-07-31T16:49:45.402519+00:00",
-  "total_items": 321,
+  "generated_at": "2026-07-31T22:11:59.094388+00:00",
+  "total_items": 329,
   "items": [
+    {
+      "id": "3ae0e1df-2fda-81d9-ba3d-e1d2d48ba5f3",
+      "title": "Community Reinvestment Act: Interagency Notice of Proposed Rulemaking",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-35.html",
+      "published": "2026-07-31",
+      "summary": "The OCC and FDIC are proposing to amend their Community Reinvestment Act (CRA) rules by making certain substantive, technical, and process-oriented changes to refocus on the statutory objective of encouraging banks to meet the credit needs of their communities; to better ensure that community development grants reach the communities they are intended to benefit; to reduce unnecessary burden, particularly for community banks; and to provide greater clarity for how to obtain CRA consideration.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "3ae0e1df-2fda-81b1-af27-d47750c5d761",
+      "title": "Notification: Statement of Enforcement Policy in Support of Venezuela’s Economic Recovery and Earthquake Relief Efforts",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-36.html",
+      "published": "2026-07-31",
+      "summary": "On July 31, 2026, staffs of the Office of the Comptroller of the Currency (OCC), the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and the National Credit Union Administration (collectively, the agencies), issued a statement of enforcement policy in support of U.S. government efforts to facilitate humanitarian relief and promote financial stability following the recent earthquakes in Venezuela.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "3ae0e1df-2fda-81ac-ab90-d5f5b3c9b871",
+      "title": "Agencies Issue Joint Proposal Amending the Community Reinvestment Act Rules",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-64.html",
+      "published": "2026-07-31",
+      "summary": "The Office of the Comptroller of the Currency and the Federal Deposit Insurance Corporation (the agencies) today proposed targeted changes to their current rules implementing the Community Reinvestment Act (CRA) to better align with the statutory mandate; better ensure that community development grants reach the communities they are intended to benefit; reduce burden for banks, particularly for community banks; and provide greater clarity for how to obtain CRA consideration. The CRA requires the agencies to assess a bank's record of meeting the credit needs of its entire community, including low- and moderate-income neighborhoods, consistent with safe and sound operations.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "3ae0e1df-2fda-81a9-af70-ff51625488b3",
+      "title": "FEDS Paper: Measuring Macroeconomic Stars: A Framework with Scarring Effects",
+      "url": "https://www.federalreserve.gov/econres/feds/measuring-macroeconomic-atars-a-framework-with-scarring-effects.htm",
+      "published": "2026-07-31",
+      "summary": "Manuel Gonzalez-Astudillo , Jean-Philippe Laforte , Antoine Lepetit Potential output and the natural rate of unemployment are commonly estimated through trend-cycle decompositions, where they are identified as underlying trends reflecting slow-moving supply factors. In this paper, we extend this framework to accommodate the possibility that cyclical disturbances affect trends endogenously through \"scarring\" effects. Two major changes occur relative to standard specifications. First, a significant share of business-cycle fluctuations is absorbed by endogenous movements in the trends rather than shifts in the cycle. Second, the estimated cycle--relieved of explaining the persistence in real variables--tracks inflation developments more closely, including through a steeper Phillips curve. While this steeper slope implies a strong co-movement between inflation and real activity in response to cyclical shocks, such strong co-movement is rarely apparent in the data. Consequently, the estimation shows a shift toward more sizable changes in the purely supply-driven components of the trends, mirrored by smaller innovations in the cycle process. In turn, this rebalancing entails different historical paths for the activity gaps, carrying important implications for the conduct of monetary policy.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3ae0e1df-2fda-81b1-8ace-ddab0d090e50",
+      "title": "New World Bank Group Report Says Higher-Productivity Jobs Key to Reducing Poverty in Armenia",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/07/31/new-world-bank-group-report-says-higher-productivity-jobs-key-to-reducing-poverty-",
+      "published": "2026-07-31",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3ae0e1df-2fda-81c4-a39f-e5665dc3ad94",
+      "title": "World Bank Appoints Lisa Finneran as Vice President for Partnerships, Innovation and Mobilization",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/07/31/world-bank-appoints-lisa-finneran-as-vice-president-for-partnerships-innovation-an",
+      "published": "2026-07-31",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3ae0e1df-2fda-8165-9732-fece58c7e1b2",
+      "title": "World Bank Group Backs Fiscal Reform and Sustainable Urban Growth to Expand Opportunities in Fortaleza, Brazil",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/07/31/brazil-world-bank-group-backs-fiscal-reform-sustainable-urban-growth-fortaleza",
+      "published": "2026-07-31",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3ae0e1df-2fda-81c1-94b8-db5b641df8b0",
       "title": "Estadísticas de Salud en Establecimientos Particulares",
@@ -166,6 +243,17 @@
       "country": "Global",
       "type": "Statistical Releases",
       "feed_url": "https://www.bis.org/doclist/all_statistics.rss"
+    },
+    {
+      "id": "3ae0e1df-2fda-812e-baab-cdeb1b33a9d0",
+      "title": "In Kosovo, Childcare Vouchers Help Kids Learn and Mothers Work",
+      "url": "https://www.worldbank.org/en/news/feature/2026/07/30/in-kosovo-childcare-vouchers-help-kids-learn-and-mothers-work",
+      "published": "2026-07-30",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3ad0e1df-2fda-81c2-80e6-cc6dc1d30906",
