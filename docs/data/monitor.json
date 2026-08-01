@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-01T16:04:43.133696+00:00",
-  "total_items": 329,
+  "generated_at": "2026-08-01T22:02:46.105782+00:00",
+  "total_items": 330,
   "items": [
+    {
+      "id": "3af0e1df-2fda-819d-9335-c8aef694c908",
+      "title": "World Bank Group Support to Help Philippines Expand Resilient Water and Sanitation Services for Water Security and Jobs",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/07/31/wbg-support-to-help-philippines-expand-resilient-water-and-sanitation-services",
+      "published": "2026-07-31",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3ae0e1df-2fda-81d9-ba3d-e1d2d48ba5f3",
       "title": "Community Reinvestment Act: Interagency Notice of Proposed Rulemaking",
