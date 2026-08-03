@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-03T17:12:39.511869+00:00",
-  "total_items": 314,
+  "generated_at": "2026-08-03T22:14:17.745847+00:00",
+  "total_items": 315,
   "items": [
+    {
+      "id": "3b10e1df-2fda-8198-a298-fb9ea6c3b041",
+      "title": "¿Vas a la Feria del Libro? Así puedes disfrutarla sin salirte de tu presupuesto",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3965",
+      "published": "2026-08-03",
+      "summary": "La SBS comparte cinco recomendaciones para planificar los gastos de tu visita a la FIL Lima y aprovechar las ofertas sin comprometer el presupuesto de",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
     {
       "id": "3b10e1df-2fda-813e-bf75-f1a73ae6228e",
       "title": "Cinco lecciones financieras que nos enseñan los cuentos de Torito",
