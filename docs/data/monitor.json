@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-04T16:55:31.163654+00:00",
-  "total_items": 317,
+  "generated_at": "2026-08-04T22:19:26.317887+00:00",
+  "total_items": 321,
   "items": [
+    {
+      "id": "3b20e1df-2fda-81d6-a91a-fbadc0384329",
+      "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
+      "published": "2026-08-04",
+      "summary": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3b20e1df-2fda-81bf-8f02-de7e59c15ed7",
+      "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
+      "published": "2026-08-04",
+      "summary": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3b20e1df-2fda-819b-a575-e066caa7f4a3",
+      "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
+      "published": "2026-08-04",
+      "summary": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
     {
       "id": "3b20e1df-2fda-817c-a353-d2ee883d6d0c",
       "title": "Últimos días para postular al Programa de Extensión de la SBS e impulsar tu desarrollo profesional",
@@ -3081,6 +3114,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3b20e1df-2fda-819f-ba51-c85939aedc9d",
+      "title": "How Public Financial Management Shapes Education and Health Outcomes : A Configurational Perspective",
+      "url": "http://documents.worldbank.org/curated/undefined/099742208042637761/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3ad0e1df-2fda-8161-9cf5-ca45ff207570",
