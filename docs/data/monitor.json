@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-07T15:59:51.882728+00:00",
-  "total_items": 315,
+  "generated_at": "2026-08-07T21:45:32.847813+00:00",
+  "total_items": 316,
   "items": [
+    {
+      "id": "3b50e1df-2fda-81a7-8a3d-d1639b74f80f",
+      "title": "SBS publica proyecto de lineamientos de buen gobierno corporativo para las CMAC",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3969",
+      "published": "2026-08-07",
+      "summary": "Iniciativa busca fortalecer la profesionalización, transparencia e independencia de los directorios de estas entidades, promoviendo una gestión más só",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
     {
       "id": "3b50e1df-2fda-8153-b3a7-c9593024b720",
       "title": "Índice Nacional de Precios Productor (INPP). Año base julio 2019. Actualización 2025",
