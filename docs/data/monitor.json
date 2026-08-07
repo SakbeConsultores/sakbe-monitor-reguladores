@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-08-07T01:04:05.489078+00:00",
-  "total_items": 307,
+  "generated_at": "2026-08-07T15:59:51.882728+00:00",
+  "total_items": 315,
   "items": [
+    {
+      "id": "3b50e1df-2fda-8153-b3a7-c9593024b720",
+      "title": "Índice Nacional de Precios Productor (INPP). Año base julio 2019. Actualización 2025",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11055",
+      "published": "2026-08-07",
+      "summary": "Aumentó 2.56% el INPP total en julio de 2026, a tasa anual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3b50e1df-2fda-819a-8c28-fe044c4060c4",
+      "title": "Índice Nacional de Precios al Consumidor (INPC). Base 2ª Quincena Julio 2018. Actualización de Canasta y Ponderadores 2024",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11056",
+      "published": "2026-08-07",
+      "summary": "La inflación anual fue de 3.12% en julio de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3b50e1df-2fda-81c2-a1a2-d6fed75febe5",
+      "title": "Estadísticas de Defunciones Registradas (EDR)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11054",
+      "published": "2026-08-07",
+      "summary": "En 2025 se registraron, de manera preliminar, 762 494 defunciones",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3b50e1df-2fda-8125-9f64-f81e377d5f4e",
+      "title": "Registro administrativo de la industria automotriz de vehículos ligeros",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11057",
+      "published": "2026-08-07",
+      "summary": "Se produjeron 302 673 vehículos ligeros en México y se exportaron 261 534, en julio de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3b50e1df-2fda-81ac-a1c5-c29756e25039",
+      "title": "Letter from the ECB President to Mr Gerald Hauser, MEP, on digital euro",
+      "url": "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter260807_Hauser~184853fae9.en.pdf",
+      "published": "2026-08-07",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3b50e1df-2fda-81e4-ba0c-cd1702e8337f",
+      "title": "ECB publishes consolidated banking data for end-March 2026",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html",
+      "published": "2026-08-07",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3b50e1df-2fda-8118-bf94-cc28c8c9987d",
+      "title": "Syria: World Bank Approves US$100 Million Grant for Financial Sector Modernization",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/08/07/syria-world-bank-approves-us-100-million-grant-for-financial-sector-modernization",
+      "published": "2026-08-07",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3b50e1df-2fda-81d8-896b-d1e722253712",
+      "title": "Powering Progress: Expanding Electricity Access in Uganda",
+      "url": "https://www.worldbank.org/en/news/feature/2026/08/06/powering-progress-expanding-electricity-access-in-uganda",
+      "published": "2026-08-06",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3b50e1df-2fda-817b-bf4e-d36bcd9b6acb",
       "title": "Secretary of the Treasury Scott Bessent, Comptroller of the Currency Jonathan Gould Highlight Community Bank Comeback at Arizona Bankers Association Roundtable",
