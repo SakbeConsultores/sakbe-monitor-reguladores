@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T21:45:32.847813+00:00",
-  "total_items": 316,
+  "generated_at": "2026-08-08T15:33:58.657028+00:00",
+  "total_items": 317,
   "items": [
     {
       "id": "3b50e1df-2fda-81a7-8a3d-d1639b74f80f",
@@ -89,6 +89,17 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3b60e1df-2fda-81a5-a846-c2ab7d8f89b7",
+      "title": "EBA ESG risk dashboard shows stable climate risk exposures and continued improvements in data quality",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-esg-risk-dashboard-shows-stable-climate-risk-exposures-and-continued-improvements-data-quality",
+      "published": "2026-08-06",
+      "summary": "The European Banking Authority (EBA) today published its latest Environmental, Social and Governance (ESG) risk dashboard, showing continued stability in banks’ transition and physical climate risk indicators across the EU/EEA in second half of 2025. The results also indicate gradual improvements in the availability and quality of climate-related data, particularly for energy efficiency assessments of mortgage portfolios, supporting more robust climate risk monitoring in the banking sector.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
     },
     {
       "id": "3b50e1df-2fda-81d8-896b-d1e722253712",
