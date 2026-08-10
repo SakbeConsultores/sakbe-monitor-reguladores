@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-08-09T21:39:29.867924+00:00",
-  "total_items": 298,
+  "generated_at": "2026-08-10T16:03:09.672146+00:00",
+  "total_items": 302,
   "items": [
+    {
+      "id": "3b80e1df-2fda-811e-870b-e38288e603e0",
+      "title": "Indicador Mensual de la Actividad Industrial por Entidad Federativa (IMAIEF). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11058",
+      "published": "2026-08-10",
+      "summary": "Aumentó la actividad industrial a tasa mensual en Oaxaca (11.8 %), Ciudad de México (9.4 %) y Quintana Roo (7.1 %), en abril de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3b80e1df-2fda-816b-b84e-e938f98bd120",
+      "title": "Prohibition of monetary financing: an economic perspective",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op397.en.pdf",
+      "published": "2026-08-10",
+      "summary": "This paper analyses the European prohibition of monetary financing from an economic perspective. The prohibition seeks to safeguard central bank independence in setting monetary policy to maintain price stability, and to preserve fiscal discipline, thereby preventing monetary policy from becoming constrained or hindered by fiscal policies. Imposing a prohibition on financing public deficits helps to ensure a clear separation of responsibilities between monetary policy and fiscal policy and is consistent with a range of macroeconomic theories, including monetarism and the fiscal theory of the price level. The current EU-wide ban is more stringent than those in place in Europe before the start of Economic and Monetary Union and also than those prevailing in other major currency areas of the world. Tasked with monitoring compliance with the prohibition among European national central banks, the European Central Bank (ECB) has developed certain standards over time, informed by definitions contained in EU regulations and by cases that have arisen over the years. Over the three decades since its introduction, the prohibition in general has been well respected, although a few actual or potential conflicts with the prohibition have required national central banks to take corrective action. Recent economic crises in Europe have given rise to academic proposals to reinterpret or circumvent the ban, notably during the COVID-19 pandemic. These suggestions have included central banks handing out “helicopter money” to the public and cancelling part of the government debt held by European central banks. In general, these proposals would seem to jeopardise the prohibition of monetary financing and ultimately weaken price stability and sound public finances.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3b80e1df-2fda-81de-bfd1-d02d79fd3e5a",
+      "title": "Monetary policy and the rigidity of firm employment expectations",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3272~c97e29895d.en.pdf",
+      "published": "2026-08-10",
+      "summary": "This paper examines how monetary policy announcements affect firms’ employment expectations. Using German survey data, we combine high-frequency monetary policy surprises with survey response dates to identify the immediate and dynamic effects of monetary policy on firm-level expectations and subsequent employment. Contractionary shocks lead firms to revise employment plans downward immediately and persistently, eventually reducing employment growth. Initially, hiring plans are reduced, while layoffs increase later. Production expectations adjust twice as often but revert faster, consistent with greater labour market rigidity. Labour market institutions shape these responses: firms subject to the minimum wage or with lower collective bargaining coverage revise employment expectations more strongly. Financially constrained firms exhibit disproportionately larger downward revisions, indicating that the financial accelerator operates already at the expectation formation stage. Because firms adjust plans well before effects appear in aggregate data, employment expectations provide an early measure of monetary policy transmission to the labour market.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3b80e1df-2fda-8108-8cd2-c190b1e4ef27",
+      "title": "Vision for the Integrated Reporting System (10 August 2026)",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-08/f2b02c01-74b3-4f9a-bdee-71f7102eec49/Vision%20for%20the%20Integrated%20Reporting%20System%20%2810%20August%202026%29.pdf",
+      "published": "2026-08-10",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3b80e1df-2fda-81f3-8eb9-da8fa15f6e99",
+      "title": "Honoring Indigenous Midwives: Recognizing Indigenous Women’s Role in Delivering Family and Community Healthcare Across the World",
+      "url": "https://www.worldbank.org/en/news/feature/2026/08/10/honoring-indigenous-midwives-in-family-and-community-care",
+      "published": "2026-08-10",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3b80e1df-2fda-81fd-b7e6-c1a10afdd31e",
+      "title": "More than One Million Papua New Guineans to See Improved Rural Services Through New World Bank Group Support",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/08/10/more-than-one-million-papua-new-guineans-to-see-improved-rural-services-through-ne",
+      "published": "2026-08-10",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3b80e1df-2fda-8166-8df5-ee4cfc74246a",
+      "title": "World Bank Group Financing to Strengthen Poultry and Aquaculture Value Chains in the Republic of Congo",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/08/07/wbg-financing-strengthen-poultry-aquaculture-value-chains-republic-congo",
+      "published": "2026-08-07",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3b50e1df-2fda-81a7-8a3d-d1639b74f80f",
       "title": "SBS publica proyecto de lineamientos de buen gobierno corporativo para las CMAC",
@@ -234,6 +311,17 @@
       "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
+      "id": "3b80e1df-2fda-8108-8b64-e4880e807d9e",
+      "title": "Spreading Out Across Expanding Idea Space",
+      "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2026/wp26-39.pdf",
+      "published": "2026-08-05",
+      "summary": "Federal Reserve Bank of Philadelphia Working Papers by Ina Ganguli, Jeffrey Lin, Vitaly Meursault and Nicholas Reynolds",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
       "id": "3b50e1df-2fda-8137-a906-f2b30373be34",
       "title": "World Bank Group Debars Entreprise Babati and Its Owner",
       "url": "https://www.worldbank.org/en/news/press-release/2026/08/05/world-bank-group-debars-entreprise-babati-and-its-owner",
@@ -388,6 +476,17 @@
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
+      "id": "3b80e1df-2fda-8182-8f39-f8e3e1121072",
+      "title": "ForeComp: An R Package for Comparing Predictive Accuracy Using Fixed-Smoothing Asymptotics",
+      "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2026/wp26-38.pdf",
+      "published": "2026-08-04",
+      "summary": "Federal Reserve Bank of Philadelphia Working Papers by Nathan Schor and Minchul Shin",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
       "id": "3b20e1df-2fda-81d6-a91a-fbadc0384329",
       "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
@@ -529,6 +628,17 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3b80e1df-2fda-81e9-ab27-d31881765f71",
+      "title": "How Do Sectoral Shocks Shape Future GDP?",
+      "url": "https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/working_papers/2026/wp26-11.pdf",
+      "published": "2026-08-03",
+      "summary": "Federal Reserve Bank of Richmond Working Papers by Paul Ho, Danial Lashkari and Pierre-Daniel G. Sarte",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3b20e1df-2fda-819d-9159-d5bf92ceee62",
@@ -826,6 +936,39 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3b80e1df-2fda-81ae-a06a-c56075e81e41",
+      "title": "Determinants and Forecasting of Colombia's Current Account",
+      "url": "https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/11407/be_1360.pdf",
+      "published": "2026-08-01",
+      "summary": "Central Bank of Colombia Working Papers by Aarón Levi Garavito-Acosta, Wilmer Martinez-Rivera, Camilo González-Sabogal, Johanna Barbosa-Buitrago and Nathaly Vergel-Serrano",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3b80e1df-2fda-8194-bf51-e5a127b52a0e",
+      "title": "Neuronal Network Equilibrium Real Exchange Rate",
+      "url": "https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/11409/be_1361.pdf",
+      "published": "2026-08-01",
+      "summary": "Central Bank of Colombia Working Papers by Marlon Salazar, Andrés Salazar-Mejía, Jorge Daniel Guevara-Acevedo and Juan David Duitama-Correa",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3b80e1df-2fda-818e-8d8f-ffb885fb198f",
+      "title": "Formal Labor Market Dynamics and Development",
+      "url": "https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/11412/be_1362.pdf",
+      "published": "2026-08-01",
+      "summary": "Central Bank of Colombia Working Papers by Anne Brockmeyer, Francois Gerard, Gabriel Ulyssea, Linda Wu, Marcelo Bergolo, Rodrigo Ceni González, Bernard Kirui, Andrea Lopez-Luzuriaga, Leonardo Fabio Morales, Andrea Sofía Otero-Cortés, Nadine Riedel, Matias Tapia, Tanisa Tawichsri and Verena Wiedemann",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3b20e1df-2fda-814d-9fad-e12dd500cc39",
@@ -2736,105 +2879,6 @@
       "url": "https://www.bis.org/publ/work1371.htm",
       "published": "2026-07-22",
       "summary": "by Emanuel Kohlscheen, Aaron Mehrotra We provide new evidence on the drivers of the pass-through of exchange rate movements into consumer prices across four decades and close to a hundred countries, combining econometrics and random forests. Random forests are particularly useful for modelling highly non-linear relationships, as well as for identifying the relative importance of the different theoretical factors that can affect the degree of pass-through.",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Research",
-      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "3a50e1df-2fda-813d-8244-d88bd7d7dda6",
-      "title": "Türkiye Pushes to Formalize and Insure Farm Labor",
-      "url": "https://www.worldbank.org/en/news/feature/2026/07/21/turkiye-pushes-to-formalize-and-insure-farm-labor",
-      "published": "2026-07-21",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3a40e1df-2fda-810a-bc81-d6022fef5a05",
-      "title": "SBS advierte sobre entidades que captan dinero del público sin autorización y aplicativos informales que ofrecen préstamos de dinero",
-      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3960",
-      "published": "2026-07-21",
-      "summary": "Empresas se promueven utilizando términos como ‘financiera’ o ‘cooperativa de ahorro y crédito’, con el propósito de hacer creer que se encuentran aut",
-      "regulator": "SBS Perú",
-      "country": "PE",
-      "type": "News",
-      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
-    },
-    {
-      "id": "3a40e1df-2fda-8141-9fa0-d8e5f8dffbe2",
-      "title": "Encuesta Mensual sobre Empresas Comerciales (EMEC). Serie 2018",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10998",
-      "published": "2026-07-21",
-      "summary": "Aumentaron 2.6% los ingresos por suministro de bienes y servicios del comercio al por mayor y disminuyeron 0.6% los del comercio al por menor, en mayo de 2026, a tasa mensual",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3a40e1df-2fda-8172-beef-c5c65c7b4069",
-      "title": "Encuesta Mensual de Servicios (EMS). Serie 2018",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10997",
-      "published": "2026-07-21",
-      "summary": "Aumentaron 0.1% los ingresos por suministro de bienes y servicios de los servicios privados no financieros en mayo de 2026, a tasa mensual",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3a40e1df-2fda-81c6-92da-da09f47e6ab8",
-      "title": "Indicador Oportuno de la Actividad Económica",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/10996",
-      "published": "2026-07-21",
-      "summary": "El IOAE anticipa un aumento anual de 1.7% y mensual de 0.2% del IGAE, para junio de 2026",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3a40e1df-2fda-815e-8ca0-f4e84ec4e1e2",
-      "title": "The euro area bank lending survey - Second quarter of 2026",
-      "url": "https://www.ecb.europa.eu//stats/ecb_surveys/bank_lending_survey/html/ecb.blssurvey2026q2~baa6b60429.en.html",
-      "published": "2026-07-21",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3a40e1df-2fda-81e3-9202-dc5ca36f70f3",
-      "title": "July 2026 euro area bank lending survey",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html",
-      "published": "2026-07-21",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "3a40e1df-2fda-8123-9c52-cb797270c223",
-      "title": "ECB appoints Boris Kisselevsky as Director General Secretariat",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721_1~8c6ba4c5fb.en.html",
-      "published": "2026-07-21",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "3a40e1df-2fda-816e-bb42-cbe4a8fcd4c6",
-      "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
-      "url": "https://www.bis.org/publ/work1370.htm",
-      "published": "2026-07-21",
-      "summary": "by Boris Hofmann, Aaron Mehrotra, Jan Paulick The emergence of stablecoins has created a new channel to access US dollar liquidity in emerging market and developing economies (EMDEs), similar to the historical role of foreign currency deposits, or \"deposit dollarisation\". This has raised concerns about the possible implications for monetary control in EMDEs. Drawing on data on foreign currency deposits and dollar-pegged stablecoin inflows for more than 130 economies, we compare the dynamics and drivers of \"stablecoin dollarisation\" with those of conventional deposit dollarisation.",
       "regulator": "BIS",
       "country": "Global",
       "type": "Research",
