@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T16:03:09.672146+00:00",
-  "total_items": 302,
+  "generated_at": "2026-08-10T21:49:24.104410+00:00",
+  "total_items": 303,
   "items": [
     {
       "id": "3b80e1df-2fda-811e-870b-e38288e603e0",
@@ -2883,6 +2883,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3b80e1df-2fda-81f0-ada4-e81d6693965a",
+      "title": "Understanding the Impact of Multi-Nodal Urban Systems on Thailand's Urban Economies : Insights from a Dynamic Recursive Spatial General Equilibrium Model",
+      "url": "http://documents.worldbank.org/curated/undefined/099744208102618318/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3b50e1df-2fda-818c-9bea-f7287a824680",
