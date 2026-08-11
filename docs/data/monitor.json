@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-11T16:04:30.859127+00:00",
-  "total_items": 298,
+  "generated_at": "2026-08-11T21:55:50.808262+00:00",
+  "total_items": 300,
   "items": [
+    {
+      "id": "3b90e1df-2fda-8187-a28a-fc2cdad3d156",
+      "title": "Superfinanciera ordena a María Alejandra Almendrales Suárez suspender las actividades de captación no autorizada.",
+      "url": "https://www.superfinanciera.gov.co/10116208",
+      "published": "2026-08-11",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "3b90e1df-2fda-8163-ad28-cc9ce8568a09",
+      "title": "OCC Commends FDIC Reform, Advances Priority to Reinvigorate De Novo Chartering",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-67.html",
+      "published": "2026-08-11",
+      "summary": "The Office of the Comptroller of the Currency continues to prioritize reinvigorating de novo chartering to build a robust, diverse banking system that supports the U.S. economy and commends the Federal Deposit Insurance Corporation for its recent efforts to do the same.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
     {
       "id": "3b90e1df-2fda-81b8-a67d-e7bd551f04a2",
       "title": "SBS recibe certificación de buenas prácticas de gestión pública",
