@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-08-12T21:53:57.141438+00:00",
-  "total_items": 287,
+  "generated_at": "2026-08-13T16:03:29.784349+00:00",
+  "total_items": 272,
   "items": [
+    {
+      "id": "3bb0e1df-2fda-8122-9529-ce86d9f31af8",
+      "title": "SBS propone incluir a algunos seguros agrícolas al régimen simplificado de debida diligencia en el conocimiento del cliente",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3972",
+      "published": "2026-08-13",
+      "summary": "La medida busca agilizar el acceso de los agricultores a coberturas de protección frente a riesgos climáticos y de producción, al reducir la exigencia",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3bb0e1df-2fda-81ce-a09d-cb0adfa25a7e",
+      "title": "Encuesta de Comercio Internacional de Servicios (ECIS) 2025",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11062",
+      "published": "2026-08-13",
+      "summary": "De las 9 796 empresas que conforman la población objeto de estudio a nivel nacional, 53.7% realizó comercio internacional de servicios (CIS) en 2024",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3bb0e1df-2fda-81d9-84d5-e9e34a03cc7e",
+      "title": "Censo Nacional de Seguridad Pública Federal (CNSPF) 2026",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11065",
+      "published": "2026-08-13",
+      "summary": "Disminuyó 21.7% presupuesto que ejerció la Guardia Nacional (GN); aumentó 5.6% el de las instituciones de seguridad estatales",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3bb0e1df-2fda-811e-9b4a-cac80363c57d",
+      "title": "Censo Nacional de Seguridad Pública Estatal (CNSPE) 2026",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11064",
+      "published": "2026-08-13",
+      "summary": "Disminuyó 21.7% presupuesto que ejerció la Guardia Nacional (GN); aumentó 5.6% el de las instituciones de seguridad estatales",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3bb0e1df-2fda-8113-88f1-ea2e1f807151",
+      "title": "Encuesta de Viajeros Internacionales (EVI)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11063",
+      "published": "2026-08-13",
+      "summary": "Ingresaron a México 2.1% más personas viajeras desde el extranjero en junio de 2026 y salieron 8.2% más residentes del país, a tasa anual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3bb0e1df-2fda-812a-95f2-f93fd4e64b5a",
+      "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
+      "published": "2026-08-13",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3bb0e1df-2fda-8105-9720-ee15ab22fb67",
+      "title": "Cash remains most widely accepted payment method in euro area",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html",
+      "published": "2026-08-13",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3bb0e1df-2fda-81df-a5d4-ce8a9544de60",
+      "title": "High expectation but low integration? Experiences in modernising and integrating information systems for supervision",
+      "url": "https://www.bis.org/fsi/publ/insights77.htm",
+      "published": "2026-08-13",
+      "summary": "This paper examines the evolution of information systems that support supervision and the current maturity level of supervisory authorities in terms of systems integration.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3bb0e1df-2fda-811d-8e65-e24959a6eb12",
+      "title": "Mapping Japan's Manufacturing Supply Chains Through Firm-to-Firm Transaction Data",
+      "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2026/data/wp26e13.pdf",
+      "published": "2026-08-12",
+      "summary": "Bank of Japan Working Papers by Ko Adachi, Kosuke Aoki, Yoshiyuki Kurachi, Taiki Ono and Akitoshi Toyoda",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3bb0e1df-2fda-8163-a161-e4803d4b2344",
+      "title": "Linkages of Firm Spending Behavior through Supply Chains",
+      "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2026/data/wp26e14.pdf",
+      "published": "2026-08-12",
+      "summary": "Bank of Japan Working Papers by Ko Adachi, Kosuke Aoki, Yoshiyuki Kurachi, Taiki Ono and Akitoshi Toyoda",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
     {
       "id": "3ba0e1df-2fda-819a-8b00-cecf44529329",
       "title": "FEDS Paper: Government bond-backed repo markets: between resilience and vulnerability",
@@ -133,6 +243,39 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3bb0e1df-2fda-813a-8853-e4ab2ed131db",
+      "title": "Will AI Intensify or Weaken Market Competition?",
+      "url": "https://www.frbsf.org/wp-content/uploads/wp2026-15.pdf",
+      "published": "2026-08-10",
+      "summary": "Federal Reserve Bank of San Francisco Working Papers by Hamid Firooz, Sylvain Leduc and Zheng Liu",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3bb0e1df-2fda-8197-9346-ef5c0c5cec01",
+      "title": "Reaching for Duration",
+      "url": "https://www.frbsf.org/wp-content/uploads/wp2026-16.pdf",
+      "published": "2026-08-10",
+      "summary": "Federal Reserve Bank of San Francisco Working Papers by Thomas M. Mertens, Pascal Paul and Andrés Schneider",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3bb0e1df-2fda-81d6-8bc6-e21a941c1021",
+      "title": "The Erosion of Public Capital in Portugal",
+      "url": "https://doi.org/10.20955/wp.2026.016",
+      "published": "2026-08-10",
+      "summary": "Federal Reserve Bank of St Louis Working Papers by Miguel Faria-e-Castro",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3b90e1df-2fda-811f-990a-dbf7bda8e6b5",
@@ -311,6 +454,28 @@
       "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
+      "id": "3bb0e1df-2fda-81a2-a2c2-ef2b1e5a4a88",
+      "title": "The Incidence of Fuel-Price Shocks and Tax Holidays: Evidence from the 2026 Oil Shock",
+      "url": "https://www.dallasfed.org/~/media/documents/research/papers/2026/wp2624.pdf",
+      "published": "2026-08-06",
+      "summary": "Federal Reserve Bank of Dallas Working Papers by Jacob T. Bradt and Reid Taylor",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3bb0e1df-2fda-8164-aa31-fa83ae014d67",
+      "title": "What the Iran War Teaches Us about the Price Elasticity of Oil Supply",
+      "url": "https://www.dallasfed.org/~/media/documents/research/papers/2026/wp2625.pdf",
+      "published": "2026-08-06",
+      "summary": "Federal Reserve Bank of Dallas Working Papers by Lutz Kilian and Kunal Patel",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
       "id": "3b60e1df-2fda-81a5-a846-c2ab7d8f89b7",
       "title": "EBA ESG risk dashboard shows stable climate risk exposures and continued improvements in data quality",
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-esg-risk-dashboard-shows-stable-climate-risk-exposures-and-continued-improvements-data-quality",
@@ -452,6 +617,17 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3bb0e1df-2fda-816f-85d2-fa35bd37df0c",
+      "title": "Optimal Second-best Menu Design: Evidence from Residential Electricity Plans",
+      "url": "https://www.dallasfed.org/~/media/documents/research/papers/2026/wp2623.pdf",
+      "published": "2026-08-05",
+      "summary": "Federal Reserve Bank of Dallas Working Papers by Maria Garcia-Osipenko, Nicolai V. Kuminoff, Spencer Perry and Nicholas Vreugdenhil",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3b80e1df-2fda-8108-8b64-e4880e807d9e",
@@ -619,6 +795,17 @@
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
+      "id": "3bb0e1df-2fda-8173-bf00-c44a4b115baf",
+      "title": "The Effects of U.S. Public R&D on Global Growth",
+      "url": "https://www.dallasfed.org/~/media/documents/research/papers/2026/wp2622.pdf",
+      "published": "2026-08-04",
+      "summary": "Federal Reserve Bank of Dallas Working Papers by Gustavo de Souza, Andrew J. Fieldhouse, Karel Mertens, Ishan Nath and Valerie A. Ramey",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
       "id": "3b80e1df-2fda-8182-8f39-f8e3e1121072",
       "title": "ForeComp: An R Package for Comparing Predictive Accuracy Using Fixed-Smoothing Asymptotics",
       "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2026/wp26-38.pdf",
@@ -771,6 +958,28 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3bb0e1df-2fda-8158-a09a-d105ecaf48f2",
+      "title": "Subnational Bilateral Remittance Flows in the U.S.-Mexico Corridor: A Multi-Source Imputation and Validation",
+      "url": "https://www.dallasfed.org/~/media/documents/research/papers/2026/wp2621.pdf",
+      "published": "2026-08-03",
+      "summary": "Federal Reserve Bank of Dallas Working Papers by Jesus Cañas and Miguel Flores",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3bb0e1df-2fda-814f-acc2-c978791c83d9",
+      "title": "Financial and Production Integration in the Macroeconomy",
+      "url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/2026/wp2619.pdf",
+      "published": "2026-08-03",
+      "summary": "Federal Reserve Bank of Cleveland Working Papers by Emanuele Brancati, Qingqing Cao, Raoul Minetti and Nicholas Jaehyun Yi",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3b80e1df-2fda-81e9-ab27-d31881765f71",
@@ -1079,6 +1288,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3bb0e1df-2fda-81f1-8f51-eaf7d8fac3e8",
+      "title": "Youth out of school and out of work: Dynamic and determinants in Colombia",
+      "url": "https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/11415/be_1363.pdf",
+      "published": "2026-08-01",
+      "summary": "Central Bank of Colombia Working Papers by Francisco Javier Lasso-Valderrama and Carmiña Ofelia Vargas-Riaño",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3b80e1df-2fda-81ae-a06a-c56075e81e41",
@@ -2322,391 +2542,6 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3aa0e1df-2fda-814d-b1cf-db1aa4ae01ff",
-      "title": "A Market-Based Approach to Scaling Clean Cooking in the Democratic Republic of Congo (DRC)",
-      "url": "https://www.worldbank.org/en/news/feature/2026/07/24/a-market-based-approach-to-scaling-clean-cooking-in-drc",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3a80e1df-2fda-8115-b517-ce68bf7c4ff3",
-      "title": "¿Necesitas orientación sobre tus productos financieros? Estamos en Montería (Córdoba)",
-      "url": "https://www.superfinanciera.gov.co/10116198",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3a70e1df-2fda-814b-93b0-c533458aa107",
-      "title": "SBS modifica su Reglamento de Infracciones y Sanciones",
-      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3963",
-      "published": "2026-07-24",
-      "summary": "Esta modificación permitirá que la institución cuente con mecanismos efectivos para ejercer su potestad sancionadora y así proteger a los usuarios de",
-      "regulator": "SBS Perú",
-      "country": "PE",
-      "type": "News",
-      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
-    },
-    {
-      "id": "3a70e1df-2fda-8170-bdf1-eed0331dbd59",
-      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "3a70e1df-2fda-81c2-be50-c45db0dab6d0",
-      "title": "Philip R. Lane: Outlook for the euro area economy",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "3a70e1df-2fda-8176-aba7-fea4a5245b6c",
-      "title": "IFC Celebrates First Tanzanian Shilling Bond Issuance at London Stock Exchange",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/07/24/ifc-celebrates-first-tanzanian-shilling-bond-issuance-at-london-stock-exchange",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3a70e1df-2fda-81d4-935b-d8e036800520",
-      "title": "Encuesta Nacional de Empresas Constructoras (ENEC). Serie 2018",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11006",
-      "published": "2026-07-24",
-      "summary": "Aumentó 2.7% el valor de producción de las empresas constructoras en mayo de 2026, en términos reales y a tasa mensual",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3a70e1df-2fda-8156-be53-dbd9b4bc2473",
-      "title": "Encuesta Nacional de Seguridad Pública Urbana (ENSU)",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11004",
-      "published": "2026-07-24",
-      "summary": "En junio de 2026, 59.8% de la población de 18 años y más residente en 91 áreas urbanas de interés consideró inseguro vivir en su ciudad",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3a70e1df-2fda-813e-8b82-e0e9bdd025db",
-      "title": "Encuesta Nacional de Ocupación y Empleo (ENOE), población de 15 años y más de edad",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11005",
-      "published": "2026-07-24",
-      "summary": "Sumó 61.9 millones de personas la población económicamente activa en junio de 2026: 48 mil personas más que en junio de 2025",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3a70e1df-2fda-81ef-a4e3-d58ac6c09c38",
-      "title": "Main findings from the ECB’s recent contacts with non-financial companies",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_05~8c25c55b38.en.html",
-      "published": "2026-07-24",
-      "summary": "This box summarises the main findings from recent contacts between ECB staff and representatives of 76 leading non-financial companies operating in the euro area. According to these exchanges, which mainly took place between 22 June and 1 July 2026, activity continued to grow moderately in the second quarter with similar momentum expected for the third quarter. While the war in the Middle East was weighing on consumer spending somewhat, the overall impact on activity seemed limited as some firms benefited from less competition and precautionary stockbuilding. Employment dynamics were rather subdued, with many firms in cost-cutting mode. Selling prices rose more quickly in the second quarter, reflecting the pass-through from rising oil prices caused by the Middle East conflict. The acceleration was less than anticipated in the previous survey round, however, with some slowing expected ahead. Contacts continued to anticipate moderating wage growth.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3a70e1df-2fda-817b-a7b4-e8ebbb493d26",
-      "title": "The ECB Survey of Professional Forecasters - Third quarter of 2026",
-      "url": "https://www.ecb.europa.eu//stats/ecb_surveys/survey_of_professional_forecasters/html/ecb.spf2026q3.en.html",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3a70e1df-2fda-81ac-a011-c819ec236488",
-      "title": "Survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD) – September 2026",
-      "url": "https://www.ecb.europa.eu//pub/pdf/other/SESFOD_2026_Q2_summary.en.pdf",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3a70e1df-2fda-813d-9375-d529c0866c36",
-      "title": "The devil in the DeTail: assessing state-contingent tail effects of a releasable macroprudential capital buffer using a parsimonious agent-based framework",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3257~92e2d05000.en.pdf",
-      "published": "2026-07-24",
-      "summary": "This paper develops an agent-based framework (DeTail) to assess the state-contingent tail effects of releasable macroprudential capital buffers. The model features heterogeneous firms, households, and banks, and a single central bank, all interacting in a fully integrated, stock-flow consistent framework which generates endogenous credit cycles. Using this approach, we evaluate how time-varying capital requirements affect the time-varying distributions of credit growth, firm and household default rates, and bank losses along the credit cycle. Policy experiments show that releasing capital buffers during economic downturns preserves credit supply by improving risky (lower-tail) credit outcomes, reduces both household and firm defaults, and supports macro-financial resilience by limiting tail bank losses. At the same time, capital buffer accumulation during upturns imposes minimal costs and does not significantly constrain lending. These findings support the active use of releasable buffers to mitigate systemic risk and smooth credit cycles without weakening the banking system.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3a70e1df-2fda-81af-868b-df51d9b7ebb7",
-      "title": "Import tariff transmission in a production network",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3258~46133509d4.en.pdf",
-      "published": "2026-07-24",
-      "summary": "We find that whether US import tariffs have supply-side effects or demand-side effects on US manufacturing sectors depends on where the affected sectors are located in the US production network. Using local projections in a panel of US manufacturing sectors, we find that US import tariffs —including the 2018-19 tariff hikes— led to sectoral output contractions via two different channels: (1) Tariff increases act as negative supply shifters for sectors that use goods from tariff-facing sectors as input in production and thus face rising input costs. (2) Tariff increases act as negative demand shifters for sectors whose customer sectors suffer negative supply side effects due to tariffs and reduce their production. We show that these results are consistent with a stylized production network model featuring complementarities in production. Overall, our finding suggests that tariffs markedly reduce US manufacturing production and that the role of input–output linkages is key for understanding the transmission of import tariff shocks to output and producer prices.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3a70e1df-2fda-8113-9611-f2d92dc5bc97",
-      "title": "ECB Consumer Expectations Survey results – June 2026",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_1~fa277eb6fe.en.html",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "3a70e1df-2fda-814c-926b-dd024e678c91",
-      "title": "Results of the ECB Survey of Professional Forecasters for the third quarter of 2026",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724~a099353951.en.html",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "3a70e1df-2fda-81f3-ac65-ea5b640e6f41",
-      "title": "ECB to start implementing enhanced repo facility for central banks",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_2~d7d475d2f0.en.html",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "3a70e1df-2fda-81ab-a8c9-e11bc83e9ac5",
-      "title": "Results of the June 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_3~c0b45e246f.en.html",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "3a70e1df-2fda-8162-8170-cc5f1a7b7aac",
-      "title": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "3a70e1df-2fda-81cd-b850-fda6182aa45c",
-      "title": "EBA_Validation_rules_4.4_2026_07",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/3fa5d087-65b0-4512-a584-ce5f228f61a9/EBA_Validation_rules_4.4_2026_07_10.xlsx",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3a70e1df-2fda-81f9-872c-f4315b3dc28b",
-      "title": "P3DH IT solutions in all EU languages",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/57c324fa-f808-4b18-a5be-fb2c56b22df9/P3DH%20IT%20solutions%20in%20all%20EU%20languages.zip",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3a70e1df-2fda-810a-9e92-c9b5df8c0e4f",
-      "title": "its_and_it_solutions_in_all_eu_languages.zip",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/f84b37f9-4c47-493a-961c-fb2ae21e8488/its_and_it_solutions_in_all_eu_languages.zip",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3a70e1df-2fda-819b-9c5e-c834b4d1240a",
-      "title": "IT solutions P3DH - Contact persons for notifications - instructions",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/aa43ff19-d259-432f-82a1-35d2a332e957/IT%20solutions%20P3DH%20-%20Contact%20persons%20for%20notifications%20-%20instructions_v3%20%281%29.docx",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3a70e1df-2fda-8172-9a5a-ddb94f82eb67",
-      "title": "it_solutions_p3dh_-_contact_persons_for_notifications_-_template.xlsx",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/6dfcd5c8-0985-494e-8e84-c48c31f91ef8/it_solutions_p3dh_-_contact_persons_for_notifications_-_template.xlsx",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3a70e1df-2fda-8159-9900-d2f1c83fd395",
-      "title": "it_solutions_p3dh_-_contact_persons_for_notifications_-_instructions.docx",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/32026505-bee7-45dc-837b-2b951cda5e6e/it_solutions_p3dh_-_contact_persons_for_notifications_-_instructions.docx",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3a70e1df-2fda-814e-9734-f6e4bc991462",
-      "title": "table_layout_release_4.4.zip",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/647ddef8-1260-48d7-8247-43b1be7e496a/table_layout_release_4.4.zip",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3a70e1df-2fda-81ee-b783-f6bd0eeef94c",
-      "title": "glossary_usage_exploration.xlsx",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/247eb30e-302d-499f-86d4-410f8c8c4d90/glossary_usage_exploration.xlsx",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3a70e1df-2fda-81aa-a40a-de8d9b7eb04d",
-      "title": "new_dictionary-conversion_dpm_1.0_to_dpm_2.0.zip",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/f251420d-cae7-4bb2-9b30-2901ca7af61c/new_dictionary-conversion_dpm_1.0_to_dpm_2.0.zip",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3a70e1df-2fda-815a-b579-fc247215b653",
-      "title": "sample_csv_packages.zip",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/cf163a2a-bb65-4ab0-b032-ab491e35ca29/sample_csv_packages.zip",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3a70e1df-2fda-8104-be13-e70c9d1329be",
-      "title": "taxo_package.zip",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/c19550e7-58d3-4b68-9b3c-36d54edf55ae/taxo_package.zip",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3a70e1df-2fda-8140-b463-e08e90a18ebb",
-      "title": "dpm_2.0_and_dpm_xl_technical_documentation.zip",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/6e7e0d79-fb04-4622-bed5-8aab611a1d93/dpm_2.0_and_dpm_xl_technical_documentation.zip",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3a70e1df-2fda-817f-a94d-ebd0721ec717",
-      "title": "identicalcells.xlsx",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/7178287b-faf1-45d6-b51e-0db379dbfe31/identicalcells.xlsx",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3a70e1df-2fda-817b-ad67-cc3640ea338c",
-      "title": "annex_iv_-_annex_vi_disclosures_instructions_-_clean_2.docx",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/b0f0fe9d-d78d-4374-8e6a-ec878cef1a4f/annex_iv_-_annex_vi_disclosures_instructions_-_clean_2.docx",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3a70e1df-2fda-8133-a536-d7db5a637497",
-      "title": "annex_iii_-_annex_v_disclosures_templates_-_clean_1.xlsx",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/5e9aea8c-a257-44a9-99bd-f05c8491fc16/annex_iii_-_annex_v_disclosures_templates_-_clean_1.xlsx",
-      "published": "2026-07-24",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3a70e1df-2fda-81ae-9439-c864c3ae02a7",
-      "title": "The EBA seeks feedback on the 4.4 draft technical package of its reporting and disclosure framework",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-seeks-feedback-44-draft-technical-package-its-reporting-and-disclosure-framework",
-      "published": "2026-07-24",
-      "summary": "The European Banking Authority (EBA) today published a draft technical package for version 4.4 of its reporting and disclosure framework, covering IFRS 18 reporting, Pillar 3 ESG disclosures and other technical amendments.",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
     },
     {
       "id": "3b80e1df-2fda-81f0-ada4-e81d6693965a",
