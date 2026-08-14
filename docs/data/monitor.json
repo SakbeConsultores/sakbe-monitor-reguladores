@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-08-13T21:53:55.492799+00:00",
-  "total_items": 277,
+  "generated_at": "2026-08-14T15:56:02.924644+00:00",
+  "total_items": 288,
   "items": [
+    {
+      "id": "3bc0e1df-2fda-81a2-8e7a-f25be1320b59",
+      "title": "Indicador Oportuno del Consumo Privado",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11066",
+      "published": "2026-08-14",
+      "summary": "El IOCP anticipa un incremento anual de 2.5% del consumo privado para junio y de 2.2% para julio de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3bc0e1df-2fda-8109-a715-cd5d46999238",
+      "title": "Accounting: Bank Accounting Advisory Series Updated",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-38.html",
+      "published": "2026-08-14",
+      "summary": "The OCC has issued the 2026 edition of the Bank Accounting Advisory Series (BAAS). The BAAS contains staff responses to frequently asked questions from the banking industry and bank examiners on a variety of accounting topics and promotes consistent application of accounting standards and regulatory reporting among banks.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "3bc0e1df-2fda-817e-a6b9-cf6112c1beee",
+      "title": "Bank Accounting Advisory Series Updated",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-68.html",
+      "published": "2026-08-14",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today released its annual update to the Bank Accounting Advisory Series (BAAS).",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "3bc0e1df-2fda-81a3-87ca-f84d61e1e3ce",
+      "title": "IFDP Paper: Occupational Complexity, Capital-Skill Complementarity, and the Evolution of U.S. Wage Inequality: A Quantitative Analysis",
+      "url": "https://www.federalreserve.gov/econres/ifdp/occupational-complexity-capital-skill-complementarity-and-the-evolution-of-u-s-wage-inequality.htm",
+      "published": "2026-08-14",
+      "summary": "Colin Caines , Florian Hoffmann, Gueorgui Kambourov We document a strong, positive relationship between occupational problem complexity, measured from US data on problem-solving requirements, and occupational wage growth since 1980. In contrast, employment shifts toward more complex occupations have been modest, suggesting a race between the demand for and supply of complex skills. We rationalize these findings by formulating and structurally estimating a quantitative general equilibrium model on the granular occupational level. In our model, workers have heterogeneous comparative advantages in solving complex problems and physical capital admits capital-skill complementarity in occupation space. The equilibrium features Positive Assortative Matching of worker skills to occupational problem complexity, and the model quantitatively explains the evolution of the occupational wage- and employment structure over the last four decades. The model estimates uncover two distinct periods of technological change. Until around 2000, rising complexity premia were driven by capital-skill complementarity and declining equipment capital prices. Post-2000 patterns reflect supply-side technological change whereby occupations became more efficient in utilizing worker skills for complex problem-solving. Our framework helps unify distinct approaches to studying task automation and task augmentation on the one hand and skill-biased technological change on the other.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3bc0e1df-2fda-812c-90ee-fecb7ae43902",
+      "title": "2026 08 15 PMR Francois-Louis Michaud",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-08/0eab68d5-1c46-4662-b324-c33b7ca619c5/2026%2008%2015%20PMR%20Francois-Louis%20Michaud.pdf",
+      "published": "2026-08-14",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3bc0e1df-2fda-81b2-8d4a-e6a0b5255037",
+      "title": "2026 07 31 PMR - Jonathan Overett Somnier",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-08/6580e32f-b2f5-44c4-a591-1793e607a5f5/2026%2007%2031%20PMR%20-%20Jonathan%20Overett%20Somnier.pdf",
+      "published": "2026-08-14",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3bc0e1df-2fda-81e3-b14e-f70bb8c4d404",
+      "title": "Immovable property loss - Q4 2025_updated",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-08/40cbf416-b229-498d-958b-f14724e7dfe5/Immovable%20property%20loss%20-%20Q4%202025_updated.pdf",
+      "published": "2026-08-14",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3bc0e1df-2fda-810e-bf27-f88a4b6aea52",
+      "title": "A Village's Embrace: Investing in Nutrition, Building Opportunities in Cambodia",
+      "url": "https://www.worldbank.org/en/news/feature/2026/08/14/a-village-s-embrace-investing-in-nutrition-building-opportunities-in-cambodia",
+      "published": "2026-08-14",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3bc0e1df-2fda-81a0-99a5-d7d7984da200",
+      "title": "From Demand to Delivery: Strengthening South Africa’s Digital Skills Pipeline to Deliver More and Better Jobs",
+      "url": "https://www.worldbank.org/en/news/feature/2026/08/14/from-demand-to-delivery-strengthening-south-africas-digital-skills",
+      "published": "2026-08-14",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3bc0e1df-2fda-81be-9c08-fe057c00124a",
+      "title": "World Bank Group Statement on Colombia’s Earthquake",
+      "url": "https://www.worldbank.org/en/news/statement/2026/08/14/world-bank-group-statement-on-colombia-earthquake",
+      "published": "2026-08-14",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3bc0e1df-2fda-8116-8a5b-d2ef817cd358",
+      "title": "Superfinanciero, profesor César Ferrari, presentó renuncia irrevocable a su cargo",
+      "url": "https://www.superfinanciera.gov.co/10116214",
+      "published": "2026-08-13",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
     {
       "id": "3bb0e1df-2fda-8107-9867-f7617eefa1e5",
       "title": "SBS reúne a expertos internacionales para fortalecer la resiliencia del sistema financiero frente a ciberataques y nuevas amenazas",
