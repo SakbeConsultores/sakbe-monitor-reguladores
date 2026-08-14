@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-14T15:56:02.924644+00:00",
-  "total_items": 288,
+  "generated_at": "2026-08-14T21:31:17.106282+00:00",
+  "total_items": 290,
   "items": [
+    {
+      "id": "3bc0e1df-2fda-811b-9b1a-f404295533d6",
+      "title": "Superfinanciera ordena la toma de posesión para administrar de BLOOM CROWDFUNDING S.A. SOCIEDAD DE FINANCIACIÓN COLABORATIVA",
+      "url": "https://www.superfinanciera.gov.co/10116215",
+      "published": "2026-08-14",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "3bc0e1df-2fda-8175-ad8a-c9906f93441d",
+      "title": "Certificación CNBV en materia de PLD/FT/FPADM",
+      "url": "https://www.gob.mx/cnbv/documentos/certificacion-cnbv-en-materia-de-pld-ft-25186",
+      "published": "2026-08-14",
+      "summary": "",
+      "regulator": "CNBV",
+      "country": "MX",
+      "type": "Publications",
+      "feed_url": "https://www.gob.mx/cnbv/archivo/documentos?idiom=es&filter_origin=archive"
+    },
     {
       "id": "3bc0e1df-2fda-81a2-8e7a-f25be1320b59",
       "title": "Indicador Oportuno del Consumo Privado",
