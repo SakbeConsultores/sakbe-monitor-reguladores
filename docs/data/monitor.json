@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T21:28:39.027807+00:00",
-  "total_items": 290,
+  "generated_at": "2026-08-16T15:25:38.667062+00:00",
+  "total_items": 280,
   "items": [
     {
       "id": "3bc0e1df-2fda-811b-9b1a-f404295533d6",
@@ -2630,116 +2630,6 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "3aa0e1df-2fda-81ac-980e-cc74e0589b6f",
-      "title": "Comptroller Gould Highlights OCC’s Financial Literacy Efforts at Financial Literacy and Education Commission Meeting",
-      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-61.html",
-      "published": "2026-07-27",
-      "summary": "WASHINGTON - Comptroller of the Currency Jonathan V. Gould today highlighted the OCC's efforts to expand financial literacy, support responsible innovation, and provide consumers with practical educational resources in remarks at the Financial Literacy and Education Commission meeting.",
-      "regulator": "OCC",
-      "country": "US",
-      "type": "News",
-      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
-    },
-    {
-      "id": "3aa0e1df-2fda-81e4-a1a6-f2ecb84e440e",
-      "title": "Balanza Comercial de Mercancías de México",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11007",
-      "published": "2026-07-27",
-      "summary": "Aumentaron las exportaciones 34.4% y las importaciones 28.0% a tasa anual, en junio de 2026",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3aa0e1df-2fda-818d-969c-c431367795f7",
-      "title": "Central banks, debt managers, and specialness in the Bund repo market",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3259~ca31e19d1b.en.pdf",
-      "published": "2026-07-27",
-      "summary": "Elevated repo rate specialness for German government bonds in 2016–17, and particularly in 2022-23, has often been linked to the absorption of these securities by the ECB’s asset purchase programmes. We provide the first evidence on how the debt management office mitigates these effects by jointly analyzing daily secondary-market trades and repo operations of the Deutsche Finanzagentur (DFA) alongside Eurosystem transactions in Bunds from 2015–2024. We find two points: first, that Eurosystem purchases depress repo rates about four times more than DFA purchases (0.4 bp vs 0.1 bp per 1% of free float), while DFA repo lending raises repo rates by roughly 0.2 bp per 1% of outstanding volume. Our evidence suggests that DFA interventions helped mitigate scarcity-induced specialness. Second, with elevated hedge fund demand for bonds, the overall alleviating impact was constrained by segmentation in the repo market and by the design of the facilities themselves, which aimed to prevent collateral shortages and fails-to-deliver rather than to provide price support.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3aa0e1df-2fda-8101-a1f6-eb5b0ca77b09",
-      "title": "The effects of a large energy price shock on bank credit",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3260~7f05446cac.en.pdf",
-      "published": "2026-07-27",
-      "summary": "This study investigates the effect of the large shock to energy prices following the Russian invasion of Ukraine on bank credit to firms. To isolate the causal effect of the shock, it compares bank lending to high-energy-intensive firms to that of similar low-energy-intensive firms. Following the shock, bank credit to high-energy-intensive firms persistently declined, while their interest rates on new loans rose and other loan terms tightened. Across the distribution, safer firms reduced outstanding credit lines and paid unchanged interest rates on new bank loans, while riskier firms borrowed at higher interest rates.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3aa0e1df-2fda-812d-b9e8-c1909f661e2c",
-      "title": "Monetary developments in the euro area: June 2026",
-      "url": "https://www.ecb.europa.eu//press/stats/md/html/ecb.md2606~5ad5ef1f2a.en.html",
-      "published": "2026-07-27",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Statistical Releases",
-      "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
-    },
-    {
-      "id": "3aa0e1df-2fda-81e2-b3c8-f3ef6271ca7d",
-      "title": "Euro area economic and financial developments by institutional sector: first quarter of 2026",
-      "url": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_full2026q1~ec756b7b1a.en.html",
-      "published": "2026-07-27",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Statistical Releases",
-      "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
-    },
-    {
-      "id": "3aa0e1df-2fda-8155-824c-ee89e26e7b70",
-      "title": "2026 07 15 PMR - Jonathan Overett Somnier",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-07/d018530b-75ed-49be-9b5d-6a9f53cd23dd/2026%2007%2015%20PMR%20-%20Jonathan%20Overett%20Somnier%20%281%29.pdf",
-      "published": "2026-07-27",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3aa0e1df-2fda-819d-9539-e47f77f7a092",
-      "title": "Maritime Transport Can Drive Jobs and Economic Growth in East Asia and Pacific",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/07/27/maritime-transport-can-drive-jobs-and-economic-growth-in-east-asia-and-the-pacific",
-      "published": "2026-07-27",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3aa0e1df-2fda-81d4-bf5f-ff69f5760852",
-      "title": "Tatiana Proskuryakova Appointed World Bank Group Director for the North and South Pacific",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/07/27/tatiana-proskuryakova-appointed-world-bank-group-director-for-the-north-and-south",
-      "published": "2026-07-27",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3aa0e1df-2fda-81a0-b52b-cd4613f4fbc9",
-      "title": "World Bank Group Backs Paraguay's Next Stage of Growth with New Partnership Framework",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/07/27/world-bank-group-backs-paraguay-next-stage-growth-new-partnership-framework",
-      "published": "2026-07-27",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3b80e1df-2fda-81f0-ada4-e81d6693965a",
