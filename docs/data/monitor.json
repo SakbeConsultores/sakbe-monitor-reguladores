@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-17T15:29:05.116212+00:00",
-  "total_items": 282,
+  "generated_at": "2026-08-17T21:32:30.235051+00:00",
+  "total_items": 285,
   "items": [
+    {
+      "id": "3bf0e1df-2fda-8141-b923-d800bd17b07e",
+      "title": "Solomon Islands Can Turn Economic Recovery into More Jobs and Incomes",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/08/18/solomon-islands-can-turn-economic-recovery-into-more-jobs-and-incomes",
+      "published": "2026-08-18",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3bf0e1df-2fda-81d1-862f-e70a771b29b1",
+      "title": "More Than a Roof: How Safe Housing is Unlocking Women's Path to Education and Jobs in Tamil Nadu",
+      "url": "https://www.worldbank.org/en/news/feature/2026/08/17/more-than-a-roof-how-safe-housing-is-unlocking-women-s-path-to-education-and-jobs",
+      "published": "2026-08-17",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3bf0e1df-2fda-81c2-af9f-c0cfcda04051",
+      "title": "Thomas Edward Lubeck Appointed World Bank Group Country Manager for Guatemala",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/08/17/thomas-edward-lubeck-nombrado-gerente-pais-grupo-banco-mundial-guatemala",
+      "published": "2026-08-17",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3bf0e1df-2fda-81a9-979b-fe2b41db3615",
       "title": "SBS propone modificación al marco regulatorio del sistema financiero y asegurador para garantizar adecuado funcionamiento de las EAF",
