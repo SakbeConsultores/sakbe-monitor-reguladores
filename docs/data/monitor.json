@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-08-16T21:33:37.487982+00:00",
-  "total_items": 280,
+  "generated_at": "2026-08-17T15:29:05.116212+00:00",
+  "total_items": 282,
   "items": [
+    {
+      "id": "3bf0e1df-2fda-81a9-979b-fe2b41db3615",
+      "title": "SBS propone modificación al marco regulatorio del sistema financiero y asegurador para garantizar adecuado funcionamiento de las EAF",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3974",
+      "published": "2026-08-17",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3bf0e1df-2fda-81bc-8f07-d4af4351ebe2",
+      "title": "Encuesta Mensual de la Industria Manufacturera (EMIM). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11068",
+      "published": "2026-08-17",
+      "summary": "Aumentó 0.1% el volumen de la producción manufacturera en junio de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3bf0e1df-2fda-8132-8e2d-efa761c18909",
+      "title": "Philip R. Lane: The rise in defence spending and the euro area economy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf",
+      "published": "2026-08-17",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3bf0e1df-2fda-81af-819a-fd8417dcf12a",
+      "title": "2026 08 15 PMR - Jonathan Overett Somnier",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-08/5e7b9ccf-1c41-47c6-84d8-32c4a2cbfc23/2026%2008%2015%20PMR%20-%20Jonathan%20Overett%20Somnier.pdf",
+      "published": "2026-08-17",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3bf0e1df-2fda-815a-81f1-d9e9b4675d5d",
+      "title": "The Missing Ingredient: How Power Is Fueling Madagascar's Economic Future",
+      "url": "https://www.worldbank.org/en/news/feature/2026/08/14/the-missing-ingredient-how-power-is-fueling-madagascar-s-economic-future",
+      "published": "2026-08-14",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3bf0e1df-2fda-817b-9bf4-e526ebd40ba8",
+      "title": "What Prevents Productivity Gains from Translating into Wages: Lessons from Japan fs Deflationary Period",
+      "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2026/data/wp26e12.pdf",
+      "published": "2026-08-14",
+      "summary": "Bank of Japan Working Papers by Nobuhiro Abe, Ryuichiro Hirano and Sohei Kaihatsu",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3bf0e1df-2fda-818b-9b8b-fe2b75cafd7e",
+      "title": "The Dynamic Distribution in the Fixed Cost Model: An Analytical Solution",
+      "url": "https://www.kansascityfed.org/research/research-working-papers/the-dynamic-distribution-in-the-fixed-cost-model-an-analytical-solution/",
+      "published": "2026-08-14",
+      "summary": "Federal Reserve Bank of Kansas City Research Working Papers by Jonathan Adams",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
     {
       "id": "3bc0e1df-2fda-811b-9b1a-f404295533d6",
       "title": "Superfinanciera ordena la toma de posesión para administrar de BLOOM CROWDFUNDING S.A. SOCIEDAD DE FINANCIACIÓN COLABORATIVA",
@@ -133,6 +210,28 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3bf0e1df-2fda-8130-a5cb-c2c2a2e28469",
+      "title": "Zoning and the American Suburb",
+      "url": "https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2026/wp26-37.pdf",
+      "published": "2026-08-13",
+      "summary": "Federal Reserve Bank of Philadelphia Working Papers by Ryan Gallagher, Allison Shertzer and Tate Twinam",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
+    },
+    {
+      "id": "3bf0e1df-2fda-810a-9127-faf48bc0f2af",
+      "title": "Is the AI Boom Volatility-Biased Technological Change?",
+      "url": "https://www.kansascityfed.org/research/research-working-papers/is-the-ai-boom-volatility-biased-technological-change/",
+      "published": "2026-08-13",
+      "summary": "Federal Reserve Bank of Kansas City Research Working Papers by Juan David Munoz Henao and Nicholas Sly",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Central Bank Research Hub",
+      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
     },
     {
       "id": "3bc0e1df-2fda-8116-8a5b-d2ef817cd358",
@@ -2553,83 +2652,6 @@
       "country": "EU",
       "type": "Publications",
       "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3b20e1df-2fda-818e-bf76-e5858305a84d",
-      "title": "Turning Climate Risk into Resilient Growth: Why Institutions Matter for Malaysia’s Future",
-      "url": "https://www.worldbank.org/en/news/feature/2026/07/28/turning-climate-risk-into-resilient-growth-why-institutions-matter-for-malaysia-s",
-      "published": "2026-07-28",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3ac0e1df-2fda-814b-90cd-e05736132ba3",
-      "title": "Turning Climate Risk into Resilient Growth: Why Institutions Matter for Malaysia’s Future",
-      "url": "https://www.worldbank.org/en/news/feature/2026/07/28/turning-climate-risk-into-resilient-growth-why-institutions-matter-for-malaysia-s-",
-      "published": "2026-07-28",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3ac0e1df-2fda-8158-a704-c3b4b0e17261",
-      "title": "Development Partners Power Timor-Leste’s Energy Future with Landmark Investment in Solar And Battery Storage",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/07/28/development-partners-power-timor-leste-s-energy-future-with-landmark-investment",
-      "published": "2026-07-28",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3ac0e1df-2fda-815f-8e94-e2be985be39f",
-      "title": "World Bank Group Supports Reforms to Promote Investment and Jobs in Ecuador",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/07/28/world-bank-group-supports-reforms-to-promote-investment-and-jobs-in-ecuador",
-      "published": "2026-07-28",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3ab0e1df-2fda-8121-be08-fa1f23058b80",
-      "title": "Adoption and investment in AI across the euro area. Insights from harmonised firm-level data",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op395.en.pdf",
-      "published": "2026-07-28",
-      "summary": "This paper explores the adoption of artificial intelligence (AI) technologies among euro area firms, using harmonised firm-level data from two dedicated modules of the Survey on the Access to Finance of Enterprises (SAFE) conducted in June and December 2025. Based on responses from around 6,000 firms across 12 euro area countries, the study examines AI adoption rates, drivers, barriers and economic implications. The findings suggest that AI diffusion among euro area firms is progressing rapidly but unevenly, with significant variation across countries and firm characteristics. Approximately 70% of firms report some level of AI use, but only 7% classify their adoption as significant. Adoption is highest in the Netherlands, Finland and Austria, and lowest in Italy and Ireland. Larger and younger firms, particularly in technology-intensive sectors, are leading adopters. Firms identify expected improvements in business processes as the main driver of adoption, while key barriers include skill shortages, data privacy concerns and system incompatibilities. Current AI use and investment are primarily financed through internal funds, complemented by grants and subsidised bank loans. AI adoption is positively associated with firm productivity, turnover growth, fixed investment and own selling price expectations, particularly among intensive users. Survey data show no evidence yet of aggregate labour shedding; instead, AI adoption is positively associated with employment growth. However, firms’ inflation expectations appear largely unaffected by current AI use.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3ab0e1df-2fda-8159-a381-e5823326d0e1",
-      "title": "The Paris Agreement ten years later: Navigating climate uncertainty and tipping points",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3261~cc4bd5eabc.en.pdf",
-      "published": "2026-07-28",
-      "summary": "The climate crisis is an urgent, human-driven systemic challenge whose impacts are unfolding through increasingly frequent and severe extreme events. Although the 2015 Paris Agreement advanced global climate governance, implementation remains insufficient to limit warming to well below 2 °C and pursue 1.5 °C. Accelerating risks, interacting crises and potential tipping points suggest that climate change could become unmanageable if current GHGs emissions trajectories persist. This paper makes three contributions. First, it examines why we are failing to act decisively, highlighting a persistent awareness gap, competing priorities and weak political incentives for ambitious climate action. Second, it draws on NGFS climate-policy scenarios, the climate policy trilemma and a precautionary approach to clarify policymaking trade-offs under uncertainty. Third, it reviews policy, financial and technological levers to accelerate a just green transition. A new climate policy paradigm is needed: a systemic, precautionary, adaptive and incentive-compatible framework that can “tilt the odds” away from irreversible climate damage, even when probabilities are poorly known.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3ab0e1df-2fda-819b-b807-feb197c63ab9",
-      "title": "AI and the global economy: implications for central banks",
-      "url": "https://www.bis.org/publ/bisbull130.htm",
-      "published": "2026-07-28",
-      "summary": "by Iñaki Aldasoro, Leonardo Gambacorta, Enisse Kharroubi, Matthias Rottner The AI boom is driving a large, increasingly debt-financed investment surge and boosting trade and equity markets, generating sizeable terms-of-trade and wealth effects that differ across countries. The productivity payoff from AI, though potentially large, remains uncertain and uneven, across both sectors and countries. By simultaneously affecting demand and supply, AI blurs cyclical signals, complicating central banks' assessment of underlying economic conditions and monetary policy calibration.",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Research",
-      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
       "id": "3b80e1df-2fda-81f0-ada4-e81d6693965a",
