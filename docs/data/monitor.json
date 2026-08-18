@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-18T15:36:05.875696+00:00",
-  "total_items": 247,
+  "generated_at": "2026-08-18T21:30:53.400524+00:00",
+  "total_items": 248,
   "items": [
+    {
+      "id": "3c00e1df-2fda-819e-ab18-f14528d8dc52",
+      "title": "SBS publica proyectos normativos para adecuar su marco regulatorio al estándar internacional de Basilea III",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3976",
+      "published": "2026-08-18",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
     {
       "id": "3c00e1df-2fda-8124-a0d6-fc19ce146bb8",
       "title": "Transporte Urbano de Pasajeros",
