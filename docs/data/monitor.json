@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-20T15:38:00.877826+00:00",
-  "total_items": 215,
+  "generated_at": "2026-08-20T21:34:36.933505+00:00",
+  "total_items": 216,
   "items": [
+    {
+      "id": "3c20e1df-2fda-8176-a4ca-cbe4cc825907",
+      "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
+      "published": "2026-08-20",
+      "summary": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
     {
       "id": "3c20e1df-2fda-8197-b4cf-d70bc16ecb77",
       "title": "Programa de la industria manufacturera, maquiladora y de servicios de exportación (IMMEX) - 2007 en adelante",
