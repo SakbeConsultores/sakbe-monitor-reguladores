@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-21T15:37:23.874238+00:00",
-  "total_items": 220,
+  "generated_at": "2026-08-21T21:31:29.277124+00:00",
+  "total_items": 222,
   "items": [
+    {
+      "id": "3c30e1df-2fda-81c6-bfed-eacf42c70219",
+      "title": "SBS fortalece la gestión de riesgos de las COOPAC de Ayacucho",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3978",
+      "published": "2026-08-21",
+      "summary": "La SBS realizó una jornada de capacitación en Ayacucho dirigida a gerentes y directivos de Coopac, con el objetivo de brindar herramientas para la ges",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3c30e1df-2fda-8105-99d1-f2c5d20512e3",
+      "title": "IFDP Paper: Optimal Monetary and Fiscal Policy under Limited Foresight",
+      "url": "https://www.federalreserve.gov/econres/ifdp/optimal-monetary-and-fiscal-policy-under-limited-foresight.htm",
+      "published": "2026-08-21",
+      "summary": "Martin Bodenstein and Junzhu Zhao We investigate Barro's random walk hypothesis according to which distortionary labor taxes should follow a random walk for any stochastic process of government expenditures, see Barro (1979). When agents experience cognitive discounting as in Gabaix (2020), they perceive government debt as wealth, and the random walk result breaks down except for knife-edge combinations of limited rationality by policymakers and the private sector. For these specific parameter values, the result can reemerge, but minor deviations from these knife-edge combinations lead to stationary equilibrium dynamics, reflecting the wealth effect of government debt. However, the dynamics turn explosive when policymakers discount the future excessively. Our results extend to other models with limited foresight such as Blanchard (1985), Weil (1989), or Woodford (2019).",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
     {
       "id": "3c30e1df-2fda-81a0-b92f-fd73f0f46441",
       "title": "SBS canceló en forma definitiva el registro de la Afocat Unión - Afocatu",
