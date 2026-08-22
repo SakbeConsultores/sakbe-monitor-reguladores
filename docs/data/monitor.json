@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-21T21:31:29.277124+00:00",
-  "total_items": 222,
+  "generated_at": "2026-08-22T15:24:51.755136+00:00",
+  "total_items": 224,
   "items": [
+    {
+      "id": "3c40e1df-2fda-8159-9170-f22b24eaf382",
+      "title": "Estamos donde más nos necesitan",
+      "url": "https://www.superfinanciera.gov.co/10116221",
+      "published": "2026-08-21",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
     {
       "id": "3c30e1df-2fda-81c6-bfed-eacf42c70219",
       "title": "SBS fortalece la gestión de riesgos de las COOPAC de Ayacucho",
@@ -595,6 +606,17 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3c40e1df-2fda-819a-a17a-f6ff2cbabc68",
+      "title": "Superfinanciera refuerza la atención a afectados por el sismo con Quejas Exprés",
+      "url": "https://www.superfinanciera.gov.co/10116212",
+      "published": "2026-08-13",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
     },
     {
       "id": "3bf0e1df-2fda-8130-a5cb-c2c2a2e28469",
