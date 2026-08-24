@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-08-23T21:28:26.872884+00:00",
-  "total_items": 194,
+  "generated_at": "2026-08-24T15:43:07.610494+00:00",
+  "total_items": 189,
   "items": [
+    {
+      "id": "3c60e1df-2fda-8137-ade8-d5910ae715f1",
+      "title": "SBS uniformiza tratamiento contable de los pagos efectuados dentro de controversias tributarias que realicen las empresas supervisadas",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3979",
+      "published": "2026-08-24",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3c60e1df-2fda-81e3-92f5-e1db753dfa3b",
+      "title": "Índice Nacional de Precios al Consumidor (INPC). Base 2ª Quincena Julio 2018. Actualización de Canasta y Ponderadores 2024",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11079",
+      "published": "2026-08-24",
+      "summary": "La inflación anual fue de 3.26% en la primera quincena de agosto de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3c60e1df-2fda-8139-9385-c2c60568aa00",
+      "title": "Producto Interno Bruto Trimestral (PIBT). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11076",
+      "published": "2026-08-24",
+      "summary": "Alcanzó el PIB nominal 37.530 billones de pesos corrientes en el segundo trimestre de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3c60e1df-2fda-8166-8386-cd486c17aa89",
+      "title": "Producto Interno Bruto Trimestral (PIBT). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11077",
+      "published": "2026-08-24",
+      "summary": "Aumentó el PIB 1.4% a tasa trimestral en el segundo trimestre de 2026, en términos reales",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3c60e1df-2fda-8178-b7f5-fb73f26ee24f",
+      "title": "Indicador Global de la Actividad Económica (IGAE). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11078",
+      "published": "2026-08-24",
+      "summary": "Disminuyó 0.1% el IGAE a tasa mensual y aumentó 1.7% a tasa anual, en junio de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3c60e1df-2fda-81e9-950e-d5a348f62d8c",
+      "title": "Piero Cipollone: Interview with ilsussidiario.net",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260824~fa5acbddea.en.html",
+      "published": "2026-08-24",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3c60e1df-2fda-815e-83d2-e2542611baed",
+      "title": "EBA GL 2026 05 - Guidelines on on the application of the definition of default under Article 178 of Regulation (EU) No 575 2013",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-08/2d36a525-1843-4d72-8304-6ff23b71f841/EBA%20GL%202026%2005%20-%20Guidelines%20on%20on%20the%20application%20of%20the%20definition%20of%20default%20under%20Article%20178%20of%20Regulation%20%28EU%29%20No%20575%202013.xlsx",
+      "published": "2026-08-24",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3c60e1df-2fda-81d7-9b5c-d0adc3401026",
+      "title": "When Waste Becomes a Competitive Advantage: Rwanda Explores Korea's Green Industrial Model",
+      "url": "https://www.worldbank.org/en/news/feature/2026/08/24/when-waste-becomes-a-competitive-advantage-rwanda",
+      "published": "2026-08-24",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3c60e1df-2fda-814c-ac32-cfa5ac41a825",
+      "title": "Hard to shift, easy to reshape: central bank reserve demand and frictions",
+      "url": "https://www.bis.org/publ/work1372.htm",
+      "published": "2026-08-24",
+      "summary": "by Mathias Drehmann, Xuewen Fu How far can central banks shrink their balance sheets? The answer sets the limits to quantitative tightening (QT), and depends critically on the demand for reserves and whether the drivers widely thought to have increased it over the past decade actually do so. We assess the impact of three such drivers: post-crisis liquidity regulation, monetization frictions, and fragmented interbank markets. Building on the canonical Poole (1968) model, we show that these drivers tend to reshape, rather than horizontally shift, reserve demand.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "3c40e1df-2fda-8159-9170-f22b24eaf382",
       "title": "Estamos donde más nos necesitan",
@@ -111,6 +210,17 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3c60e1df-2fda-8136-aad0-d9fc9b093245",
+      "title": "OCC Announces Enforcement Actions for August 2026",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-70.html",
+      "published": "2026-08-20",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today released enforcement actions for August 2026.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
     },
     {
       "id": "3c20e1df-2fda-8176-a4ca-cbe4cc825907",
@@ -1519,171 +1629,6 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "3bb0e1df-2fda-8173-bf00-c44a4b115baf",
-      "title": "The Effects of U.S. Public R&D on Global Growth",
-      "url": "https://www.dallasfed.org/~/media/documents/research/papers/2026/wp2622.pdf",
-      "published": "2026-08-04",
-      "summary": "Federal Reserve Bank of Dallas Working Papers by Gustavo de Souza, Andrew J. Fieldhouse, Karel Mertens, Ishan Nath and Valerie A. Ramey",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Central Bank Research Hub",
-      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
-    },
-    {
-      "id": "3b80e1df-2fda-8182-8f39-f8e3e1121072",
-      "title": "ForeComp: An R Package for Comparing Predictive Accuracy Using Fixed-Smoothing Asymptotics",
-      "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2026/wp26-38.pdf",
-      "published": "2026-08-04",
-      "summary": "Federal Reserve Bank of Philadelphia Working Papers by Nathan Schor and Minchul Shin",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Central Bank Research Hub",
-      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
-    },
-    {
-      "id": "3b20e1df-2fda-81d6-a91a-fbadc0384329",
-      "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
-      "published": "2026-08-04",
-      "summary": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
-      "regulator": "FRB",
-      "country": "US",
-      "type": "News",
-      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
-    },
-    {
-      "id": "3b20e1df-2fda-81bf-8f02-de7e59c15ed7",
-      "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
-      "published": "2026-08-04",
-      "summary": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
-      "regulator": "FRB",
-      "country": "US",
-      "type": "News",
-      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
-    },
-    {
-      "id": "3b20e1df-2fda-819b-a575-e066caa7f4a3",
-      "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
-      "published": "2026-08-04",
-      "summary": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
-      "regulator": "FRB",
-      "country": "US",
-      "type": "News",
-      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
-    },
-    {
-      "id": "3b20e1df-2fda-817c-a353-d2ee883d6d0c",
-      "title": "Últimos días para postular al Programa de Extensión de la SBS e impulsar tu desarrollo profesional",
-      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3966",
-      "published": "2026-08-04",
-      "summary": "Los interesados podrán conocer los beneficios, requisitos y etapas del proceso de selección en dos charlas informativas virtuales que se realizarán lo",
-      "regulator": "SBS Perú",
-      "country": "PE",
-      "type": "News",
-      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
-    },
-    {
-      "id": "3b20e1df-2fda-8183-8f38-cda9ce202b41",
-      "title": "SBS amplía el alcance del Reglamento de gobierno corporativo y gestión integral de riesgos",
-      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3967",
-      "published": "2026-08-04",
-      "summary": "",
-      "regulator": "SBS Perú",
-      "country": "PE",
-      "type": "News",
-      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
-    },
-    {
-      "id": "3b20e1df-2fda-8123-b90b-c69b1299e4f8",
-      "title": "Indicadores Trimestrales de la Actividad Turística (ITAT). Base 2018",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11050",
-      "published": "2026-08-04",
-      "summary": "Disminuyó 0.8% el PIB turístico y 0.7% el consumo turístico interior en el primer trimestre de 2026, a tasa trimestral",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3b20e1df-2fda-8100-9a34-e40bef377d4c",
-      "title": "Encuesta Nacional sobre Confianza del Consumidor (ENCO)",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11048",
-      "published": "2026-08-04",
-      "summary": "Aumentó 1.1 puntos la confianza del consumidor en julio de 2026, respecto al mes previo",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3b20e1df-2fda-811e-9508-e2d5cae77f50",
-      "title": "Registro administrativo de la industria automotriz de vehículos ligeros",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11051",
-      "published": "2026-08-04",
-      "summary": "Se vendieron en México 130 831 vehículos ligeros en julio de 2026; 3.4% más que en julio de 2025",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3b20e1df-2fda-8129-a20e-f4211ada673b",
-      "title": "Sistema de Indicadores Cíclicos",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11049",
-      "published": "2026-08-04",
-      "summary": "Aumentó 0.03 puntos el Indicador Coincidente en mayo de 2026, respecto a abril pasado",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3b20e1df-2fda-817a-962d-f7a72e9158e6",
-      "title": "On-the-job search in Europe and the U.S.: precautionary vs. job ladder motives",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3267~db61249945.en.pdf",
-      "published": "2026-08-04",
-      "summary": "While employer-to-employer (E2E) transitions are by now well-documented, these data alone cannot reveal what drives mobility: who searches, why, and how search translates into transitions. Using novel panel data from the ECB and NY Fed consumer expectations surveys, we provide the first systematic cross-country analysis of on-the job search (OJS) and E2E transitions across eleven euro area countries and the U.S. Our data uniquely include direct measures of OJS and its motives (job loss expectations for precautionary, pay satisfaction for job ladder) for all workers, not just searchers. We find that OJS is widespread, making employed workers the majority of searchers, and it strongly predicts E2E transitions. Motives differ dramatically: precautionary search dominates in Europe, while the job ladder motive dominates in the U.S. OJS is highly persistent, with 40% continuing to search even after starting a new job.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3b20e1df-2fda-8160-92fd-cc6c22e870e2",
-      "title": "Severity over quantity. Drivers of supervisory capital add-ons in internal ratings-based models",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3268~2149ee18e6.en.pdf",
-      "published": "2026-08-04",
-      "summary": "Banks use their internal models to estimate capital requirements in a risk-sensitive way, subject to a set of rules laid down in banking regulation. However, these models are not flawless as the usage of models suffers from imperfections, such as oversimplifications or wrong assumptions. As a result, risks may be underestimated. This is particularly troublesome, where models are used to assess risks to banks’ solvency. In this paper we address an important gap in the literature with regard to such model risk. We find that a small set of high severity deficiencies in models is responsible for the majority of the counterfactual RWA burden imposed by supervisory capital add-ons. We trace the underlying non-compliances to a subset of CRR articles that mostly govern the handling of IRB-relevant data by banks. Our results help improve the supervision of IRB-banks by proposing more efficient use of scarce supervisory resources.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3b20e1df-2fda-81f8-a395-f518b0ead63f",
-      "title": "Europe’s venture capital gap and the financing of high-growth firms",
-      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202605_01~4453cc2a34.en.html",
-      "published": "2026-08-04",
-      "summary": "This box examines EU venture capital market developments and the implications for firm financing and growth. Venture capital in the EU remains limited in scale and fragmented across national markets, with gaps particularly evident at later stages of financing where they are partially filled by non-EU investors. Although venture capital from outside the EU can help firms expand, a strong reliance on external investors may reduce Europe’s ability to retain the economic gains generated by its entrepreneurial ecosystem. At the same time, venture capital in Europe appears broadly well targeted towards high-performing firms, suggesting significant potential to support growth. Policy action to deepen and integrate the EU venture capital ecosystem can therefore help strengthen the EU economy.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3b20e1df-2fda-8179-be50-c67727e95598",
-      "title": "AI Offers Lifeline to Developing Economies in an Era of Weak Growth",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/08/04/ai-offers-lifeline-to-developing-economies-in-an-era-of-weak-growth",
-      "published": "2026-08-04",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3b80e1df-2fda-81f0-ada4-e81d6693965a",
