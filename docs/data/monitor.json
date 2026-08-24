@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-24T15:43:07.610494+00:00",
-  "total_items": 189,
+  "generated_at": "2026-08-24T21:36:39.545270+00:00",
+  "total_items": 192,
   "items": [
+    {
+      "id": "3c60e1df-2fda-819e-b230-d005210269b3",
+      "title": "Nunca es tarde para emprender: cinco recomendaciones para empezar con buen pie",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3980",
+      "published": "2026-08-24",
+      "summary": "En el marco del Día del Adulto Mayor, la SBS comparte recomendaciones para que quienes decidan iniciar un emprendimiento administren mejor sus recurso",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3c60e1df-2fda-810a-b757-e34944ccb375",
+      "title": "Reporte de Inclusión Financiera 2025: avances en depósitos, crédito, cobertura y transacciones",
+      "url": "https://www.superfinanciera.gov.co/10116222",
+      "published": "2026-08-24",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "3c60e1df-2fda-81fd-b599-eab745d524ed",
+      "title": "FEDS Paper: Characterizing the Conditional Pricing Kernel: A New Approach",
+      "url": "https://www.federalreserve.gov/econres/feds/characterizing-the-conditional-pricing-kernel-a-new-approach.htm",
+      "published": "2026-08-24",
+      "summary": "Hyung Joo Kim I propose a novel method to reliably estimate the conditional pricing kernel by incorporating conditioning variables. The VIX and the term spread are most informative variables for identifying state prices. The conditional kernel estimate exhibits significant time variation: the more favorable market expectations, the higher state prices in negative return states. During bad times, the equity premium implied by the conditional kernel is fully attributable to compensation for left-tail scenarios, in contrast to findings from the unconditional kernel. Lastly, the conditional kernel estimate yields superior out-of-sample option pricing performance compared to the unconditional kernel estimate.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
     {
       "id": "3c60e1df-2fda-8137-ade8-d5910ae715f1",
       "title": "SBS uniformiza tratamiento contable de los pagos efectuados dentro de controversias tributarias que realicen las empresas supervisadas",
