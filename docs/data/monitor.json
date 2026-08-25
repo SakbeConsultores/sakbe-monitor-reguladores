@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-25T15:46:35.319006+00:00",
-  "total_items": 218,
+  "generated_at": "2026-08-25T21:35:59.594908+00:00",
+  "total_items": 221,
   "items": [
+    {
+      "id": "3c70e1df-2fda-81c9-b1d0-c00b01d94547",
+      "title": "SBS dispone medidas temporales para flexibilizar el pago de créditos de deudores afectados por el Fenómeno de El Niño",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3981",
+      "published": "2026-08-25",
+      "summary": "Entidades financieras podrán reprogramar deudas de personas y empresas afectadas sin alterar su calificación crediticia ni considerarlas refinanciacio",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3c70e1df-2fda-8121-8153-e3a9573b4acb",
+      "title": "Índice de Capitalización de Casas de Bolsa al cierre de junio de 2026",
+      "url": "https://www.gob.mx/cnbv/prensa/indice-de-capitalizacion-de-casas-de-bolsa-al-cierre-de-junio-de-2026?idiom=es",
+      "published": "2026-08-25",
+      "summary": "",
+      "regulator": "CNBV",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.gob.mx/cnbv/archivo/prensa?idiom=es"
+    },
+    {
+      "id": "3c70e1df-2fda-8185-88db-f80607fa1cca",
+      "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+      "published": "2026-08-25",
+      "summary": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
     {
       "id": "3c70e1df-2fda-8114-99e7-f8636e6992ee",
       "title": "Encuesta Nacional de Empresas Constructoras (ENEC). Serie 2018",
