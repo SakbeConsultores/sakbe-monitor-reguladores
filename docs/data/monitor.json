@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-26T19:43:45.542652+00:00",
-  "total_items": 252,
+  "generated_at": "2026-08-26T20:36:19.637067+00:00",
+  "total_items": 258,
   "items": [
+    {
+      "id": "3c80e1df-2fda-81b3-87f1-f3c76d313a8e",
+      "title": "SBS: La inclusión financiera requiere educación para ser efectiva",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3983",
+      "published": "2026-08-26",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3c80e1df-2fda-8198-8de7-eeac35220cf3",
+      "title": "Informe trimestral, abril-junio 2026",
+      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/informes-trimestrales/informes-trimestrales-precios.html",
+      "published": "2026-08-26",
+      "summary": "",
+      "regulator": "Banxico",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.banxico.org.mx/noticias/noticias001.html"
+    },
+    {
+      "id": "3c80e1df-2fda-81db-bfb8-f01eb18de369",
+      "title": "Coeficiente de Cobertura de Liquidez y Coeficiente de Financiamiento Estable Neto al segundo trimestre de 2026",
+      "url": "https://www.gob.mx/cnbv/prensa/coeficiente-de-cobertura-de-liquidez-y-coeficiente-de-financiamiento-estable-neto-al-segundo-trimestre-de-2026?idiom=es",
+      "published": "2026-08-26",
+      "summary": "",
+      "regulator": "CNBV",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.gob.mx/cnbv/archivo/prensa?idiom=es"
+    },
     {
       "id": "3c80e1df-2fda-8113-8d18-f034e53ebba5",
       "title": "El Ministro de Hacienda y Crédito Público posesionó al Superintendente Financiero de Colombia, Pablo Andrés Rivas Herazo",
@@ -1202,6 +1235,17 @@
       "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
+      "id": "3c80e1df-2fda-81cc-8caa-f3686aedb2ca",
+      "title": "Minuta de la reunión de la Junta de Gobierno del Banco de México, con motivo de la decisión de política monetaria anunciada el 6 de agosto de 2026",
+      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/minutas-de-las-decisiones-de-politica-monetaria/{2C056A20-C01E-9A8C-F4C3-6BB70D49BABF}.pdf",
+      "published": "2026-08-20",
+      "summary": "",
+      "regulator": "Banxico",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.banxico.org.mx/noticias/noticias001.html"
+    },
+    {
       "id": "3c80e1df-2fda-81c1-b345-deddc0395284",
       "title": "Héctor Del Rosario Rodríguez, ganador del Concurso Latinoamericano de Monografías COPLAFT 2026",
       "url": "https://felaban.com/hector-del-rosario-rodriguez-ganador-del-concurso-latinoamericano-de-monografias-coplaft-2026/",
@@ -1420,6 +1464,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3c80e1df-2fda-81a6-802a-c9d1b2776077",
+      "title": "Segunda sesión de 2026 del Comité Técnico del Fondo de Pensiones para el Bienestar",
+      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/miscelaneos/{52DB6DF8-DB24-A032-F2FD-2D14667BF662}.pdf",
+      "published": "2026-08-18",
+      "summary": "",
+      "regulator": "Banxico",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.banxico.org.mx/noticias/noticias001.html"
     },
     {
       "id": "3c30e1df-2fda-81f0-add9-d0e50c9d9f55",
@@ -2223,6 +2278,17 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3c80e1df-2fda-8108-a938-c912e5bc4ebc",
+      "title": "Cambio de fecha de la publicación del Informe Trimestral correspondiente al segundo trimestre de 2026",
+      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/miscelaneos/{232B8CDE-544D-6A4B-980D-4F82AC9DBAB1}.pdf",
+      "published": "2026-08-07",
+      "summary": "",
+      "regulator": "Banxico",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.banxico.org.mx/noticias/noticias001.html"
     },
     {
       "id": "3b80e1df-2fda-8166-8df5-ee4cfc74246a",
