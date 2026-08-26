@@ -137,7 +137,7 @@ feeds:
     url: https://www.ecb.europa.eu/rss/wppub.html
     source: rss
 
-  # ═══════════════════════ ESTADOS UNIDOS ═══════════════════════
+  # ═══════════════════════ ESTADOS UNIDOS ═════════════════════════
 
   - regulator: FRB
     country: US
@@ -223,3 +223,16 @@ feeds:
     url: https://www.sbs.gob.pe/notadeprensa
     source: scraper
     scraper_module: sbs_peru_news
+
+  # ═══════════════════ AMÉRICA LATINA (regional) ═════════════════
+
+  # FELABAN = Federación Latinoamericana de Bancos. Es un organismo
+  # regional, no de un país específico, por eso country: Global (no
+  # existe una opción "LatAm" en el select "Pais" de Notion; si en
+  # algún momento se agrega, actualizar este bloque).
+  - regulator: FELABAN
+    country: Global
+    type: News
+    url: https://felaban.com/noticias/
+    source: scraper
+    scraper_module: felaban_news
