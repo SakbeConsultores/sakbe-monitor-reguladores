@@ -113,8 +113,8 @@ Generado por GitHub Actions desde feeds RSS oficiales. Datos en
 <div class="sidebar-body" id="sel-list"></div>
 <div class="generate-section">
 <div class="generate-label">Generar prompt para IA</div>
-<button class="gen-btn" onclick="generate('linkedin')">Post LinkedIn<span class="btn-sub">600 a 900 caracteres, prosa</span></button>
-<button class="gen-btn" onclick="generate('substack')">Nota Substack<span class="btn-sub">300 a 500 palabras, análisis directo</span></button>
+<button class="gen-btn" onclick="generate('linkedin')">Post LinkedIn<span class="btn-sub">300 a 500 palabras, prosa</span></button>
+<button class="gen-btn" onclick="generate('substack')">Nota Substack<span class="btn-sub">150 a 300 palabras, análisis directo</span></button>
 <button class="gen-btn" onclick="generate('hilo')">Hilo de análisis<span class="btn-sub">5 a 8 puntos con contexto</span></button>
 <button class="gen-btn" onclick="generate('paper')">Outline de artículo<span class="btn-sub">Estructura para análisis profundo</span></button>
 </div>
@@ -417,14 +417,14 @@ const header = 'Noticias regulatorias seleccionadas:\n' + news + '\n\n';
 
 if (type === 'linkedin')
 return header +
-'Escribe UN SOLO post de LinkedIn. Entre 600 y 900 caracteres. ' +
+'Escribe UN SOLO post de LinkedIn. Entre 300 y 500 palabras. ' +
 'Empieza con el dato concreto más relevante, sin contexto introductorio. ' +
 'Conecta con implicaciones prácticas para instituciones financieras de ' +
 'Latinoamérica. Cierra con una pregunta o postura específica. ' +
-'Prosa, sin lista de puntos. Sin guion largo.';
+'Prosa, sin lista de puntos. Sin guion largo. Incluye hashtags.';
 if (type === 'substack')
 return header +
-'Escribe una nota de Substack de 300 a 500 palabras. Un argumento por ' +
+'Escribe una nota de Substack de 150 a 300 palabras. Un argumento por ' +
 'párrafo. Empieza con el hecho central, desarrolla la implicación práctica ' +
 'para el director de riesgos, el CFO o el consejo, cierra con una postura ' +
 'o pregunta de fondo. Sin párrafo de resumen repetitivo al final.';
