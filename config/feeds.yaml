@@ -203,6 +203,13 @@ feeds:
     url: https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1
     source: rss
 
+  - regulator: Banxico
+    country: MX
+    type: News
+    url: https://www.banxico.org.mx/noticias/noticias001.html
+    source: scraper
+    scraper_module: banxico_news
+
   # ═══════════════════════════ COLOMBIA ═════════════════════════
 
   # NOTA: La URL apunta a la página del año en curso. En enero del año
