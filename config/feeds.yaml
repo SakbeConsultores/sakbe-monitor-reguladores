@@ -226,12 +226,10 @@ feeds:
 
   # ═══════════════════ AMÉRICA LATINA (regional) ═════════════════
 
-  # FELABAN = Federación Latinoamericana de Bancos. Es un organismo
-  # regional, no de un país específico, por eso country: Global (no
-  # existe una opción "LatAm" en el select "Pais" de Notion; si en
-  # algún momento se agrega, actualizar este bloque).
+  # FELABAN = Federación Latinoamericana de Bancos. Organismo regional,
+  # no de un país específico.
   - regulator: FELABAN
-    country: Global
+    country: LatAm Regional
     type: News
     url: https://felaban.com/noticias/
     source: scraper
