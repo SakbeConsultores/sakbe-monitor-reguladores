@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-26T16:22:09.206340+00:00",
-  "total_items": 246,
+  "generated_at": "2026-08-26T19:43:45.542652+00:00",
+  "total_items": 252,
   "items": [
+    {
+      "id": "3c80e1df-2fda-8113-8d18-f034e53ebba5",
+      "title": "El Ministro de Hacienda y Crédito Público posesionó al Superintendente Financiero de Colombia, Pablo Andrés Rivas Herazo",
+      "url": "https://www.superfinanciera.gov.co/10116229",
+      "published": "2026-08-26",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
     {
       "id": "3c80e1df-2fda-810b-bfd1-f05b9d7f1441",
       "title": "SBS amplía los límites aplicables a retiros y depósitos de los establecimientos de operaciones básicas para impulsar la inclusión financiera",
@@ -430,6 +441,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3c80e1df-2fda-81fc-9728-d4d334c21b2b",
+      "title": "Las perspectivas de crecimiento de América Latina",
+      "url": "https://felaban.com/las-perspectivas-de-crecimiento-de-america-latina/",
+      "published": "2026-08-25",
+      "summary": "De acuerdo con el reciente trabajo de CEPAL el crecimiento económico de América Latina se ubicaría en 2.2% en el año 2026. Un número muy cercano a lo ocurrido los últimos 4 años e insuficiente para generar una mejora del ingreso per cápita, así como el combate de fenómenos como la pobreza monetaria. El crecimiento económico luce vulnerable dada una situación en la cual, la inversión (FBKF) crece poco, el consumo puede fatigarse y las cuentas externas son altamente sensibles a temas como remesas del exterior, precios de los bienes básicos y condiciones financieras externas. El multilateral en su análisis considera que la inversión debe encontrar entornos para retornar a niveles superiores a los actuales. Esto podría tener efectos virtuosos",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
     },
     {
       "id": "3c80e1df-2fda-817d-bfe5-d42b5b548aae",
@@ -1180,6 +1202,28 @@
       "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
+      "id": "3c80e1df-2fda-81c1-b345-deddc0395284",
+      "title": "Héctor Del Rosario Rodríguez, ganador del Concurso Latinoamericano de Monografías COPLAFT 2026",
+      "url": "https://felaban.com/hector-del-rosario-rodriguez-ganador-del-concurso-latinoamericano-de-monografias-coplaft-2026/",
+      "published": "2026-08-20",
+      "summary": "Nos complace compartir que Héctor Del Rosario Rodríguez, Vicepresidente Adjunto de Cumplimiento del Banco Múltiple Promerica, S.A. de República Dominicana, resultó ganador del Concurso Latinoamericano de Monografías en materia de Prevención del Lavado de Activos y Financiamiento del Terrorismo (COPLAFT) 2026, realizado por la Federación Latinoamericana de Bancos, FELABAN, con el trabajo titulado: 📄 “Gobernanza y RegTech en el Nuevo Orden Financiero: El Papel de la IA y Blockchain en la Arquitectura de Cumplimiento PLAFT 2026” El reconocimiento le fue entregado en el marco de la 30.ª edición del Congreso Hemisférico para la Prevención del Blanqueo de Capitales, el Financiamiento del Terrorismo y la Proliferación de Armas de Destrucción Masiva, celebrado en Panamá, el cual fue organizado por la Asociación",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
+    {
+      "id": "3c80e1df-2fda-81f5-a9d1-ded5dd274ec3",
+      "title": "38° Informe Económico Bancario Trimestral",
+      "url": "https://felaban.com/38-informe-economico-bancario-trimestral/",
+      "published": "2026-08-20",
+      "summary": "La Federación Latinoamericana de Bancos (FELABAN), a través de su Comité Latinoamericano de Economistas (CLEC), presenta la edición No. 38 del Informe Económico Bancario Regional, con cifras bancarias con corte a marzo de 2026. Esta publicación trimestral ofrece una radiografía completa del comportamiento del sistema financiero en América Latina, combinando el análisis de coyuntura económica con las principales cifras del sector bancario regional. En esta edición, el informe profundiza en el papel de la PYME dentro del tejido económico latinoamericano: sus características, los desafíos de formalidad y productividad que enfrenta, y el estado actual de su acceso al financiamiento. Asimismo, se presenta un panorama detallado de las cifras del sector bancario de la región, incluyendo la cantidad de entidades bancarias,",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
+    {
       "id": "3c60e1df-2fda-8136-aad0-d9fc9b093245",
       "title": "OCC Announces Enforcement Actions for August 2026",
       "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-70.html",
@@ -1686,6 +1730,17 @@
       "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
+      "id": "3c80e1df-2fda-8116-ad7a-d2c65bf28893",
+      "title": "El riesgo soberano en América Latina",
+      "url": "https://felaban.com/el-riesgo-soberano-en-america-latina-3/",
+      "published": "2026-08-13",
+      "summary": "En América Latina distintos acontecimientos han marcado la situación reciente. En Brasil el Parlamento aprobó un paquete que busca frenar el crecimiento del gasto público. Los temores por el crecimiento de la deuda pública y un ambiente pre elecciones presidenciales han exacerbado la volatilidad de las variables financieras y generado algunas turbulencias de corto plazo en los mercados. En Chile, el Parlamento aprobó medidas que buscan acelerar la tasa de crecimiento económico. Dentro de dichas decisiones se tiene la de rebajar los impuestos corporativos de 27% al 23%. En Colombia el nuevo gobierno enfrenta la emergencia de gasto producida por los nefastos efectos de un terremoto el pasado lunes. En ese marco se habla de medidas de excepción para acelerar",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
+    {
       "id": "3c40e1df-2fda-819a-a17a-f6ff2cbabc68",
       "title": "Superfinanciera refuerza la atención a afectados por el sismo con Quejas Exprés",
       "url": "https://www.superfinanciera.gov.co/10116212",
@@ -1838,6 +1893,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3c80e1df-2fda-81d0-bcff-db6011caa941",
+      "title": "Las PYME y su preferencia societaria en América Latina",
+      "url": "https://felaban.com/las-pyme-y-su-preferencia-societaria-en-america-latina/",
+      "published": "2026-08-12",
+      "summary": "Datos publicados por el BID Invest (2026) señalan que las firmas en América Latina cuentan con una baja participación de sociedades con responsabilidad limitada.  En el mundo industrializado es común que los fundadores de firmas elijan la opción de firmas con responsabilidad limitada. La evidencia internacional muestra que las firmas que cuya naturaleza es limitada resultan tener más empleo formal contratado, así como, mejores niveles de salarios reales. Esta forma jurídica no es la predominante en América Latina, razón por la cual, las empresas, en especial las PYME, encuentran mayores limitaciones a la hora de asumir riesgos financieros y de mercado. A esto hay que sumar el hecho de que las PYME en la región son heterogéneas, menos productivas y",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
     },
     {
       "id": "3c00e1df-2fda-81f2-a0e9-e58e682f4643",
