@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-08-28T05:12:24.696985+00:00",
-  "total_items": 271,
+  "generated_at": "2026-08-28T23:56:27.926680+00:00",
+  "total_items": 278,
   "items": [
+    {
+      "id": "3ca0e1df-2fda-81fc-8018-c115e42cd3ad",
+      "title": "SBS publica proyecto de norma para prevenir el LA/FT aplicable a los laboratorios y empresas que producen y/o comercializan insumos químicos y bienes fiscalizados",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3987",
+      "published": "2026-08-28",
+      "summary": "El proyecto cobra especial importancia debido a que la minería ilegal y el tráfico ilícito de drogas son delitos con un nivel de riesgo muy alto asoci",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3ca0e1df-2fda-8103-8327-d29da8c167d5",
+      "title": "Abecé del seguro – Terremoto 2026",
+      "url": "https://www.superfinanciera.gov.co/10116234",
+      "published": "2026-08-28",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "3ca0e1df-2fda-8165-8344-fda35987289e",
+      "title": "Estadísticas de Defunciones Fetales (EDF)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11150",
+      "published": "2026-08-28",
+      "summary": "En 2025 se registraron 20 741 muertes fetales",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3ca0e1df-2fda-818e-a94a-cd39696eca01",
+      "title": "Producto Interno Bruto Trimestral (PIBT). Año base 2018. Por el Método del Ingreso",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11152",
+      "published": "2026-08-28",
+      "summary": "Representó la remuneración de los asalariados 30.8% del PIB en el primer trimestre de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3ca0e1df-2fda-81fd-9ae2-c011e278fd2c",
+      "title": "Producto Interno Bruto Trimestral (PIBT). Año base 2018. Por el Método del Gasto",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11153",
+      "published": "2026-08-28",
+      "summary": "Representó la remuneración de los asalariados 30.8% del PIB en el primer trimestre de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3ca0e1df-2fda-817e-8abf-e4f1323d4cc9",
+      "title": "Cuentas por Sectores Institucionales Trimestrales (CSIT). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11151",
+      "published": "2026-08-28",
+      "summary": "Generaron Sociedades no financieras y Hogares 78.5% del PIB, en el primer trimestre de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3ca0e1df-2fda-811f-bb39-ffda6fc79d9b",
+      "title": "Isabel Schnabel: Central banks on-chain",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
+      "published": "2026-08-28",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
     {
       "id": "3ca0e1df-2fda-811c-99ea-d69ffaccfb25",
       "title": "SBS agiliza proceso de autorización para ingreso de nuevas empresas en el sistema financiero y asegurador",
