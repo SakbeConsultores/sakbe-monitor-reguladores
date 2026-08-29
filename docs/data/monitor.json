@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-28T23:56:27.926680+00:00",
-  "total_items": 278,
+  "generated_at": "2026-08-29T03:09:35.466001+00:00",
+  "total_items": 282,
   "items": [
+    {
+      "id": "3cb0e1df-2fda-818c-b1f8-ee17b2444642",
+      "title": "What’s Next for Africa’s Integration Agenda",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/08/28/whats-next-for-africas-integration-agenda",
+      "published": "2026-08-28",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3ca0e1df-2fda-81fc-8018-c115e42cd3ad",
       "title": "SBS publica proyecto de norma para prevenir el LA/FT aplicable a los laboratorios y empresas que producen y/o comercializan insumos químicos y bienes fiscalizados",
@@ -309,6 +320,28 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3cb0e1df-2fda-8144-8cd0-dab168956aa1",
+      "title": "Strong Sterling Investor Demand Drives World Bank's GBP 1.25 Billion 6-Year Benchmark Bond",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/08/26/strong-sterling-investor-demand-drives-world-bank-s-gbp-1-25-billion-6-year-benchm",
+      "published": "2026-08-26",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3cb0e1df-2fda-81df-8bdb-f9eead2a377d",
+      "title": "World Bank Group Backs Water Security and Agricultural Resilience in Brazil's Paraná State",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/08/26/world-bank-group-backs-water-security-and-agricultural-resilience-in-brazil-s-para",
+      "published": "2026-08-26",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3ca0e1df-2fda-81c1-992b-cb99213eaed3",
@@ -804,6 +837,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3cb0e1df-2fda-81e2-bcc0-e7145b063e36",
+      "title": "World Bank's EUR 3 Billion 10-Year Sustainable Development Bond Attracts Exceptional Global Demand",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/08/25/world-bank-s-eur-3-billion-10-year-sustainable-development-bond-attracts-exception",
+      "published": "2026-08-25",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3c80e1df-2fda-81fc-9728-d4d334c21b2b",
