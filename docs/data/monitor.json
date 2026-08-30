@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T23:11:24.340079+00:00",
-  "total_items": 290,
+  "generated_at": "2026-08-30T18:30:55.078786+00:00",
+  "total_items": 279,
   "items": [
     {
       "id": "3cb0e1df-2fda-818c-b1f8-ee17b2444642",
@@ -2619,127 +2619,6 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "3c00e1df-2fda-81b2-8bb0-fd4e4a2a5aba",
-      "title": "Are We Consuming Too Much Groundwater?",
-      "url": "https://www.dallasfed.org/~/media/documents/research/papers/2026/wp2626.pdf",
-      "published": "2026-08-10",
-      "summary": "Federal Reserve Bank of Dallas Working Papers by Brian Greaney, Joseph S. Shapiro and Katherine R. H. Wagner",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Central Bank Research Hub",
-      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
-    },
-    {
-      "id": "3bb0e1df-2fda-813a-8853-e4ab2ed131db",
-      "title": "Will AI Intensify or Weaken Market Competition?",
-      "url": "https://www.frbsf.org/wp-content/uploads/wp2026-15.pdf",
-      "published": "2026-08-10",
-      "summary": "Federal Reserve Bank of San Francisco Working Papers by Hamid Firooz, Sylvain Leduc and Zheng Liu",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Central Bank Research Hub",
-      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
-    },
-    {
-      "id": "3bb0e1df-2fda-8197-9346-ef5c0c5cec01",
-      "title": "Reaching for Duration",
-      "url": "https://www.frbsf.org/wp-content/uploads/wp2026-16.pdf",
-      "published": "2026-08-10",
-      "summary": "Federal Reserve Bank of San Francisco Working Papers by Thomas M. Mertens, Pascal Paul and Andrés Schneider",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Central Bank Research Hub",
-      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
-    },
-    {
-      "id": "3bb0e1df-2fda-81d6-8bc6-e21a941c1021",
-      "title": "The Erosion of Public Capital in Portugal",
-      "url": "https://doi.org/10.20955/wp.2026.016",
-      "published": "2026-08-10",
-      "summary": "Federal Reserve Bank of St Louis Working Papers by Miguel Faria-e-Castro",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Central Bank Research Hub",
-      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
-    },
-    {
-      "id": "3b90e1df-2fda-811f-990a-dbf7bda8e6b5",
-      "title": "COMUNICADO: SBS precisa información sobre contratación de servicio de agenciamiento de pasajes aéreos y rol de la UIF-Perú",
-      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3970",
-      "published": "2026-08-10",
-      "summary": "",
-      "regulator": "SBS Perú",
-      "country": "PE",
-      "type": "News",
-      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
-    },
-    {
-      "id": "3b80e1df-2fda-811e-870b-e38288e603e0",
-      "title": "Indicador Mensual de la Actividad Industrial por Entidad Federativa (IMAIEF). Año base 2018",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11058",
-      "published": "2026-08-10",
-      "summary": "Aumentó la actividad industrial a tasa mensual en Oaxaca (11.8 %), Ciudad de México (9.4 %) y Quintana Roo (7.1 %), en abril de 2026",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3b80e1df-2fda-816b-b84e-e938f98bd120",
-      "title": "Prohibition of monetary financing: an economic perspective",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op397.en.pdf",
-      "published": "2026-08-10",
-      "summary": "This paper analyses the European prohibition of monetary financing from an economic perspective. The prohibition seeks to safeguard central bank independence in setting monetary policy to maintain price stability, and to preserve fiscal discipline, thereby preventing monetary policy from becoming constrained or hindered by fiscal policies. Imposing a prohibition on financing public deficits helps to ensure a clear separation of responsibilities between monetary policy and fiscal policy and is consistent with a range of macroeconomic theories, including monetarism and the fiscal theory of the price level. The current EU-wide ban is more stringent than those in place in Europe before the start of Economic and Monetary Union and also than those prevailing in other major currency areas of the world. Tasked with monitoring compliance with the prohibition among European national central banks, the European Central Bank (ECB) has developed certain standards over time, informed by definitions contained in EU regulations and by cases that have arisen over the years. Over the three decades since its introduction, the prohibition in general has been well respected, although a few actual or potential conflicts with the prohibition have required national central banks to take corrective action. Recent economic crises in Europe have given rise to academic proposals to reinterpret or circumvent the ban, notably during the COVID-19 pandemic. These suggestions have included central banks handing out “helicopter money” to the public and cancelling part of the government debt held by European central banks. In general, these proposals would seem to jeopardise the prohibition of monetary financing and ultimately weaken price stability and sound public finances.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3b80e1df-2fda-81de-bfd1-d02d79fd3e5a",
-      "title": "Monetary policy and the rigidity of firm employment expectations",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3272~c97e29895d.en.pdf",
-      "published": "2026-08-10",
-      "summary": "This paper examines how monetary policy announcements affect firms’ employment expectations. Using German survey data, we combine high-frequency monetary policy surprises with survey response dates to identify the immediate and dynamic effects of monetary policy on firm-level expectations and subsequent employment. Contractionary shocks lead firms to revise employment plans downward immediately and persistently, eventually reducing employment growth. Initially, hiring plans are reduced, while layoffs increase later. Production expectations adjust twice as often but revert faster, consistent with greater labour market rigidity. Labour market institutions shape these responses: firms subject to the minimum wage or with lower collective bargaining coverage revise employment expectations more strongly. Financially constrained firms exhibit disproportionately larger downward revisions, indicating that the financial accelerator operates already at the expectation formation stage. Because firms adjust plans well before effects appear in aggregate data, employment expectations provide an early measure of monetary policy transmission to the labour market.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3b80e1df-2fda-8108-8cd2-c190b1e4ef27",
-      "title": "Vision for the Integrated Reporting System (10 August 2026)",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-08/f2b02c01-74b3-4f9a-bdee-71f7102eec49/Vision%20for%20the%20Integrated%20Reporting%20System%20%2810%20August%202026%29.pdf",
-      "published": "2026-08-10",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3b80e1df-2fda-81f3-8eb9-da8fa15f6e99",
-      "title": "Honoring Indigenous Midwives: Recognizing Indigenous Women’s Role in Delivering Family and Community Healthcare Across the World",
-      "url": "https://www.worldbank.org/en/news/feature/2026/08/10/honoring-indigenous-midwives-in-family-and-community-care",
-      "published": "2026-08-10",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3b80e1df-2fda-81fd-b7e6-c1a10afdd31e",
-      "title": "More than One Million Papua New Guineans to See Improved Rural Services Through New World Bank Group Support",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/08/10/more-than-one-million-papua-new-guineans-to-see-improved-rural-services-through-ne",
-      "published": "2026-08-10",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3b80e1df-2fda-81f0-ada4-e81d6693965a",
