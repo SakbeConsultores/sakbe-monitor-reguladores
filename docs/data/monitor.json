@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-08-30T23:21:36.127695+00:00",
-  "total_items": 279,
+  "generated_at": "2026-08-31T20:44:24.468004+00:00",
+  "total_items": 277,
   "items": [
+    {
+      "id": "3cd0e1df-2fda-817c-ae0f-f126f477177b",
+      "title": "SBS refuerza normativa relacionada a la recaudación de aportes de las AFOCAT",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3988",
+      "published": "2026-08-31",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3cd0e1df-2fda-8185-ae66-cd3c89ed2087",
+      "title": "Índices Globales de Personal y Remuneraciones de los Sectores Económicos (IGPERSE)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11154",
+      "published": "2026-08-31",
+      "summary": "Disminuyó 0.3 % el índice global de personal ocupado respecto al mes previo, en junio de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3cd0e1df-2fda-817b-829a-f94d7295be73",
+      "title": "OCC Issues Fourth Quarter 2026 and First Quarter 2027 CRA Evaluation Schedule",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-73.html",
+      "published": "2026-08-31",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today released its schedule of Community Reinvestment Act (CRA) evaluations to be conducted in the fourth quarter of 2026 and the first quarter of 2027.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "3cd0e1df-2fda-8128-913d-eb0004d58921",
+      "title": "IFDP Paper: Pricing Risk Globally: Intermediary Constraints, the Dollar, and the Global Financial Cycle",
+      "url": "https://www.federalreserve.gov/econres/ifdp/pricing-risk-globally-intermediary-constraints-the-dollar-and-the-global-financial-cycle.htm",
+      "published": "2026-08-31",
+      "summary": "Ozge Akinci, Sebnem Kalemli-Ozcan, and Albert Queralto We study how increased uncertainty about U.S. asset returns affects global asset prices and exchange rates in a two-country model with intermediary balance-sheet constraints. Empirically, uncertainty shocks widen global credit spreads, appreciate the dollar, and increase currency risk premia. In our model, higher uncertainty tightens intermediary constraints and lowers asset prices, reversing the counterfactual asset price increase in frictionless models. Because constraints make net worth especially valuable in bad times, risk premia respond strongly to uncertainty shocks. This interaction allows the model to match the credit spread, currency premium, and dollar responses in the data.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3cd0e1df-2fda-8142-8ddc-fce00b062a26",
+      "title": "FEDS Paper: United States of U-Star",
+      "url": "https://www.federalreserve.gov/econres/feds/united-states-of-u-star.htm",
+      "published": "2026-08-31",
+      "summary": "Hie Joo Ahn and Jeremy Rudd This paper estimates state-level trend unemployment rates (trend U-star) based on the trend components of unemployment inflows and outflows across unemployment durations. The estimated trend U-stars, particularly the portions attributable to long-termunemployment, have levels and dynamics that vary substantially across states. Long-termunemployment makes a relatively small contribution to trend U-star in agricultural states, but takes a larger share for Rust Belt states and several states in the Sun Belt. While higher educational attainment and population aging put downward pressure on U-star, the effects of industrial structure and labor-market rigidities are mixed. Using the estimates of state-level trend U-star, we revisit previous work on state-level Phillips curves and find that the estimated slopes of forward-looking inflation equations are driven bymovements in trend U-star rather than by cyclical variation in the unemployment rate.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3cd0e1df-2fda-81d9-9891-e1e134827d71",
+      "title": "Joint Statement by the Multilateral Development Banks and International Financial Institutions on Strengthening Fertilizer Supply Chains",
+      "url": "https://www.worldbank.org/en/news/statement/2026/08/31/joint-statement-by-the-multilateral-development-banks-and-international-financial",
+      "published": "2026-08-31",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3cb0e1df-2fda-818c-b1f8-ee17b2444642",
       "title": "What’s Next for Africa’s Integration Agenda",
@@ -89,6 +155,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3cd0e1df-2fda-81c3-aee0-ff6e67e9a665",
+      "title": "Small AI Transforms Farming in India",
+      "url": "https://www.worldbank.org/en/news/feature/2026/08/27/small-ai-transforms-farming-in-india",
+      "published": "2026-08-27",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3cb0e1df-2fda-813c-910a-fc83bd374991",
@@ -872,6 +949,17 @@
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
+      "id": "3cd0e1df-2fda-81b4-ae06-e7444bbaface",
+      "title": "From Evidence to Impact: How We Are Reimagining Learning",
+      "url": "https://www.worldbank.org/en/news/feature/2026/08/25/from-evidence-to-impact-how-we-are-reimagining-learning",
+      "published": "2026-08-25",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
       "id": "3cb0e1df-2fda-8124-a8a2-f6a7a2f0522f",
       "title": "Settlement liquidity in the Colombian large-value payment system: the role of reserve requirements",
       "url": "https://www.bis.org/publications/working-paper-1373-settlement-liquidity-colombian-large-value-payment-system-role-reserve-requirements",
@@ -1387,6 +1475,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3cd0e1df-2fda-81f0-b031-f6868d6a164b",
+      "title": "How Better Connectivity Is Transforming Learning Across Ethiopian Campuses",
+      "url": "https://www.worldbank.org/en/news/feature/2026/08/24/how-better-connectivity-is-transforming-learning-across-ethiopian-campuses",
+      "published": "2026-08-24",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3cb0e1df-2fda-819d-b580-f1b4b5dd7f27",
@@ -2478,147 +2577,26 @@
       "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
     },
     {
-      "id": "3cb0e1df-2fda-81b6-ba54-f5a002e7a87b",
-      "title": "Africa's public debt amid global headwinds: balancing resilience and vulnerabilities",
-      "url": "https://www.bis.org/publications/bulletin-132-africas-public-debt-amid-global-headwinds-balancing-resilience-and-vulnerabilities",
-      "published": "2026-08-11",
-      "summary": "The conflict in the Middle East has raised energy and fertiliser prices, weakened growth and intensified fiscal pressures across Africa at a time when public debt and debt service burdens remain elevated. The shift towards domestic currency debt has reduced exchange rate risk for issuers and preserved market access, but higher interest rates and shorter maturities have increased debt service costs and rollover risks. A heavy reliance on banks and central banks for government financing can reinforce the sovereign-bank nexus, crowd out private credit and threaten financial stability. Developing deeper markets and a more diversified investor base are essential to address these challenges.",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Research",
-      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "3bb0e1df-2fda-8156-990c-e10741bf2175",
-      "title": "Growth Academy: Building a New Playbook for Durable Growth",
-      "url": "https://www.worldbank.org/en/news/feature/2026/08/11/growth-academy-building-a-new-playbook-for-durable-growth",
-      "published": "2026-08-11",
+      "id": "3cd0e1df-2fda-81e4-9378-c36bf0b562f7",
+      "title": "What Does Venture Capital Actually Finance ? Scale and Structure around the World",
+      "url": "http://documents.worldbank.org/curated/undefined/099448208312623799/null",
+      "published": "",
       "summary": "",
       "regulator": "World Bank",
       "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
-      "id": "3ba0e1df-2fda-812d-b7b9-e7cc2b7f5bb7",
-      "title": "The use of the Eurosystem’s monetary policy instruments and its monetary policy implementation framework in 2024 and 2025",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op398.en.pdf",
-      "published": "2026-08-11",
-      "summary": "The Eurosystem implements its monetary policy through a set of monetary policy instruments (MPIs). This report reviews the main changes in the use of MPIs and the associated developments in the Eurosystem’s monetary policy implementation framework over 2024-25. Inflation returned to the ECB’s medium-term target of 2%, supported by the smooth transmission of monetary policy. After completing the hiking cycle of 2022 and 2023, the ECB began reducing its key interest rates in June 2024. This easing phase occurred alongside further balance sheet normalisation. Holdings in the monetary policy bond portfolios continued to run-off, and funds lent under the third series of targeted longer-term refinancing operations (TLTRO III) were fully repaid by December 2024. In March 2024, the ECB announced several changes to its operational framework for implementing monetary policy following a review process. Finally, the collateral framework remained broad, while temporary crisis-related measures were phased out and climate-related considerations were further integrated.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3b90e1df-2fda-8187-a28a-fc2cdad3d156",
-      "title": "Superfinanciera ordena a María Alejandra Almendrales Suárez suspender las actividades de captación no autorizada.",
-      "url": "https://www.superfinanciera.gov.co/10116208",
-      "published": "2026-08-11",
+      "id": "3cd0e1df-2fda-817a-8648-e6ec1a9fbf7f",
+      "title": "Not Too Much, Not Too Little :  A Goldilocks Approach to Sustainable, Universal Electricity Access in Sub-Saharan Africa",
+      "url": "http://documents.worldbank.org/curated/undefined/099543208312622671/null",
+      "published": "",
       "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3b90e1df-2fda-8163-ad28-cc9ce8568a09",
-      "title": "OCC Commends FDIC Reform, Advances Priority to Reinvigorate De Novo Chartering",
-      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-67.html",
-      "published": "2026-08-11",
-      "summary": "The Office of the Comptroller of the Currency continues to prioritize reinvigorating de novo chartering to build a robust, diverse banking system that supports the U.S. economy and commends the Federal Deposit Insurance Corporation for its recent efforts to do the same.",
-      "regulator": "OCC",
-      "country": "US",
-      "type": "News",
-      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
-    },
-    {
-      "id": "3b90e1df-2fda-81b8-a67d-e7bd551f04a2",
-      "title": "SBS recibe certificación de buenas prácticas de gestión pública",
-      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3971",
-      "published": "2026-08-11",
-      "summary": "",
-      "regulator": "SBS Perú",
-      "country": "PE",
-      "type": "News",
-      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
-    },
-    {
-      "id": "3b90e1df-2fda-8177-b0b2-d3da099bf49c",
-      "title": "Líneas de Pobreza (LP)",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11059",
-      "published": "2026-08-11",
-      "summary": "Aumentó de manera anual el costo de los productos de la canasta alimentaria en julio de 2026: 2.0% en el ámbito rural y 3.8% en el urbano",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3b90e1df-2fda-8189-a265-d2419017d86a",
-      "title": "Indicador Mensual de la Actividad Industrial (IMAI). Año base 2018",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11061",
-      "published": "2026-08-11",
-      "summary": "Aumentó 0.2% la actividad industrial en junio de 2026, a tasa mensual",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3b90e1df-2fda-8106-95ea-f1a273c57ab5",
-      "title": "Registro Administrativo de la Industria Automotriz de Vehículos Pesados",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11060",
-      "published": "2026-08-11",
-      "summary": "Se vendieron en México 3 043 vehículos pesados al menudeo y 2 590 al mayoreo, en julio de 2026",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3b90e1df-2fda-81b8-ae64-fb076e8539e3",
-      "title": "FEDS Paper: CRE Development Potential and the Selection of Opportunity Zones",
-      "url": "https://www.federalreserve.gov/econres/feds/cre-development-potential-and-the-selection-of-opportunity-zones.htm",
-      "published": "2026-08-11",
-      "summary": "David Glancy , Robert Kurtzman , Lara Loewenstein Place-based policies are often caught between two potentially conflicting aims: (i) directing aid to needy communities and (ii) spurring investment. We study this tradeoff in the context of the Opportunity Zones (OZ) program. Leveraging unique phase-level microdata on commercial construction projects, we show that US state governors prioritized designating tracts where construction projects were already being planned. About two-thirds of the greater construction growth in OZs can be attributed to this selection. States prioritizing tracts with greater investment opportunities observed larger construction increases in designated tracts. We calibrate a structural model to quantify the effects of the program and examine counterfactuals under alternative preferences or eligibility criteria.",
-      "regulator": "FRB",
-      "country": "US",
-      "type": "Papers",
-      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
-    },
-    {
-      "id": "3b90e1df-2fda-815f-87e3-e8f10e2ec66a",
-      "title": "Can structural reforms unleash private investment?",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3273~292f21a541.en.pdf",
-      "published": "2026-08-11",
-      "summary": "This paper examines the impact of labour and product market reforms on private investment across 26 advanced economies from 1975 to 2020. To this end, we combine a narrative database on major structural reforms with local projections and augmented inverse probability weighting. We find that a major labour market reform typically increases the level of real private investment by 5% cumulatively within six years, while a major product market reform yields an impact of 3%. Structural reforms are particularly effective in stimulating private investment when the private sector has access to ample external finance and the rule of law is strong. Overall, our findings point to an important role for structural reforms in boosting private investment and thus long-term growth prospects in advanced economies.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3b90e1df-2fda-81d5-949c-c8ea5d1528b5",
-      "title": "ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260811~47cd3ee040.en.html",
-      "published": "2026-08-11",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "3b90e1df-2fda-81b2-8cce-f321c19b4dca",
-      "title": "Africa's public debt amid global headwinds: balancing resilience and vulnerabilities",
-      "url": "https://www.bis.org/publ/bisbull132.htm",
-      "published": "2026-08-11",
-      "summary": "by Michael Chui, Leonardo Gambacorta The conflict in the Middle East has raised energy and fertiliser prices, weakened growth and intensified fiscal pressures across Africa at a time when public debt and debt service burdens remain elevated. The shift towards domestic currency debt has reduced exchange rate risk for issuers and preserved market access, but higher interest rates and shorter maturities have increased debt service costs and rollover risks. A heavy reliance on banks and central banks for government financing can reinforce the sovereign-bank nexus, crowd out private credit and threaten financial stability. Developing deeper markets and a more diversified investor base are essential to address these challenges.",
-      "regulator": "BIS",
+      "regulator": "World Bank",
       "country": "Global",
       "type": "Research",
-      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3b80e1df-2fda-81f0-ada4-e81d6693965a",
