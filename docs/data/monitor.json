@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-01T18:16:10.968428+00:00",
-  "total_items": 281,
+  "generated_at": "2026-09-01T23:12:57.152705+00:00",
+  "total_items": 282,
   "items": [
+    {
+      "id": "3ce0e1df-2fda-81fd-867e-fe685f379d2c",
+      "title": "FEDS Paper: Risks and Uncertainty in Monetary Policy",
+      "url": "https://www.federalreserve.gov/econres/feds/risks-and-uncertainty-in-monetary-policy.htm",
+      "published": "2026-09-01",
+      "summary": "Tobias Adrian, Domenico Giannone, Matteo Luciani , and Mike West Central banks monitor macroeconomic risk through two traditions: scenario analysis, regularly used since the mid-1990s, and distributional forecasting, practiced since the late 1960s. The two are complementary but separate: scenarios provide narratives without probabilities, while predictive distributions provide probabilities with limited economic interpretation. Treating baseline forecasts and scenarios as conditional predictive densities, and distributional forecasts as reference predictive distributions, places both within a common framework and clarifies their roles. The Scenario Synthesis assigns weights to scenarios consistent with the reference distribution, offering a practical and reproducible tool for risk assessment and policy deliberation under deep uncertainty.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
     {
       "id": "3ce0e1df-2fda-81a3-b345-d635c3b8f1ac",
       "title": "Jornadas de atención a la ciudadanía",
