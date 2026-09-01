@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-09-01T00:31:52.391529+00:00",
-  "total_items": 271,
+  "generated_at": "2026-09-01T18:16:10.968428+00:00",
+  "total_items": 281,
   "items": [
+    {
+      "id": "3ce0e1df-2fda-81a3-b345-d635c3b8f1ac",
+      "title": "Jornadas de atención a la ciudadanía",
+      "url": "https://www.superfinanciera.gov.co/10116240",
+      "published": "2026-09-01",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "3ce0e1df-2fda-81c3-aca3-c526514ffab1",
+      "title": "Encuesta Mensual de Opinión Empresarial (EMOE). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11155",
+      "published": "2026-09-01",
+      "summary": "Aumentó 0.8 puntos el Indicador Global de Opinión Empresarial de Tendencia en agosto de 2026, respecto al mes anterior",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3ce0e1df-2fda-8122-b72e-c04f0881aed8",
+      "title": "Encuesta Mensual de Opinión Empresarial (EMOE). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11156",
+      "published": "2026-09-01",
+      "summary": "No presentó cambio el Indicador Global de Opinión Empresarial de Confianza en agosto de 2026, respecto al mes anterior",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3ce0e1df-2fda-8179-b894-dcfa4972771b",
+      "title": "Encuesta Mensual de Opinión Empresarial (EMOE). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11157",
+      "published": "2026-09-01",
+      "summary": "Aumentó 2.1 puntos el Indicador de Pedidos Manufactureros en agosto de 2026, respecto al mes anterior",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3ce0e1df-2fda-8199-9e12-d3caf161afd5",
+      "title": "OCC Releases CRA Performance Evaluations for 23 National Banks and Federal Savings Associations",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-74.html",
+      "published": "2026-09-01",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today released a list of Community Reinvestment Act (CRA) performance evaluations that became public during the period of August 1, 2026, through August 31, 2026.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "3ce0e1df-2fda-81ff-9fe2-fc15e22d1887",
+      "title": "Boris Vujčić: Listening to households: expectations, behaviour and monetary policy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
+      "published": "2026-09-01",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3ce0e1df-2fda-818b-9d34-c5de9e9bd648",
+      "title": "ROPAp - Transmission of personal data of officials and other servants to Member States",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-09/2b589e87-7f3d-414a-97c6-8aceba255a0f/ROPAp%20-%20Transmission%20of%20personal%20data%20of%20officials%20and%20other%20servants%20to%20Member%20States.pdf",
+      "published": "2026-09-01",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3ce0e1df-2fda-8123-a29a-ff684f11c6df",
+      "title": "2026 08 31 PMR Francois-Louis Michaud",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-09/e4f5b16f-9b01-4657-a8d3-b157dc125e4b/2026%2008%2031%20PMR%20Francois-Louis%20Michaud.pdf",
+      "published": "2026-09-01",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
     {
       "id": "3ce0e1df-2fda-8130-9580-c3f447710d34",
       "title": "World Bank Appoints Stephen N. Ndegwa as New Division Director for Thailand and Myanmar",
@@ -12,6 +100,17 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3ce0e1df-2fda-81c9-8992-f207d24cbe67",
+      "title": "Environmental policy uncertainty and cleantech FDI",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3278~42c60efb87.en.pdf",
+      "published": "2026-08-31",
+      "summary": "This paper examines whether environmental policy uncertainty undermines clean-technology investment in the United States by weakening policy-induced investment incentives. Using quarterly project-level data on U.S. greenfield investments from 2007Q1 to 2019Q1, combined with novel news-based indices that separately measure environmental policy salience and environmental policy uncertainty, we find that policy uncertainty substantially offsets the positive investment effects of environmental policy. At the aggregate level, a one-standard-deviation increase in environmental policy uncertainty eliminates roughly 75% of the policy-induced increase in the number of cleantech projects and around 50% of the increase in capital expenditure. The deterrence effect is substantially stronger for foreign than for domestic investors, consistent with greater informational frictions facing cross-border capital. These effects persist for at least two years following an uncertainty shock and are corroborated by country- and firm-level analyses, though results for capital expenditure are less robust at disaggregated levels. The findings imply that policy credibility is a first-order determinant of clean investment: an environmental policy framework that is ambitious but perceived as unstable may fail to mobilize the capital it is designed to attract.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
     },
     {
       "id": "3cd0e1df-2fda-817c-ae0f-f126f477177b",
@@ -2509,6 +2608,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3ce0e1df-2fda-81b4-ace2-de7bc54844e3",
+      "title": "Openness and Productivity Reform: Lessons for Middle-Income Economies from Thailand and other ASEAN",
+      "url": "http://documents.worldbank.org/curated/undefined/099413109012631973/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3cd0e1df-2fda-81e4-9378-c36bf0b562f7",
