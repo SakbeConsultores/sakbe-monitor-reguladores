@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-01T23:12:57.152705+00:00",
-  "total_items": 282,
+  "generated_at": "2026-09-02T18:30:52.299237+00:00",
+  "total_items": 272,
   "items": [
+    {
+      "id": "3cf0e1df-2fda-815f-ba61-c4c88077c309",
+      "title": "Registro administrativo de la industria automotriz de vehículos ligeros",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11158",
+      "published": "2026-09-02",
+      "summary": "Se vendieron en México 129 479 vehículos ligeros en agosto de 2026; 2.3% más que en agosto de 2025",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3cf0e1df-2fda-81c1-b589-db324cda9c33",
+      "title": "Suspicious Activity Reporting: Joint Statement on Suspicious Activity Report Confidentiality Considerations Regarding Communications with Customers",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-43.html",
+      "published": "2026-09-02",
+      "summary": "On September 2, 2026, the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Financial Crimes Enforcement Network (FinCEN), and the National Credit Union Administration issued a statement to clarify confidentiality requirements related to Suspicious Activity Reports (SAR), particularly when banks communicate with their customers regarding potentially fraudulent transactions.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "3cf0e1df-2fda-8186-9575-c172570f69dc",
+      "title": "FEDS Paper: Linear and Nonlinear Econometric Models versus Machine-Learning Models: Evidence from Realized-Volatility Forecasting(Revised)",
+      "url": "https://www.federalreserve.gov/econres/feds/linear-and-nonlinear-econometric-models-against-machine-learning-models.htm",
+      "published": "2026-09-02",
+      "summary": "Rehim Kilic This paper examines which representations of persistence and nonlinearity are most useful for forecasting realized volatility and whether machine learning adds value beyond econometric models designed for long memory and regime dependence. We compare HAR, ARFIMA, threshold HAR, smooth-transition HAR, and Markov-switching HAR with XGBoost and several neural-network models for the S&P 500 and 40 U.S. equities. Models are evaluated under a baseline information set using realized-volatility history and an extended set of predictors selected by Elastic Net. Forecast performance is assessed using MSFE, MAE, QLIKE, Model Confidence Sets, Diebold&#8211;Mariano tests, realized utility, and filtered-historical-simulation VaR and expected shortfall. The results reveal a robust horizon-dependent ranking: Markov-switching HAR performs best at short horizons, ARFIMA generally leads at the monthly horizon, and the five-day horizon is intermediate. Machine-learning models sometimes improve on HAR but do not systematically outperform the broader econometric set. These findings are robust across estimation windows, re-estimation frequencies, richer information sets, log-volatility targets, and individual equities; stock-level results are also robust to an alternative realized-volatility measure. Overall, forecast performance depends primarily on capturing the persistence and nonlinear dynamics most relevant at each horizon.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3cf0e1df-2fda-81ef-a523-cd7dd75ea42c",
+      "title": "Euro area bank interest rate statistics: July 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260902~d54675e442.en.html",
+      "published": "2026-09-02",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Statistical Releases",
+      "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
+    },
+    {
+      "id": "3cf0e1df-2fda-8130-ad23-f7a0ae0094ab",
+      "title": "Verifiable official statistics: a blockchain-based approach",
+      "url": "https://www.bis.org/publications/working-paper-1374-verifiable-official-statistics-blockchain-based-approach",
+      "published": "2026-09-02",
+      "summary": "International organisations including the Bank for International Settlements (BIS) have adopted SDMx (Statistical Data and Metadata) as the standard for exchanging official statistics. Trust in published data is essential for evidence-based policymaking. This paper shows how binding each SDMx dataset to its source using blockchain technology can enhance confidence in official statistics.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "3ce0e1df-2fda-81fd-867e-fe685f379d2c",
       "title": "FEDS Paper: Risks and Uncertainty in Monetary Policy",
@@ -276,6 +331,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3cf0e1df-2fda-816d-831a-d55fb2bbefd8",
+      "title": "BIS residential property price statistics, Q1 2026",
+      "url": "https://www.bis.org/publications/202608-commentary-residential-property-prices",
+      "published": "2026-08-27",
+      "summary": "Real global house prices declined by 1.2% year on year (yoy) in the first quarter of 2026.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Statistical Releases",
+      "feed_url": "https://www.bis.org/doclist/all_statistics.rss"
     },
     {
       "id": "3cd0e1df-2fda-81c3-aee0-ff6e67e9a665",
@@ -2443,182 +2509,6 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3cb0e1df-2fda-8180-b486-db69c8c9798c",
-      "title": "High expectation but low integration? Experiences in modernising and integrating information systems for supervision",
-      "url": "https://www.bis.org/publications/fsi-insight-77-high-expectation-low-integration-experiences-modernising-and-integrating-information-systems",
-      "published": "2026-08-13",
-      "summary": "This paper examines the evolution of information systems that support supervision and the current maturity level of supervisory authorities in terms of systems integration.",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Research",
-      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "3c80e1df-2fda-8116-ad7a-d2c65bf28893",
-      "title": "El riesgo soberano en América Latina",
-      "url": "https://felaban.com/el-riesgo-soberano-en-america-latina-3/",
-      "published": "2026-08-13",
-      "summary": "En América Latina distintos acontecimientos han marcado la situación reciente. En Brasil el Parlamento aprobó un paquete que busca frenar el crecimiento del gasto público. Los temores por el crecimiento de la deuda pública y un ambiente pre elecciones presidenciales han exacerbado la volatilidad de las variables financieras y generado algunas turbulencias de corto plazo en los mercados. En Chile, el Parlamento aprobó medidas que buscan acelerar la tasa de crecimiento económico. Dentro de dichas decisiones se tiene la de rebajar los impuestos corporativos de 27% al 23%. En Colombia el nuevo gobierno enfrenta la emergencia de gasto producida por los nefastos efectos de un terremoto el pasado lunes. En ese marco se habla de medidas de excepción para acelerar",
-      "regulator": "FELABAN",
-      "country": "LatAm Regional",
-      "type": "News",
-      "feed_url": "https://felaban.com/noticias/"
-    },
-    {
-      "id": "3c40e1df-2fda-819a-a17a-f6ff2cbabc68",
-      "title": "Superfinanciera refuerza la atención a afectados por el sismo con Quejas Exprés",
-      "url": "https://www.superfinanciera.gov.co/10116212",
-      "published": "2026-08-13",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3bf0e1df-2fda-8130-a5cb-c2c2a2e28469",
-      "title": "Zoning and the American Suburb",
-      "url": "https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2026/wp26-37.pdf",
-      "published": "2026-08-13",
-      "summary": "Federal Reserve Bank of Philadelphia Working Papers by Ryan Gallagher, Allison Shertzer and Tate Twinam",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Central Bank Research Hub",
-      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
-    },
-    {
-      "id": "3bf0e1df-2fda-810a-9127-faf48bc0f2af",
-      "title": "Is the AI Boom Volatility-Biased Technological Change?",
-      "url": "https://www.kansascityfed.org/research/research-working-papers/is-the-ai-boom-volatility-biased-technological-change/",
-      "published": "2026-08-13",
-      "summary": "Federal Reserve Bank of Kansas City Research Working Papers by Juan David Munoz Henao and Nicholas Sly",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Central Bank Research Hub",
-      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
-    },
-    {
-      "id": "3bc0e1df-2fda-8116-8a5b-d2ef817cd358",
-      "title": "Superfinanciero, profesor César Ferrari, presentó renuncia irrevocable a su cargo",
-      "url": "https://www.superfinanciera.gov.co/10116214",
-      "published": "2026-08-13",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3bb0e1df-2fda-8107-9867-f7617eefa1e5",
-      "title": "SBS reúne a expertos internacionales para fortalecer la resiliencia del sistema financiero frente a ciberataques y nuevas amenazas",
-      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3973",
-      "published": "2026-08-13",
-      "summary": "",
-      "regulator": "SBS Perú",
-      "country": "PE",
-      "type": "News",
-      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
-    },
-    {
-      "id": "3bb0e1df-2fda-814a-a566-e999cc09259d",
-      "title": "Across Albania, Students Learn Digital Skills for Tomorrow’s Jobs",
-      "url": "https://www.worldbank.org/en/news/feature/2026/08/13/across-albania-students-learn-digital-skills-for-jobs-of-tomorrow",
-      "published": "2026-08-13",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3bb0e1df-2fda-8122-9529-ce86d9f31af8",
-      "title": "SBS propone incluir a algunos seguros agrícolas al régimen simplificado de debida diligencia en el conocimiento del cliente",
-      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3972",
-      "published": "2026-08-13",
-      "summary": "La medida busca agilizar el acceso de los agricultores a coberturas de protección frente a riesgos climáticos y de producción, al reducir la exigencia",
-      "regulator": "SBS Perú",
-      "country": "PE",
-      "type": "News",
-      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
-    },
-    {
-      "id": "3bb0e1df-2fda-81ce-a09d-cb0adfa25a7e",
-      "title": "Encuesta de Comercio Internacional de Servicios (ECIS) 2025",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11062",
-      "published": "2026-08-13",
-      "summary": "De las 9 796 empresas que conforman la población objeto de estudio a nivel nacional, 53.7% realizó comercio internacional de servicios (CIS) en 2024",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3bb0e1df-2fda-81d9-84d5-e9e34a03cc7e",
-      "title": "Censo Nacional de Seguridad Pública Federal (CNSPF) 2026",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11065",
-      "published": "2026-08-13",
-      "summary": "Disminuyó 21.7% presupuesto que ejerció la Guardia Nacional (GN); aumentó 5.6% el de las instituciones de seguridad estatales",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3bb0e1df-2fda-811e-9b4a-cac80363c57d",
-      "title": "Censo Nacional de Seguridad Pública Estatal (CNSPE) 2026",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11064",
-      "published": "2026-08-13",
-      "summary": "Disminuyó 21.7% presupuesto que ejerció la Guardia Nacional (GN); aumentó 5.6% el de las instituciones de seguridad estatales",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3bb0e1df-2fda-8113-88f1-ea2e1f807151",
-      "title": "Encuesta de Viajeros Internacionales (EVI)",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11063",
-      "published": "2026-08-13",
-      "summary": "Ingresaron a México 2.1% más personas viajeras desde el extranjero en junio de 2026 y salieron 8.2% más residentes del país, a tasa anual",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3bb0e1df-2fda-812a-95f2-f93fd4e64b5a",
-      "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
-      "published": "2026-08-13",
-      "summary": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
-      "regulator": "FRB",
-      "country": "US",
-      "type": "News",
-      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
-    },
-    {
-      "id": "3bb0e1df-2fda-8105-9720-ee15ab22fb67",
-      "title": "Cash remains most widely accepted payment method in euro area",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html",
-      "published": "2026-08-13",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "3bb0e1df-2fda-81df-a5d4-ce8a9544de60",
-      "title": "High expectation but low integration? Experiences in modernising and integrating information systems for supervision",
-      "url": "https://www.bis.org/fsi/publ/insights77.htm",
-      "published": "2026-08-13",
-      "summary": "This paper examines the evolution of information systems that support supervision and the current maturity level of supervisory authorities in terms of systems integration.",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Research",
-      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
       "id": "3ce0e1df-2fda-81b4-ace2-de7bc54844e3",
