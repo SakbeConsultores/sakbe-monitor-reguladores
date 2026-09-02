@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-02T18:30:52.299237+00:00",
-  "total_items": 272,
+  "generated_at": "2026-09-02T23:12:19.114975+00:00",
+  "total_items": 274,
   "items": [
+    {
+      "id": "3cf0e1df-2fda-816a-8fb1-dc91e66f8819",
+      "title": "Superfinanciera ordena a “Fundación FG – Administrador de Fideicomisos Civiles” suspender las actividades de captación no autorizada.",
+      "url": "https://www.superfinanciera.gov.co/10116241",
+      "published": "2026-09-02",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
     {
       "id": "3cf0e1df-2fda-815f-ba61-c4c88077c309",
       "title": "Registro administrativo de la industria automotriz de vehículos ligeros",
@@ -2509,6 +2520,17 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3cf0e1df-2fda-81fe-bf6b-dcb863551922",
+      "title": "Predicting Debt Distress in Low-Income Countries",
+      "url": "http://documents.worldbank.org/curated/undefined/099707109022612787/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3ce0e1df-2fda-81b4-ace2-de7bc54844e3",
