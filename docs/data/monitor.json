@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-03T18:26:09.829523+00:00",
-  "total_items": 272,
+  "generated_at": "2026-09-03T23:09:40.261025+00:00",
+  "total_items": 273,
   "items": [
+    {
+      "id": "3d00e1df-2fda-818e-b77c-d429ecfdc2e9",
+      "title": "Secretario General de FELABAN, en la apertura de la XI Cumbre Financiera Internacional De Panamá – VI Reunión anual de CEOs de FELABAN",
+      "url": "https://felaban.com/secretario-general-de-felaban-en-la-apertura-de-la-xi-cumbre-financiera-internacional-de-panama-vi-reunion-anual-de-ceos-de-felaban/",
+      "published": "2026-09-03",
+      "summary": "El Secretario General de FELABAN, Giorgio Trettenero Castro., inauguró la XI Cumbre Financiera Internacional de Panamá y la VI Reunión Anual de CEOs de FELABAN, un espacio que reúne a presidentes, CEOs y autoridades del sector financiero de la región. En su discurso, Trettenero destacó que la geopolítica ha dejado de ser un asunto exclusivo de diplomáticos para convertirse en una variable central de la gestión bancaria. Señaló que eventos ocurridos a miles de kilómetros de distancia —desde conflictos bélicos hasta tensiones comerciales— pueden alterar precios de energía, tipos de cambio, tasas de interés y, en última instancia, los balances de los bancos de la región. El Secretario General adelantó que la Cumbre incluirá un panel de discusión con CEOs",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
     {
       "id": "3d00e1df-2fda-8197-88c3-f785e493a9af",
       "title": "Censo Nacional de Procuración de Justicia Federal (CNPJF) 2026",
