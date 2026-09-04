@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-04T18:13:37.182922+00:00",
-  "total_items": 283,
+  "generated_at": "2026-09-04T22:57:05.088151+00:00",
+  "total_items": 284,
   "items": [
+    {
+      "id": "3d10e1df-2fda-8115-8b26-eb60cf090e97",
+      "title": "SBS clausura empresas informales que captaban dinero del público en Lima",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3991",
+      "published": "2026-09-04",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
     {
       "id": "3d10e1df-2fda-814e-941f-f992ee13504a",
       "title": "SBS clausura empresas informales que captaban dinero del público en Lima",
