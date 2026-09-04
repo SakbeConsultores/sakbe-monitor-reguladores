@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-09-03T23:09:40.261025+00:00",
-  "total_items": 273,
+  "generated_at": "2026-09-04T18:13:37.182922+00:00",
+  "total_items": 283,
   "items": [
+    {
+      "id": "3d10e1df-2fda-814e-941f-f992ee13504a",
+      "title": "SBS clausura empresas informales que captaban dinero del público en Lima",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3989",
+      "published": "2026-09-04",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3d10e1df-2fda-81b6-be72-daac24f8603d",
+      "title": "SBS propone cambios a normativa de las Coopac para fortalecer gestión operativa y financiera",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3990",
+      "published": "2026-09-04",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3d10e1df-2fda-8119-93da-e9655b861a59",
+      "title": "Indicador Mensual del Consumo Privado (IMCP). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11165",
+      "published": "2026-09-04",
+      "summary": "Disminuyó 0.4% el consumo privado en junio de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3d10e1df-2fda-8100-adca-e0dfa5aa2bd1",
+      "title": "Indicador Mensual de la Formación Bruta de Capital Fijo (IMFBCF). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11166",
+      "published": "2026-09-04",
+      "summary": "Aumentó 1.3% la inversión fija bruta en junio de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3d10e1df-2fda-8199-8441-e088faca27d5",
+      "title": "Sistema de Indicadores Cíclicos",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11164",
+      "published": "2026-09-04",
+      "summary": "Aumentó 0.06 puntos el Indicador Coincidente en junio de 2026, respecto a mayo pasado",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3d10e1df-2fda-8193-9dce-dcd2d18ef58c",
+      "title": "IFDP Paper: Exchange Rate Transmission through Multinational Firms: Evidence from Japan",
+      "url": "https://www.federalreserve.gov/econres/ifdp/exchange-rate-transmission-through-multinational-firms-evidence-from-japan.htm",
+      "published": "2026-09-04",
+      "summary": "Ryan Kim, Bin Ni, Hyunseung Oh , and Choongryul Yang We study an income-account channel of exchange-rate transmission using matched data on Japanese multinational parents and their foreign affiliates. During the sharp yen depreciation of 2021&#8211;22, we find that (i) foreign affiliates with greater exchange-rate exposure expanded their activity and generated more profits, with larger payments to their Japanese parents, and (ii) more exposed parents increased their average wages and shifted employment toward commercial branches and offices involved in sales, purchasing, and related business functions, with offsetting declines in other employment. A multinational firm model in which scarce parent-side support inputs are allocated between domestic operations and foreign affiliates rationalizes these findings. To study the aggregate implications, we embed thismechanism in a two-country general-equilibriummodel with trade and multinational production. The model shows thatmoving foreign-market activity from exports to affiliate production reduces the domestic real GDP response to depreciation and shifts more of the external adjustment fromtrade and toward income earned abroad. Depreciation therefore need not generate a large expansion in domestic production.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3d10e1df-2fda-8184-a7ff-e086764286f6",
+      "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+      "published": "2026-09-04",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3d10e1df-2fda-812d-ac39-d75fe1d9aa07",
+      "title": "Philip R. Lane: Diversity at the European Central Bank",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
+      "published": "2026-09-04",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3d10e1df-2fda-81c5-be12-ee88abc6d160",
+      "title": "Zimbabwe Must Leverage Macroeconomic Stability to Accelerate Growth and Create 230,000 New Jobs by 2040",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/04/zimbabwe-must-leverage-macroeconomic-stability",
+      "published": "2026-09-04",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3d10e1df-2fda-8196-9beb-ef2b40df240d",
+      "title": "Preparing Better for Monsoons: Lessons from the 2025 Flash Floods in Pakistan",
+      "url": "https://www.worldbank.org/en/news/feature/2026/09/03/preparing-better-for-monsoons-lessons-from-the-2025-flash-floods-in-pakistan",
+      "published": "2026-09-03",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3d00e1df-2fda-818e-b77c-d429ecfdc2e9",
       "title": "Secretario General de FELABAN, en la apertura de la XI Cumbre Financiera Internacional De Panamá – VI Reunión anual de CEOs de FELABAN",
