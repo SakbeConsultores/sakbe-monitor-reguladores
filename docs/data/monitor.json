@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-04T22:57:05.088151+00:00",
-  "total_items": 284,
+  "generated_at": "2026-09-05T17:14:40.366687+00:00",
+  "total_items": 285,
   "items": [
+    {
+      "id": "3d20e1df-2fda-81c2-85ce-fba590af2386",
+      "title": "La generación de energía eléctrica por regiones del mundo",
+      "url": "https://felaban.com/la-generacion-de-energia-electrica-por-regiones-del-mundo/",
+      "published": "2026-09-04",
+      "summary": "De acuerdo con el Banco Mundial la energía resulta ser un factor de producción clave en la economía moderna. Un incremento de la demanda mundial, un aumento de procesos productivos que asocian su uso, así como, los crecientes procesos de urbanización. De acuerdo con The Oxford Institute for Energy Studies nuevos retos surgen para el mediano plazo al ver un menor uso de combustibles fósiles y mas dependencia de minerales como el litio y el coltán para la transmisión de la energía eléctrica. De manera general habría que decir que los países con mayor capacidad de transmisión y generación de energía eléctrica tienen mayores posibilidades de atraer inversión industrial. De hecho buena parte del declive industrial de Europa puede ser",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
     {
       "id": "3d10e1df-2fda-8115-8b26-eb60cf090e97",
       "title": "SBS clausura empresas informales que captaban dinero del público en Lima",
