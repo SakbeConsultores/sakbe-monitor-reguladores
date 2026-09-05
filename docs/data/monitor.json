@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-05T17:14:40.366687+00:00",
-  "total_items": 285,
+  "generated_at": "2026-09-05T22:45:53.298034+00:00",
+  "total_items": 286,
   "items": [
+    {
+      "id": "3d20e1df-2fda-81bc-ad2f-f06914a6e651",
+      "title": "TAP Partnership Networking Meeting",
+      "url": "https://www.worldbank.org/en/news/feature/2026/09/04/tap-partnership-networking-meeting",
+      "published": "2026-09-04",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3d20e1df-2fda-81c2-85ce-fba590af2386",
       "title": "La generación de energía eléctrica por regiones del mundo",
