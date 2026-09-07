@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-06T22:51:12.266271+00:00",
-  "total_items": 279,
+  "generated_at": "2026-09-07T19:04:45.668522+00:00",
+  "total_items": 275,
   "items": [
+    {
+      "id": "3d40e1df-2fda-81b7-ab79-e8bd3a29b6ea",
+      "title": "Registro administrativo de la industria automotriz de vehículos ligeros",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11167",
+      "published": "2026-09-07",
+      "summary": "Se produjeron 344 940 vehículos ligeros en México y se exportaron 300 475, en agosto de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3d40e1df-2fda-8124-b2b7-e97c78d3aacf",
+      "title": "What determines banks' excess demand for reserves?",
+      "url": "https://www.bis.org/publications/working-paper-1376-what-determines-banks-excess-demand-reserves",
+      "published": "2026-09-07",
+      "summary": "FocusThe amount of central bank reserves to supply has become a highly contentious policy issue for many central banks that shrink their balance sheets which were built up during quantitative easing. However, there is little evidence about the amount of reserves banks actually want to hold and the factors that shape this choice. To trace bank-level demand for reserves empirically, we exploit new microdata and a unique feature of Sveriges Riksbank's operational framework, under which banks…",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "3d20e1df-2fda-81bc-ad2f-f06914a6e651",
       "title": "TAP Partnership Networking Meeting",
@@ -2509,72 +2531,6 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "3c80e1df-2fda-81a6-802a-c9d1b2776077",
-      "title": "Segunda sesión de 2026 del Comité Técnico del Fondo de Pensiones para el Bienestar",
-      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/miscelaneos/{52DB6DF8-DB24-A032-F2FD-2D14667BF662}.pdf",
-      "published": "2026-08-18",
-      "summary": "",
-      "regulator": "Banxico",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.banxico.org.mx/noticias/noticias001.html"
-    },
-    {
-      "id": "3c30e1df-2fda-81f0-add9-d0e50c9d9f55",
-      "title": "World Bank's USD 7-Year Sustainable Development Bond Meets Strong Demand from High-Quality Investors",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/08/18/world-bank-s-usd-7-year-sustainable-development-bond-meets-strong-demand-from-high",
-      "published": "2026-08-18",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3c20e1df-2fda-81aa-897e-c1f8b82395fd",
-      "title": "Introducing Trimmed Imports and Exports",
-      "url": "https://www.kansascityfed.org/research/research-working-papers/introducing-trimmed-imports-and-exports/",
-      "published": "2026-08-18",
-      "summary": "Federal Reserve Bank of Kansas City Research Working Papers by Thomas R. Cook, Mariia Dzholos and Johannes Matschke",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Central Bank Research Hub",
-      "feed_url": "https://www.bis.org/doclist/reshub_papers.rss"
-    },
-    {
-      "id": "3c00e1df-2fda-819e-ab18-f14528d8dc52",
-      "title": "SBS publica proyectos normativos para adecuar su marco regulatorio al estándar internacional de Basilea III",
-      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3976",
-      "published": "2026-08-18",
-      "summary": "",
-      "regulator": "SBS Perú",
-      "country": "PE",
-      "type": "News",
-      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
-    },
-    {
-      "id": "3c00e1df-2fda-8124-a0d6-fc19ce146bb8",
-      "title": "Transporte Urbano de Pasajeros",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11069",
-      "published": "2026-08-18",
-      "summary": "Viajaron 268.8 millones de personas pasajeras en los sistemas de transporte urbano durante junio de 2026: 5.6% más que el año anterior",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3bf0e1df-2fda-8141-b923-d800bd17b07e",
-      "title": "Solomon Islands Can Turn Economic Recovery into More Jobs and Incomes",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/08/18/solomon-islands-can-turn-economic-recovery-into-more-jobs-and-incomes",
-      "published": "2026-08-18",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3cf0e1df-2fda-81fe-bf6b-dcb863551922",
