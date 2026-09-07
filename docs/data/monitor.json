@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-07T19:04:45.668522+00:00",
-  "total_items": 275,
+  "generated_at": "2026-09-07T23:24:23.582844+00:00",
+  "total_items": 276,
   "items": [
+    {
+      "id": "3d40e1df-2fda-81e6-ad4e-f47bc570c27e",
+      "title": "Los modelos de Inteligencia artificial",
+      "url": "https://felaban.com/los-modelos-de-inteligencia-artificial/",
+      "published": "2026-09-07",
+      "summary": "De acuerdo con el Banco Mundial los modelos de IA en el mundo vienen siendo menos abiertos y mas centrados en producción bajo licenciamiento, entrenamiento y desarrollo propio. De acuerdo con el Artificial Intelligence Index Report 2026 más firmas han venido restringiendo el acceso a la arquitectura de diseño y composición de su modelo de IA. Firmas como META, Palantir y CISCO han venido respondiendo a este tendencia. Igualmente, la competencia entre super potencias geopolíticas ha llevado a que muchos desarrollos, programas y entrenamientos de programas de IA sean cada vez mas cerradas y con condiciones controladas. Para algunos esta es una ventana de oportunidad que se cierra para países emergentes que no han desarrollado algún tipo de tecnología propia",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
     {
       "id": "3d40e1df-2fda-81b7-ab79-e8bd3a29b6ea",
       "title": "Registro administrativo de la industria automotriz de vehículos ligeros",
