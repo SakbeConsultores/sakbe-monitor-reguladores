@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-07T23:24:23.582844+00:00",
-  "total_items": 276,
+  "generated_at": "2026-09-08T18:25:31.842885+00:00",
+  "total_items": 272,
   "items": [
+    {
+      "id": "3d50e1df-2fda-81ea-b09a-f137256bbd92",
+      "title": "Estadísticas a propósito de...",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11168",
+      "published": "2026-09-08",
+      "summary": "En 2025, se registró la ocurrencia de 8 709 defunciones por suicidio",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "Statistical Releases",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,3"
+    },
+    {
+      "id": "3d50e1df-2fda-8150-bf47-e12e5afcf66c",
+      "title": "Bank Secrecy Act/Anti-Money Laundering: Frequently Asked Questions Regarding Treatment of Verifiable Digital Credentials Under the Customer Identification Program Rule",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-44.html",
+      "published": "2026-09-08",
+      "summary": "The Office of the Comptroller of the Currency (OCC), jointly with the Financial Crimes Enforcement Network (FinCEN), the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and the National Credit Union Administration, issued answers to frequently asked questions (FAQ) related to the use of state-issued mobile driver's licenses and other government-issued verifiable digital credentials (VDC).",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "3d50e1df-2fda-8133-aacb-c592e779df6c",
+      "title": "Frank Elderson: Fireside chat",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260908~3652aa828f.en.html",
+      "published": "2026-09-08",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3d50e1df-2fda-81cb-9f65-cf13b009b1b2",
+      "title": "Global standard-setting bodies publish a toolkit for cyber resilience at FMIs and a discussion paper on FMIs’ reliance on third-party service providers",
+      "url": "https://www.bis.org/media-releases/20260908-global-standard-setting-bodies-publish-toolkit-cyber-resilience-fmis-and-discussion-paper-fmis",
+      "published": "2026-09-08",
+      "summary": "CPMI-IOSCO are seeking input from stakeholders on a cyber resilience toolkit for financial market infrastructures (FMIs) and on risks to FMIs from third-party service providers. The Cyber resilience toolkit: practical considerations for FMIs supports FMIs in strengthening their cyber resilience frameworks. The discussion paper FMIs’ reliance on third-party service providers: challenges and risks explores the increased reliance of FMIs on third-party service providers.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.bis.org/doclist/all_pressrels.rss"
+    },
     {
       "id": "3d40e1df-2fda-81e6-ad4e-f47bc570c27e",
       "title": "Los modelos de Inteligencia artificial",
@@ -2454,94 +2498,6 @@
       "country": "EU",
       "type": "Publications",
       "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3cb0e1df-2fda-8105-8936-ff638cc7cf4a",
-      "title": "High public debt in the Americas: non-linear implications for risk premia and inflation expectations",
-      "url": "https://www.bis.org/publications/bulletin-133-high-public-debt-americas-non-linear-implications-risk-premia-and-inflation-expectations",
-      "published": "2026-08-19",
-      "summary": "Public debt has reached multi-decade highs in the Americas. Additionally, public interest costs have generally increased over the past decade. High public debt and interest costs increase the sensitivity of risk premia to fiscal deficits – regardless of the exchange rate regime – and amplify the sensitivity of short-term inflation expectations to fluctuations in risk premia. Our analysis underscores the relevance of disciplined fiscal policies, which assume heightened significance in the context of current debt dynamics. On the monetary side, safeguarding central bank independence is crucial for ensuring macroeconomic stability.",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Research",
-      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "3c30e1df-2fda-8129-a590-e34ea39156b8",
-      "title": "World Bank Group Appoints Juan Carlos Alvarez as Country Manager for Trinidad and Tobago",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/08/19/world-bank-group-appoints-juan-carlos-alvarez-as-country-manager-for-trinidad-and",
-      "published": "2026-08-19",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3c20e1df-2fda-81eb-b63c-e42018f9e831",
-      "title": "Índice de Capitalización de la banca múltiple al cierre de junio de 2026",
-      "url": "https://www.gob.mx/cnbv/prensa/indice-de-capitalizacion-de-la-banca-multiple-al-cierre-de-junio-de-2026?idiom=es",
-      "published": "2026-08-19",
-      "summary": "",
-      "regulator": "CNBV",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.gob.mx/cnbv/archivo/prensa?idiom=es"
-    },
-    {
-      "id": "3c20e1df-2fda-8140-9763-c8e2dfaaae4e",
-      "title": "Comptroller Gould Discusses Digital Asset Innovation, GENIUS Next Steps",
-      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-69.html",
-      "published": "2026-08-19",
-      "summary": "Comptroller of the Currency Jonathan V. Gould today discussed the Office of the Comptroller of the Currency's (OCC) work under the leadership of President Donald J. Trump and U.S. Secretary of the Treasury Scott Bessent to support the Administration's efforts to grow the economy and lead the global digital currency revolution, in a Fireside Chat at the Wyoming Blockchain Symposium in Jackson Hole, Wyoming.",
-      "regulator": "OCC",
-      "country": "US",
-      "type": "News",
-      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
-    },
-    {
-      "id": "3c20e1df-2fda-8173-8b0d-f9808906cbdb",
-      "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
-      "published": "2026-08-19",
-      "summary": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
-      "regulator": "FRB",
-      "country": "US",
-      "type": "News",
-      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
-    },
-    {
-      "id": "3c20e1df-2fda-816d-84ec-f4946c6f9191",
-      "title": "Euro area monthly balance of payments: June 2026",
-      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260819~df1712eb4a.en.html",
-      "published": "2026-08-19",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Statistical Releases",
-      "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
-    },
-    {
-      "id": "3c20e1df-2fda-810c-95ea-dd155ccc9874",
-      "title": "Christine Lagarde: Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260819~98ddf24b7b.en.html",
-      "published": "2026-08-19",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "3c20e1df-2fda-81a5-a5fc-dea0ea31b689",
-      "title": "High public debt in the Americas: non-linear implications for risk premia and inflation expectations",
-      "url": "https://www.bis.org/publ/bisbull133.htm",
-      "published": "2026-08-19",
-      "summary": "by Eduardo Amaral, Rafael Guerra, Alejandrina Salcedo, Pablo Tomasini, Christian Upper",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Research",
-      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
       "id": "3cf0e1df-2fda-81fe-bf6b-dcb863551922",
