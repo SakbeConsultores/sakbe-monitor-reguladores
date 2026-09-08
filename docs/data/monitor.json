@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-08T18:25:31.842885+00:00",
-  "total_items": 272,
+  "generated_at": "2026-09-08T23:19:01.517672+00:00",
+  "total_items": 278,
   "items": [
+    {
+      "id": "3d50e1df-2fda-816f-87dd-e19533ae4f89",
+      "title": "Las pruebas educativas PISA versión 2025",
+      "url": "https://felaban.com/las-pruebas-educativas-pisa-version-2025/",
+      "published": "2026-09-08",
+      "summary": "Las pruebas PISA (2025) incluyeron 760 mil estudiantes de 91 países. Se presentaron pruebas de estudiantes de secundaria, temas como lectura, matemáticas y ciencias. De manera general se observa un retroceso en los resultados en todos los campos evaluados. Temas como la pandemia y sus efectos retrasados, el uso de dispositivos electrónicos , el aumento de casos de síndrome de déficit de atención, el uso repetitivo de inteligencia artificial son algunos factores que los expertos ven como determinantes para un peor desempeño académico. Temas como evaluar información disponible, elaborar conexiones entre múltiples fuentes de información, redactar documentos de tamaño medio, el uso del lenguaje, el mayor pensamiento crítico, son algunos de los temas en los que se observa decrecimiento. Los",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
+    {
+      "id": "3d50e1df-2fda-8172-990f-e4ee629a82c8",
+      "title": "From Butcher to Fisher to Recovery: Harvey Corbin’s Story of Surviving Hurricane Beryl’s Destruction",
+      "url": "https://www.worldbank.org/en/news/feature/2026/09/08/from-butcher-to-fisher-to-recovery-harvey-corbin-s-story-of-surviving-hurricane-be",
+      "published": "2026-09-08",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3d50e1df-2fda-814b-b773-d3b366644742",
+      "title": "World Bank Supports the Modernization of Guatemala’s Civil Aviation Sector to Boost Connectivity and Jobs",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/08/world-bank-supports-guatemala-civil-aviation-sector-boosting-connecticity-jobs",
+      "published": "2026-09-08",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3d50e1df-2fda-81ea-b09a-f137256bbd92",
       "title": "Estadísticas a propósito de...",
@@ -45,6 +78,17 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.bis.org/doclist/all_pressrels.rss"
+    },
+    {
+      "id": "3d50e1df-2fda-8192-a31c-ef5e3227f925",
+      "title": "From the Outside In: What I learned as a World Bank Group Intern",
+      "url": "https://www.worldbank.org/en/news/feature/2026/09/07/from-the-outside-in-what-i-learned-as-a-world-bank-group-treasury-intern",
+      "published": "2026-09-07",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3d40e1df-2fda-81e6-ad4e-f47bc570c27e",
@@ -2498,6 +2542,28 @@
       "country": "EU",
       "type": "Publications",
       "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3d50e1df-2fda-8195-8538-ffd96b75482b",
+      "title": "Minimum Wage Reform in a Wartime Economy : Simulating Impacts from Ukraine’s Proposed Reform",
+      "url": "http://documents.worldbank.org/curated/undefined/099747509082628890/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
+    },
+    {
+      "id": "3d50e1df-2fda-81e5-8237-e5a2dd58c5b2",
+      "title": "Childcare for Informal-Sector Workers : Delivery Models, Access, and Welfare",
+      "url": "http://documents.worldbank.org/curated/undefined/099342209082635880/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3cf0e1df-2fda-81fe-bf6b-dcb863551922",
