@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T18:24:15.882696+00:00",
-  "total_items": 278,
+  "generated_at": "2026-09-09T23:08:18.147466+00:00",
+  "total_items": 280,
   "items": [
     {
       "id": "3d60e1df-2fda-8148-a3d9-f085705c1eaa",
@@ -12,6 +12,17 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3d60e1df-2fda-8191-8e64-c557508a5597",
+      "title": "La inteligencia artificial y sus principales desarrolladores",
+      "url": "https://felaban.com/la-inteligencia-artificial-y-sus-principales-desarrolladores/",
+      "published": "2026-09-09",
+      "summary": "De acuerdo con el análisis del Banco Mundial los modelos de IA están concentrados en muy pocos países en el mundo. Esto marca una diferencia entre lideres y seguidores que puede ser clave para determinar su desarrollo. Los países desarrolladores de IA tienen entornos institucionales amplios, mayores niveles de educación de su población y amplias infraestructuras de conectividad y digitales, para toda la población y empresas. En dichos casos es claro que existe amplio desarrollo del comercio digital, la transaccionalidad instantánea, y la posibilidad de ejecutar los trámites públicos por caminos virtuales. La tenencia de datos y su capacidad de almacenamiento es un tema vital y costoso. Hoy Estados Unidos lidera la carrera, dado que dentro de su país se",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
     },
     {
       "id": "3d60e1df-2fda-8135-82ec-d2e8b1174e2b",
@@ -2531,6 +2542,17 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3d60e1df-2fda-810d-877a-f4cb26f4f23e",
+      "title": "Safe Spaces to Digital Spaces : Short-Term Impacts of Life Skills and Digital Literacy Training for Adolescent Girls in Nigeria",
+      "url": "http://documents.worldbank.org/curated/undefined/099719009092639939/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3d60e1df-2fda-81d8-8fcd-f78597c3f8c9",
