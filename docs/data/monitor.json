@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-09-09T23:08:18.147466+00:00",
-  "total_items": 280,
+  "generated_at": "2026-09-10T18:14:36.843396+00:00",
+  "total_items": 279,
   "items": [
+    {
+      "id": "3d70e1df-2fda-8159-a3b5-d33fa21f0bca",
+      "title": "La Superintendencia Financiera NO ofrece tarjetas de crédito, créditos o cualquier otro producto o servicio financiero",
+      "url": "https://www.superfinanciera.gov.co/10116250",
+      "published": "2026-09-10",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "3d70e1df-2fda-8179-895b-c53a7d5fcee1",
+      "title": "Reporte sobre las economías regionales, abril-junio 2026",
+      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/reportes-sobre-las-economias-regionales/reportes-economias-regionales.html",
+      "published": "2026-09-10",
+      "summary": "",
+      "regulator": "Banxico",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.banxico.org.mx/noticias/noticias001.html"
+    },
+    {
+      "id": "3d70e1df-2fda-813d-8b77-d4fc4c20780b",
+      "title": "Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE) 2026",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11174",
+      "published": "2026-09-10",
+      "summary": "En 2025, 23.0 millones de personas de 18 años y más fueron víctimas de algún delito",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3d70e1df-2fda-81bd-8f30-cec6972b4c4f",
+      "title": "Índice de Productividad Laboral y Costo Unitario de la Mano de Obra. Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11173",
+      "published": "2026-09-10",
+      "summary": "Aumentó 0.9% el Índice Global de Productividad Laboral de la Economía, en el periodo abril-junio de 2026, a tasa trimestral",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3d70e1df-2fda-81b7-ad2d-c99cd3ecc19a",
+      "title": "ECB staff macroeconomic projections for the euro area, September 2026",
+      "url": "https://www.ecb.europa.eu//press/projections/html/ecb.projections202609_ecbstaff~8e340fc69d.en.html",
+      "published": "2026-09-10",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3d70e1df-2fda-81e7-9287-e49cbac5c193",
+      "title": "Monetary policy decisions",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
+      "published": "2026-09-10",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3d70e1df-2fda-8135-9bcb-d77cb4fcbf62",
+      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
+      "published": "2026-09-10",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3d70e1df-2fda-8106-bbf2-f840767e60f2",
+      "title": "PMR-2026-Q2",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-09/85c51a2e-b66d-4b57-8f1a-07fceb3b64ae/PMR-2026-Q2.pdf",
+      "published": "2026-09-10",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3d70e1df-2fda-8156-b59f-d5ec0bd84a0a",
+      "title": "EBA BS BSG 2026 006 rev. 1 (Final Minutes of Joint BoS BSG meeting on 21 April 2026)",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-09/8d1a269e-c866-4893-b06b-fdae57732601/EBA%20BS%20BSG%202026%20006%20rev.%201%20%28Final%20Minutes%20of%20Joint%20BoS%20BSG%20meeting%20on%2021%20April%202026%29.pdf",
+      "published": "2026-09-10",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
     {
       "id": "3d60e1df-2fda-8148-a3d9-f085705c1eaa",
       "title": "World Bank Group Launches Initiative to Help Local Financial Institutions Expand Digital Payments in Emerging Markets",
@@ -2432,116 +2531,6 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "3c40e1df-2fda-8159-9170-f22b24eaf382",
-      "title": "Estamos donde más nos necesitan",
-      "url": "https://www.superfinanciera.gov.co/10116221",
-      "published": "2026-08-21",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3c30e1df-2fda-81c6-bfed-eacf42c70219",
-      "title": "SBS fortalece la gestión de riesgos de las COOPAC de Ayacucho",
-      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3978",
-      "published": "2026-08-21",
-      "summary": "La SBS realizó una jornada de capacitación en Ayacucho dirigida a gerentes y directivos de Coopac, con el objetivo de brindar herramientas para la ges",
-      "regulator": "SBS Perú",
-      "country": "PE",
-      "type": "News",
-      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
-    },
-    {
-      "id": "3c30e1df-2fda-8105-99d1-f2c5d20512e3",
-      "title": "IFDP Paper: Optimal Monetary and Fiscal Policy under Limited Foresight",
-      "url": "https://www.federalreserve.gov/econres/ifdp/optimal-monetary-and-fiscal-policy-under-limited-foresight.htm",
-      "published": "2026-08-21",
-      "summary": "Martin Bodenstein and Junzhu Zhao We investigate Barro's random walk hypothesis according to which distortionary labor taxes should follow a random walk for any stochastic process of government expenditures, see Barro (1979). When agents experience cognitive discounting as in Gabaix (2020), they perceive government debt as wealth, and the random walk result breaks down except for knife-edge combinations of limited rationality by policymakers and the private sector. For these specific parameter values, the result can reemerge, but minor deviations from these knife-edge combinations lead to stationary equilibrium dynamics, reflecting the wealth effect of government debt. However, the dynamics turn explosive when policymakers discount the future excessively. Our results extend to other models with limited foresight such as Blanchard (1985), Weil (1989), or Woodford (2019).",
-      "regulator": "FRB",
-      "country": "US",
-      "type": "Papers",
-      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
-    },
-    {
-      "id": "3c30e1df-2fda-81a0-b92f-fd73f0f46441",
-      "title": "SBS canceló en forma definitiva el registro de la Afocat Unión - Afocatu",
-      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3977",
-      "published": "2026-08-21",
-      "summary": "Debido al reiterado incumplimiento en la remisión de información requerida por la normativa, la SBS dispuso la cancelación definitiva de la Afocat Uni",
-      "regulator": "SBS Perú",
-      "country": "PE",
-      "type": "News",
-      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
-    },
-    {
-      "id": "3c30e1df-2fda-8137-a5b8-c48cfcca9d50",
-      "title": "Encuesta Mensual sobre Empresas Comerciales (EMEC). Serie 2018",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11074",
-      "published": "2026-08-21",
-      "summary": "Disminuyeron 1.2% los ingresos por suministro de bienes y servicios del comercio al por mayor y 0.2%, los del comercio al por menor, en junio de 2026, a tasa mensual",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3c30e1df-2fda-8103-beda-ffb5d6192e4b",
-      "title": "Encuesta Mensual de Servicios (EMS). Serie 2018",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11073",
-      "published": "2026-08-21",
-      "summary": "Disminuyeron 0.2% los ingresos por suministro de bienes y servicios de los servicios privados no financieros en junio de 2026, a tasa mensual",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3c30e1df-2fda-8197-8de7-d73fb6f3e2f1",
-      "title": "Indicador Mensual Oportuno de la Actividad Manufacturera (IMOAM)",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11075",
-      "published": "2026-08-21",
-      "summary": "En julio de 2026, el IMOAM estima un aumento de la actividad manufacturera de 2.0% respecto a julio de 2025",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3c30e1df-2fda-81f1-9c82-f4c8321fbc06",
-      "title": "ECB Consumer Expectations Survey results – July 2026",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
-      "published": "2026-08-21",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "3c30e1df-2fda-81bc-8920-e32ef39f4319",
-      "title": "DPN - Management of meetings, conferences and other events",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-08/0b089ddc-3cc6-47d1-b421-c88fd9660f49/DPN%20-%20Management%20of%20meetings%2C%20conferences%20and%20other%20events%20%281%29.pdf",
-      "published": "2026-08-21",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3c30e1df-2fda-8192-b6f6-ed129383eadc",
-      "title": "Renewed Conflict Derails Lebanon’s Fragile Economic Recovery",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/08/21/renewed-conflict-derails-lebanon-s-fragile-economic-recovery",
-      "published": "2026-08-21",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3d60e1df-2fda-810d-877a-f4cb26f4f23e",
