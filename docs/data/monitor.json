@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-10T18:14:36.843396+00:00",
-  "total_items": 279,
+  "generated_at": "2026-09-10T23:03:57.005562+00:00",
+  "total_items": 285,
   "items": [
+    {
+      "id": "3d70e1df-2fda-81df-91fd-dd68f59f272b",
+      "title": "El uso de la IA por parte de los estudiantes de acuerdo con el estudio PISA OCDE",
+      "url": "https://felaban.com/el-uso-de-la-ia-por-parte-de-los-estudiantes-de-acuerdo-con-el-estudio-pisa-ocde/",
+      "published": "2026-09-10",
+      "summary": "Un amplio debate se cierne sobre el uso de la IA por parte de estudiantes y su muy mal desempeño en las recientes pruebas PISA elaboradas por OCDE. Expertos de diferentes latitudes muestran distintas explicaciones sobre el particular.  Un mayor uso temporal de las redes sociales por parte de adolescente y jóvenes; el uso de denominado contenido corto (short) termina por competir con capacidad de concentración, alto estimulo, y falsa creencia de que el mismo reemplaza la lectura. Esto termina por disminuir la capacidad de concentración y corroer la capacidad de leer textos largos, escribir ideas centrales sobre los mismos, relacionar problemas y finalmente ser incapaz de tomar decisiones acerca de problemas concretos. De acuerdo con el portal International Education,",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
+    {
+      "id": "3d70e1df-2fda-81d5-a666-d2334dfe95e2",
+      "title": "Expanded Examination Cycle Eligibility: Interim Final Rule",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-45.html",
+      "published": "2026-09-10",
+      "summary": "The Office of the Comptroller of the Currency (OCC), the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation have published an interagency interim final rule amending the regulations governing eligibility for the 18-month on-site examination cycle, pursuant to the 21st Century ROAD to Housing Act.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "3d70e1df-2fda-814f-bc3c-d3c73ff4fbce",
+      "title": "Agencies Reduce Regulatory Burden for Community Banks, Increase Eligibility for 18-Month Exam Cycle",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-75.html",
+      "published": "2026-09-10",
+      "summary": "The federal bank regulatory agencies today issued an interim final rule increasing the number of community banks eligible for an 18-month exam cycle.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "3d70e1df-2fda-81b6-b58e-ff77646ab145",
+      "title": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
+      "published": "2026-09-10",
+      "summary": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3d70e1df-2fda-8191-93a6-d35db1fc1cca",
+      "title": "World Bank Group Debars African Consulting Surveyors & Mr. Willem Jan Timmerman",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/10/world-bank-group-debars-african-consulting-surveyors-mr-willem-jan-timmerman",
+      "published": "2026-09-10",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3d70e1df-2fda-8159-a3b5-d33fa21f0bca",
       "title": "La Superintendencia Financiera NO ofrece tarjetas de crédito, créditos o cualquier otro producto o servicio financiero",
@@ -243,6 +298,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3d70e1df-2fda-81d3-b958-cd0bc7a89e7d",
+      "title": "“Parlons Développement”: Awaken and Nurture a Culture of Debate and Dialogue on Development Topics for Moroccan Youth",
+      "url": "https://www.worldbank.org/en/news/feature/2026/09/08/parlons-d-veloppement-awaken-and-nurture-a-culture-of-debate-and-dialogue-on-development-topics-for-moroccan-youth",
+      "published": "2026-09-08",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3d60e1df-2fda-81f1-9682-ccd4bf95063d",
