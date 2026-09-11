@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-09-10T23:03:57.005562+00:00",
-  "total_items": 285,
+  "generated_at": "2026-09-11T18:16:09.684950+00:00",
+  "total_items": 297,
   "items": [
+    {
+      "id": "3d80e1df-2fda-8107-84dc-eec29ea024b0",
+      "title": "SBS otorga autorización de funcionamiento a BiPay como empresa emisora de dinero electrónico",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3992",
+      "published": "2026-09-11",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3d80e1df-2fda-812a-87f1-cbbd844644fa",
+      "title": "Se publica reglamento operativo para el traslado entre regímenes previsionales desde el 1 de junio de 2027",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3993",
+      "published": "2026-09-11",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3d80e1df-2fda-81c2-96d9-df06a3c22bb2",
+      "title": "Indicador Mensual de la Actividad Industrial (IMAI). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11175",
+      "published": "2026-09-11",
+      "summary": "Aumentó 0.5% la actividad industrial en julio de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3d80e1df-2fda-8133-836b-d333d4274711",
+      "title": "Estadísticas a propósito de...",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11176",
+      "published": "2026-09-11",
+      "summary": "En el último periodo ordinario de sesiones de 2024, hubo 1 122 personas legisladoras en los congresos estatales a nivel nacional",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3d80e1df-2fda-8183-8588-f841a815fa39",
+      "title": "Third-Party Risk Management: Proposed Guidance and Request for Comment",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-46.html",
+      "published": "2026-09-11",
+      "summary": "Agencies Seek Comment on Proposed Third-Party Risk Management Guidance and Issue Statement on Community Bank Engagement with Core Service Providers Today the Federal Deposit Insurance Corporation, the Federal Reserve Board, the National Credit Union Administration, and the Office of the Comptroller of the Currency (collectively, the agencies) requested comment on proposed guidance to assist financial institutions with managing risks associated with third-party relationships.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "3d80e1df-2fda-8163-b9ac-c4a199b16e98",
+      "title": "Interagency Statement: Risk-Based Supervision of Certain Services Provided by Core Providers to Community Banking Organizations",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-47.html",
+      "published": "2026-09-11",
+      "summary": "The Office of the Comptroller of the Currency (OCC), the Board of Governors of the Federal Reserve System (the Board) and the Federal Deposit Insurance Corporation (the FDIC, and collectively, the agencies) are issuing a statement to provide clarity on their risk-based supervision of certain services provided by core providers to community banking organizations. The statement discusses certain factors the three agencies will consider in making supervisory and enforcement decisions related to these core providers.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "3d80e1df-2fda-8171-ab87-e01ab5c3297c",
+      "title": "Agencies Seek Comment on Proposed Third-Party Risk Management Guidance and Issue Statement on Community Bank Engagement with Core Service Providers",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-77.html",
+      "published": "2026-09-11",
+      "summary": "Today the Federal Deposit Insurance Corporation, the Federal Reserve Board, the National Credit Union Administration, and the Office of the Comptroller of the Currency (collectively, the agencies) requested comment on proposed guidance to assist financial institutions with managing risks associated with third-party relationships.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "3d80e1df-2fda-81a4-81ff-cab891c3cc83",
+      "title": "OCC Delivers on Community Bank Comeback, Reduces Burden for Third-Party Risk Management",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-78.html",
+      "published": "2026-09-11",
+      "summary": "The Office of the Comptroller of the Currency today continued to empower community banks and reduce their burden with a proposal to tailor third-party risk management to actual risk, and by providing greater clarity regarding supervision and enforcement of core service providers.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "3d80e1df-2fda-81c5-9945-d8b94e2d6be7",
+      "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
+      "published": "2026-09-11",
+      "summary": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3d80e1df-2fda-8157-9192-fd4b8885af15",
+      "title": "Philip R. Lane: Outlook for the euro area economy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260911~a4d6526f00.en.pdf",
+      "published": "2026-09-11",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3d80e1df-2fda-8138-aa71-ec2a9a8d680a",
+      "title": "OCC Advances Community Bank Comeback, Reduces Exam Burden for Smallest Institutions",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-76.html",
+      "published": "2026-09-10",
+      "summary": "The Office of the Comptroller of the Currency today published an interim final rule that raises the asset threshold for certain supervised institutions with less than $6 billion in total assets to qualify for an 18-month on-site examination cycle, pursuant to the 21st Century ROAD to Housing Act.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "3d80e1df-2fda-8175-b635-f8785a0b2c74",
+      "title": "Targeted Reforms Could Unlock New Private Investment and Jobs in Mongolia’s Cashmere, Energy, and Critical Minerals Sectors",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/10/targeted-reforms-could-unlock-new-private-investment-and-jobs-in-mongolia-s-cashme",
+      "published": "2026-09-10",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3d70e1df-2fda-81df-91fd-dd68f59f272b",
       "title": "El uso de la IA por parte de los estudiantes de acuerdo con el estudio PISA OCDE",
