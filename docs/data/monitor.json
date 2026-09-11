@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T18:16:09.684950+00:00",
-  "total_items": 297,
+  "generated_at": "2026-09-11T23:08:41.185291+00:00",
+  "total_items": 299,
   "items": [
     {
       "id": "3d80e1df-2fda-8107-84dc-eec29ea024b0",
@@ -111,6 +111,28 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3d80e1df-2fda-8187-9759-e18acae45170",
+      "title": "Informe anual de cumplimiento de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, enero-diciembre 2025",
+      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/informes-anuales-de-cumplimiento-de-la-ley-para-la/{948BBDB3-6938-D96C-B715-4C7BA2B313A0}.pdf",
+      "published": "2026-09-10",
+      "summary": "",
+      "regulator": "Banxico",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.banxico.org.mx/noticias/noticias001.html"
+    },
+    {
+      "id": "3d80e1df-2fda-81b2-a0cd-cb0232f6a17d",
+      "title": "Reporte sobre las economías regionales, abril-junio 2026 (video)",
+      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/reportes-sobre-las-economias-regionales/videos/reporte-economias-regionale00029.html",
+      "published": "2026-09-10",
+      "summary": "",
+      "regulator": "Banxico",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.banxico.org.mx/noticias/noticias001.html"
     },
     {
       "id": "3d80e1df-2fda-8138-aa71-ec2a9a8d680a",
