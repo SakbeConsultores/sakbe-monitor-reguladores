@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-11T23:08:41.185291+00:00",
-  "total_items": 299,
+  "generated_at": "2026-09-12T17:44:47.540928+00:00",
+  "total_items": 303,
   "items": [
+    {
+      "id": "3d90e1df-2fda-8140-b216-c931def89083",
+      "title": "SBS fortaleció capacidades de funcionarios y socios cooperativistas de Cusco",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3994",
+      "published": "2026-09-12",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3d90e1df-2fda-8141-aa02-cb3e8fca20f8",
+      "title": "SBS aprueba reglamento de seguros paramétricos para su oferta en el mercado peruano",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3995",
+      "published": "2026-09-12",
+      "summary": "Este producto, que registra un creciente desarrollo a nivel internacional, complementa la oferta de seguro tradicionales y constituye una alternativa",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3d90e1df-2fda-81ae-8b06-edc0f7ba21db",
+      "title": "Christine Lagarde: Europe seen from Normandy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
+      "published": "2026-09-12",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3d90e1df-2fda-819f-97bb-dc843c6956a8",
+      "title": "Informe anual sobre las infraestructuras de los mercados financieros 2025",
+      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/informe-anual-sobre-las-infraestructuras-de-los-me/{DF8FE964-F97C-1B2D-777B-B026EF74C9CF}.pdf",
+      "published": "2026-09-11",
+      "summary": "",
+      "regulator": "Banxico",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.banxico.org.mx/noticias/noticias001.html"
+    },
     {
       "id": "3d80e1df-2fda-8107-84dc-eec29ea024b0",
       "title": "SBS otorga autorización de funcionamiento a BiPay como empresa emisora de dinero electrónico",
