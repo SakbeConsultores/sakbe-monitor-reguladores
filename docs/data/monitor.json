@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-12T17:44:47.540928+00:00",
-  "total_items": 303,
+  "generated_at": "2026-09-12T22:57:08.205808+00:00",
+  "total_items": 304,
   "items": [
+    {
+      "id": "3d90e1df-2fda-81ae-95df-f61f0e9aea51",
+      "title": "Christine Lagarde: Interview with Ouest-France",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
+      "published": "2026-09-12",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
     {
       "id": "3d90e1df-2fda-8140-b216-c931def89083",
       "title": "SBS fortaleció capacidades de funcionarios y socios cooperativistas de Cusco",
