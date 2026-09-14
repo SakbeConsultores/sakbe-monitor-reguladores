@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T19:48:03.287131+00:00",
-  "total_items": 262,
+  "generated_at": "2026-09-14T23:48:36.690542+00:00",
+  "total_items": 263,
   "items": [
     {
       "id": "3db0e1df-2fda-8186-96fd-ff4764408f86",
@@ -2311,6 +2311,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3db0e1df-2fda-8178-9fb3-ef6ee0e8e001",
+      "title": "Beneath the Surface : Deep Trade Agreements and the Potential of a Deeper AfCFTA",
+      "url": "http://documents.worldbank.org/curated/undefined/099901109142672312/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3db0e1df-2fda-816e-9fea-c8ded66e7320",
