@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-15T18:47:48.471865+00:00",
-  "total_items": 221,
+  "generated_at": "2026-09-15T23:31:23.600045+00:00",
+  "total_items": 226,
   "items": [
+    {
+      "id": "3dc0e1df-2fda-8101-9330-e30fc94f47bf",
+      "title": "La inflación en América Latina 2026",
+      "url": "https://felaban.com/la-inflacion-en-america-latina-2026/",
+      "published": "2026-09-15",
+      "summary": "La inflación en América Latina registra en promedio en agosto de 2026 un número del 5.40%. En el mes de agosto los números mensuales mostraron aumentos al menos en 11 países de la región. Mientras países como Brasil, Chile y México han terminado ubicándose dentro de los rangos-metas establecidos por su banco central, países como Perú han mostrado un número creciente al alcanzar el 4.44% anual. Colombia muestra un nuevo repunte de la inflación y los analistas esperan un aumento y un posible endurecimiento de las condiciones de política monetaria. Igualmente, Argentina mostró una ligera baja de la inflación que podría llevar la misma a ser inferior al 30% anual al finalizar el año. Mientras países como México, Paraguay, y",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
+    {
+      "id": "3dc0e1df-2fda-8111-be39-d8d4b07dca1a",
+      "title": "IDA Prices First SEC Exempted US Dollar Global Bond",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/15/ida-prices-first-sec-exempted-us-dollar-global-bond-broadening-ida-s-access-to-add",
+      "published": "2026-09-15",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3dc0e1df-2fda-8190-adb4-c3fc212f12ee",
+      "title": "World Bank Group Backs transformation of Energy-Intensive Industries in Brazil",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/15/world-bank-group-backs-transformation-of-energy-intensive-industries-in-brazil",
+      "published": "2026-09-15",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3dc0e1df-2fda-81cf-a1e6-c62cb228eff9",
       "title": "SBS propone actualizar su procedimiento de autorización previa para adquirir participación significativa en empresas supervisadas",
@@ -45,6 +78,28 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3dc0e1df-2fda-81d3-b9bd-e0b4a06f7953",
+      "title": "Djibouti Launches AgriConnect Compact to Strengthen Food Security, Boost Private Investment and Create Jobs",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/14/djibouti-launches-agriconnect-compact-to-strengthen-food-security-boost-private-in",
+      "published": "2026-09-14",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3dc0e1df-2fda-811e-a84b-f68ac391a68b",
+      "title": "World Bank Group Supports Uruguay's Reforms to Strengthen Competitiveness",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/14/grupo-banco-mundial-respalda-reformas-de-uruguay-para-mejorar-su-competitividad",
+      "published": "2026-09-14",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3db0e1df-2fda-8186-96fd-ff4764408f86",
