@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T18:47:27.837375+00:00",
-  "total_items": 227,
+  "generated_at": "2026-09-16T23:38:39.081403+00:00",
+  "total_items": 228,
   "items": [
     {
       "id": "3dd0e1df-2fda-8143-ae9b-ecce9b9309d1",
@@ -1860,6 +1860,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3dd0e1df-2fda-819c-98db-f8dce35dc864",
+      "title": "SMaRT : Online Reusable Resource Assignment and an Application to Mediation in the Kenyan Judiciary",
+      "url": "http://documents.worldbank.org/curated/undefined/099845009162639662/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3dd0e1df-2fda-81cc-ae99-e596dce22c02",
