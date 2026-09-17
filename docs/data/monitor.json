@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-09-16T23:38:39.081403+00:00",
-  "total_items": 228,
+  "generated_at": "2026-09-17T23:29:58.317281+00:00",
+  "total_items": 239,
   "items": [
+    {
+      "id": "3de0e1df-2fda-8162-8e1b-d415371a8598",
+      "title": "La política monetaria en Brasil",
+      "url": "https://felaban.com/la-politica-monetaria-en-brasil/",
+      "published": "2026-09-17",
+      "summary": "En su reunión del pasado 16 de septiembre el Banco Central de Brasil redujo la tasa SELIC en 25 puntos básicos al dejarla en 13.75%. Esto viene en línea con una tendencia de mejores números inflacionarios entre junio y agosto pasados. Si bien la actividad económica ha estado considerada como moderada y el mercado laboral activo, las expectativas de inflación aún lucen altas. De acuerdo con sondeos del Banco Central entre analistas del mercado, las mismas son de 4.9% y 4.3% para los años 2026 y 2027. El Banco Central sigue viendo una lenta desaceleración de inflación y una convergencia hacia el rango meta (3+-1.5%) en el año 2028. Una situación muy similar fue prevista por el Gerente General del",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
+    {
+      "id": "3de0e1df-2fda-813f-a17b-f624978d9b31",
+      "title": "SBS fortalece capacidades de cooperativas de la región Lima para la gestión de riesgos  y protección de depósitos",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4001",
+      "published": "2026-09-17",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3de0e1df-2fda-8143-affe-c566ef1511dc",
+      "title": "Indicador Oportuno del Consumo Privado (IOCP)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11179",
+      "published": "2026-09-17",
+      "summary": "El IOCP anticipa un incremento anual de 1.6% del consumo privado para julio y de 0.9% para agosto de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3de0e1df-2fda-81b6-8bce-d6d05b37f064",
+      "title": "Encuesta Mensual de la Industria Manufacturera (EMIM). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11180",
+      "published": "2026-09-17",
+      "summary": "Aumentó 0.9 % el volumen de la producción manufacturera en julio de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3de0e1df-2fda-813e-b5f3-f94df82afd51",
+      "title": "OCC Announces Enforcement Actions for September 2026",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-79.html",
+      "published": "2026-09-17",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today released enforcement actions for September 2026.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "3de0e1df-2fda-81fe-a7ce-d67ab747d11c",
+      "title": "World Bank Group Board Discussed New Partnership Framework with Thailand to Boost Job Creation and Build Resilient Economy",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/17/world-bank-group-board-discussed-new-partnership-framework-with-thailand-to-boost",
+      "published": "2026-09-17",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3de0e1df-2fda-8134-aabf-d9516ceefa99",
+      "title": "Measuring sentiment news with transformer-based language models",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3283~df0633dfd3.en.pdf",
+      "published": "2026-09-17",
+      "summary": "Measuring sentiment from financial news is a central task in economics and finance, yet most existing indicators rely on dictionary-based approaches that infer sentiment from word counts and only partially capture context, negation, and semantic structure. This paper proposes a framework for constructing daily news mood indices using transformer-based language models and evaluates whether they better represent sentiment than dictionary-based alternatives. Using 143,755 financial news articles from Factiva, we classify sentiment at the sentence level with FinBERT and aggregate these predictions into article-level and daily sentiment measures through alternative normalization schemes. We compare the resulting indices with benchmark measures based on Shapiro et al., 2022 and Barbaglia et al., 2025. A central contribution is the validation of alternative sentiment measures against human judgments. We conducted an incentivized annotation exercise in which 444 participants evaluated a validation subsample of 588 financial news articles. Consensus ratings from independent human evaluations serve as an external benchmark for assessing the quality of automated sentiment measures. Across correlation, regression, and classification exercises, transformer-based measures show stronger agreement with human judgments than vocabulary-based alternatives and perform substantially better in distinguishing positive, neutral, and negative articles. Overall, the results suggest that incorporating contextual information through transformer-based language models produces sentiment measures that more closely reflect human assessments of financial news.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3de0e1df-2fda-8108-8f3e-d627c3de5981",
+      "title": "Entropic tilting of forecasts to SPF histograms: analytics & applications",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3284~c350fd075f.en.pdf",
+      "published": "2026-09-17",
+      "summary": "We develop a direct approach to incorporating survey density forecasts into model-based predictive distributions. Histogram forecasts from the U.S. Survey of Professional Forecasters (SPF) carry rich nonparametric information about expected outcomes, but existing methods rely on moment-based approximations that discard part of it. We instead tilt entropically to the histogram probabilities themselves, matching them exactly. After reformulating the single-histogram problem, we derive a new analytic characterization of the multiple-histogram case, solved by Iterative Proportional Fitting and applicable to simulated densities from essentially any model. Applying the method to real-time forecasts from a Bayesian VAR with time-varying volatility, we find that tilting to SPF histograms substantially improves accuracy relative to the model’s baseline forecasts, especially during the Great Recession and the COVID-19 pandemic. The gains extend beyond the variables the SPF targets, improving forecasts for other variables in the system as well.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3de0e1df-2fda-81b1-980f-d486b67518b0",
+      "title": "Decision concerning the MiCA reporting platform",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-09/04ef40ac-96bd-49c8-8196-b3775ca17e3c/EBA%20DC%20579_%20Decision%20on%20MICAR%20reporting%20platform-signed-ts%20%281%29.pdf",
+      "published": "2026-09-17",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3de0e1df-2fda-8134-975d-ee12d74bbc87",
+      "title": "Turning Ecosystem Restoration into Action: Learning from China’s Ecological Civilization Experience",
+      "url": "https://www.worldbank.org/en/news/feature/2026/09/17/turning-ecosystem-restoration-into-action-learning-from-china-s-ecological-civiliz",
+      "published": "2026-09-17",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3de0e1df-2fda-819c-bcbc-e7f26a0be946",
+      "title": "Seychelles Could Create Thousands of New and Better-Paid Jobs and Increase GDP by 13%",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/17/seychelles-could-create-thousands-of-new-and-better-paid-jobs-and-increase-gdp",
+      "published": "2026-09-17",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3de0e1df-2fda-81d5-ae66-c0313905671d",
+      "title": "World Bank Group Mobilizes Record Private Capital for Developing Countries, Driving Job Creation",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/17/world-bank-group-mobilizes-record-private-capital-for-developing-countries-driving",
+      "published": "2026-09-17",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3de0e1df-2fda-81df-8daa-f5af11cddd45",
+      "title": "Livable Landscapes for Jobs and Growth",
+      "url": "https://www.worldbank.org/en/news/feature/2026/09/16/livable-landscapes-for-jobs-and-growth",
+      "published": "2026-09-16",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3de0e1df-2fda-8151-bfc6-c174cb11dc9c",
+      "title": "The factors behind output gap revisions",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op399.en.pdf",
+      "published": "2026-09-16",
+      "summary": "Estimates of potential output and the output gap are widely used in monetary, fiscal and structural policy analysis, but they are unobservable and subject to substantial real-time uncertainty. This paper examines revisions to output gap and potential growth estimates produced by the European Commission, the Eurosystem, the International Monetary Fund (IMF) and the Organisation for Economic Co-operation and Development (OECD) for the euro area and its member countries. Using annual forecast vintages covering up to 20 euro area countries from 2002 to 2025 and a balanced panel of 11 countries from 2007 to 2025, the paper compares the reliability of estimates across institutions, decomposes output gap revisions into their main sources and estimates the impact of real GDP data revisions and forecast errors on potential growth revisions. The results show sizeable differences across institutions: European Commission estimates revise least in the balanced country sample, OECD estimates revise most, and Eurosystem estimates have become markedly more stable over the past decade. Output gap revisions are driven mainly by revisions to real GDP data and potential growth, while nowcast errors play a smaller role. Panel regressions show that both real GDP data revisions and medium-term forecast errors are significantly associated with revisions to potential growth, implying that revised or unexpected GDP developments are to some extent absorbed into estimates of potential growth. The findings highlight the uncertainty surrounding real-time output gap estimates and support the use of complementary indicators of economic slack.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3de0e1df-2fda-81c0-bab2-ef846d7ae5be",
+      "title": "Haiti: Harnessing the Country’s Economic Potential",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/16/haiti-harnessing-the-country-s-economic-potential",
+      "published": "2026-09-16",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3de0e1df-2fda-812a-b094-f0d338a7f867",
+      "title": "Michael Kremer Appointed as World Bank Group Chief Economist",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/16/michael-kremer-appointed-as-world-bank-group-chief-economist#",
+      "published": "2026-09-16",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3dd0e1df-2fda-8143-ae9b-ecce9b9309d1",
       "title": "La reunión del banco de la Reserva Federal de EEUU",
@@ -927,6 +1103,17 @@
       "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
+      "id": "3de0e1df-2fda-8192-bf93-f36d6c23e2ee",
+      "title": "Joint Statement BPS-WB on Indonesia's Poverty Figures",
+      "url": "https://www.worldbank.org/en/news/statement/2026/09/09/joint-statement-bps-wb-on-indonesia-poverty-figures",
+      "published": "2026-09-09",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
       "id": "3d60e1df-2fda-8191-8e64-c557508a5597",
       "title": "La inteligencia artificial y sus principales desarrolladores",
       "url": "https://felaban.com/la-inteligencia-artificial-y-sus-principales-desarrolladores/",
@@ -1774,92 +1961,26 @@
       "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
-      "id": "3cb0e1df-2fda-818c-b1f8-ee17b2444642",
-      "title": "What’s Next for Africa’s Integration Agenda",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/08/28/whats-next-for-africas-integration-agenda",
-      "published": "2026-08-28",
+      "id": "3de0e1df-2fda-8168-bee1-e0e4608dcb12",
+      "title": "What Works for Public Sector Reform in Africa ? Preliminary Evidence on New Public Management Reforms in World Bank Projects",
+      "url": "http://documents.worldbank.org/curated/undefined/099229309172639999/null",
+      "published": "",
       "summary": "",
       "regulator": "World Bank",
       "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
-      "id": "3ca0e1df-2fda-81fc-8018-c115e42cd3ad",
-      "title": "SBS publica proyecto de norma para prevenir el LA/FT aplicable a los laboratorios y empresas que producen y/o comercializan insumos químicos y bienes fiscalizados",
-      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3987",
-      "published": "2026-08-28",
-      "summary": "El proyecto cobra especial importancia debido a que la minería ilegal y el tráfico ilícito de drogas son delitos con un nivel de riesgo muy alto asoci",
-      "regulator": "SBS Perú",
-      "country": "PE",
-      "type": "News",
-      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
-    },
-    {
-      "id": "3ca0e1df-2fda-8103-8327-d29da8c167d5",
-      "title": "Abecé del seguro – Terremoto 2026",
-      "url": "https://www.superfinanciera.gov.co/10116234",
-      "published": "2026-08-28",
+      "id": "3de0e1df-2fda-81bb-853e-f41c6b74c781",
+      "title": "Structural Shift in Job Creation: Evidence from Bangladesh",
+      "url": "http://documents.worldbank.org/curated/undefined/099534409172617455/null",
+      "published": "",
       "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3ca0e1df-2fda-8165-8344-fda35987289e",
-      "title": "Estadísticas de Defunciones Fetales (EDF)",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11150",
-      "published": "2026-08-28",
-      "summary": "En 2025 se registraron 20 741 muertes fetales",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3ca0e1df-2fda-818e-a94a-cd39696eca01",
-      "title": "Producto Interno Bruto Trimestral (PIBT). Año base 2018. Por el Método del Ingreso",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11152",
-      "published": "2026-08-28",
-      "summary": "Representó la remuneración de los asalariados 30.8% del PIB en el primer trimestre de 2026",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3ca0e1df-2fda-81fd-9ae2-c011e278fd2c",
-      "title": "Producto Interno Bruto Trimestral (PIBT). Año base 2018. Por el Método del Gasto",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11153",
-      "published": "2026-08-28",
-      "summary": "Representó la remuneración de los asalariados 30.8% del PIB en el primer trimestre de 2026",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3ca0e1df-2fda-817e-8abf-e4f1323d4cc9",
-      "title": "Cuentas por Sectores Institucionales Trimestrales (CSIT). Año base 2018",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11151",
-      "published": "2026-08-28",
-      "summary": "Generaron Sociedades no financieras y Hogares 78.5% del PIB, en el primer trimestre de 2026",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3ca0e1df-2fda-811f-bb39-ffda6fc79d9b",
-      "title": "Isabel Schnabel: Central banks on-chain",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
-      "published": "2026-08-28",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3dd0e1df-2fda-819c-98db-f8dce35dc864",
