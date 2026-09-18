@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-18T18:10:06.590997+00:00",
-  "total_items": 261,
+  "generated_at": "2026-09-18T23:11:15.000710+00:00",
+  "total_items": 263,
   "items": [
+    {
+      "id": "3df0e1df-2fda-8185-8346-e7a93f2ea713",
+      "title": "La política monetaria los países industrializados",
+      "url": "https://felaban.com/la-politica-monetaria-los-paises-industrializados/",
+      "published": "2026-09-18",
+      "summary": "Durante el mes de septiembre de 2026 Estados Unidos, Europa y Japón elevaron sus respectivas tasas de interés de política monetaria (en todos lo casos en 25 puntos básicos). Mayores perspectivas de inflación son el común denominador en dichas decisiones. En el caso mas reciente que es el de Japón, puede mencionarse que se observa un crecimiento económico “moderado”, que se ve impactado negativamente por el incremento de los precios al consumidor, un menor suministro de hidrocarburos, y, un mayor precio de algunos alimentos. El panorama general es de mayor endurecimiento de las condiciones financieras. Mayores tasas de interés, mayores spreads de deuda soberana, volatilidad, altos precios del petróleo y aumento de los precios de alimentos a nivel global por",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
+    {
+      "id": "3df0e1df-2fda-81ce-83f3-d815536d7a6a",
+      "title": "FEDS Paper: Optimal Pooling in Taylor Rule Estimation with Multiple-Horizon Forecast Panels",
+      "url": "https://www.federalreserve.gov/econres/feds/optimal-pooling-in-taylor-rule-estimation-with-multiple-horizon-forecast-panels.htm",
+      "published": "2026-09-18",
+      "summary": "Edward Herbst and Karen Page Multiple-horizon forecast panels are increasingly used to infer perceived monetary policy rules, but inference depends on how coefficients are pooled across forecasters, dates, and horizons. We treat this pooling structure as the object of inference. In a participant-date-horizon Taylor-rule regression model, we compare pooling patterns using Bayesian marginal likelihoods, applying the framework to the Blue Chip Financial Forecasts, Survey of Professional Forecasters, and the Summary of Economic Projections. The preferred specifications place much of the systematic variation in policy-rate forecasts in intercepts that vary across forecast horizons and survey dates. Evidence of \"changing perceptions\" of monetary policy via economically meaningful time-varying response coefficients is weak overall.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
     {
       "id": "3df0e1df-2fda-8139-8962-ff5fa4c50b7d",
       "title": "SBS aprueba nuevo reglamento para fortalecer la gestión del riesgo de sobreendeudamiento en el sistema cooperativo",
