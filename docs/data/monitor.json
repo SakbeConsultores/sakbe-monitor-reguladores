@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-18T23:11:15.000710+00:00",
-  "total_items": 263,
+  "generated_at": "2026-09-19T17:52:13.877017+00:00",
+  "total_items": 265,
   "items": [
+    {
+      "id": "3e00e1df-2fda-81e7-be5f-d2171153dbe3",
+      "title": "Ser joven también es aprender a cuidar tu dinero: Así puedes reconocer una estafa digital",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4003",
+      "published": "2026-09-19",
+      "summary": "Phishing, smishing, vishing y falsas ofertas de préstamos o inversiones son algunas de las modalidades que pueden poner en riesgo tu dinero y tus dato",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3e00e1df-2fda-8134-84a4-d21948105749",
+      "title": "SBS prepublica proyecto de norma para fortalecer la licitación y gestión del seguro previsional",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4004",
+      "published": "2026-09-19",
+      "summary": "Incorpora medidas para mitigar riesgos de fraude y gestionar potenciales conflictos de interés, con el objetivo de reforzar la protección de los afili",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
     {
       "id": "3df0e1df-2fda-8185-8346-e7a93f2ea713",
       "title": "La política monetaria los países industrializados",
