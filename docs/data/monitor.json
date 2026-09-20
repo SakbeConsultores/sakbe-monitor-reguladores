@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T22:50:41.748265+00:00",
-  "total_items": 265,
+  "generated_at": "2026-09-20T18:06:03.576199+00:00",
+  "total_items": 259,
   "items": [
     {
       "id": "3e00e1df-2fda-81e7-be5f-d2171153dbe3",
@@ -23,6 +23,17 @@
       "country": "PE",
       "type": "News",
       "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3e10e1df-2fda-8198-8611-ee75ea080c85",
+      "title": "Roots of Resilience: How Mozambique's Families Are Rebuilding Their Lives and Their Land",
+      "url": "https://www.worldbank.org/en/news/feature/2026/09/18/roots-of-resilience-how-mozambiques-families-are-rebuilding-their-lives",
+      "published": "2026-09-18",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3df0e1df-2fda-8185-8346-e7a93f2ea713",
@@ -276,6 +287,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3e10e1df-2fda-81ed-b37a-fe8cb38f5a89",
+      "title": "Malawi: World Bank Group Approves Grant Financing to Improve Resilience to Climate and Economic Shocks and Create Pathways to More Jobs",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/17/malawi-world-bank-grant-financing-to-improve-resilience-to-climate",
+      "published": "2026-09-17",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3df0e1df-2fda-8124-92e7-f0c9cd64ba47",
@@ -2152,94 +2174,6 @@
       "title": "World Bank Appoints Stephen N. Ndegwa as New Division Director for Thailand and Myanmar",
       "url": "https://www.worldbank.org/en/news/press-release/2026/09/01/world-bank-appoints-stephen-n-ndegwa-as-new-division-director-for-thailand-and-mya",
       "published": "2026-09-01",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3d00e1df-2fda-8113-970d-ca14b3446a57",
-      "title": "Akha Women: Leading the Way for Community Health Improvement",
-      "url": "https://www.worldbank.org/en/news/feature/2026/08/31/akha-women-leading-the-way-for-community-health-improvement",
-      "published": "2026-08-31",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3ce0e1df-2fda-81c9-8992-f207d24cbe67",
-      "title": "Environmental policy uncertainty and cleantech FDI",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3278~42c60efb87.en.pdf",
-      "published": "2026-08-31",
-      "summary": "This paper examines whether environmental policy uncertainty undermines clean-technology investment in the United States by weakening policy-induced investment incentives. Using quarterly project-level data on U.S. greenfield investments from 2007Q1 to 2019Q1, combined with novel news-based indices that separately measure environmental policy salience and environmental policy uncertainty, we find that policy uncertainty substantially offsets the positive investment effects of environmental policy. At the aggregate level, a one-standard-deviation increase in environmental policy uncertainty eliminates roughly 75% of the policy-induced increase in the number of cleantech projects and around 50% of the increase in capital expenditure. The deterrence effect is substantially stronger for foreign than for domestic investors, consistent with greater informational frictions facing cross-border capital. These effects persist for at least two years following an uncertainty shock and are corroborated by country- and firm-level analyses, though results for capital expenditure are less robust at disaggregated levels. The findings imply that policy credibility is a first-order determinant of clean investment: an environmental policy framework that is ambitious but perceived as unstable may fail to mobilize the capital it is designed to attract.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3cd0e1df-2fda-817c-ae0f-f126f477177b",
-      "title": "SBS refuerza normativa relacionada a la recaudación de aportes de las AFOCAT",
-      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3988",
-      "published": "2026-08-31",
-      "summary": "",
-      "regulator": "SBS Perú",
-      "country": "PE",
-      "type": "News",
-      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
-    },
-    {
-      "id": "3cd0e1df-2fda-8185-ae66-cd3c89ed2087",
-      "title": "Índices Globales de Personal y Remuneraciones de los Sectores Económicos (IGPERSE)",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11154",
-      "published": "2026-08-31",
-      "summary": "Disminuyó 0.3 % el índice global de personal ocupado respecto al mes previo, en junio de 2026",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3cd0e1df-2fda-817b-829a-f94d7295be73",
-      "title": "OCC Issues Fourth Quarter 2026 and First Quarter 2027 CRA Evaluation Schedule",
-      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-73.html",
-      "published": "2026-08-31",
-      "summary": "The Office of the Comptroller of the Currency (OCC) today released its schedule of Community Reinvestment Act (CRA) evaluations to be conducted in the fourth quarter of 2026 and the first quarter of 2027.",
-      "regulator": "OCC",
-      "country": "US",
-      "type": "News",
-      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
-    },
-    {
-      "id": "3cd0e1df-2fda-8128-913d-eb0004d58921",
-      "title": "IFDP Paper: Pricing Risk Globally: Intermediary Constraints, the Dollar, and the Global Financial Cycle",
-      "url": "https://www.federalreserve.gov/econres/ifdp/pricing-risk-globally-intermediary-constraints-the-dollar-and-the-global-financial-cycle.htm",
-      "published": "2026-08-31",
-      "summary": "Ozge Akinci, Sebnem Kalemli-Ozcan, and Albert Queralto We study how increased uncertainty about U.S. asset returns affects global asset prices and exchange rates in a two-country model with intermediary balance-sheet constraints. Empirically, uncertainty shocks widen global credit spreads, appreciate the dollar, and increase currency risk premia. In our model, higher uncertainty tightens intermediary constraints and lowers asset prices, reversing the counterfactual asset price increase in frictionless models. Because constraints make net worth especially valuable in bad times, risk premia respond strongly to uncertainty shocks. This interaction allows the model to match the credit spread, currency premium, and dollar responses in the data.",
-      "regulator": "FRB",
-      "country": "US",
-      "type": "Papers",
-      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
-    },
-    {
-      "id": "3cd0e1df-2fda-8142-8ddc-fce00b062a26",
-      "title": "FEDS Paper: United States of U-Star",
-      "url": "https://www.federalreserve.gov/econres/feds/united-states-of-u-star.htm",
-      "published": "2026-08-31",
-      "summary": "Hie Joo Ahn and Jeremy Rudd This paper estimates state-level trend unemployment rates (trend U-star) based on the trend components of unemployment inflows and outflows across unemployment durations. The estimated trend U-stars, particularly the portions attributable to long-termunemployment, have levels and dynamics that vary substantially across states. Long-termunemployment makes a relatively small contribution to trend U-star in agricultural states, but takes a larger share for Rust Belt states and several states in the Sun Belt. While higher educational attainment and population aging put downward pressure on U-star, the effects of industrial structure and labor-market rigidities are mixed. Using the estimates of state-level trend U-star, we revisit previous work on state-level Phillips curves and find that the estimated slopes of forward-looking inflation equations are driven bymovements in trend U-star rather than by cyclical variation in the unemployment rate.",
-      "regulator": "FRB",
-      "country": "US",
-      "type": "Papers",
-      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
-    },
-    {
-      "id": "3cd0e1df-2fda-81d9-9891-e1e134827d71",
-      "title": "Joint Statement by the Multilateral Development Banks and International Financial Institutions on Strengthening Fertilizer Supply Chains",
-      "url": "https://www.worldbank.org/en/news/statement/2026/08/31/joint-statement-by-the-multilateral-development-banks-and-international-financial",
-      "published": "2026-08-31",
       "summary": "",
       "regulator": "World Bank",
       "country": "Global",
