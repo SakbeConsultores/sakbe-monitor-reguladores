@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-21T19:56:47.427719+00:00",
-  "total_items": 260,
+  "generated_at": "2026-09-22T00:00:03.222843+00:00",
+  "total_items": 259,
   "items": [
+    {
+      "id": "3e20e1df-2fda-819c-b376-e0e2ee5808e4",
+      "title": "El índice del dólar de los Estados Unidos",
+      "url": "https://felaban.com/el-indice-del-dolar-de-los-estados-unidos-5/",
+      "published": "2026-09-21",
+      "summary": "Mientras en los mercados emergentes el dólar se debilita el -3.6% en los mercados industrializados el dólar se fortalece un 0.97%. La coyuntura actual se debate entre las tensiones entre superpoderes y los problemas financieros que aquejan a los gobiernos centrales de las principales economías occidentales. Déficits fiscales que tienen que ver con presiones de gasto público asociadas con el envejecimiento de la población (gasto en salud y seguridad social), mayor costo del pasivo pensional, atención de desastres climáticos y gastos asociados a la seguridad y la defensa nacional. La mayor oferta de títulos y bonos estatales ha estado acompañada de volatilidades moderadas y procesos de sell-off de posiciones de inversionistas institucionales. Para el analista George Cole del banco Goldman",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
+    {
+      "id": "3e20e1df-2fda-8105-9ba9-f3a47888555b",
+      "title": "Especiales",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11188",
+      "published": "2026-09-21",
+      "summary": "OIC y Autoridad Garante del INEGI en conjunto con la UAM encabezan conversación sobre la ciencia abierta e información pública con sentido social",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3e20e1df-2fda-8198-9c35-ee5db5538d76",
+      "title": "The Battery Under the Seat: How Uganda is Gearing Up for Electric Mobility at Scale",
+      "url": "https://www.worldbank.org/en/news/feature/2026/09/21/the-battery-under-the-seat-how-uganda-is-gearing-up-for-electric-mobility-at-scale",
+      "published": "2026-09-21",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3e20e1df-2fda-8169-b154-ffa4338bccc9",
+      "title": "World Bank Board Endorses Reforms to the Bank-Fund Debt Sustainability Framework for Low-Income Countries",
+      "url": "https://www.worldbank.org/en/news/statement/2026/09/21/world-bank-board-endorses-reforms-to-the-bank-fund-debt-sustainability-framework-f",
+      "published": "2026-09-21",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3e20e1df-2fda-8121-9a47-f79128535888",
+      "title": "IFC Returns to Sterling FRN Market with GBP 500 Million Bond",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/21/ifc-returns-to-sterling-frn-market-with-gbp-500-million-bond",
+      "published": "2026-09-21",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3e20e1df-2fda-81c7-95ef-cb7db9e92037",
       "title": "Estamos donde más nos necesitan",
@@ -2093,81 +2148,15 @@
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
-      "id": "3d00e1df-2fda-815a-a1b6-c392588457b1",
-      "title": "Irrigation Investment Revives Farms in Uzbekistan's Ferghana Valley",
-      "url": "https://www.worldbank.org/en/news/feature/2026/09/02/irrigation-investment-revives-farms-in-uzbekistan-ferghana-valley",
-      "published": "2026-09-02",
+      "id": "3e20e1df-2fda-819a-8d58-d8647afb9d78",
+      "title": "Food Accounting Salience and Dietary Diversity : A Randomized Impact Evaluation of an Intervention to Track and Improve Young Children’s Food Consumption in Bihar, India",
+      "url": "http://documents.worldbank.org/curated/undefined/099901209212637745/null",
+      "published": "",
       "summary": "",
       "regulator": "World Bank",
       "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3cf0e1df-2fda-816a-8fb1-dc91e66f8819",
-      "title": "Superfinanciera ordena a “Fundación FG – Administrador de Fideicomisos Civiles” suspender las actividades de captación no autorizada.",
-      "url": "https://www.superfinanciera.gov.co/10116241",
-      "published": "2026-09-02",
-      "summary": "",
-      "regulator": "SuperFin",
-      "country": "CO",
-      "type": "News",
-      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
-    },
-    {
-      "id": "3cf0e1df-2fda-815f-ba61-c4c88077c309",
-      "title": "Registro administrativo de la industria automotriz de vehículos ligeros",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11158",
-      "published": "2026-09-02",
-      "summary": "Se vendieron en México 129 479 vehículos ligeros en agosto de 2026; 2.3% más que en agosto de 2025",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3cf0e1df-2fda-81c1-b589-db324cda9c33",
-      "title": "Suspicious Activity Reporting: Joint Statement on Suspicious Activity Report Confidentiality Considerations Regarding Communications with Customers",
-      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-43.html",
-      "published": "2026-09-02",
-      "summary": "On September 2, 2026, the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Financial Crimes Enforcement Network (FinCEN), and the National Credit Union Administration issued a statement to clarify confidentiality requirements related to Suspicious Activity Reports (SAR), particularly when banks communicate with their customers regarding potentially fraudulent transactions.",
-      "regulator": "OCC",
-      "country": "US",
-      "type": "Bulletins",
-      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
-    },
-    {
-      "id": "3cf0e1df-2fda-8186-9575-c172570f69dc",
-      "title": "FEDS Paper: Linear and Nonlinear Econometric Models versus Machine-Learning Models: Evidence from Realized-Volatility Forecasting(Revised)",
-      "url": "https://www.federalreserve.gov/econres/feds/linear-and-nonlinear-econometric-models-against-machine-learning-models.htm",
-      "published": "2026-09-02",
-      "summary": "Rehim Kilic This paper examines which representations of persistence and nonlinearity are most useful for forecasting realized volatility and whether machine learning adds value beyond econometric models designed for long memory and regime dependence. We compare HAR, ARFIMA, threshold HAR, smooth-transition HAR, and Markov-switching HAR with XGBoost and several neural-network models for the S&P 500 and 40 U.S. equities. Models are evaluated under a baseline information set using realized-volatility history and an extended set of predictors selected by Elastic Net. Forecast performance is assessed using MSFE, MAE, QLIKE, Model Confidence Sets, Diebold&#8211;Mariano tests, realized utility, and filtered-historical-simulation VaR and expected shortfall. The results reveal a robust horizon-dependent ranking: Markov-switching HAR performs best at short horizons, ARFIMA generally leads at the monthly horizon, and the five-day horizon is intermediate. Machine-learning models sometimes improve on HAR but do not systematically outperform the broader econometric set. These findings are robust across estimation windows, re-estimation frequencies, richer information sets, log-volatility targets, and individual equities; stock-level results are also robust to an alternative realized-volatility measure. Overall, forecast performance depends primarily on capturing the persistence and nonlinear dynamics most relevant at each horizon.",
-      "regulator": "FRB",
-      "country": "US",
-      "type": "Papers",
-      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
-    },
-    {
-      "id": "3cf0e1df-2fda-81ef-a523-cd7dd75ea42c",
-      "title": "Euro area bank interest rate statistics: July 2026",
-      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260902~d54675e442.en.html",
-      "published": "2026-09-02",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Statistical Releases",
-      "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
-    },
-    {
-      "id": "3cf0e1df-2fda-8130-ad23-f7a0ae0094ab",
-      "title": "Verifiable official statistics: a blockchain-based approach",
-      "url": "https://www.bis.org/publications/working-paper-1374-verifiable-official-statistics-blockchain-based-approach",
-      "published": "2026-09-02",
-      "summary": "International organisations including the Bank for International Settlements (BIS) have adopted SDMx (Statistical Data and Metadata) as the standard for exchanging official statistics. Trust in published data is essential for evidence-based policymaking. This paper shows how binding each SDMx dataset to its source using blockchain technology can enhance confidence in official statistics.",
-      "regulator": "BIS",
-      "country": "Global",
       "type": "Research",
-      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3e20e1df-2fda-81c6-a881-f374c912db98",
