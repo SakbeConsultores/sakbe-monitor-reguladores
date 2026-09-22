@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-22T18:38:03.030579+00:00",
-  "total_items": 301,
+  "generated_at": "2026-09-22T23:35:13.480250+00:00",
+  "total_items": 307,
   "items": [
+    {
+      "id": "3e30e1df-2fda-81ce-ada2-f4764b276663",
+      "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+      "published": "2026-09-22",
+      "summary": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3e30e1df-2fda-8103-bbe4-f37e550ccb8c",
+      "title": "Thailand’s Cities Can be the Engine of its High-Income Future",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/22/thailand-s-cities-can-be-the-engine-of-its-high-income-future",
+      "published": "2026-09-22",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3e30e1df-2fda-81ad-92a4-e335ef428dcd",
+      "title": "World Bank: Stronger Water Management Could Unlock Growth, Protect Jobs, and Build Resilience in Tunisia",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/22/world-bank-stronger-water-management-could-unlock-growth-protect-jobs",
+      "published": "2026-09-22",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3e30e1df-2fda-81a3-a9ad-f75b27cf035f",
+      "title": "World Bank Group Backs Water Security and the Access to Resilient Water and Sanitation Services in Brazil's Paraíba State",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/22/world-bank-group-backs-water-security-sanitation-paraiba-brazil",
+      "published": "2026-09-22",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3e30e1df-2fda-8194-a68a-de17524ddf2e",
+      "title": "World Bank Group Helps Modernize São Paulo Water Crossings to Improve Transport and Create Jobs",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/22/brazil-world-bank-group-helps-modernize-sao-paulo-water-crossings",
+      "published": "2026-09-22",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3e30e1df-2fda-8133-935f-cbc6a7062fd3",
       "title": "Encuesta Intercensal (EIC) 2025",
@@ -2597,6 +2652,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3e30e1df-2fda-8126-b5c1-dd79d982f500",
+      "title": "Air Pollution and Student Learning in Pakistan",
+      "url": "http://documents.worldbank.org/curated/undefined/099820409222616563/null",
+      "published": "",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.worldbank.org/en/research"
     },
     {
       "id": "3e30e1df-2fda-81d8-aaea-f05d275922d4",
