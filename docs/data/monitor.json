@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-23T18:57:05.775191+00:00",
-  "total_items": 318,
+  "generated_at": "2026-09-23T23:32:40.387750+00:00",
+  "total_items": 319,
   "items": [
+    {
+      "id": "3e40e1df-2fda-812f-84ee-e18836e15410",
+      "title": "Los resultados de las pruebas PISA para América Latina II",
+      "url": "https://felaban.com/los-resultados-de-las-pruebas-pisa-para-america-latina-ii/",
+      "published": "2026-09-23",
+      "summary": "La comprensión de lectura baja resulta ser una deficiencia para el aprendizaje y la competitividad de estudiantes y profesionales. De acuerdo con el lingüista Kris Van den Branden de la Universidad de Leuven, una reducción de las habilidades y competencias para leer textos largos implica mayor dificultad para aprobar pruebas y obtener empleo, mayores posibilidades de deterioro cognitivo a temprana edad, reducción de la autoestima, empobrecimiento del léxico personal y perdida de habilidades sociales. El declive de las competencias de lectura conlleva consecuencias en el mundo educativo, laboral y del campo de salud difíciles de ignorar. El portal EdWeek considera que hoy existen lectores apresurados que buscan abarcar textos a gran velocidad y que habitualmente responden mal a preguntas sobre",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
     {
       "id": "3e40e1df-2fda-819f-949b-d0aa69411596",
       "title": "Ser joven también es aprender a cuidar tu dinero: Así puedes reconocer una estafa digital",
