@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-25T19:12:35.991193+00:00",
-  "total_items": 353,
+  "generated_at": "2026-09-25T23:56:54.397333+00:00",
+  "total_items": 354,
   "items": [
+    {
+      "id": "3e60e1df-2fda-8113-8e83-d2d967390fda",
+      "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+      "published": "2026-09-25",
+      "summary": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
     {
       "id": "3e60e1df-2fda-81db-9c85-c4e7a2b0f1d6",
       "title": "Día del Shopping: ¿Pagar directo o en cuotas?",
