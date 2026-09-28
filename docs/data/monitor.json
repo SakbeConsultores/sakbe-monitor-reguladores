@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-09-27T23:45:44.572322+00:00",
-  "total_items": 350,
+  "generated_at": "2026-09-28T21:09:37.879482+00:00",
+  "total_items": 353,
   "items": [
+    {
+      "id": "3e90e1df-2fda-81c1-a215-e590e46bfa08",
+      "title": "Estamos donde más nos necesitan",
+      "url": "https://www.superfinanciera.gov.co/10116265",
+      "published": "2026-09-28",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "3e90e1df-2fda-8163-b0a3-e63ad99c6abf",
+      "title": "Ingreso Corriente para los Municipios de México (ICMM)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11242",
+      "published": "2026-09-28",
+      "summary": "Los hogares de 3 de cada 4 municipios del país registraron ingresos inferiores a 60 mil pesos trimestrales en 2024",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3e90e1df-2fda-8100-8856-fb52607833ea",
+      "title": "Balanza Comercial de Mercancías de México",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11243",
+      "published": "2026-09-28",
+      "summary": "Aumentaron las exportaciones 40.4% y las importaciones 34.2%, a tasa anual, en agosto de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3e90e1df-2fda-8144-8c83-c7329dd957b2",
+      "title": "Estadísticas a propósito de...",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11244",
+      "published": "2026-09-28",
+      "summary": "En 2024, en México, había 17.7 millones de personas de 60 años y más. Las mujeres representaron 53.2 % y los hombres, 46.8 por ciento.",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "Statistical Releases",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,3"
+    },
+    {
+      "id": "3e90e1df-2fda-8100-a142-d3402b18076d",
+      "title": "Remarks by Comptroller Gould before the Military Banking Summit 2026",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-81.html",
+      "published": "2026-09-28",
+      "summary": "Comptroller of the Currency Jonathan V. Gould today discussed the importance of a regulatory and supervisory framework that supports the military community in remarks at the Military Banking Summit.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "3e90e1df-2fda-81ec-8d44-c013fd72dd0d",
+      "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
+      "published": "2026-09-28",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3e90e1df-2fda-8171-86c7-c360af02b5b0",
+      "title": "C_2025_8378_1_EN_annexe_acte_autonome_cp_part1_v7",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-09/96e084c8-0a06-45e3-963c-73f94ae7c1a2/C_2025_8378_1_EN_annexe_acte_autonome_cp_part1_v7.pdf",
+      "published": "2026-09-28",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3e90e1df-2fda-8149-9edf-d1bba34ca1c9",
+      "title": "Speech - 2026 EBA Chair ECON",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-09/289583e3-28c5-42fa-8040-5d12f5fe6327/Speech%20-%202026%20EBA%20Chair%20ECON%20%281%29.pdf",
+      "published": "2026-09-28",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3e90e1df-2fda-81ef-b4f5-cd04c2a3c5b8",
+      "title": "EBA Public hearing - Consultation papers on the first batch of mandates under DGSD3",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-09/86cdc0b0-f41a-4822-8f83-0ea6ecc01b60/EBA%20Public%20hearing%20-%20Consultation%20papers%20on%20the%20first%20batch%20of%20mandates%20under%20DGSD3%20%281%29.pdf",
+      "published": "2026-09-28",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3e90e1df-2fda-81c1-adfb-dea85effd6c7",
+      "title": "Trans-Caspian Transport Corridor Investments Could Spur Growth and Create Millions of Jobs Across Europe and Central Asia",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/28/trans-caspian-transport-corridor-investments-spur-growth-and-create-millions-jobs",
+      "published": "2026-09-28",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3e90e1df-2fda-81c3-be9a-da4559d4c1ae",
+      "title": "Philippines Could Unlock Up to 7.1% of GDP in Fiscal Gains Through Bolder Reforms",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/28/philippines-could-unlock-up-to-7-1-percent-of-gdp-in-fiscal-gains",
+      "published": "2026-09-28",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3e90e1df-2fda-811d-be6a-f708cbf51152",
+      "title": "The leverage ratio and the output floor: complementarities and overlaps",
+      "url": "https://www.bis.org/publications/fsi-paper-29-leverage-ratio-and-output-floor-complementarities-and-overlaps",
+      "published": "2026-09-28",
+      "summary": "This paper examines analytically and empirically whether the Basel III leverage ratio (LR) and output floor (OF) requirements act as substitutes for or complements to each other and how they interact with risk‑based regulatory requirements. These requirements determine banks’ overall capital requirements and therefore their capacity to support credit and growth in the economy as well as their resilience to negative shocks.A simple analytical framework maps the three requirements to a common…",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "3e60e1df-2fda-8190-a6d3-ef132f9cf4c1",
       "title": "La producción industrial en 2026 en el mundo",
@@ -2993,105 +3125,6 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "3d70e1df-2fda-81d3-b958-cd0bc7a89e7d",
-      "title": "“Parlons Développement”: Awaken and Nurture a Culture of Debate and Dialogue on Development Topics for Moroccan Youth",
-      "url": "https://www.worldbank.org/en/news/feature/2026/09/08/parlons-d-veloppement-awaken-and-nurture-a-culture-of-debate-and-dialogue-on-development-topics-for-moroccan-youth",
-      "published": "2026-09-08",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3d60e1df-2fda-81f1-9682-ccd4bf95063d",
-      "title": "IFC Returns to New Zealand Dollar Market with Record NZD1 Billion Bond",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/09/08/ifc-returns-to-new-zealand-dollar-market-with-record-nzd1-billion-bond",
-      "published": "2026-09-08",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3d50e1df-2fda-816f-87dd-e19533ae4f89",
-      "title": "Las pruebas educativas PISA versión 2025",
-      "url": "https://felaban.com/las-pruebas-educativas-pisa-version-2025/",
-      "published": "2026-09-08",
-      "summary": "Las pruebas PISA (2025) incluyeron 760 mil estudiantes de 91 países. Se presentaron pruebas de estudiantes de secundaria, temas como lectura, matemáticas y ciencias. De manera general se observa un retroceso en los resultados en todos los campos evaluados. Temas como la pandemia y sus efectos retrasados, el uso de dispositivos electrónicos , el aumento de casos de síndrome de déficit de atención, el uso repetitivo de inteligencia artificial son algunos factores que los expertos ven como determinantes para un peor desempeño académico. Temas como evaluar información disponible, elaborar conexiones entre múltiples fuentes de información, redactar documentos de tamaño medio, el uso del lenguaje, el mayor pensamiento crítico, son algunos de los temas en los que se observa decrecimiento. Los",
-      "regulator": "FELABAN",
-      "country": "LatAm Regional",
-      "type": "News",
-      "feed_url": "https://felaban.com/noticias/"
-    },
-    {
-      "id": "3d50e1df-2fda-8172-990f-e4ee629a82c8",
-      "title": "From Butcher to Fisher to Recovery: Harvey Corbin’s Story of Surviving Hurricane Beryl’s Destruction",
-      "url": "https://www.worldbank.org/en/news/feature/2026/09/08/from-butcher-to-fisher-to-recovery-harvey-corbin-s-story-of-surviving-hurricane-be",
-      "published": "2026-09-08",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3d50e1df-2fda-814b-b773-d3b366644742",
-      "title": "World Bank Supports the Modernization of Guatemala’s Civil Aviation Sector to Boost Connectivity and Jobs",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/09/08/world-bank-supports-guatemala-civil-aviation-sector-boosting-connecticity-jobs",
-      "published": "2026-09-08",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3d50e1df-2fda-81ea-b09a-f137256bbd92",
-      "title": "Estadísticas a propósito de...",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11168",
-      "published": "2026-09-08",
-      "summary": "En 2025, se registró la ocurrencia de 8 709 defunciones por suicidio",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "Statistical Releases",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,3"
-    },
-    {
-      "id": "3d50e1df-2fda-8150-bf47-e12e5afcf66c",
-      "title": "Bank Secrecy Act/Anti-Money Laundering: Frequently Asked Questions Regarding Treatment of Verifiable Digital Credentials Under the Customer Identification Program Rule",
-      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-44.html",
-      "published": "2026-09-08",
-      "summary": "The Office of the Comptroller of the Currency (OCC), jointly with the Financial Crimes Enforcement Network (FinCEN), the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and the National Credit Union Administration, issued answers to frequently asked questions (FAQ) related to the use of state-issued mobile driver's licenses and other government-issued verifiable digital credentials (VDC).",
-      "regulator": "OCC",
-      "country": "US",
-      "type": "Bulletins",
-      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
-    },
-    {
-      "id": "3d50e1df-2fda-8133-aacb-c592e779df6c",
-      "title": "Frank Elderson: Fireside chat",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260908~3652aa828f.en.html",
-      "published": "2026-09-08",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "3d50e1df-2fda-81cb-9f65-cf13b009b1b2",
-      "title": "Global standard-setting bodies publish a toolkit for cyber resilience at FMIs and a discussion paper on FMIs’ reliance on third-party service providers",
-      "url": "https://www.bis.org/media-releases/20260908-global-standard-setting-bodies-publish-toolkit-cyber-resilience-fmis-and-discussion-paper-fmis",
-      "published": "2026-09-08",
-      "summary": "CPMI-IOSCO are seeking input from stakeholders on a cyber resilience toolkit for financial market infrastructures (FMIs) and on risks to FMIs from third-party service providers. The Cyber resilience toolkit: practical considerations for FMIs supports FMIs in strengthening their cyber resilience frameworks. The discussion paper FMIs’ reliance on third-party service providers: challenges and risks explores the increased reliance of FMIs on third-party service providers.",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.bis.org/doclist/all_pressrels.rss"
     },
     {
       "id": "3e40e1df-2fda-8169-b639-e7f7f971ca99",
