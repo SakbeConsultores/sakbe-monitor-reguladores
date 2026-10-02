@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-02T00:39:35.727103+00:00",
-  "total_items": 377,
+  "generated_at": "2026-10-02T19:50:40.270539+00:00",
+  "total_items": 387,
   "items": [
+    {
+      "id": "3ed0e1df-2fda-8110-8d98-dc107b3c6b5a",
+      "title": "Cuenta de Bienes y Servicios (CBS). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11256",
+      "published": "2026-10-02",
+      "summary": "En 2025, la oferta total de bienes y servicios se ubicó en 76 287 449 millones de pesos (MDP) corrientes",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3ed0e1df-2fda-819e-b1c2-e3893579c7ab",
+      "title": "Registro administrativo de la industria automotriz de vehículos ligeros",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11258",
+      "published": "2026-10-02",
+      "summary": "Se vendieron en México 129 288 vehículos ligeros en septiembre de 2026; 8.0% más que en septiembre de 2025",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3ed0e1df-2fda-81e3-b236-c51e2c3c8319",
+      "title": "Sistema de Indicadores Cíclicos",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11257",
+      "published": "2026-10-02",
+      "summary": "Aumentó 0.10 puntos el Indicador Coincidente en julio de 2026, respecto a junio pasado",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3ed0e1df-2fda-8183-9408-ca7315310180",
+      "title": "FEDS Paper: Bells and Whistles of Nowcasting Models: Which Matter and When?",
+      "url": "https://www.federalreserve.gov/econres/feds/bells-and-whistles-of-nowcasting-models-which-matter-and-when.htm",
+      "published": "2026-10-02",
+      "summary": "Freddy Garc&iacute;a-Alb&aacute;n and Manuel Gonz&aacute;lez-Astudillo This paper investigates which features of a Bayesian dynamic factor model improve U.S. GDP nowcasts and whether their contribution varies across historical episodes. Using pseudo-real-time information sets for 25 series, we estimate 16 combinations of dynamic heterogeneity, stochastic volatility, time-varying long-run growth, and a multiplicative outlier adjustment. We evaluate their marginal contributions to point, density, and quantile score forecasts using balanced paired factorial contrasts. Dynamic heterogeneity improves point, density, and tail forecasts, and it is the only feature that helps consistently across all three criteria. Stochastic volatility improves density and tail forecasts in some periods but not point forecasts consistently. Time-varying long-run growth lowers squared-error loss in some periods but worsens tail forecasts. The outlier adjustment does not improve point or density forecasts overall, has favorable but imprecisely estimated effects on upper-tail quantile scores during the pandemic, and worsens those scores afterward.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3ed0e1df-2fda-81bc-ad64-c3edb3e9e26c",
+      "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
+      "published": "2026-10-02",
+      "summary": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3ed0e1df-2fda-81c1-8a38-e4312352743a",
+      "title": "Euro area quarterly balance of payments and international investment position: second quarter of 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq261002~5e0dd6a1f4.en.html",
+      "published": "2026-10-02",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Statistical Releases",
+      "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
+    },
+    {
+      "id": "3ed0e1df-2fda-819f-bc27-e0640ab2b58a",
+      "title": "Households and non-financial corporations in the euro area: second quarter of 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_early2026q2~444dc6a8ee.en.html",
+      "published": "2026-10-02",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Statistical Releases",
+      "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
+    },
+    {
+      "id": "3ed0e1df-2fda-81ef-a0f1-fd3cf0ae3747",
+      "title": "Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html",
+      "published": "2026-10-02",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3ed0e1df-2fda-8123-ad54-e582d14cae6f",
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
+      "published": "2026-10-02",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3ed0e1df-2fda-81b1-a821-d786a1071a57",
+      "title": "2026 09 30 PMR Francois-Louis Michaud",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-10/4f346169-4290-4970-8fa0-ea4c5dc81693/2026%2009%2030%20PMR%20Francois-Louis%20Michaud.pdf",
+      "published": "2026-10-02",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
     {
       "id": "3ec0e1df-2fda-81f3-9cba-da5a35777c0c",
       "title": "La política monetaria en América Latina",
