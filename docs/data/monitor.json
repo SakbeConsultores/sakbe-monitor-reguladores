@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-02T19:50:40.270539+00:00",
-  "total_items": 387,
+  "generated_at": "2026-10-03T00:20:40.627522+00:00",
+  "total_items": 391,
   "items": [
+    {
+      "id": "3ee0e1df-2fda-813f-848c-d844408deb05",
+      "title": "El Banco de México informa sobre el cierre ordenado del programa Directo a México®",
+      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/miscelaneos/{CFEFBCE5-EB10-2137-D1D7-5A74135FE5DB}.pdf",
+      "published": "2026-10-02",
+      "summary": "",
+      "regulator": "Banxico",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.banxico.org.mx/noticias/noticias001.html"
+    },
+    {
+      "id": "3ee0e1df-2fda-81a2-8596-c0af175c04e2",
+      "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+      "published": "2026-10-02",
+      "summary": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3ee0e1df-2fda-811f-8ac8-ea966bb07865",
+      "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+      "published": "2026-10-02",
+      "summary": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3ee0e1df-2fda-81c6-ac36-c0f55fbe688f",
+      "title": "Preschools Let Mothers Work and Children Learn in the Kyrgyz Republic",
+      "url": "https://www.worldbank.org/en/news/feature/2026/10/02/preschools-let-mothers-work-and-children-learn-in-the-kyrgyz-republic",
+      "published": "2026-10-02",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3ee0e1df-2fda-811a-84e4-c9664df169fe",
+      "title": "Investing in Better Jobs, Faster Growth: New World Bank Group Report Helps Chart a Path to Poverty Reduction in Tanzania",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/02/investing-in-better-jobs-faster-growth-new-world-bank-group-report",
+      "published": "2026-10-02",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3ed0e1df-2fda-8110-8d98-dc107b3c6b5a",
       "title": "Cuenta de Bienes y Servicios (CBS). Año base 2018",
@@ -111,6 +166,17 @@
       "country": "EU",
       "type": "Publications",
       "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3ee0e1df-2fda-8112-bc6b-f844c2c7fc1e",
+      "title": "World Bank Group to Unlock Private Investments, Create Jobs, and Strengthen Resilience in Tonga",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/01/world-bank-group-to-unlock-private-investments-create-jobs-and-strengthen-resilien",
+      "published": "2026-10-01",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3ec0e1df-2fda-81f3-9cba-da5a35777c0c",
@@ -287,6 +353,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3ee0e1df-2fda-815e-bf9d-c5c27905f31c",
+      "title": "World Bank Supports Kazakhstan to Scale High-tech Startups, Create Jobs and Mobilize Private Capital",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/30/world-bank-supports-kazakhstan-to-scale-high-tech-startups-create-jobs-and-mobiliz",
+      "published": "2026-09-30",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3ec0e1df-2fda-8175-b126-fd5bb40adb31",
@@ -3466,39 +3543,6 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "3da0e1df-2fda-81f0-a632-fed98ecd61a0",
-      "title": "Del primer sueldo al primer ahorro: 3 fórmulas para organizar tu dinero",
-      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3996",
-      "published": "2026-09-13",
-      "summary": "",
-      "regulator": "SBS Perú",
-      "country": "PE",
-      "type": "News",
-      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
-    },
-    {
-      "id": "3da0e1df-2fda-818a-b990-ed59de7ad281",
-      "title": "SBS fortalece gobierno corporativo de CMAC",
-      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3997",
-      "published": "2026-09-13",
-      "summary": "",
-      "regulator": "SBS Perú",
-      "country": "PE",
-      "type": "News",
-      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
-    },
-    {
-      "id": "3da0e1df-2fda-811f-8d21-cfbeffd35156",
-      "title": "Se aprueba el Reglamento Operativo para acceder a las pensiones mínima y proporcional del Sistema Privado de Pensiones como parte del Pilar Semicontributivo",
-      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3998",
-      "published": "2026-09-13",
-      "summary": "",
-      "regulator": "SBS Perú",
-      "country": "PE",
-      "type": "News",
-      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
     },
     {
       "id": "3e40e1df-2fda-8169-b639-e7f7f971ca99",
