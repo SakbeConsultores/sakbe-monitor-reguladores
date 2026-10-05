@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-10-04T23:55:50.360656+00:00",
-  "total_items": 374,
+  "generated_at": "2026-10-05T21:55:02.643132+00:00",
+  "total_items": 380,
   "items": [
+    {
+      "id": "3f00e1df-2fda-8138-aad0-f4087e5a4e35",
+      "title": "La inversión en activos intangibles",
+      "url": "https://felaban.com/la-inversion-en-activos-intangibles/",
+      "published": "2026-10-05",
+      "summary": "De acuerdo con el análisis del Fondo Monetario Internacional la IA, la digitalización, la creación de nuevo software, la formación de nuevas marcas ha llevado a lo que se denomina un “cambio secular” que invita a invertir en activos no tangibles. La globalización, el comercio transfronterizo y una creciente demanda han llevado a que esta inversión se cuadriplique desde comienzos del presente siglo. Marcas, patentes, derechos de uso o reproducción, bases de datos son algunos de los temas que hoy por hoy marcan expectativas ingresos, valorización de algunos activos y posibilidades de conexión de operaciones y transacciones. OCDE observa como estos activos con valor hacen parte de bases gravables y determinan algunas acciones de política tributaria en diferentes países. En",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
+    {
+      "id": "3f00e1df-2fda-81bc-8cfe-f94b36b7bf26",
+      "title": "SBS publica primer bloque normativo del Sistema de Finanzas Abiertas para recibir comentarios del público",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4015",
+      "published": "2026-10-05",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3f00e1df-2fda-81e0-aefa-e46000b1664b",
+      "title": "Estamos donde más nos necesitan",
+      "url": "https://www.superfinanciera.gov.co/10116271",
+      "published": "2026-10-05",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "3f00e1df-2fda-817b-ba57-d9057ab34ee6",
+      "title": "Indicador Mensual del Consumo Privado (IMCP). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11259",
+      "published": "2026-10-05",
+      "summary": "No registró variación el consumo privado en julio de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3f00e1df-2fda-8153-a01b-c3073a0e7e38",
+      "title": "Indicador Mensual de la Formación Bruta de Capital Fijo (IMFBCF). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11260",
+      "published": "2026-10-05",
+      "summary": "Aumentó 1.4% la inversión fija bruta en julio de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3f00e1df-2fda-81b2-b9ab-f41a13340ac2",
+      "title": "OCC Hails 2026 Update to U.S. National Strategy for Financial Literacy",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-85.html",
+      "published": "2026-10-05",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today hailed the 2026 update to the U.S. National Strategy for Financial Literacy, underscoring the agency's commitment to helping Americans develop practical skills to make sound financial decisions, build greater financial security, and pursue economic opportunity.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "3f00e1df-2fda-81fc-98d5-df1195bafcea",
+      "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+      "published": "2026-10-05",
+      "summary": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3f00e1df-2fda-8145-bcef-c2a0c1201cba",
+      "title": "ECB monetary policy transmission to unilaterally euroised economies",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3293~a7c6243bcc.en.pdf",
+      "published": "2026-10-05",
+      "summary": "Leveraging the unique setting of unilateral euroisation, this paper examines the spillover effects of euro area monetary policy on Montenegro and Kosovo. Through the lens of a structural VAR model with block exogeneity, it shows that euro area monetary policy shocks can significantly influence output and inflation in these economies, albeit with a delayed response, while contributing only modestly to their overall business cycle fluctuations.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3f00e1df-2fda-8155-89b9-d1609feed838",
+      "title": "Understanding inflation: insights from the term structure of inflation risks",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3294~343f6d6c31.en.pdf",
+      "published": "2026-10-05",
+      "summary": "This paper investigates the information content of the term structure of inflation risks and its usefulness for understanding inflation dynamics. Using prices of traded zero-coupon inflation caps and floors, we develop a robust non-parametric methodology, combined with a Student’s t-copula, to estimate spot and forward risk-neutral densities at short-, medium-, and long-term horizons, i.e., long-horizon risks are identified from liquid instruments alone, at daily frequency, without forward-starting contracts. Focusing on the euro area over 2009-2026, we show that the term structure of inflation risks provides valuable information about the persistence of inflation shocks and the degree to which changes in the inflation outlook become embedded at longer horizons. We also show that there is marked heterogeneity in the macroeconomic and financial conditions associated to inflation risks across horizons: short- and medium-term risks are mainly associated with current inflation, confidence indicators, commodity prices, and near-term macroeconomic risks, whereas long-term risks are more strongly related to monetary and financial conditions. These findings highlight the importance of analysing the entire term structure of inflation risks rather than relying on a single maturity.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3f00e1df-2fda-818a-8236-d61c7388c455",
+      "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
+      "published": "2026-10-05",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3f00e1df-2fda-81f2-8a53-e1c0de47f3a6",
+      "title": "SoCs - EFIF Meeting 19 May 2026",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-10/0263984d-aa62-4419-99eb-93b5d89842a5/SoCs%20-%20EFIF%20Meeting%2019%20May%202026.pdf",
+      "published": "2026-10-05",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3f00e1df-2fda-8109-99e4-ecc95fc00913",
+      "title": "Basel III applicable in almost all member jurisdictions by 2027",
+      "url": "https://www.bis.org/media-releases/20261005-basel-iii-applicable-almost-all-member-jurisdictions-2027",
+      "published": "2026-10-05",
+      "summary": "Three quarters of the Basel Committee’s 27 member jurisdictions have now published regulations implementing the full set of Basel III standards. Almost all member jurisdictions have publicly announced that banks must apply Basel III by April 2027 or earlier. The Committee will continue to closely monitor and assess the full and consistent implementation of Basel III standards.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.bis.org/doclist/all_pressrels.rss"
+    },
+    {
+      "id": "3f00e1df-2fda-8190-b072-d48488094254",
+      "title": "Turning Global Knowledge into Local Resilience in Myanmar",
+      "url": "https://www.worldbank.org/en/news/feature/2026/10/02/turning-global-knowledge-into-local-resilience-in-myanmar",
+      "published": "2026-10-02",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3ee0e1df-2fda-813f-848c-d844408deb05",
       "title": "El Banco de México informa sobre el cierre ordenado del programa Directo a México®",
@@ -3279,83 +3422,6 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3dc0e1df-2fda-8101-9330-e30fc94f47bf",
-      "title": "La inflación en América Latina 2026",
-      "url": "https://felaban.com/la-inflacion-en-america-latina-2026/",
-      "published": "2026-09-15",
-      "summary": "La inflación en América Latina registra en promedio en agosto de 2026 un número del 5.40%. En el mes de agosto los números mensuales mostraron aumentos al menos en 11 países de la región. Mientras países como Brasil, Chile y México han terminado ubicándose dentro de los rangos-metas establecidos por su banco central, países como Perú han mostrado un número creciente al alcanzar el 4.44% anual. Colombia muestra un nuevo repunte de la inflación y los analistas esperan un aumento y un posible endurecimiento de las condiciones de política monetaria. Igualmente, Argentina mostró una ligera baja de la inflación que podría llevar la misma a ser inferior al 30% anual al finalizar el año. Mientras países como México, Paraguay, y",
-      "regulator": "FELABAN",
-      "country": "LatAm Regional",
-      "type": "News",
-      "feed_url": "https://felaban.com/noticias/"
-    },
-    {
-      "id": "3dc0e1df-2fda-8111-be39-d8d4b07dca1a",
-      "title": "IDA Prices First SEC Exempted US Dollar Global Bond",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/09/15/ida-prices-first-sec-exempted-us-dollar-global-bond-broadening-ida-s-access-to-add",
-      "published": "2026-09-15",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3dc0e1df-2fda-8190-adb4-c3fc212f12ee",
-      "title": "World Bank Group Backs transformation of Energy-Intensive Industries in Brazil",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/09/15/world-bank-group-backs-transformation-of-energy-intensive-industries-in-brazil",
-      "published": "2026-09-15",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3dc0e1df-2fda-81cf-a1e6-c62cb228eff9",
-      "title": "SBS propone actualizar su procedimiento de autorización previa para adquirir participación significativa en empresas supervisadas",
-      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=3999",
-      "published": "2026-09-15",
-      "summary": "",
-      "regulator": "SBS Perú",
-      "country": "PE",
-      "type": "News",
-      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
-    },
-    {
-      "id": "3dc0e1df-2fda-81d3-8817-cff352f7a6e7",
-      "title": "Endogenous monetary policy effectiveness",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3281~01820b53fd.en.pdf",
-      "published": "2026-09-15",
-      "summary": "How does the effectiveness of monetary policy vary over the policy cycle? Do tightenings and loosenings have symmetric effects on the macroeconomy? This paper addresses these questions using a nonlinear empirical framework that allows financial exposure to evolve endogenously in response to macroeconomic conditions and monetary policy changes. We provide new evidence on how monetary policy effectiveness varies over the policy cycle and across economic states. We find that i) monetary policy transmits more strongly to the real economy in periods of elevated private-sector financial exposure; ii) tightening cycles increase financial exposure in the short run, which in turn amplifies the effect of further interest rate increases, whereas loosening cycles lower financial exposure, increasingly dampening the effect of interest rate cuts; iii) tightening during economic downturns further intensifies debt-servicingpressures, making monetary policy even more potent; instead, when the tightening occurs during expansions, monetary policy effectiveness is not materially affected.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3dc0e1df-2fda-816a-b6be-d19a39df632e",
-      "title": "Entrepreneurs at Work: Creating Jobs and Innovation in Lesotho",
-      "url": "https://www.worldbank.org/en/news/feature/2026/09/15/entrepreneurs-at-work-creating-jobs-and-innovation-in-lesotho",
-      "published": "2026-09-15",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3dc0e1df-2fda-817b-91d5-f4d532f5a56a",
-      "title": "Hidden by complexity? Measuring stablecoin, crypto and decentralised finance ecosystems",
-      "url": "https://www.bis.org/publications/working-paper-1377-hidden-complexity-measuring-stablecoin-crypto-and-decentralised-finance-ecosystems",
-      "published": "2026-09-15",
-      "summary": "Decentralised finance data presents a distinctive paradox: while every data point is publicly recorded and accessible, deriving meaningful insights is obscured by the scale, fragmentation and complexity of the ecosystem. Key metrics illustrate that the rapidly evolving DeFi ecosystem introduces unique challenges for economic and financial research in accurately capturing financial activity in DeFi.",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Research",
-      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
       "id": "3e40e1df-2fda-8169-b639-e7f7f971ca99",
