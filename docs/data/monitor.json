@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T01:45:05.050225+00:00",
-  "total_items": 363,
+  "generated_at": "2026-10-06T20:04:29.204327+00:00",
+  "total_items": 374,
   "items": [
     {
       "id": "3f10e1df-2fda-8135-91c0-e7c43ae25c57",
@@ -12,6 +12,116 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.imf.org/en/news"
+    },
+    {
+      "id": "3f10e1df-2fda-81a9-8259-dbe755c1d118",
+      "title": "La democracia en América Latina según Latinbarometro",
+      "url": "https://felaban.com/la-democracia-en-america-latina-segun-latinbarometro/",
+      "published": "2026-10-06",
+      "summary": "Latinbarometro ha entregado un reciente reporte anual en el cual se observa que una ligera mayoría sigue demandando democracia como sistema político prevalente. La consolidación de la llamada democracia liberal sigue siendo aún un anhelo que no está a la vista dada la ola de gobiernos donde prima populismo, corrupción, abuso de poder y escasa soluciones a procesos de descontento económico y social, que aún prevalecen. El analista británico Michael Reid considera que pese a los problemas de índole político que aún son motivo de tensiones en América Latina, tienen motivos para superarse en lo económico y lo institucional. En su reporte sobre la democracia regional Naciones Unidas (2026) considera que las democracias de la región tienen camino por andar",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
+    {
+      "id": "3f10e1df-2fda-81e9-9d95-c47c89950ca7",
+      "title": "Encuesta Nacional sobre Confianza del Consumidor (ENCO)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11261",
+      "published": "2026-10-06",
+      "summary": "Disminuyó 1.2 puntos la confianza del consumidor en septiembre de 2026, respecto al mes previo",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3f10e1df-2fda-81be-bff0-f155f19d1be0",
+      "title": "The institutional and operational frameworks for macroprudential policy in the EU",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op400.en.pdf",
+      "published": "2026-10-06",
+      "summary": "After the global financial crisis, all EU countries have developed within their jurisdictions a dedicated macroprudential pillar of financial oversight, in line with EU regulations and recommendations. However, governance structures differ, reflecting country-specific rationales and path-dependent choices. This paper provides an overview of the various institutional and operational frameworks for macroprudential policy in EU countries. This overview aims to deliver insights on the key aspects of these frameworks and their impact on the use of macroprudential policy. The analysis is based on i) a literature review, ii) a stocktaking exercise based on a survey among EU Member States and iii) country deep dives.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3f10e1df-2fda-817d-9653-d56f1c30063c",
+      "title": "Philip R. Lane: Interview with Ansa",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
+      "published": "2026-10-06",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3f10e1df-2fda-8169-a89f-ed54fcc4101b",
+      "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
+      "published": "2026-10-06",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3f10e1df-2fda-81c2-9c63-f14811ae07a1",
+      "title": "Frank Elderson: Effective supervision through timely remediation",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
+      "published": "2026-10-06",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3f10e1df-2fda-8154-82ac-cde742bd09fe",
+      "title": "India’s Growth Intact Despite Global Headwinds; AI Can Create New Opportunities through Policy Actions",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/06/india-development-update-oct-2026",
+      "published": "2026-10-06",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3f10e1df-2fda-816e-afef-d7d4316476e5",
+      "title": "Middle East Conflict Further Weakens Regional Outlook, with Gulf Oil Exporters Hit Hardest",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/06/middle-east-conflict-further-weakens-regional-outlook-with-gulf-oil-exporters-hit",
+      "published": "2026-10-06",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3f10e1df-2fda-819d-a5ad-ca20813c5567",
+      "title": "Latin America and the Caribbean Holds Steady While Top Performers Show a Path to Higher Growth",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/06/latin-america-caribbean-economic-update",
+      "published": "2026-10-06",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3f10e1df-2fda-8133-90ec-f937ee95f211",
+      "title": "Chasing El Dorado: gold under shifting geopolitical and financial conditions",
+      "url": "https://www.bis.org/publications/working-paper-1380-chasing-el-dorado-gold-under-shifting-geopolitical-and-financial-condition",
+      "published": "2026-10-06",
+      "summary": "This paper analyses the state-dependent effects of geopolitical risks on gold prices (i.e. the safe-haven role of gold), conditional on financial conditions. Geopolitical risks are often associated with tighter financial conditions. However, recent data reveal a decoupling be tween such shocks and more restrictive financial conditions, raising the question of how gold returns are affected by geopolitical shocks, conditional on the macro-financial environment",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
       "id": "3f10e1df-2fda-8154-af1d-e376a2015279",
@@ -155,6 +265,17 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.bis.org/doclist/all_pressrels.rss"
+    },
+    {
+      "id": "3f10e1df-2fda-8124-92e8-dc0e8269a621",
+      "title": "Sri Lanka’s Economy Reaches Pre-Crisis Levels but Recovery Uneven",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/02/sri-lanka-s-economy-reaches-pre-crisis-levels-but-recovery-uneven",
+      "published": "2026-10-02",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3f00e1df-2fda-8190-b072-d48488094254",
