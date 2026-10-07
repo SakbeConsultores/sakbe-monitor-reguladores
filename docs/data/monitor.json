@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-07T00:33:06.371071+00:00",
-  "total_items": 360,
+  "generated_at": "2026-10-07T20:35:35.167307+00:00",
+  "total_items": 370,
   "items": [
+    {
+      "id": "3f20e1df-2fda-81d6-8646-f045fbf2506a",
+      "title": "SBS canceló en forma definitiva el registro de la “AFOCAT Región Tacna”",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4017",
+      "published": "2026-10-07",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3f20e1df-2fda-810a-9889-dc5b42268491",
+      "title": "Encuesta Nacional Agropecuaria (ENA) 2025",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11263",
+      "published": "2026-10-07",
+      "summary": "El maíz grano blanco fue el principal cultivo en México, con 20.4 millones de toneladas producidas en 2025",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3f20e1df-2fda-818c-8c7d-e08df8ebad5f",
+      "title": "Registro administrativo de la industria automotriz de vehículos ligeros",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11262",
+      "published": "2026-10-07",
+      "summary": "Se produjeron 301 803 vehículos ligeros en México y se exportaron 277 369, en septiembre de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3f20e1df-2fda-8179-85a2-dc898cd0f1bd",
+      "title": "Comptroller Gould Announces New Efforts to Combat Financial Fraud in Minnesota",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-86.html",
+      "published": "2026-10-07",
+      "summary": "Comptroller of the Currency Jonathan V. Gould today convened a panel of community bankers in Minneapolis, Minnesota, to discuss ongoing efforts to combat financial fraud.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "3f20e1df-2fda-8194-82c5-d359fee95a6e",
+      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+      "published": "2026-10-07",
+      "summary": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3f20e1df-2fda-8199-abc8-dca455423a6c",
+      "title": "Survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+      "url": "https://www.ecb.europa.eu//pub/pdf/other/SESFOD_2026_Q3_summary.en.pdf",
+      "published": "2026-10-07",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3f20e1df-2fda-81c5-a08f-d0af92b21234",
+      "title": "Monitoring banks’ vulnerabilities using stressed depletion indices",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3295~5961ce0e96.en.pdf",
+      "published": "2026-10-07",
+      "summary": "We introduce two indicators to track the build-up of vulnerabilities in the euro area banking sector on a quarterly basis by leveraging the information collected in EU-wide solvency stress tests. First, we introduce an indicator of conditional capital depletion, the Stress Vulnerability Index (SVI), which quantifies potential losses under adverse scenarios when tail credit risk is highest. Second, we introduce an indicator of earnings vulnerability, the Profitability Vulnerability Index (PVI), which assesses the capacity of the banking sector to generate capital organically. While the two indices spike synchronously during systemic crises, they can also decouple. We show that this occurs when tail risks to capital subside but earnings remain compressed, or conversely, when recessionary fears mount while current profitability strengthens. These divergences provide actionable signals for macroprudential policy by distinguishing between the accumulation of solvency risks and the impairment of loss absorption capacity. In doing so, the indices support decisions on the activation, build-up, stability or release of prudential buffers. We validate the usefulness of the indicators by showing that both indicators were strongly associated with the probability that euro area banks received state aid in the aftermath of the Great Financial Crisis.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3f20e1df-2fda-8114-917a-c3a8028c8648",
+      "title": "Does shareholder diversification enhance firm investment resilience? Evidence from the euro area",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3296~db309862b0.en.pdf",
+      "published": "2026-10-07",
+      "summary": "This paper develops novel firm-level measures of shareholder geographical concentration and examines how elevated home bias in equity holdings affects investment resilience in the euro area. We combine security-level holdings data from the ECB’s Securities Holdings Statistics (SHS-S) with firm-level financial-statement data from Compustat, and document that equity ownership remains strongly concentrated domestically, with limited cross-border diversification within the monetary union. Using a difference-in-differences design around the COVID-19 shock, combined with a propensity score matching approach, we then analyse whether equity home bias shapes firms’ responses to macroeconomic disruptions. Against an average 16% decline in exports among the firms in the sectors most affected by the pandemic, those with more concentrated, home-biased shareholder bases reduced investment by 20% more than their more diversified peers after the shock. The effect operates mainly through weaker equity resilience, with equity declining by 13%, while sales and bank financing remain comparable. Our findings highlight the benefits of deeper cross-border equity integration for corporate resilience.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3f20e1df-2fda-81b1-844c-f46682b233bd",
+      "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
+      "published": "2026-10-07",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3f20e1df-2fda-8182-9d9e-ea38d536bf23",
+      "title": "A sense of urgency, commitment and hope for Europe’s banking sector",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-10/a979be24-c981-4f2c-8ba9-e6201022e81c/A%20sense%20of%20urgency%2C%20commitment%20and%20hope%20for%20Europe%E2%80%99s%20banking%20sector.pdf",
+      "published": "2026-10-07",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
     {
       "id": "3f10e1df-2fda-8135-91c0-e7c43ae25c57",
       "title": "October 7, 2026Coming Soon: 2026 Annual Meetings Curtain Raiser",
