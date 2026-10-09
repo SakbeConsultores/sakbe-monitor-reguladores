@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-09T01:07:07.718890+00:00",
-  "total_items": 360,
+  "generated_at": "2026-10-09T20:03:50.563256+00:00",
+  "total_items": 368,
   "items": [
+    {
+      "id": "3f40e1df-2fda-816f-85cc-d12484a04882",
+      "title": "SBS continúa impulsando la consolidación del sistema cooperativo en Puno",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4018",
+      "published": "2026-10-09",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3f40e1df-2fda-8123-b320-ea956db8d1c7",
+      "title": "Conclusiones de la Sesión No. 98 del Comité de Coordinación para el Seguimiento al Sistema Financiero",
+      "url": "https://www.superfinanciera.gov.co/10116276",
+      "published": "2026-10-09",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "3f40e1df-2fda-8131-ade7-d40381ae6396",
+      "title": "Registro Administrativo de la Industria Automotriz de Vehículos Pesados (RAIAVP)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11267",
+      "published": "2026-10-09",
+      "summary": "Se vendieron en México 2 980 vehículos pesados al menudeo y 2 965 al mayoreo, en septiembre de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3f40e1df-2fda-81f9-907f-d55a3a793c11",
+      "title": "Indicador Mensual de la Actividad Industrial por Entidad Federativa (IMAIEF). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11266",
+      "published": "2026-10-09",
+      "summary": "Aumentó la actividad industrial a tasa mensual en Tamaulipas (13.7 %), Oaxaca (5.5 %) y Quintana Roo (4.1 %), en junio de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3f40e1df-2fda-81d4-be23-f93cd3172f57",
+      "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+      "published": "2026-10-09",
+      "summary": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3f40e1df-2fda-81a4-ae02-dae72d2dfe88",
+      "title": "EBA Learning Hub Course Offer for Public",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-10/89805007-944a-4f95-9669-136d91eaca25/EBA%20Learning%20Hub%20Course%20Offer%20for%20Public.pdf",
+      "published": "2026-10-09",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3f40e1df-2fda-8152-9e23-c5cd0bdfa85c",
+      "title": "EBA CRR3/CRD6 dashboard shows banks maintain capital levels well above minimum requirements under the fully loaded Basel III framework",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-crr3crd6-dashboard-shows-banks-maintain-capital-levels-well-above-minimum-requirements-under",
+      "published": "2026-10-09",
+      "summary": "The European Banking Authority (EBA) today published its CRR3/CRD6 dashboard as of Q2 2026 for 129 banks at the highest level of consolidation across the EU/EEA. EU/EEA banks maintain capital levels well above minimum requirements under the fully loaded CRR3 framework, with an average Common Equity Tier 1 (CET1) ratio projected at 15.1%, despite an increased impact of the output floor compared with previous editions.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3f40e1df-2fda-8186-93f1-f957412d38a4",
+      "title": "Rights for girls, futures for Africa: Ending Child Marriage one girl at a time",
+      "url": "https://www.worldbank.org/en/news/feature/2026/10/08/rights-for-girls-futures-for-africa-ending-child-marriage-one-girl-at-a-time",
+      "published": "2026-10-08",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3f40e1df-2fda-818f-a3de-cc0a0f3524d0",
       "title": "OCC Assesses $350 Million Civil Money Penalty Against American Express",
