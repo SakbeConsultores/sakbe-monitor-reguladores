@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-09T20:03:50.563256+00:00",
-  "total_items": 368,
+  "generated_at": "2026-10-10T00:39:50.634345+00:00",
+  "total_items": 370,
   "items": [
+    {
+      "id": "3f50e1df-2fda-8141-b8bb-ffc76a7e75ed",
+      "title": "Simulacro Nacional Multipeligro: ¿Tu familia está preparada para una emergencia financiera?",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4019",
+      "published": "2026-10-09",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3f50e1df-2fda-819e-9989-e397276f78db",
+      "title": "Tercera sesión de 2026 del Comité Técnico del Fondo de Pensiones para el Bienestar",
+      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/miscelaneos/{8BA4E681-1A99-245A-FE2E-8BA4DF561D7C}.pdf",
+      "published": "2026-10-09",
+      "summary": "",
+      "regulator": "Banxico",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.banxico.org.mx/noticias/noticias001.html"
+    },
     {
       "id": "3f40e1df-2fda-816f-85cc-d12484a04882",
       "title": "SBS continúa impulsando la consolidación del sistema cooperativo en Puno",
