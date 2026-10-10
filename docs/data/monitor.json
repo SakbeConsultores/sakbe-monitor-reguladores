@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-10T00:39:50.634345+00:00",
-  "total_items": 370,
+  "generated_at": "2026-10-10T19:11:49.250402+00:00",
+  "total_items": 372,
   "items": [
+    {
+      "id": "3f50e1df-2fda-812e-9624-f21970927c65",
+      "title": "SBS fortalece las reglas del seguro previsional para promover una mayor competencia en la próxima licitación",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4020",
+      "published": "2026-10-10",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3f50e1df-2fda-810e-a7d9-c1958a3469b6",
+      "title": "Viet Nam: Equity Upgrade Takes Off",
+      "url": "https://www.worldbank.org/en/news/feature/2026/10/09/viet-nam-equity-upgrade-takes-off",
+      "published": "2026-10-09",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3f50e1df-2fda-8141-b8bb-ffc76a7e75ed",
       "title": "Simulacro Nacional Multipeligro: ¿Tu familia está preparada para una emergencia financiera?",
