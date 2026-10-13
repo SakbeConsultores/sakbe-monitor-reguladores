@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-10-13T02:31:46.529904+00:00",
-  "total_items": 310,
+  "generated_at": "2026-10-13T20:35:27.637814+00:00",
+  "total_items": 325,
   "items": [
+    {
+      "id": "3f80e1df-2fda-8125-a015-f1f1b6e56dfe",
+      "title": "FELABAN se integra como miembro asociado de la International Banking Federation (IBFed) durante su 88.ª Reunión de la Junta Directiva de IBFed",
+      "url": "https://felaban.com/felaban-se-integra-como-miembro-asociado-de-la-international-banking-federation-ibfed/",
+      "published": "2026-10-13",
+      "summary": "La Federación Latinoamericana de Bancos (FELABAN) fue recibida como nuevo miembro asociado de International Banking Federation (IBFed) durante la 88.ª Reunión de la Junta Directiva de esta organización, que se realiza el 12 y 13 de octubre de 2026 en Pekín, China. El Secretario General de FELABAN, Giorgio Trettenero Castro, recibió la designación en representación de la federación. La IBFed fue creada en 2004 para representar la visión conjunta de sus asociaciones bancarias nacionales. Hoy agrupa a más de 18.000 bancos, entre ellos más de dos tercios de los 1.000 bancos más grandes del mundo, lo que la convierte en uno de los principales espacios de interlocución del sector financiero a escala global. La incorporación de FELABAN abre una vía",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
+    {
+      "id": "3f80e1df-2fda-8121-a781-cb69117ba379",
+      "title": "Líneas de Pobreza (LP)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11270",
+      "published": "2026-10-13",
+      "summary": "Aumentó de manera anual el costo de los productos de la canasta alimentaria en septiembre de 2026: 4.9% en el ámbito rural y 5.5% en el urbano",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3f80e1df-2fda-815c-9c5a-fa84fb54f498",
+      "title": "OCC Imposes $750 Million Assessment Against Bank of America for Deficient BSA/AML Compliance",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-89.html",
+      "published": "2026-10-13",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today announced a $750 million civil money penalty against Bank of America, N.A. (bank), for violations of the Bank Secrecy Act and its implementing regulations, including 12 CFR 21.21 and 12 CFR 21.11. This amount is the largest in OCC history.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "3f80e1df-2fda-8101-b331-f47c6d271757",
+      "title": "FEDS Paper: Inattentive Price Setting and Inflation Under Fiscal Policy Uncertainty",
+      "url": "https://www.federalreserve.gov/econres/feds/inattentive-price-setting-and-inflation-under-fiscal-policy-uncertainty.htm",
+      "published": "2026-10-13",
+      "summary": "Oliver Pf&auml;uti and Edson Wu How do high public debt and fiscal uncertainty interact to shape inflation? We develop a model in which firms face uncertainty about both marginal costs and fiscal policy and choose how much information to acquire before setting prices. Higher debt raises steady-state taxes, affecting attention through two opposing forces. While these taxes reduce the profit stakes of mispricing, they make desired prices more sensitive to tax fluctuations, increasing the value of information. The interaction generates a U-shaped relationship between public debt and attention, and therefore between debt and inflation volatility. Using euro-area firm-level expectations data, we document that the passthrough of expected input-cost growth into expected selling-price growth rises systematically with a country's debt-to-GDP ratio, consistent with the model. In the calibrated general-equilibrium model, an increase in debt from 100% to 175% of GDP raises inflation volatility by about 20%, mainly because firms reallocate attention toward fiscal shocks.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "3f80e1df-2fda-81de-a3d1-db7956f0a72c",
+      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+      "published": "2026-10-13",
+      "summary": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3f80e1df-2fda-8185-ae6f-f5c459aaebf0",
+      "title": "Philip R. Lane: The AI opportunity for Europe",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
+      "published": "2026-10-13",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3f80e1df-2fda-81bc-af86-c0b8eeb05028",
+      "title": "Joint Committee Annual Work Programme 2027",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-10/2f42beb3-08b1-4329-b0be-ffdfc5665021/Joint%20Committee%20Annual%20Work%20Programme%202027.pdf",
+      "published": "2026-10-13",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3f80e1df-2fda-8174-844f-ffe5866147e2",
+      "title": "2026 09 30 PMR - Jonathan Overett Somnier",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-10/55247dc8-2b95-49e9-b726-d197f51b4c20/2026%2009%2030%20PMR%20-%20Jonathan%20Overett%20Somnier.pdf",
+      "published": "2026-10-13",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3f80e1df-2fda-81ef-b563-d128cf47a623",
+      "title": "European Supervisory Authorities set priorities for 2027",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/european-supervisory-authorities-set-priorities-2027",
+      "published": "2026-10-13",
+      "summary": "The Joint Committee of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) published today its Annual Work Programme for 2027, setting out its priorities for addressing cross-sectoral risks and strengthening coordination across the European Union's financial sector.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3f80e1df-2fda-81c3-8ed0-edca6c8cbadd",
+      "title": "Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework",
+      "url": "https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom",
+      "published": "2026-10-13",
+      "summary": "The Basel Committee has published assessment reports on the implementation of its leverage ratio framework (LEV) in Australia, Canada, Japan, Korea, Switzerland and the United Kingdom. Australia, Japan, Korea and Switzerland are assessed as compliant; Canada and the United Kingdom are assessed as largely compliant. This publication concludes the first round of multi-jurisdictional assessments of the leverage ratio.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.bis.org/doclist/all_pressrels.rss"
+    },
+    {
+      "id": "3f80e1df-2fda-8196-9c33-dc308976b282",
+      "title": "Are stablecoins and bank deposits substitutes?",
+      "url": "https://www.bis.org/publications/working-paper-1382-are-stablecoins-and-bank-deposits-substitutes",
+      "published": "2026-10-13",
+      "summary": "We test whether stablecoins and bank deposits act as substitutes by estimating the semi-elasticity of stablecoin market capitalization with respect to deposit rate changes. Using local projections fit to weekly U.S. data from January 2019 to June 2025, we find that deposit rate increases predict slower stablecoin growth. To address endogeneity, we exploit a nonlinearity in deposit rate pass-through. Whereas other money market rates track the federal funds rate roughly linearly, banksreprice deposits more aggressively once it exceeds approximately 3%.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3f80e1df-2fda-81b1-97c2-c256dc05e8fe",
+      "title": "Proof of Concept: How Metro Manila’s Water Sector Harnessed Private Capital for the Public Good",
+      "url": "https://www.worldbank.org/en/news/feature/2026/10/12/proof-of-concept-how-metro-manila-s-water-sector-harnessed-private-capital-for-the",
+      "published": "2026-10-12",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3f80e1df-2fda-8101-876d-fd663b3f1dc6",
+      "title": "How Morocco Unlocked Private Capital for Startups",
+      "url": "https://www.worldbank.org/en/news/feature/2026/10/12/how-morocco-unlocked-private-capital-for-startups",
+      "published": "2026-10-12",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3f70e1df-2fda-81ce-bfcd-e3a5405689dc",
       "title": "Indicador Mensual de la Actividad Industrial (IMAI). Año base 2018",
@@ -245,6 +388,17 @@
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
+      "id": "3f80e1df-2fda-81b1-8522-ca6c557be896",
+      "title": "From Credit Gaps to Growth: How India's Small and Medium Firms Benefit from Private Investment",
+      "url": "https://www.worldbank.org/en/news/feature/2026/10/11/from-credit-gaps-to-growth-how-india-s-small-and-medium-firms-benefit-from-private-investment",
+      "published": "2026-10-11",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
       "id": "3f50e1df-2fda-812e-9624-f21970927c65",
       "title": "SBS fortalece las reglas del seguro previsional para promover una mayor competencia en la próxima licitación",
       "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4020",
@@ -364,6 +518,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "3f80e1df-2fda-8126-8d1f-f71465580705",
+      "title": "Learning for Tomorrow: How El Salvador Is Using AI to Transform Education",
+      "url": "https://www.worldbank.org/en/news/feature/2026/10/08/aprender-futuro-el-salvador-utiliza-inteligencia-artificial-transformar-educacion",
+      "published": "2026-10-08",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3f40e1df-2fda-8186-93f1-f957412d38a4",
