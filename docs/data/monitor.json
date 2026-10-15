@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-15T18:58:17.592353+00:00",
-  "total_items": 297,
+  "generated_at": "2026-10-15T23:39:17.681317+00:00",
+  "total_items": 306,
   "items": [
+    {
+      "id": "3fa0e1df-2fda-815e-a55e-d1dce1b68be5",
+      "title": "Convocatoria para la subasta de permuta de valores gubernamentales",
+      "url": "https://www.banxico.org.mx/apps/stdview.html?url=/apps/dao-web/4/36/1/convprimaperpubnew-1.html",
+      "published": "2026-10-15",
+      "summary": "",
+      "regulator": "Banxico",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.banxico.org.mx/noticias/noticias001.html"
+    },
+    {
+      "id": "3fa0e1df-2fda-816f-bbcb-e45eeb6a42d9",
+      "title": "Green Jobs, Not Glass Ceiling: Women Powering Southeast Asia's Clean Energy Transition",
+      "url": "https://www.worldbank.org/en/news/feature/2026/10/15/green-jobs-not-glass-ceiling-women-powering-southeast-asia-s-clean-energy-transiti",
+      "published": "2026-10-15",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3fa0e1df-2fda-81fc-b73c-e5c569cea531",
+      "title": "Leveraging Private Philanthropy to Complement Public Investment, Scale What Works",
+      "url": "https://www.worldbank.org/en/news/feature/2026/10/15/leveraging-private-philanthropy-to-complement-public-investment-scale-what-works",
+      "published": "2026-10-15",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3fa0e1df-2fda-811c-b881-f075ad405e56",
+      "title": "Nepal and the World Bank Group Announce Partnership to Explore Catastrophe Bond for Earthquake Risk",
+      "url": "https://www.worldbank.org/en/news/statement/2026/10/15/nepal-and-the-world-bank-group-announce-partnership-to-explore-catastrophe-bond-fo",
+      "published": "2026-10-15",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3fa0e1df-2fda-8120-8010-fa4fc1033558",
+      "title": "World Bank Group and Japan Advance Partnership on Energy Resilience in Asia",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/15/world-bank-group-and-japan-advance-partnership-on-energy-resilience-in-asia",
+      "published": "2026-10-15",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3fa0e1df-2fda-8141-8477-f37f90571d8b",
       "title": "ESCB SSM Shared Values Charter 2026",
@@ -56,6 +111,50 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "3fa0e1df-2fda-81dc-bcdc-ca15894edd6d",
+      "title": "A Decade of Impact: Building the Leaders Who Spearhead Local Capital Markets Development",
+      "url": "https://www.worldbank.org/en/news/feature/2026/10/14/a-decade-of-impact-building-the-leaders-who-spearhead-local-capital-market-develop",
+      "published": "2026-10-14",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3fa0e1df-2fda-81cd-9476-c9b121a05947",
+      "title": "Asking People First: AI, Work and the Value of Learning the Hard Way",
+      "url": "https://www.worldbank.org/en/news/feature/2026/10/14/asking-people-first-ai-work-and-the-value-of-learning-the-hard-way",
+      "published": "2026-10-14",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3fa0e1df-2fda-8122-9314-ecdd8b3c0007",
+      "title": "Global Sovereign Debt Roundtable - 7th Co-Chairs Progress Report",
+      "url": "https://www.worldbank.org/en/news/statement/2026/10/14/global-sovereign-debt-roundtable-7th-co-chairs-progress-report",
+      "published": "2026-10-14",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3fa0e1df-2fda-816c-a6cd-fece88c171c6",
+      "title": "IDA Launches Discount Notes Program Tapping Short-Term Finance in the United States",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/14/ida-launches-discount-notes-program-tapping-short-term-finance-in-the-united-state",
+      "published": "2026-10-14",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3f90e1df-2fda-8162-979d-e6848d6d2644",
