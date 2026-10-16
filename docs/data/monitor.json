@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-16T18:42:53.931576+00:00",
-  "total_items": 313,
+  "generated_at": "2026-10-16T23:24:44.632828+00:00",
+  "total_items": 314,
   "items": [
+    {
+      "id": "3fb0e1df-2fda-8183-b253-ecb346dcdc10",
+      "title": "Resultados de la subasta de permuta de valores gubernamentales",
+      "url": "https://www.banxico.org.mx/apps/stdview.html?url=/apps/DAO-web/4/36/1/ResuSubaPrimaPerNew-1.html",
+      "published": "2026-10-16",
+      "summary": "",
+      "regulator": "Banxico",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.banxico.org.mx/noticias/noticias001.html"
+    },
     {
       "id": "3fb0e1df-2fda-81ef-88ec-fcab20493229",
       "title": "Indicador Oportuno del Consumo Privado (IOCP)",
