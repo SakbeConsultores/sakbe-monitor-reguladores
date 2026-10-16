@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-10-15T23:39:17.681317+00:00",
-  "total_items": 306,
+  "generated_at": "2026-10-16T18:42:53.931576+00:00",
+  "total_items": 313,
   "items": [
+    {
+      "id": "3fb0e1df-2fda-81ef-88ec-fcab20493229",
+      "title": "Indicador Oportuno del Consumo Privado (IOCP)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11276",
+      "published": "2026-10-16",
+      "summary": "El IOCP anticipa un incremento anual de 0.9% del consumo privado para agosto y de 0.6% para septiembre de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3fb0e1df-2fda-818a-aeab-eadc67209e31",
+      "title": "Encuesta Mensual de la Industria Manufacturera (EMIM). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11275",
+      "published": "2026-10-16",
+      "summary": "Aumentó 1.7% el volumen de la producción manufacturera en agosto de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3fb0e1df-2fda-814a-9590-fbb0144f4a25",
+      "title": "Transporte Urbano de Pasajeros",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11274",
+      "published": "2026-10-16",
+      "summary": "Viajaron 281.2 millones de personas pasajeras en los sistemas de transporte urbano durante agosto de 2026: 5.9% más que el año anterior",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3fb0e1df-2fda-81f6-b908-cc1badcbf8e1",
+      "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+      "published": "2026-10-16",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "3fb0e1df-2fda-81dc-85c1-e019f353c94e",
+      "title": "MoU on information sharing in support of non-bank payment service providers access to central bank operated payment systems",
+      "url": "https://www.ecb.europa.eu//pub/pdf/other/ecb.2026-10-16_MoU.en.pdf",
+      "published": "2026-10-16",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "3fb0e1df-2fda-811e-8829-dd84a6b281d3",
+      "title": "Basel Committee finalises measures to address window-dressing in the G-SIB framework and consults on G-SIB methodology review",
+      "url": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib",
+      "published": "2026-10-16",
+      "summary": "The Basel Committee on Banking Supervision today published final amendments to address window dressing in the G-SIB framework and a consultation on the G-SIB methodology review.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.bis.org/doclist/all_pressrels.rss"
+    },
+    {
+      "id": "3fb0e1df-2fda-8114-ae29-c95ad4d3b1e4",
+      "title": "Offshore forwards and exchange rate transmission in emerging markets",
+      "url": "https://www.bis.org/publications/working-paper-1383-offshore-forwards-and-exchange-rate-transmission-emerging-markets",
+      "published": "2026-10-16",
+      "summary": "We study how offshore non-deliverable forward (NDF) markets transmit exchange-rate pressures to domestic currency markets. Using unique transaction-level data on the universe of centrally cleared NDFs for ten emerging-market currencies over 2013–2025, we show that offshore NDF order flow moves both offshore forward and domestic spot exchange rates and widens the offshore–onshore forward spread.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "3fa0e1df-2fda-815e-a55e-d1dce1b68be5",
       "title": "Convocatoria para la subasta de permuta de valores gubernamentales",
