@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-17T17:50:32.397669+00:00",
-  "total_items": 316,
+  "generated_at": "2026-10-17T23:00:36.533316+00:00",
+  "total_items": 319,
   "items": [
+    {
+      "id": "3fc0e1df-2fda-8169-a65e-d29e7c3c88d8",
+      "title": "Mongolia Becomes a Donor to the International Development Association of the World Bank Group",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/17/mongolia-becomes-a-donor-to-the-international-development-association-of-the-world",
+      "published": "2026-10-17",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3fc0e1df-2fda-817c-af45-eb64e75a923e",
       "title": "Christine Lagarde: IMFC Statement",
@@ -12,6 +23,28 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3fc0e1df-2fda-8106-9d89-d83baf0accff",
+      "title": "Health Works: From Vaccines to Health Budgets, World Bank Group Backs Proven Solutions to Reach 1.5 Billion People",
+      "url": "https://www.worldbank.org/en/news/statement/2026/10/16/health-works-vaccines-to-budgets-wbg-backs-proven-solutions-asean",
+      "published": "2026-10-16",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3fc0e1df-2fda-8185-abe6-fe3e05ab694e",
+      "title": "Eight Countries Launch Plans to Turn Mineral Resources into Jobs and Economic Growth",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/16/metals-minerals-country-compacts-launch",
+      "published": "2026-10-16",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3fc0e1df-2fda-8189-a747-cd1e25959cfe",
