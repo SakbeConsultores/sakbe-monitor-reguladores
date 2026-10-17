@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-16T23:24:44.632828+00:00",
-  "total_items": 314,
+  "generated_at": "2026-10-17T17:50:32.397669+00:00",
+  "total_items": 316,
   "items": [
+    {
+      "id": "3fc0e1df-2fda-817c-af45-eb64e75a923e",
+      "title": "Christine Lagarde: IMFC Statement",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
+      "published": "2026-10-17",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3fc0e1df-2fda-8189-a747-cd1e25959cfe",
+      "title": "Remarks by World Bank Group President Ajay Banga at the 2026 Annual Meetings Plenary",
+      "url": "https://www.worldbank.org/en/news/speech/2026/10/16/remarks-by-world-bank-group-president-ajay-banga-at-the-2026-annual-meetings-plena",
+      "published": "2026-10-16",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "3fb0e1df-2fda-8183-b253-ecb346dcdc10",
       "title": "Resultados de la subasta de permuta de valores gubernamentales",
