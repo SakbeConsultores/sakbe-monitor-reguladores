@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-20T19:02:59.880437+00:00",
-  "total_items": 264,
+  "generated_at": "2026-10-20T23:44:40.890631+00:00",
+  "total_items": 265,
   "items": [
+    {
+      "id": "3ff0e1df-2fda-8125-b882-f6beacbe0282",
+      "title": "El capital bancario y su relación con los acuerdos de Basilea",
+      "url": "https://felaban.com/el-capital-bancario-y-su-relacion-con-los-acuerdos-de-basilea/",
+      "published": "2026-10-20",
+      "summary": "El Bank International of Seattlements estima que el Tier-1 de capital mínimo regulatorio crece en promedio un 6.5% anual a mitad del año 2025. Esto sigue mostrando los esfuerzos de administradores bancarios por acopiar capital, así como, una política de regulación que busca generar mayor estabilidad financiera. Esto parece consistente con el aumento de capitalización de mercado de entidades bancarias en los últimos 2 años. De acuerdo con la firma Global Data las firmas bancarias mas grandes del mundo aumentaron su capitalización de mercado en 35.8%. Un trabajo del Banco Central Europeo muestra que los bancos europeos aumentaron su valoración de mercado y su relación Precio acción/ valor en libros. Esto podría deberse a unos mejores ingresos, un aumento en",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
     {
       "id": "3ff0e1df-2fda-8195-9857-f0ad0533941f",
       "title": "Semana de la Prevención de Lavado de Activos 2026 abordará riesgos asociados a la minería ilegal, la extorsión, la trata de personas y las nuevas tecnologías",
