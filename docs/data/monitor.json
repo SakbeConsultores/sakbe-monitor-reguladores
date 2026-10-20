@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-10-20T00:12:35.548573+00:00",
-  "total_items": 257,
+  "generated_at": "2026-10-20T19:02:59.880437+00:00",
+  "total_items": 264,
   "items": [
+    {
+      "id": "3ff0e1df-2fda-8195-9857-f0ad0533941f",
+      "title": "Semana de la Prevención de Lavado de Activos 2026 abordará riesgos asociados a la minería ilegal, la extorsión, la trata de personas y las nuevas tecnologías",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4022",
+      "published": "2026-10-20",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "3ff0e1df-2fda-81ee-8f1e-cc3ea865f485",
+      "title": "Indicador Oportuno de la Actividad Económica",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11277",
+      "published": "2026-10-20",
+      "summary": "El IOAE anticipa un aumento anual de 3.7% y mensual de 0.1% del IGAE, para septiembre de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "3ff0e1df-2fda-81f6-af7c-eedfaf2fcffe",
+      "title": "Euro area monthly balance of payments: August 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261020~679813bbc5.en.html",
+      "published": "2026-10-20",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Statistical Releases",
+      "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
+    },
+    {
+      "id": "3ff0e1df-2fda-8149-adda-cfa9f9007653",
+      "title": "Frank Elderson: Interview with Die Presse",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
+      "published": "2026-10-20",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "3ff0e1df-2fda-81b8-9e7d-d81e44047d0a",
+      "title": "Board of Appeal Rules of procedure 2020",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-10/2bb5efc9-b9c8-44b6-9391-4d527c6ba805/Board%20of%20Appeal%20Rules%20of%20procedure%202020%20%281%29.pdf",
+      "published": "2026-10-20",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "3ff0e1df-2fda-8144-aa08-f0985cf0f88b",
+      "title": "World Bank Group Launches First Digital Strategy to Expand Access and Create Jobs",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs",
+      "published": "2026-10-20",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "3ff0e1df-2fda-81ec-a21a-cbb317fbd5eb",
+      "title": "Bank liquidity regulation and the growth of private credit",
+      "url": "https://www.bis.org/publications/bank-liquidity-regulation-and-growth-private-credit",
+      "published": "2026-10-20",
+      "summary": "We study the role of bank liquidity regulation in the growth of private credit. Following the introduction of the liquidity coverage ratio (LCR), private credit increases significantly more in U.S. counties with a larger footprint of banks subject to the LCR or of LCR banks with greater initial liquidity shortfalls.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "3fe0e1df-2fda-8158-95d8-c617643e499c",
       "title": "SBS pone en consulta pública el segundo bloque normativo del Sistema de Finanzas Abiertas",
