@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-22T19:07:25.453530+00:00",
-  "total_items": 248,
+  "generated_at": "2026-10-22T23:58:27.602471+00:00",
+  "total_items": 250,
   "items": [
+    {
+      "id": "4010e1df-2fda-81e7-8d5f-f381c075a386",
+      "title": "La temperatura global y su evolución 1850 2025",
+      "url": "https://felaban.com/la-temperatura-global-y-su-evolucion-1850-2025/",
+      "published": "2026-10-22",
+      "summary": "La temperatura global viene en incremento bajo una mirada de largo plazo. Cambios en los patrones del viento, variaciones en las mareas principalmente en el océano Pacífico, han llevado a abruptos movimientos en las temperaturas. Procesos de enfriamiento del aire (La Niña) y de calentamiento de este (El Niño) han sido medidos a lo largo de los últimos 150 años. Se calcula que un ciclo de los dos fenómenos puede durar 7 años. Los períodos intermedios han sido considerados estables y sin condiciones climáticas extremas. La tendencia estructura del aumento de la temperatura ha conllevado un fenómeno de mayor acortamiento de los ciclos y de mayores temperaturas en los años frescos del siglo. De acuerdo con World Meteorological Organization, el",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
     {
       "id": "4010e1df-2fda-8164-b61e-d9f9d5f28f2f",
       "title": "Índice Nacional de Precios al Consumidor (INPC). Base 2ª Quincena Julio 2018. Actualización de Canasta y Ponderadores 2024",
@@ -408,6 +419,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "4010e1df-2fda-818a-a391-cb274bc37b36",
+      "title": "Immersive StoriesJobs, Small AI, and Private Capital: 2026 Annual Meetings Highlights",
+      "url": "https://www.worldbank.org/en/news/immersive-story/2026/10/18/jobs-small-ai-private-capital-annual-meetings",
+      "published": "2026-10-18",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3fe0e1df-2fda-8146-8560-dd7843930a9b",
