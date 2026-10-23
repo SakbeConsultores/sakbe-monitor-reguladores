@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-23T19:06:10.758878+00:00",
-  "total_items": 262,
+  "generated_at": "2026-10-23T23:55:01.888614+00:00",
+  "total_items": 263,
   "items": [
+    {
+      "id": "4020e1df-2fda-81c7-bddf-fcc39892cf46",
+      "title": "Los escenarios de capitalización bancaria del Fondo Monetario Internacional",
+      "url": "https://felaban.com/los-escenarios-de-capitalizacion-bancaria-del-fondo-monetario-internacional/",
+      "published": "2026-10-23",
+      "summary": "El Fondo Monetario Internacional (FMI) estima que el 22% de los bancos del mundo puede experimentar debilidades en materia de capitalización en el indicador de CET1. La inferencia es resultado de un proceso de evaluación hecho mediante pruebas de tensión (stress testing) donde se contemplan escenarios de aumento de los spreads de deuda pública global, rupturas en las cadenas de suministro global, choque de los precios de los bienes energéticos y aumento de desempleo en general. El mismo puede ser amplificado en Norte América con perdidas en la valoración de títulos soberanos, en Asia con el choque de suministro de petróleo, y en mercados emergentes donde hay menos margen de manejar tarifas, comisiones y márgenes de tasas de interés. Si",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
     {
       "id": "4020e1df-2fda-813d-b1aa-d0a19150ad83",
       "title": "Convocatoria a subasta extraordinaria de compra de valores gubernamentales con fines de regulación monetaria",
