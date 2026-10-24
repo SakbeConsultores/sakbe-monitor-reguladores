@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-23T23:55:01.888614+00:00",
-  "total_items": 263,
+  "generated_at": "2026-10-24T17:58:04.992910+00:00",
+  "total_items": 264,
   "items": [
+    {
+      "id": "4030e1df-2fda-8146-b3b6-f38958bcaae2",
+      "title": "Piero Cipollone: Interview with Milano Finanza",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
+      "published": "2026-10-24",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
     {
       "id": "4020e1df-2fda-81c7-bddf-fcc39892cf46",
       "title": "Los escenarios de capitalización bancaria del Fondo Monetario Internacional",
