@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-25T23:09:35.027726+00:00",
-  "total_items": 252,
+  "generated_at": "2026-10-26T20:23:18.223451+00:00",
+  "total_items": 244,
   "items": [
+    {
+      "id": "4050e1df-2fda-81d7-8c30-d9a47b810f85",
+      "title": "Programa de la industria manufacturera, maquiladora y de servicios de exportación (IMMEX) - 2007 en adelante",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11288",
+      "published": "2026-10-26",
+      "summary": "Disminuyó el personal ocupado 0.1% en los establecimientos con programa IMMEX en agosto de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "4050e1df-2fda-8146-844c-e727e5795481",
+      "title": "Survey on the Access to Finance of Enterprises in the euro area - Third quarter of 2026",
+      "url": "https://www.ecb.europa.eu//stats/ecb_surveys/safe/html/ecb.safe202610.en.html",
+      "published": "2026-10-26",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "4050e1df-2fda-8166-9c53-c048aea65671",
+      "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
+      "published": "2026-10-26",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "4050e1df-2fda-81f5-adaf-d9e49de35c8b",
+      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+      "published": "2026-10-26",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "4050e1df-2fda-81db-9045-c96ed26f1bf5",
+      "title": "More and Better Jobs Key to Putting Poverty Reduction Back on Track",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/26/more-and-better-jobs-key-to-putting-poverty-reduction-back-on-track",
+      "published": "2026-10-26",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "4050e1df-2fda-819f-aec9-ec6f36e54370",
+      "title": "Chokepoints in global supply chains: lessons from rare earths and hard disk drives",
+      "url": "https://www.bis.org/publications/bulletin-139-chokepoints-global-supply-chains-lessons-rare-earths-and-hard-disk-drives",
+      "published": "2026-10-26",
+      "summary": "Concentration and limited substitutability can turn the efficiency gains from global supply chains into vulnerabilities. However, the consequences of chokepoints depend on their underlying nature.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "4030e1df-2fda-8146-b3b6-f38958bcaae2",
       "title": "Piero Cipollone: Interview with Milano Finanza",
@@ -1860,160 +1926,6 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.imf.org/en/news"
-    },
-    {
-      "id": "3f40e1df-2fda-81a7-9202-ee7abdcf14bd",
-      "title": "Beyond Bricks and Mortar: The Human Side of Housing Reconstruction",
-      "url": "https://www.worldbank.org/en/news/feature/2026/10/06/beyond-bricks-and-mortar-the-human-side-of-housing-reconstruction",
-      "published": "2026-10-06",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3f40e1df-2fda-8159-8097-fb0e497e46ec",
-      "title": "From Flood Recovery to the Classroom: Helping Gatumba’s Children Return to School",
-      "url": "https://www.worldbank.org/en/news/feature/2026/10/06/from-flood-recovery-to-the-classroom-helping-gatumba-s-children-return-to-school",
-      "published": "2026-10-06",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3f40e1df-2fda-812a-bbbc-dcafc70069c7",
-      "title": "Maintaining Reform Momentum with Less Money: 5 Charts That Explain Africa's 2026 CPIA Results",
-      "url": "https://www.worldbank.org/en/news/feature/2026/10/06/maintaining-reform-momentum-with-less-money-five-charts-that-explain-africa-s-2026",
-      "published": "2026-10-06",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3f10e1df-2fda-81a9-8259-dbe755c1d118",
-      "title": "La democracia en América Latina según Latinbarometro",
-      "url": "https://felaban.com/la-democracia-en-america-latina-segun-latinbarometro/",
-      "published": "2026-10-06",
-      "summary": "Latinbarometro ha entregado un reciente reporte anual en el cual se observa que una ligera mayoría sigue demandando democracia como sistema político prevalente. La consolidación de la llamada democracia liberal sigue siendo aún un anhelo que no está a la vista dada la ola de gobiernos donde prima populismo, corrupción, abuso de poder y escasa soluciones a procesos de descontento económico y social, que aún prevalecen. El analista británico Michael Reid considera que pese a los problemas de índole político que aún son motivo de tensiones en América Latina, tienen motivos para superarse en lo económico y lo institucional. En su reporte sobre la democracia regional Naciones Unidas (2026) considera que las democracias de la región tienen camino por andar",
-      "regulator": "FELABAN",
-      "country": "LatAm Regional",
-      "type": "News",
-      "feed_url": "https://felaban.com/noticias/"
-    },
-    {
-      "id": "3f10e1df-2fda-81e9-9d95-c47c89950ca7",
-      "title": "Encuesta Nacional sobre Confianza del Consumidor (ENCO)",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11261",
-      "published": "2026-10-06",
-      "summary": "Disminuyó 1.2 puntos la confianza del consumidor en septiembre de 2026, respecto al mes previo",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3f10e1df-2fda-81be-bff0-f155f19d1be0",
-      "title": "The institutional and operational frameworks for macroprudential policy in the EU",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op400.en.pdf",
-      "published": "2026-10-06",
-      "summary": "After the global financial crisis, all EU countries have developed within their jurisdictions a dedicated macroprudential pillar of financial oversight, in line with EU regulations and recommendations. However, governance structures differ, reflecting country-specific rationales and path-dependent choices. This paper provides an overview of the various institutional and operational frameworks for macroprudential policy in EU countries. This overview aims to deliver insights on the key aspects of these frameworks and their impact on the use of macroprudential policy. The analysis is based on i) a literature review, ii) a stocktaking exercise based on a survey among EU Member States and iii) country deep dives.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3f10e1df-2fda-817d-9653-d56f1c30063c",
-      "title": "Philip R. Lane: Interview with Ansa",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
-      "published": "2026-10-06",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "3f10e1df-2fda-8169-a89f-ed54fcc4101b",
-      "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
-      "published": "2026-10-06",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "3f10e1df-2fda-81c2-9c63-f14811ae07a1",
-      "title": "Frank Elderson: Effective supervision through timely remediation",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
-      "published": "2026-10-06",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "3f10e1df-2fda-8154-82ac-cde742bd09fe",
-      "title": "India’s Growth Intact Despite Global Headwinds; AI Can Create New Opportunities through Policy Actions",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/10/06/india-development-update-oct-2026",
-      "published": "2026-10-06",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3f10e1df-2fda-816e-afef-d7d4316476e5",
-      "title": "Middle East Conflict Further Weakens Regional Outlook, with Gulf Oil Exporters Hit Hardest",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/10/06/middle-east-conflict-further-weakens-regional-outlook-with-gulf-oil-exporters-hit",
-      "published": "2026-10-06",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3f10e1df-2fda-819d-a5ad-ca20813c5567",
-      "title": "Latin America and the Caribbean Holds Steady While Top Performers Show a Path to Higher Growth",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/10/06/latin-america-caribbean-economic-update",
-      "published": "2026-10-06",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3f10e1df-2fda-8133-90ec-f937ee95f211",
-      "title": "Chasing El Dorado: gold under shifting geopolitical and financial conditions",
-      "url": "https://www.bis.org/publications/working-paper-1380-chasing-el-dorado-gold-under-shifting-geopolitical-and-financial-condition",
-      "published": "2026-10-06",
-      "summary": "This paper analyses the state-dependent effects of geopolitical risks on gold prices (i.e. the safe-haven role of gold), conditional on financial conditions. Geopolitical risks are often associated with tighter financial conditions. However, recent data reveal a decoupling be tween such shocks and more restrictive financial conditions, raising the question of how gold returns are affected by geopolitical shocks, conditional on the macro-financial environment",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Research",
-      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "3f10e1df-2fda-8154-af1d-e376a2015279",
-      "title": "SBS y CAF presentan resultados de Encuesta de Capacidades Financieras en la Semana de Educación Financiera",
-      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4016",
-      "published": "2026-10-06",
-      "summary": "",
-      "regulator": "SBS Perú",
-      "country": "PE",
-      "type": "News",
-      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
     },
     {
       "id": "3e40e1df-2fda-8169-b639-e7f7f971ca99",
