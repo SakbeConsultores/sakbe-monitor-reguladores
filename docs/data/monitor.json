@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-27T00:19:59.448512+00:00",
-  "total_items": 238,
+  "generated_at": "2026-10-27T19:56:35.643008+00:00",
+  "total_items": 246,
   "items": [
+    {
+      "id": "4060e1df-2fda-81a1-a19a-eecf3f0a4851",
+      "title": "Con eventos presenciales y virtuales, la SFC lideró la Semana Mundial del Inversionista 2026",
+      "url": "https://www.superfinanciera.gov.co/10116304",
+      "published": "2026-10-27",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "4060e1df-2fda-8187-b69d-df0c8cb3c191",
+      "title": "Balanza Comercial de Mercancías de México",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11289",
+      "published": "2026-10-27",
+      "summary": "Aumentaron las exportaciones 37.9% y las importaciones 33.1%, a tasa anual, en septiembre de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "4060e1df-2fda-8155-84ee-f71840513f0c",
+      "title": "Comptroller Gould Discusses Efforts to Support Community Banks",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-94.html",
+      "published": "2026-10-27",
+      "summary": "Comptroller of the Currency Jonathan V. Gould today discussed the Office of the Comptroller of the Currency's (OCC) work to help community banks thrive and remain dynamic as the financial industry evolves in remarks before the Ohio Bankers League.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "4060e1df-2fda-818c-8237-c78e21363fbe",
+      "title": "The euro area bank lending survey - Third quarter of 2026",
+      "url": "https://www.ecb.europa.eu//stats/ecb_surveys/bank_lending_survey/html/ecb.blssurvey2026q3~c6a731e213.en.html",
+      "published": "2026-10-27",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "4060e1df-2fda-81c5-af0e-f6761b484bf8",
+      "title": "Monetary developments in the euro area: September 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/md/html/ecb.md2609~dd1bf1b2e4.en.html",
+      "published": "2026-10-27",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Statistical Releases",
+      "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
+    },
+    {
+      "id": "4060e1df-2fda-812e-b347-d4352e3bb6a5",
+      "title": "October 2026 euro area bank lending survey",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
+      "published": "2026-10-27",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "4060e1df-2fda-8133-acfa-f8b2ffb9d6ea",
+      "title": "Decision on appointment of the Chair for the supervisory college of Circle Internet Financial Europe SAS as issuer of USDC",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-10/152d21f3-b5f3-42e9-838b-f8714b038221/EBA%20DC%20683_appointment_Chair%20for%20the%20supervisory%20college%20of%20Circle%20Internet%20Financial%20Europe%20SAS_USDC.pdf",
+      "published": "2026-10-27",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "4060e1df-2fda-817a-bdae-d089c47c7edd",
+      "title": "Building AI on credit: structures and spillovers",
+      "url": "https://www.bis.org/publications/bulletin-140-building-ai-credit--structures-and-spillovers",
+      "published": "2026-10-27",
+      "summary": "Capital expenditure to build artificial intelligence (AI) infrastructure is growing fast, and a rising share is financed with long-term debt and through complex off-balance sheet arrangements.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "4060e1df-2fda-8172-94b2-d974630cd2d3",
       "title": "Primera jornada de la SPLA 2026 resalta el rol de las instituciones y la inteligencia artificial frente al lavado de activos",
