@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-27T19:56:35.643008+00:00",
-  "total_items": 246,
+  "generated_at": "2026-10-28T00:23:07.812952+00:00",
+  "total_items": 233,
   "items": [
+    {
+      "id": "4070e1df-2fda-8171-9c0c-d3dba9e8cbd0",
+      "title": "Especiales",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11291",
+      "published": "2026-10-27",
+      "summary": "XXVII Encuentro Internacional de Estadísticas de Género reúne a especialistas de América Latina y el Caribe",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
     {
       "id": "4060e1df-2fda-81a1-a19a-eecf3f0a4851",
       "title": "Con eventos presenciales y virtuales, la SFC lideró la Semana Mundial del Inversionista 2026",
@@ -1794,160 +1805,6 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
-    },
-    {
-      "id": "3f80e1df-2fda-8126-8d1f-f71465580705",
-      "title": "Learning for Tomorrow: How El Salvador Is Using AI to Transform Education",
-      "url": "https://www.worldbank.org/en/news/feature/2026/10/08/aprender-futuro-el-salvador-utiliza-inteligencia-artificial-transformar-educacion",
-      "published": "2026-10-08",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3f40e1df-2fda-8186-93f1-f957412d38a4",
-      "title": "Rights for girls, futures for Africa: Ending Child Marriage one girl at a time",
-      "url": "https://www.worldbank.org/en/news/feature/2026/10/08/rights-for-girls-futures-for-africa-ending-child-marriage-one-girl-at-a-time",
-      "published": "2026-10-08",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3f40e1df-2fda-818f-a3de-cc0a0f3524d0",
-      "title": "OCC Assesses $350 Million Civil Money Penalty Against American Express",
-      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-87.html",
-      "published": "2026-10-08",
-      "summary": "The Office of the Comptroller of the Currency (OCC) today announced a cease-and-desist order and a $350 million civil money penalty against American Express National Bank, Sandy, Utah (bank), for deficiencies in the bank's Bank Secrecy Act (BSA) and anti-money laundering (AML) compliance program.",
-      "regulator": "OCC",
-      "country": "US",
-      "type": "News",
-      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
-    },
-    {
-      "id": "3f40e1df-2fda-8181-813b-ed8263c74587",
-      "title": "OCC Allows National Banks and Federal Savings Associations in Alabama, Florida, and Mississippi Affected by Hurricane Isaias to Close",
-      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-88.html",
-      "published": "2026-10-08",
-      "summary": "The Office of the Comptroller of the Currency (OCC) today issued a proclamation allowing national banks, federal savings associations, and federal branches and agencies of foreign banks to close offices in areas of Alabama and Mississippi affected by Hurricane Isaias.",
-      "regulator": "OCC",
-      "country": "US",
-      "type": "News",
-      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
-    },
-    {
-      "id": "3f40e1df-2fda-811b-be5d-cecfff54f64d",
-      "title": "From Higher Revenues to Better Lives: Strengthening State Spending for Growth, Jobs, and Services",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/10/08/higher-revenues-better-lives-strengthening-state-spending-for-growth-jobs-services",
-      "published": "2026-10-08",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3f40e1df-2fda-81c9-a936-c69251ebfe90",
-      "title": "World Bank Group Appoints David Vaillant as Managing Director and Chief Financial Officer",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/10/08/world-bank-group-appoints-david-vaillant-as-managing-director-and-chief-financial",
-      "published": "2026-10-08",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3f40e1df-2fda-819f-8fed-ed65822e8542",
-      "title": "Strong Investor Demand Backs New IDA EUR 30-Year Global Benchmark Bond",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/10/08/strong-investor-demand-backs-new-ida-eur-30-year-global-benchmark-bond",
-      "published": "2026-10-08",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3f30e1df-2fda-81e6-9e01-ec04d97ce5b7",
-      "title": "Minuta de la reunión de la Junta de Gobierno del Banco de México, con motivo de la decisión de política monetaria anunciada el 24 de septiembre de 2026",
-      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/minutas-de-las-decisiones-de-politica-monetaria/{F63C3DE2-0AEC-9BAE-A86E-FC59895F9702}.pdf",
-      "published": "2026-10-08",
-      "summary": "",
-      "regulator": "Banxico",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.banxico.org.mx/noticias/noticias001.html"
-    },
-    {
-      "id": "3f30e1df-2fda-816d-93c1-ccbc5e710525",
-      "title": "Índice Nacional de Precios Productor (INPP). Año base julio 2019. Actualización 2025",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11264",
-      "published": "2026-10-08",
-      "summary": "Aumentó 4.05% el INPP total en septiembre de 2026, a tasa anual",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3f30e1df-2fda-81ad-964b-dd9c777d5691",
-      "title": "Índice Nacional de Precios al Consumidor (INPC). Base 2ª Quincena Julio 2018. Actualización de Canasta y Ponderadores 2024",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11265",
-      "published": "2026-10-08",
-      "summary": "La inflación anual fue de 3.45% en septiembre de 2026",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "3f30e1df-2fda-819b-a916-d989323ac48f",
-      "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-      "published": "2026-10-08",
-      "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-      "regulator": "FRB",
-      "country": "US",
-      "type": "News",
-      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
-    },
-    {
-      "id": "3f30e1df-2fda-81f9-b8c3-c117a66f1ab5",
-      "title": "Piero Cipollone: Interview with Corriere della Sera",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
-      "published": "2026-10-08",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "3f30e1df-2fda-8111-932f-ccefa2fd8553",
-      "title": "Meeting of 9-10 September 2026",
-      "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
-      "published": "2026-10-08",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "3f30e1df-2fda-8153-9503-f0343a8c4819",
-      "title": "Artificial intelligence and climate change: balancing innovation and sustainability",
-      "url": "https://www.bis.org/publications/paper-174-artificial-intelligence-and-climate-change-balancing-innovation-and-sustainability",
-      "published": "2026-10-08",
-      "summary": "Artificial intelligence (AI) is becoming an increasingly important factor in the climate transition. AI can improve energy efficiency, optimise resource use, accelerate climate innovation and strengthen climate forecasting, adaptation and risk management. At the same time, the development and deployment of AI require substantial computational resources, increasing electricity demand and, depending on the carbon intensity and timing of electricity use, associated emissions.",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Research",
-      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
       "id": "3e40e1df-2fda-8169-b639-e7f7f971ca99",
