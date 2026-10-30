@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-29T20:08:47.420352+00:00",
-  "total_items": 281,
+  "generated_at": "2026-10-30T00:44:31.724514+00:00",
+  "total_items": 283,
   "items": [
+    {
+      "id": "4090e1df-2fda-81bf-8f35-d8759ab1d84e",
+      "title": "Jornada de Educación Financiera",
+      "url": "https://www.superfinanciera.gov.co/10116306",
+      "published": "2026-10-29",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "4090e1df-2fda-8130-8216-cec0447297a2",
+      "title": "OCC Raises Concerns with California's Climate Disclosure Laws",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-95.html",
+      "published": "2026-10-29",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today submitted a letter to the California Air Resource Board (CARB) addressing the serious legal and policy concerns raised by two California climate disclosure laws.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "4090e1df-2fda-81d4-abc2-ecdc5ed029b9",
+      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+      "published": "2026-10-29",
+      "summary": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
     {
       "id": "4080e1df-2fda-81e7-8771-dd64085d8a5e",
       "title": "SBS incluye cuatro tipos de seguros agrícolas al régimen simplificado de debida diligencia en el conocimiento del cliente",
@@ -2322,17 +2355,6 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3f50e1df-2fda-812e-9624-f21970927c65",
-      "title": "SBS fortalece las reglas del seguro previsional para promover una mayor competencia en la próxima licitación",
-      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4020",
-      "published": "2026-10-10",
-      "summary": "",
-      "regulator": "SBS Perú",
-      "country": "PE",
-      "type": "News",
-      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
     },
     {
       "id": "3e40e1df-2fda-8169-b639-e7f7f971ca99",
