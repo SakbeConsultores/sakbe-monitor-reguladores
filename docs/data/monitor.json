@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T19:55:33.249899+00:00",
-  "total_items": 297,
+  "generated_at": "2026-10-31T00:37:04.447275+00:00",
+  "total_items": 296,
   "items": [
     {
       "id": "4090e1df-2fda-817d-8dc1-f9e7a66bcdf6",
@@ -2498,17 +2498,6 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "3f80e1df-2fda-81b1-8522-ca6c557be896",
-      "title": "From Credit Gaps to Growth: How India's Small and Medium Firms Benefit from Private Investment",
-      "url": "https://www.worldbank.org/en/news/feature/2026/10/11/from-credit-gaps-to-growth-how-india-s-small-and-medium-firms-benefit-from-private-investment",
-      "published": "2026-10-11",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3e40e1df-2fda-8169-b639-e7f7f971ca99",
