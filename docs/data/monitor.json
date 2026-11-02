@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-11-02T00:29:01.137181+00:00",
-  "total_items": 259,
+  "generated_at": "2026-11-02T23:03:33.110504+00:00",
+  "total_items": 265,
   "items": [
+    {
+      "id": "40c0e1df-2fda-81cd-97bc-f8864153b999",
+      "title": "CTS: ¿Qué hacer antes de elegir dónde depositarla?",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4027",
+      "published": "2026-11-02",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "40c0e1df-2fda-8176-bd6a-ec98582c12af",
+      "title": "OCC Releases CRA Performance Evaluations for 19 National Banks and Federal Savings Associations",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-96.html",
+      "published": "2026-11-02",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today released a list of Community Reinvestment Act (CRA) performance evaluations that became public during the period of October 1, 2026, through October 31, 2026.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "40c0e1df-2fda-811c-9e39-f6687c414c86",
+      "title": "FEDS Paper: Heterogeneity in Service Fee Sensitivity: Evidence from ATM Surcharges",
+      "url": "https://www.federalreserve.gov/econres/feds/heterogeneity-in-service-fee-sensitivity-evidence-from-atm-surcharges.htm",
+      "published": "2026-11-02",
+      "summary": "Krzysztof Wozniak Service fees continue to proliferate in a wide range of markets, from retail to payments, generating questions about their impact on consumer choice, competition, and fairness. This paper explores how sensitivity to such fees varies across consumers, use cases, and competitive settings, and whether it is affected by consumer learning. I am able to conduct this in-depth empirical analysis thanks to a uniquely detailed, high-frequency panel data set on surcharged ATM cash withdrawals. Results show that average elasticity estimates mask substantial heterogeneity in consumer sensitivity to service fees. I explore ways in which market and behavioral mechanisms can help explain this heterogeneity. Finally, I investigate whether consumers strategically adjust their behavior in response to service fees.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "40c0e1df-2fda-81d4-9ba4-e56ef0a31c0e",
+      "title": "ECB perception of non-banks: a machine learning-based approach",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3304~9082a5f181.en.pdf",
+      "published": "2026-11-02",
+      "summary": "This paper studies the European Central Bank’s (ECB) perception of non-bank financial intermediaries (NBFIs) and how this perception is publicly communicated. We construct a perception index based on ECB speeches over the period 1998–2025. Sentiment in references to non-banks is classified by a large language model that we fine-tune on our own hand-labeled dataset constructed for this purpose. The resulting index reveals a predominantly negative and declining perception over time, particularly since the Global Financial Crisis. Negative sentiment is primarily associated with concerns related to financial stability and regulatory needs, whereas positive sentiment reflects the role of non-banks in fostering financial innovation and supporting market functioning. The index is made publicly available for future research.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "40c0e1df-2fda-811c-b871-e176633b47e9",
+      "title": "Euro area bank interest rate statistics: September 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html",
+      "published": "2026-11-02",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Statistical Releases",
+      "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
+    },
+    {
+      "id": "40c0e1df-2fda-8116-99aa-d4b2837102f1",
+      "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+      "published": "2026-11-02",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
     {
       "id": "4090e1df-2fda-817d-8dc1-f9e7a66bcdf6",
       "title": "SBS publica proyecto de norma de prevención LA/FT para empresas de transporte y custodia de dinero y valores, factoring y arrendamiento financiero no supervisadas",
