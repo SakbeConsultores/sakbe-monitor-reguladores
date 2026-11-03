@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-11-03T02:52:08.752376+00:00",
-  "total_items": 247,
+  "generated_at": "2026-11-03T20:51:28.121586+00:00",
+  "total_items": 254,
   "items": [
+    {
+      "id": "40d0e1df-2fda-810c-948d-e29d38fc51a9",
+      "title": "Consulta pública del proyecto de Disposiciones de carácter general a las que deberán sujetarse las operaciones de fideicomiso",
+      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/miscelaneos/{FF526F03-04A2-F392-2C89-A35225D7E4DA}.pdf",
+      "published": "2026-11-03",
+      "summary": "",
+      "regulator": "Banxico",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.banxico.org.mx/noticias/noticias001.html"
+    },
+    {
+      "id": "40d0e1df-2fda-81b2-96d1-fdc1d5dd9d4c",
+      "title": "Encuesta Mensual de Opinión Empresarial (EMOE). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11328",
+      "published": "2026-11-03",
+      "summary": "Aumentó 1.1 puntos el Indicador Global de Opinión Empresarial de Tendencia en octubre de 2026, respecto al mes anterior",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "40d0e1df-2fda-8106-bead-daa69531e497",
+      "title": "Encuesta Mensual de Opinión Empresarial (EMOE). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11329",
+      "published": "2026-11-03",
+      "summary": "Disminuyó 0.2 puntos el Indicador Global de Opinión Empresarial de Confianza en octubre de 2026, respecto al mes anterior",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "40d0e1df-2fda-8179-bb24-f20e11cbb148",
+      "title": "Encuesta Mensual de Opinión Empresarial (EMOE). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11330",
+      "published": "2026-11-03",
+      "summary": "Aumentó 1.2 puntos el Indicador de Pedidos Manufactureros en octubre de 2026, respecto al mes anterior",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "40d0e1df-2fda-81fe-ac92-d04db6d1530b",
+      "title": "Elastic in cash, inelastic in repo: hedge funds in the treasury and repo markets",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3305~877e68c2b7.en.pdf",
+      "published": "2026-11-03",
+      "summary": "The functioning of sovereign bond markets is closely intertwined with repo markets, where investors finance long positions and source bonds for short sales. We show, theoretically and empirically, how conditions in the cash bond market fundamentally shape repo rates: When demand for cash bonds exceeds available supply, arbitrageurs, notably hedge funds, step in to bridge the gap by shorting bonds and borrowing them in the repo market. These arbitrage strategies drive a wedge between monetary policy rates and repo rates, generating “specialness”. To investigate the drivers of investors’ demand for repo contracts, we obtain regulatory data covering the entire universe of repos backed by German sovereign bonds. We identify the ultimate borrowers and lenders of securities and estimate their demand and supply elasticities for the repo market. Supply, dominated by the public sector, accounts for 87% of the aggregate elasticity. Demand, driven mainly by hedge funds, is strongly inelastic: a 10% increase in borrowing costs reduces their borrowing by only 1%. Despite being among the most price-elastic investors in cash bond markets, hedge funds are inelastic in repo markets because their bond borrowing bridges the preferred-habitat demand in the cash bond market: their elasticity is inherited from their cash-market counterparties rather than being a primitive. As a result, repo rate specialness emerges as the equilibrium price reflecting demand pressures in the cash bond market, of which collateral scarcity from central bank purchases is a special case. Consequently, the same cash bond market imbalances affect both the pricing of safe assets and repos, two markets that are of crucial importance for the transmission of monetary policy.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "40d0e1df-2fda-8192-8afe-c2426de4cd23",
+      "title": "Debt maturity and government spending multipliers",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3306~028a82bc67.en.pdf",
+      "published": "2026-11-03",
+      "summary": "Government spending effectiveness depends critically on how it is financed. Using state dependent SVAR models and local projections on post-war US data, we show that fiscal expansions financed with short-term debt generate significantly larger output multipliers than those financed with long-term debt. This difference mainly stems from private consumption responses: short-term financing crowds in consumption while long-term financing does not. Torationalize this finding, we construct an incomplete markets model in which households invest in short-term and long-term assets. Short assets provide liquidity/safety services; households can (more readily) use them to cover sudden idiosyncratic spending needs. An increase in the supply of these assets, through a short-term debt-financed government expenditure shock, boosts private consumption. We first show this mechanism analytically in a simplified model, and then quantify it in a carefully calibrated New Keynesian model. We find that fiscal multipliers differ substantially across financing modes, with short-term-financed shocks typically exceeding unity while long-term-financed shocks typically fall below unity. We show these differences persist across monetary and fiscal policy regimes, with important implications for optimal debt management and stimulus design.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "40d0e1df-2fda-81f0-ae87-cc12bd2386d5",
+      "title": "Prewar US business cycles under uncertainty: reconstructing quarterly GDP before 1947",
+      "url": "https://www.bis.org/publications/working-paper-1390-prewar-us-business-cycles-under-uncertainty-reconstructing-quarterly-gdp-1947",
+      "published": "2026-11-03",
+      "summary": "Official quarterly US GDP estimates begin in 1947; earlier quarterly histories must be reconstructed using annual benchmarks and historical indicators. To investigate uncertainty in these reconstructions, this paper systematically compares specifications drawn from the literature for reconstructing quarterly GDP during 1919–1946. The comparison evaluates predictions on concealed postwar quarters and separates variation across specifications from coefficient uncertainty within a model.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "40c0e1df-2fda-81cd-97bc-f8864153b999",
       "title": "CTS: ¿Qué hacer antes de elegir dónde depositarla?",
