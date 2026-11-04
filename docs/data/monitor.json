@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-11-04T01:10:39.251123+00:00",
-  "total_items": 253,
+  "generated_at": "2026-11-04T21:08:44.553468+00:00",
+  "total_items": 264,
   "items": [
+    {
+      "id": "40e0e1df-2fda-81ce-a008-eba4e2cdf95f",
+      "title": "Entidades financieras, aseguradoras y EAF podrán comercializar productos y/o servicios de terceros",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4028",
+      "published": "2026-11-04",
+      "summary": "La SBS aprobó la Resolución N.° 2645-2026, la cual autoriza a las entidades del sistema a comercializar productos y servicios financieros de terceros",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "40e0e1df-2fda-8158-bcf5-e50672227433",
+      "title": "Registro Administrativo de la Industria Automotriz de Vehículos Ligeros (RAIAVL)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11333",
+      "published": "2026-11-04",
+      "summary": "Se vendieron en México 137 438 vehículos ligeros en octubre de 2026; 3.1 % más que en octubre de 2025",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "40e0e1df-2fda-81b2-b980-e7e1da881890",
+      "title": "Censo Nacional de Impartición de Justicia Federal (CNIJF) 2026",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11334",
+      "published": "2026-11-04",
+      "summary": "Aumentaron 8.6% las causas penales que ingresaron en 2025 al Poder Judicial de la Federación (PJF) y a los Poderes Judiciales estatales (PJE)",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "40e0e1df-2fda-81fc-9695-c14c03254e3d",
+      "title": "Censo Nacional de Impartición de Justicia Estatal (CNIJE) 2026",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11335",
+      "published": "2026-11-04",
+      "summary": "Aumentaron 8.6% las causas penales que ingresaron en 2025 al Poder Judicial de la Federación (PJF) y a los Poderes Judiciales estatales (PJE)",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "40e0e1df-2fda-8115-b4a3-dd32f2ec1850",
+      "title": "Indicadores Trimestrales de la Actividad Turística (ITAT). Base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11332",
+      "published": "2026-11-04",
+      "summary": "Aumentó 0.4% el PIB turístico y 0.1% el consumo turístico interior en el segundo trimestre de 2026, a tasa trimestral",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "40e0e1df-2fda-81d7-9b51-c774df7e7a39",
+      "title": "Sistema de Indicadores Cíclicos",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11331",
+      "published": "2026-11-04",
+      "summary": "Aumentó 0.12 puntos el Indicador Coincidente en agosto de 2026, respecto a julio pasado",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "40e0e1df-2fda-8185-8ec5-f5457833d966",
+      "title": "OCC Issues Supervisory Framework on Bank Use of Super Intelligence",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-97.html",
+      "published": "2026-11-04",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today issued a framework for its bank examination workforce on banks' use of Super Intelligence (SI).",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "40e0e1df-2fda-81ae-a73e-e5f17c4f3a71",
+      "title": "Deep-π*: a neural network estimate of trend inflation",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3307~d3d2e0c5e4.en.pdf",
+      "published": "2026-11-04",
+      "summary": "Most empirical models of trend inflation treat it as a latent random walk driven by unobserved shocks, so they cannot say which economic conditions move it. Deep- π*makes the innovations to the trend a possibly nonlinear function of a large number of macroeconomic indicators, estimated with neural networks, so that Shapley values can be used to attribute every movement of the trend to the indicators behind it. Two complementary loss functions define a current trend, which fits inflation today, and a forward-looking trend, which best predicts inflation over the next year. In US data, employment-related variables were the largest contributors to the post-pandemic rise of the current trend. However, the forwardlooking trend rose earlier, with real activity, employment, and money and credit as the main drivers from the start of the pandemic, and peaked eight to twelve months before the current trend. Both trends looked through most of the movements in energy and commodity prices. The contributions of the indicators are nonlinear, with sizeable interactions between them. Re-estimated every month during the surge, the model forecast inflation more accurately than the standard UC-SV model and a random walk, and in early 2021, when professional forecasters expected inflation of 3% or less, the forward-looking trend was already signalling an increase in persistent inflation.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "40e0e1df-2fda-814c-967b-c24535ab674e",
+      "title": "Knowledge gaps, behaviour parity: gender differences in financial literacy in Europe",
+      "url": "https://www.ecb.europa.eu//press/pubbydate/2026/html/ecb.fln_gender_differences.en.html",
+      "published": "2026-11-04",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "40e0e1df-2fda-8137-83f3-d76f4d6f4b2a",
+      "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+      "published": "2026-11-04",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "40e0e1df-2fda-81e6-89dd-d6bba65ecff9",
+      "title": "Scenarios for future banking: implications for profitability, liquidity and solvency",
+      "url": "https://www.bis.org/publications/scenarios-future-banking-implications-profitability-liquidity-and-solvency",
+      "published": "2026-11-04",
+      "summary": "Who will perform banking’s core functions a decade from now, and how will risks and profitability evolve? Our framework structures expert judgement rather than forecasts.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "40e0e1df-2fda-81de-8b30-f2ef89aba5e9",
       "title": "Human Capital Ministerial Conclave: Private Capital for Skills in the Age of AI",
