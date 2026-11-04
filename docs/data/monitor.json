@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-11-03T20:51:28.121586+00:00",
-  "total_items": 254,
+  "generated_at": "2026-11-04T01:10:39.251123+00:00",
+  "total_items": 253,
   "items": [
+    {
+      "id": "40e0e1df-2fda-81de-8b30-f2ef89aba5e9",
+      "title": "Human Capital Ministerial Conclave: Private Capital for Skills in the Age of AI",
+      "url": "https://www.worldbank.org/en/news/feature/2026/11/03/human-capital-ministerial-conclave-private-capital-for-skills-in-the-age-of-ai",
+      "published": "2026-11-03",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "40e0e1df-2fda-8183-8c7a-ff5557b8a336",
+      "title": "Bhutan Has a Narrow Window to Turn Demographic Change into Opportunity",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/11/03/bhutan-has-a-narrow-window-to-turn-demographic-change-into-opportunity",
+      "published": "2026-11-03",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "40e0e1df-2fda-81a4-b441-dc623fb2c117",
+      "title": "World Bank Group Supports Marshall Islands to Respond to El Niño and Dengue Outbreak",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/11/03/world-bank-group-supports-marshall-islands-to-respond-to-el-ni-o-and-dengue-outbre",
+      "published": "2026-11-03",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "40e0e1df-2fda-81ee-9704-f3ff0231661e",
+      "title": "South Asia Has a Critical Window to Turn Demographic Change into Opportunity",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/11/03/south-asia-has-a-critical-window-to-turn-demographic-change-into-opportunity",
+      "published": "2026-11-03",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "40d0e1df-2fda-810c-948d-e29d38fc51a9",
       "title": "Consulta pública del proyecto de Disposiciones de carácter general a las que deberán sujetarse las operaciones de fideicomiso",
@@ -80,6 +124,28 @@
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
+      "id": "40e0e1df-2fda-811b-ab0d-c9623ac1bba6",
+      "title": "Conservation that pays: Protected and Conserved Areas as engines of local jobs and income",
+      "url": "https://www.worldbank.org/en/news/feature/2026/11/02/conservation-that-pays-protected-and-conserved-areas-as-engines-of-local-jobs-and",
+      "published": "2026-11-02",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "40e0e1df-2fda-81df-8297-f3fe7db390a6",
+      "title": "Liberia’s Economy Grows 5.1 Percent, but More and Better Jobs Are Needed to Reduce Poverty",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/11/02/liberia-economy-grows-5-1-percent-but-more-and-better-jobs-needed-reduce-poverty",
+      "published": "2026-11-02",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
       "id": "40c0e1df-2fda-81cd-97bc-f8864153b999",
       "title": "CTS: ¿Qué hacer antes de elegir dónde depositarla?",
       "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4027",
@@ -144,6 +210,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "40e0e1df-2fda-812c-b339-db9d027f5396",
+      "title": "RISE +",
+      "url": "https://www.worldbank.org/en/news/feature/2026/10/30/rise",
+      "published": "2026-10-30",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "4090e1df-2fda-817d-8dc1-f9e7a66bcdf6",
@@ -287,6 +364,17 @@
       "country": "EU",
       "type": "Publications",
       "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "40e0e1df-2fda-81e5-a6b2-fe8ec4d2354d",
+      "title": "Global Fund and World Bank Partner to Expand Access to Lifesaving Health Products",
+      "url": "https://www.worldbank.org/en/news/statement/2026/10/29/global-fund-and-world-bank-partner-to-expand-access-to-lifesaving-health-products",
+      "published": "2026-10-29",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "4090e1df-2fda-81b1-bb27-ddcb119ba9c2",
@@ -826,6 +914,17 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.bis.org/doclist/all_pressrels.rss"
+    },
+    {
+      "id": "40e0e1df-2fda-81be-8790-e887dbbbb185",
+      "title": "Connecting Classrooms Across Distance in Kenya: Expanding Access Through Technology-Enabled Learning",
+      "url": "https://www.worldbank.org/en/news/feature/2026/10/28/connecting-classrooms-across-kenya-technology-enabled-learning-mastercard-fdn",
+      "published": "2026-10-28",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "4070e1df-2fda-8194-96fb-f3f59d7e4ac9",
@@ -1922,116 +2021,6 @@
       "url": "https://www.bis.org/publications/working-paper-1383-offshore-forwards-and-exchange-rate-transmission-emerging-markets",
       "published": "2026-10-16",
       "summary": "We study how offshore non-deliverable forward (NDF) markets transmit exchange-rate pressures to domestic currency markets. Using unique transaction-level data on the universe of centrally cleared NDFs for ten emerging-market currencies over 2013–2025, we show that offshore NDF order flow moves both offshore forward and domestic spot exchange rates and widens the offshore–onshore forward spread.",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Research",
-      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "3fa0e1df-2fda-815e-a55e-d1dce1b68be5",
-      "title": "Convocatoria para la subasta de permuta de valores gubernamentales",
-      "url": "https://www.banxico.org.mx/apps/stdview.html?url=/apps/dao-web/4/36/1/convprimaperpubnew-1.html",
-      "published": "2026-10-15",
-      "summary": "",
-      "regulator": "Banxico",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.banxico.org.mx/noticias/noticias001.html"
-    },
-    {
-      "id": "3fa0e1df-2fda-816f-bbcb-e45eeb6a42d9",
-      "title": "Green Jobs, Not Glass Ceiling: Women Powering Southeast Asia's Clean Energy Transition",
-      "url": "https://www.worldbank.org/en/news/feature/2026/10/15/green-jobs-not-glass-ceiling-women-powering-southeast-asia-s-clean-energy-transiti",
-      "published": "2026-10-15",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3fa0e1df-2fda-81fc-b73c-e5c569cea531",
-      "title": "Leveraging Private Philanthropy to Complement Public Investment, Scale What Works",
-      "url": "https://www.worldbank.org/en/news/feature/2026/10/15/leveraging-private-philanthropy-to-complement-public-investment-scale-what-works",
-      "published": "2026-10-15",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3fa0e1df-2fda-811c-b881-f075ad405e56",
-      "title": "Nepal and the World Bank Group Announce Partnership to Explore Catastrophe Bond for Earthquake Risk",
-      "url": "https://www.worldbank.org/en/news/statement/2026/10/15/nepal-and-the-world-bank-group-announce-partnership-to-explore-catastrophe-bond-fo",
-      "published": "2026-10-15",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3fa0e1df-2fda-8120-8010-fa4fc1033558",
-      "title": "World Bank Group and Japan Advance Partnership on Energy Resilience in Asia",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/10/15/world-bank-group-and-japan-advance-partnership-on-energy-resilience-in-asia",
-      "published": "2026-10-15",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3fa0e1df-2fda-8141-8477-f37f90571d8b",
-      "title": "ESCB SSM Shared Values Charter 2026",
-      "url": "https://www.ecb.europa.eu//pub/pdf/other/ESCB-SSM-Shared-Values-Charter-2026.en.pdf",
-      "published": "2026-10-15",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3fa0e1df-2fda-8166-b090-c466b87a31f2",
-      "title": "When less is more: behavioral effects of CBDC holding limits",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3300~0277bae3af.en.pdf",
-      "published": "2026-10-15",
-      "summary": "Holding limits are a central design feature of proposed retail central bank digital currencies (CBDC). While such limits mechanically prevent individuals from exceeding a maximum balance, they may also generate behavioral responses whose directions are a priori unclear. We conducted an incentivized online experiment with participants from four euro-area countries, exogenously varying the presence and level of a holding limit to causally separate direct mechanical effects from behavioral effects. We find that behavioral responses increase holdings of the means of payment subject to the holding limit, consistent with an attraction effect. This effect is material only when the limit is high enough. Enabling reverse waterfall —automatic conversion into this limited means of payment— increases adoption while reducing holdings. These results suggest that combining holding limits with automatic funding mechanisms can support CBDC use while containing holdings, thereby helping to mitigate potential financial stability risks.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3fa0e1df-2fda-8163-a33a-cfcd66254428",
-      "title": "Stop believing in haircuts - at least the way you think about them",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3301~1585c96063.en.pdf",
-      "published": "2026-10-15",
-      "summary": "We study how frictions impact haircut setting in repo markets. Using transaction-level supervisory data and exploiting the 2021 introduction of the binding leverage ratio requirement, we show that three frictions jointly shape haircuts in the bilateral dealer-to-client segment: dealer balance sheet constraints, collateral convenience yields, and client outside options. In collateral-driven repos, binding leverage constraints and broader client outside options both raise haircuts, while higher convenience yields push them down. In funding-driven trades, the leverage constraint has no effect, higher convenience yields raise haircuts through the rehypothecation channel, and broader client outside options lower them. We rationalise these patterns in a bilateral bargaining model with periodic haircut renegotiation. Consistent with the model, constrained dealers exhibit higher repo-rate volatility and weaker pass-through of ECB policy rate changes in the collateral-driven segment. Post-crisis bank regulation thus carries potential unintended consequences for repo market functioning and the transmission of monetary policy.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3fa0e1df-2fda-81f8-8587-c3492e693e2b",
-      "title": "Payments Tomorrow Conference speech",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-10/76bb7c6b-29df-4211-b827-2e6b35225067/Payments%20Tomorrow%20Conference%20speech.pdf",
-      "published": "2026-10-15",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3fa0e1df-2fda-8167-aafc-c5907bd56508",
-      "title": "Chokepoint disruptions and their macroeconomic consequences",
-      "url": "https://www.bis.org/publications/bulletin-138-chokepoint-disruptions-and-their-macroeconomic-consequences",
-      "published": "2026-10-15",
-      "summary": "Rising geopolitical tensions, including trade restrictions and conflicts, are increasingly disrupting global supply chains, posing significant risks at critical chokepoints. Strong substitution effects and the use of inventories have helped to mitigate adverse output effects of chokepoint disruptions, but they often come at the cost of higher input prices. An effective policy response to chokepoint disruptions requires a tailored approach that takes account of the cause, centrality and the private sector’s ability to substitute and draw on buffers.",
       "regulator": "BIS",
       "country": "Global",
       "type": "Research",
