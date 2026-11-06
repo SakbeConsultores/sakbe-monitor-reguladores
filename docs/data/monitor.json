@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-11-06T01:28:58.205527+00:00",
-  "total_items": 275,
+  "generated_at": "2026-11-06T20:45:52.879531+00:00",
+  "total_items": 286,
   "items": [
+    {
+      "id": "4100e1df-2fda-814c-a12a-f2c901da5bf1",
+      "title": "J. Ronald Gutiérrez López, nuevo presidente de la Federación Latinoamericana de Bancos, FELABAN",
+      "url": "https://felaban.com/j-ronald-gutierrez-lopez-nuevo-presidente-de-la-federacion-latinoamericana-de-bancos-felaban/",
+      "published": "2026-11-06",
+      "summary": "Lima, Perú, 6 de noviembre de 2026. El boliviano J. Ronald Gutiérrez López fue elegido por unanimidad como nuevo presidente de la Federación Latinoamericana de Bancos (FELABAN) para el periodo 2026-2028. La elección se realizó en las segundas reuniones del Consejo de Gobernadores de FELABAN, en el marco de la 60ª Asamblea Anual de FELABAN, que se celebra en Lima, Perú, del 3 al 6 de noviembre de 2026. Gutiérrez López, Presidente de la Asociación de Bancos Privados de Bolivia, ASOBAN, y Gerente General del Banco Ganadero S.A., asume el cargo que ocupaba el panameño Raúl E. Guizado Novey. La decisión fue adoptada por unanimidad por el Consejo de Gobernadores de FELABAN, conformado por representantes de las asociaciones bancarias de",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
+    {
+      "id": "4100e1df-2fda-81a9-a9a5-ebb3ded91788",
+      "title": "Depósitos de los socios de Coopac Financoop en disolución están protegidos por el FSDC",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4030",
+      "published": "2026-11-06",
+      "summary": "La Superintendencia de Banca, Seguros y AFP (SBS) oficializó la disolución de la Coopac Financoop y precisó que los depósitos de los socios se encuent",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "4100e1df-2fda-811e-94bb-db4922b9bdd7",
+      "title": "Homeownership Counseling: Revised Comptroller’s Handbook Booklet",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-55.html",
+      "published": "2026-11-06",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today issued version 1.0 of the “Homeownership Counseling” booklet of the Comptroller’s Handbook.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "4100e1df-2fda-8140-b6de-e6730102bb6d",
+      "title": "Letter from the ECB President to Mr Eero Heinäluoma and Mr Jonás Fernández, MEPs, on AI-related financing",
+      "url": "https://www.ecb.europa.eu//pub/pdf/other/ecb.mepletter261106_Heinaluoma_Fernandez~6e406be51f.en.pdf",
+      "published": "2026-11-06",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "4100e1df-2fda-81c2-99cb-cd0073377fec",
+      "title": "ECB publishes consolidated banking data for end-June 2026",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
+      "published": "2026-11-06",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "4100e1df-2fda-8152-8aa6-ca7f22396e94",
+      "title": "2026 10 31 PMR Francois-Louis Michaud",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/1b20b7a8-792a-4b47-9d34-d4c25bcb711c/2026%2010%2031%20PMR%20Francois-Louis%20Michaud%20%281%29.pdf",
+      "published": "2026-11-06",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "4100e1df-2fda-8148-999c-f44283602222",
+      "title": "2026 10 15 PMR - Jonathan Overett Somnier",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/e623a6fc-8627-4f22-a4b6-9f0012b7515c/2026%2010%2015%20PMR%20-%20Jonathan%20Overett%20Somnier%20%281%29.pdf",
+      "published": "2026-11-06",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "4100e1df-2fda-817e-bbbb-f2fe6871b31f",
+      "title": "2026 10 31 PMR - Jonathan Overett Somnier",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/8f89b819-c536-4754-bb60-d8a52a2aef3b/2026%2010%2031%20PMR%20-%20Jonathan%20Overett%20Somnier.pdf",
+      "published": "2026-11-06",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "4100e1df-2fda-81bf-a2ed-d3f9ee57ca7c",
+      "title": "The EBA outlines next steps on supervisory reporting simplification and extends implementation timelines following consultation feedback on the ITS",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-outlines-next-steps-supervisory-reporting-simplification-and-extends-implementation-timelines",
+      "published": "2026-11-06",
+      "summary": "The European Banking Authority (EBA) today outlines the way forward for the finalisation of proposals to simplify EU supervisory reporting, following extensive dialogue with the banking industry and feedback received during the public consultation. The package that is currently being finalised will introduce additional simplification measures, greater proportionality and extended implementation timelines, reducing reporting costs while preserving the information necessary for effective supervision. The final report on the draft Implementing Technical Standards (ITS) on supervisory reporting will be published by the EBA in December 2026.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "4100e1df-2fda-819f-84a9-eecce457ab95",
+      "title": "Gaining (and losing) currency: a global database of currencies, 1850-2026",
+      "url": "https://www.bis.org/publications/working-paper-1392-gaining-and-losing-currency-global-database-currencies-1850-2026",
+      "published": "2026-11-06",
+      "summary": "Over the past two centuries, officially issued currencies have become firmly en trenched as a nearly universal institution in economies around the world. But the path to this arrangement has not been smooth: currencies have come and gone, in line with political changes, periods of hyperinflation or currency reforms and, in some cases, entry into currency unions.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "40f0e1df-2fda-81eb-8e8d-fa495caba04f",
       "title": "Perú avanza en la implementación del sistema de finanzas abiertas",
@@ -199,6 +309,17 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "4100e1df-2fda-8186-abc2-efdd6be777b5",
+      "title": "Super Intelligence: Supervisory Framework",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-54.html",
+      "published": "2026-11-04",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today issued a supervisory framework designed to support OCC examiners in evaluating banks' use of super intelligence (SI) in normal-course business activities.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
     },
     {
       "id": "40f0e1df-2fda-810b-a209-df691be9430e",
