@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T21:24:18.735423+00:00",
-  "total_items": 278,
+  "generated_at": "2026-11-06T01:28:58.205527+00:00",
+  "total_items": 275,
   "items": [
     {
       "id": "40f0e1df-2fda-81eb-8e8d-fa495caba04f",
@@ -2267,39 +2267,6 @@
       "country": "Global",
       "type": "News",
       "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "4060e1df-2fda-81d1-ad1c-d2f466c897d5",
-      "title": "Joint Statement by MDB Heads: Advancing Joint Action amid Global Uncertainty",
-      "url": "https://www.worldbank.org/en/news/statement/2026/10/17/joint-statement-by-mdb-heads-advancing-joint-action-amid-global-uncertainty",
-      "published": "2026-10-17",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3fc0e1df-2fda-8169-a65e-d29e7c3c88d8",
-      "title": "Mongolia Becomes a Donor to the International Development Association of the World Bank Group",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/10/17/mongolia-becomes-a-donor-to-the-international-development-association-of-the-world",
-      "published": "2026-10-17",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3fc0e1df-2fda-817c-af45-eb64e75a923e",
-      "title": "Christine Lagarde: IMFC Statement",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
-      "published": "2026-10-17",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
     },
     {
       "id": "3e40e1df-2fda-8169-b639-e7f7f971ca99",
