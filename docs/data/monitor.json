@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-07T00:47:38.897620+00:00",
-  "total_items": 285,
+  "generated_at": "2026-11-07T19:19:14.200047+00:00",
+  "total_items": 286,
   "items": [
+    {
+      "id": "4110e1df-2fda-8188-a76a-fb85505448ee",
+      "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+      "published": "2026-11-07",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
     {
       "id": "4110e1df-2fda-8155-a18d-e9a4994fb011",
       "title": "Finanzas abiertas: conectando el futuro financiero de Colombia",
