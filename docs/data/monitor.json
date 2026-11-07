@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-06T20:45:52.879531+00:00",
-  "total_items": 286,
+  "generated_at": "2026-11-07T00:47:38.897620+00:00",
+  "total_items": 285,
   "items": [
+    {
+      "id": "4110e1df-2fda-8155-a18d-e9a4994fb011",
+      "title": "Finanzas abiertas: conectando el futuro financiero de Colombia",
+      "url": "https://www.superfinanciera.gov.co/10116312",
+      "published": "2026-11-06",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
     {
       "id": "4100e1df-2fda-814c-a12a-f2c901da5bf1",
       "title": "J. Ronald Gutiérrez López, nuevo presidente de la Federación Latinoamericana de Bancos, FELABAN",
@@ -2366,28 +2377,6 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "4010e1df-2fda-818a-a391-cb274bc37b36",
-      "title": "Immersive StoriesJobs, Small AI, and Private Capital: 2026 Annual Meetings Highlights",
-      "url": "https://www.worldbank.org/en/news/immersive-story/2026/10/18/jobs-small-ai-private-capital-annual-meetings",
-      "published": "2026-10-18",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "3fe0e1df-2fda-8146-8560-dd7843930a9b",
-      "title": "UAE Signs Agreement to Host 2029 World Bank Group and IMF Annual Meetings in Abu Dhabi",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/10/18/uae-signs-agreement-to-host-2029-world-bank-group-annual-meetings",
-      "published": "2026-10-18",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "3e40e1df-2fda-8169-b639-e7f7f971ca99",
