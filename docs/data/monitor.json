@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T19:19:14.200047+00:00",
-  "total_items": 286,
+  "generated_at": "2026-11-08T00:20:32.660117+00:00",
+  "total_items": 280,
   "items": [
     {
       "id": "4110e1df-2fda-8188-a76a-fb85505448ee",
@@ -12,6 +12,50 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "4120e1df-2fda-8157-9ffd-ddba7c567c9d",
+      "title": "Six Months In: What the New Small States Strategy Implementation Tracker Shows",
+      "url": "https://www.worldbank.org/en/news/feature/2026/11/06/six-months-in-what-the-new-small-states-strategy-implementation-tracker-shows",
+      "published": "2026-11-06",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "4120e1df-2fda-817f-919a-e1731f9a38be",
+      "title": "Nigeria Boosts Support for Climate Resilience and Sustainable Landscapes",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/11/06/nigeria-boosts-support-for-climate-resilience-and-sustainable-landscapes",
+      "published": "2026-11-06",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "4120e1df-2fda-8120-9d13-d5eece4c46a8",
+      "title": "New Framework for Haiti Sets a 12-Month Path for Reform and Renewed Trust",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/11/06/new-framework-for-haiti-sets-a-12-month-path-for-reform-and-renewed-trust",
+      "published": "2026-11-06",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "4120e1df-2fda-810f-b286-c500d28d4188",
+      "title": "World Bank Group Helps Improve Pre-primary and Primary Education in Bangladesh",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/11/06/world-bank-group-helps-improve-pre-primary-and-primary-education-in-bangladesh",
+      "published": "2026-11-06",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "4110e1df-2fda-8155-a18d-e9a4994fb011",
@@ -133,6 +177,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "4120e1df-2fda-813a-96bd-ff06b6e77588",
+      "title": "Chile turns its forests into economic opportunities for rural communities",
+      "url": "https://www.worldbank.org/en/news/feature/2026/11/05/chile-turns-its-forests-into-economic-opportunities-rural-communities",
+      "published": "2026-11-05",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "40f0e1df-2fda-81eb-8e8d-fa495caba04f",
@@ -2263,127 +2318,6 @@
       "url": "https://www.bis.org/publications/bank-liquidity-regulation-and-growth-private-credit",
       "published": "2026-10-20",
       "summary": "We study the role of bank liquidity regulation in the growth of private credit. Following the introduction of the liquidity coverage ratio (LCR), private credit increases significantly more in U.S. counties with a larger footprint of banks subject to the LCR or of LCR banks with greater initial liquidity shortfalls.",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Research",
-      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "3fe0e1df-2fda-8158-95d8-c617643e499c",
-      "title": "SBS pone en consulta pública el segundo bloque normativo del Sistema de Finanzas Abiertas",
-      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4021",
-      "published": "2026-10-19",
-      "summary": "",
-      "regulator": "SBS Perú",
-      "country": "PE",
-      "type": "News",
-      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
-    },
-    {
-      "id": "3fe0e1df-2fda-8155-8a7d-c9317bd174b2",
-      "title": "Índice de Capitalización de la banca múltiple al cierre de agosto de 2026",
-      "url": "https://www.gob.mx/cnbv/prensa/indice-de-capitalizacion-de-la-banca-multiple-al-cierre-de-agosto-de-2026?idiom=es",
-      "published": "2026-10-19",
-      "summary": "",
-      "regulator": "CNBV",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.gob.mx/cnbv/archivo/prensa?idiom=es"
-    },
-    {
-      "id": "3fe0e1df-2fda-81ad-9387-d64ecb5ac1fd",
-      "title": "Regulatory incentives and the structure of euro area money markets",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op401.en.pdf",
-      "published": "2026-10-19",
-      "summary": "This paper quantifies the regulatory cost of short-term money market transactions and analyses how post-global financial crisis prudential reforms shape the structure of euro area money markets and the redistribution of central bank reserves. As the stock of reserves declines with the normalisation of the European Central Bank’s balance sheet, trading in money markets is becoming increasingly important to banks’ liquidity management. As the related money market volumes rise, regulatory constraints may become a more visible determinant of trading activity and short-term rate formation. Focusing on key Basel III requirements – the liquidity coverage ratio, net stable funding ratio and leverage ratio – the paper derives stylised estimates of the marginal regulatory cost associated with unsecured and secured interbank transactions. The results indicate that unsecured interbank lending entails material regulatory costs, estimated at around 35 basis points for lenders and around 15 basis points for borrowers in the second half of 2025, reflecting capital and stable funding requirements. By contrast, secured transactions such as repurchase agreements benefit from substantially lower costs, typically well below 10 basis points when backed by high-quality collateral. These differences create structural incentives favouring secured over unsecured intermediation, suggesting that repo markets are likely to remain the main channel for reserve redistribution as the stock of reserves declines. The findings imply that post-crisis regulation has contributed to a persistent shift in the structure of euro area money markets, with implications for liquidity distribution and monetary policy implementation.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3fe0e1df-2fda-81f9-9b09-c76c99b0976a",
-      "title": "Headwind or tailwind? How banks interpret borrowers’ AI exposure",
-      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3302~7ff8a286bc.en.pdf",
-      "published": "2026-10-19",
-      "summary": "General-purpose technologies create large opportunities but make their distribution across firms difficult to assess in real time. We use banks as interpreters of the rise of generative AI by studying lender-specific probability-of-default (PD) estimates for private firms in four large euro-area economies. As public attention to AI rises after ChatGPT, banks lower assessed default risk for borrowers in highly AI-exposed industries by about 5%. The reassessment is weaker for labor-intensive firms and stronger among lenders with pre-existing industry expertise. Yet the favorable industry-level effect is accompanied by a systematic reordering within product markets: banks reassess firms with stronger pre-ChatGPT market positions less favorably relative to their competitors, compressing the risk advantage associated with market leadership. Credit allocation moves in the same direction, with market leaders experiencing relatively lower drawn and committed credit, more relationship exits, and fewer new lenders. The reordering also predicts subsequent bad-credit events beyond banks’ consensus PDs. Internal bank assessments therefore provide a forward-looking measure of how generative AI is expected to reshape competitive risk.",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "3fe0e1df-2fda-81d2-8367-f2704d0e1f0f",
-      "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
-      "published": "2026-10-19",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "3fe0e1df-2fda-8129-866c-cde7d9b4d2f6",
-      "title": "EBA MB 2026 127 rev. 1 (Final Minutes MB conference call on 29 May 2026)",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-10/0c9f0966-23a3-44fc-a11c-4d58bcf49686/EBA%20MB%202026%20127%20rev.%201%20%28Final%20Minutes%20MB%20conference%20call%20on%2029%20May%202026%29.pdf",
-      "published": "2026-10-19",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3fe0e1df-2fda-8122-97a5-f9662396a10e",
-      "title": "2026 10 15 PMR Francois-Louis Michaud",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-10/1199661d-99fd-40c1-9891-eb9a1adda225/2026%2010%2015%20PMR%20Francois-Louis%20Michaud.pdf",
-      "published": "2026-10-19",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "3fe0e1df-2fda-8175-be21-d50b9539510f",
-      "title": "Central banks and macro financial stability in a fragmented global economy",
-      "url": "https://www.bis.org/publications/paper-176-central-banks-and-macro-financial-stability-fragmented-global-economy",
-      "published": "2026-10-19",
-      "summary": "The 25th BIS Annual Conference took place in Basel, Switzerland on 26 June 2026. The event brought together a distinguished group of central bank Governors, leading academics and former public officials to exchange views on the theme “Central banks and macro-financial stability in a fragmented global economy”.",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Research",
-      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "3fe0e1df-2fda-811f-b9a2-e9010d007c40",
-      "title": "Geoeconomic pressure",
-      "url": "https://www.bis.org/publications/working-paper-1386-geoeconomic-pressure",
-      "published": "2026-10-19",
-      "summary": "The increasing use of geoeconomic pressure is reshaping the global economy.",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Research",
-      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "3fe0e1df-2fda-8169-aad0-f2e14714cb97",
-      "title": "Competing rails for crossborder payments: banks, fintechs, and stablecoins",
-      "url": "https://www.bis.org/publications/working-paper-1385-competing-rails-crossborder-payments-banks-fintechs-and-stablecoins",
-      "published": "2026-10-19",
-      "summary": "Cross-border payments remain slow and expensive despite significant improvements in digital financial infrastructure over the past several decades.",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Research",
-      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "3fe0e1df-2fda-81fc-8851-f8b978afccdd",
-      "title": "Inflation after the Iran war",
-      "url": "https://www.bis.org/publications/working-paper-1384-inflation-after-iran-war",
-      "published": "2026-10-19",
-      "summary": "An unexpected increase in energy costs raises inflation directly through flexibly-set prices. Whether that shock amplifies to a larger and persistent rise in inflation depends on its transmission through the economy.",
       "regulator": "BIS",
       "country": "Global",
       "type": "Research",
