@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T21:16:42.444035+00:00",
-  "total_items": 289,
+  "generated_at": "2026-11-11T01:09:35.339866+00:00",
+  "total_items": 281,
   "items": [
     {
       "id": "4140e1df-2fda-81e2-907e-f6168c0c247a",
@@ -2333,94 +2333,6 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "4070e1df-2fda-8132-a491-f7e0d772baa0",
-      "title": "How Rwanda’s Solar Revolution Is Powering Jobs and Transforming Lives for Women",
-      "url": "https://www.worldbank.org/en/news/feature/2026/10/22/how-rwandas-solar-revolution-is-powering-jobs-and-transforming-lives-for-women",
-      "published": "2026-10-22",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "4010e1df-2fda-81e7-8d5f-f381c075a386",
-      "title": "La temperatura global y su evolución 1850 2025",
-      "url": "https://felaban.com/la-temperatura-global-y-su-evolucion-1850-2025/",
-      "published": "2026-10-22",
-      "summary": "La temperatura global viene en incremento bajo una mirada de largo plazo. Cambios en los patrones del viento, variaciones en las mareas principalmente en el océano Pacífico, han llevado a abruptos movimientos en las temperaturas. Procesos de enfriamiento del aire (La Niña) y de calentamiento de este (El Niño) han sido medidos a lo largo de los últimos 150 años. Se calcula que un ciclo de los dos fenómenos puede durar 7 años. Los períodos intermedios han sido considerados estables y sin condiciones climáticas extremas. La tendencia estructura del aumento de la temperatura ha conllevado un fenómeno de mayor acortamiento de los ciclos y de mayores temperaturas en los años frescos del siglo. De acuerdo con World Meteorological Organization, el",
-      "regulator": "FELABAN",
-      "country": "LatAm Regional",
-      "type": "News",
-      "feed_url": "https://felaban.com/noticias/"
-    },
-    {
-      "id": "4010e1df-2fda-8164-b61e-d9f9d5f28f2f",
-      "title": "Índice Nacional de Precios al Consumidor (INPC). Base 2ª Quincena Julio 2018. Actualización de Canasta y Ponderadores 2024",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11284",
-      "published": "2026-10-22",
-      "summary": "La inflación anual fue de 3.62% en la primera quincena de octubre de 2026",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "4010e1df-2fda-81e7-a0a4-d6cc7dc76251",
-      "title": "Encuesta Nacional de Ocupación y Empleo (ENOE), población de 15 años y más de edad",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11283",
-      "published": "2026-10-22",
-      "summary": "Sumó 61.7 millones de personas la población económicamente activa en septiembre de 2026: 359 mil personas menos que en septiembre de 2025",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "4010e1df-2fda-8168-b26c-c134e9dbd117",
-      "title": "OCC Announces Enforcement Actions for October 2026",
-      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-93.html",
-      "published": "2026-10-22",
-      "summary": "The Office of the Comptroller of the Currency (OCC) today released enforcement actions for October 2026.",
-      "regulator": "OCC",
-      "country": "US",
-      "type": "News",
-      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
-    },
-    {
-      "id": "4010e1df-2fda-813d-bd87-f5c05e1235ac",
-      "title": "EBA BSG 2026 032 rev. 1 (Final Minutes of BSG conference call on 30 June 2026)",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-10/6ee97d15-dee9-419f-84b2-8f2b3ff52d3c/EBA%20BSG%202026%20032%20rev.%201%20%28Final%20Minutes%20of%20BSG%20conference%20call%20on%2030%20June%202026%29.pdf",
-      "published": "2026-10-22",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "4010e1df-2fda-81f9-8612-ec785b21acd9",
-      "title": "2026 EBA Policy Research Workshop - Draft Agenda",
-      "url": "https://www.eba.europa.eu/sites/default/files/2026-10/d0c81df8-802d-46c5-b901-26a2954c3400/2026%20EBA%20Policy%20Research%20Workshop%20-%20Draft%20Agenda.pdf",
-      "published": "2026-10-22",
-      "summary": "",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
-    },
-    {
-      "id": "4010e1df-2fda-8112-a581-de1d6c865570",
-      "title": "The EBA extends some consultation deadlines due to website maintenance",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-extends-some-consultation-deadlines-due-website-maintenance",
-      "published": "2026-10-22",
-      "summary": "On 21 October 2026, CERT-EU, the cybersecurity service for the EU institutions, bodies and agencies, alerted organisations to two critical security flaws in software used to run many websites, including that of the European Banking Authority (EBA). As a precaution, the EBA took its website offline on Wednesday 21 October 2026 at 13:00 CEST while the necessary security updates were applied. The website was restored on Thursday 22 October 2026 at 14:00 CEST.",
-      "regulator": "EBA",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
     },
     {
       "id": "3e40e1df-2fda-8169-b639-e7f7f971ca99",
