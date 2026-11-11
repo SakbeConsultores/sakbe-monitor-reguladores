@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-11-11T01:09:35.339866+00:00",
-  "total_items": 281,
+  "generated_at": "2026-11-11T21:49:21.657782+00:00",
+  "total_items": 290,
   "items": [
+    {
+      "id": "4150e1df-2fda-810d-b5b1-ed26c4eafcd6",
+      "title": "Prima del seguro previsional se reduce a 1.12%, la más baja de la historia del SISCO, y generará ahorro de S/ 678 millones para los afiliados al SPP",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4032",
+      "published": "2026-11-11",
+      "summary": "•\tLa licitación del Seguro de Invalidez, Sobrevivencia y Gastos de Sepelio del SPP que se realiza periódicamente, promueve mayores niveles de particip",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "4150e1df-2fda-8162-9ecd-c87e5ab29308",
+      "title": "Registro Administrativo de la Industria Automotriz de Vehículos Pesados (RAIAVP)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11345",
+      "published": "2026-11-11",
+      "summary": "Se vendieron en México 3 162 vehículos pesados al menudeo y 3 301 al mayoreo, en octubre de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "4150e1df-2fda-81dc-8ce8-f9d0d49e8694",
+      "title": "Líneas de Pobreza (LP)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11347",
+      "published": "2026-11-11",
+      "summary": "Aumento anual en el costo de los productos de la canasta alimentaria en octubre de 2026: 5.6% en el ámbito rural y 5.9% en el urbano",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "4150e1df-2fda-8127-a705-c85c4db48f3d",
+      "title": "Indicador Mensual de la Actividad Industrial (IMAI). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11346",
+      "published": "2026-11-11",
+      "summary": "Disminuyó 1.4% la actividad industrial en septiembre de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "4150e1df-2fda-81f9-8cbb-e35749e3a384",
+      "title": "The role of refining costs and margins in HICP energy inflation",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_05~d82730508f.en.html",
+      "published": "2026-11-11",
+      "summary": "Energy market developments continue to be shaped by the conflict in the Middle East. Global refinery runs have fallen significantly compared to previous years, driven by reduced refinery activity in the Middle East, Russia and Asia. The constrained supply of crude oil and refined products has led to a persistent global increase in refining margins and costs, particularly for diesel. In view of the important role of refining costs and margins in transport and heating fuel inflation, the ECB’s short-term inflation projection model for energy shows that expected heightened trajectories for refined energy product prices may lead to higher energy inflation even if oil prices move in the opposite direction.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "4150e1df-2fda-810d-b70f-fbf23571e4ce",
+      "title": "The real and financial effects of local corporate tax increases: evidence from linked firm–bank data",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3309~4e8af93b3a.en.pdf",
+      "published": "2026-11-11",
+      "summary": "We study how local corporate tax increases affect firms’ financing and real activity. In Portugal, municipalities independently set a surtax on corporate income, generating plausibly exogenous variation across space and time. We link the universe of corporate balance sheets and profit-and-loss statements to loan-level data from the Bank of Portugal’s credit registry, allowing us to track firms’ liquidity, leverage, borrowing costs, and credit quality alongside revenues, employment, and productivity. We estimate local-projection difference-in-differences models that address staggered treatment timing and dynamic responses. Surtax hikes immediately tighten financing conditions: liquidity falls, implicit interest rates rise, debt increases at shorter maturities, and non-performing loans become more prevalent. These strains spill over into real outcomes: firms reduce sales and employment and experience persistent declines in total factor productivity. Effects are strongest among small firms, where leverage rises in response to liquidity losses. We also find higher exit and relocation probabilities, but no gains in neighboring output, pointing to inefficient reallocation. Our results highlight how local tax policy can transmit through both financial and real margins, with implications for fiscal design in decentralized settings.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "4150e1df-2fda-8154-ac57-d22ed6451db1",
+      "title": "Who holds stablecoins? New evidence on euro area consumer holdings",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_08~f4ddf0117c.en.html",
+      "published": "2026-11-11",
+      "summary": "This box looks at whether stablecoins are on the rise in the euro area and what the implications are for financial stability, using data from the ECB’s Consumer Expectations Survey. It highlights the transactional nature of stablecoins and the risks posed by an increase in consumer holdings. While current exposures remain limited, the analysis underscores the importance of monitoring the use of stablecoins and the potential spillover effects on consumer confidence and financial markets.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "4150e1df-2fda-81e2-8222-feee752297bd",
+      "title": "Ready-to-run global liquidity stress tests for banks and banking systems",
+      "url": "https://www.bis.org/publications/working-paper-1394-ready-to-run-global-liquidity-stress-tests-banks-and-banking-systems",
+      "published": "2026-11-11",
+      "summary": "Liquidity risk remains a persistent threat to financial stability, as starkly demonstrated by the 2023 banking turmoil in the United States and Europe. Hence, the ability to quickly gauge banks’ liquidity risks could prove useful especially during periods of market stress, but also to assess differences in liquidity buffers across peer economies and banks.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "4150e1df-2fda-818f-912e-de45275716c5",
+      "title": "World Bank Group Supports Large-Scale Forest Restoration in Brazil",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/11/10/world-bank-group-supports-large-scale-forest-restoration-in-brazil",
+      "published": "2026-11-10",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "4140e1df-2fda-81e2-907e-f6168c0c247a",
       "title": "La SBS gana Premio a las Buenas Prácticas en Gestión Pública 2026 en las categorías Educación y Fiscalización y Cumplimiento de la Ley",
