@@ -1,7 +1,194 @@
 {
-  "generated_at": "2026-11-12T02:12:56.584517+00:00",
-  "total_items": 280,
+  "generated_at": "2026-11-12T21:48:45.136974+00:00",
+  "total_items": 298,
   "items": [
+    {
+      "id": "4160e1df-2fda-8133-b0d2-cd3de0c0785e",
+      "title": "El Directorio Ejecutivo del FMI concluye la Consulta del Artículo IV y la revisión de medio término en el marco de su acuerdo de Línea de Crédito Flexible",
+      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/miscelaneos/{88B18CEB-AEFC-5B74-5376-D8DFA3563625}.pdf",
+      "published": "2026-11-12",
+      "summary": "",
+      "regulator": "Banxico",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.banxico.org.mx/noticias/noticias001.html"
+    },
+    {
+      "id": "4160e1df-2fda-811d-b9cf-e1f8c66b694f",
+      "title": "El FMI ratifica la solidez de los fundamentos macroeconómicos de México y la continuidad de la Línea de Crédito Flexible",
+      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/anuncios-de-la-comision-de-cambios/{EC95B784-9E7D-59F2-DBF5-ECD50F8F5540}.pdf",
+      "published": "2026-11-12",
+      "summary": "",
+      "regulator": "Banxico",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.banxico.org.mx/noticias/noticias001.html"
+    },
+    {
+      "id": "4160e1df-2fda-817b-9f1e-d3847d8822b5",
+      "title": "Encuesta de Viajeros Internacionales (EVI)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11348",
+      "published": "2026-11-12",
+      "summary": "Ingresaron a México 0.5% menos personas viajeras desde el extranjero en septiembre de 2026, mientras que salieron 3.7% más residentes del país, a tasa anual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "4160e1df-2fda-819a-80af-ee6c4837ef4a",
+      "title": "OCC Report Highlights Key Risks in Federal Banking System",
+      "url": "https://www.occ.gov/publications-and-resources/publications/semiannual-risk-perspective/files/semiannual-risk-perspective-fall-2026.html",
+      "published": "2026-11-12",
+      "summary": "The OCC reported that profitability for both the federal banking system and banks with assets less than $30 billion (community banks) increased to levels not seen in more than two decades during the first half of 2026. Loan growth, modest expansion of NIM and expansion of non-interest income contributed to robust revenue growth. Lower provisioning for credit losses further supported net income and profitability.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Publications",
+      "feed_url": "https://www.occ.treas.gov/rss/occ-publications.xml"
+    },
+    {
+      "id": "4160e1df-2fda-81b3-9471-f864c234a160",
+      "title": "OCC’s Semiannual Risk Perspective Highlights Key Risks in Federal Banking System",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-99.html",
+      "published": "2026-11-12",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today reported the key issues facing the federal banking system in the Semiannual Risk Perspective for Fall 2026.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "4160e1df-2fda-813d-bca8-f0775089e1a8",
+      "title": "FEDS Paper: Artificial Intelligence and the U.S. Economy: Current Evidence",
+      "url": "https://www.federalreserve.gov/econres/feds/artificial-intelligence-and-the-us-economy-current-evidence.htm",
+      "published": "2026-11-12",
+      "summary": "Nick Carollo , Leland D. Crane , Daniel Garcia Molina , and Joseph Nichols We assess the current evidence on how AI-related investment and the use of AI are affecting the U.S. macroeconomy. Specifically, we document the boom in data center capital investment, the current rate of adoption of AI tools in the economy, the impact of the AI-related investment surge on prices, and discuss whether AI tools have affected the labor market and productivity yet. Driven by current and expected future demand for AI services, investment in data centers, both the physical structures and semiconductor chips and other IT equipment inside the structures, has climbed sharply. AI adoption is growing rapidly both among consumers and firms, though most firms are currently not using AI very intensively or at all. AI model-producing firms have also grown extremely fast, and now account for a noticeable fraction of software industry gross output. Prices have climbed in sectors that provide direct inputs to the data centers, such as memory chips. Effects on the labor market so far appear small and somewhat mixed. Similarly, the effects of AI on aggregate productivity growth also appear to be small so far, and the recent pickup in productivity likely reflects factors that predated the diffusion on generative AI.",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "Papers",
+      "feed_url": "https://www.federalreserve.gov/feeds/working_papers.xml"
+    },
+    {
+      "id": "4160e1df-2fda-81d0-a1eb-d28997d2540b",
+      "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+      "published": "2026-11-12",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "4160e1df-2fda-81b4-a696-e77c8e7eda56",
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+      "published": "2026-11-12",
+      "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "4160e1df-2fda-8100-afdf-ea7eb3995fb5",
+      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+      "published": "2026-11-12",
+      "summary": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "4160e1df-2fda-81d5-86e6-cb86b22350ee",
+      "title": "Narratives and risks: a quantitative toolkit to evaluate scenarios applied to the Middle East conflict",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_01~63d20abac5.en.html",
+      "published": "2026-11-12",
+      "summary": "This box introduces a new quantitative methodology to evaluate alternative scenarios around the Eurosystem/ECB staff baseline projections, with a focus on their empirical plausibility. In a first step, the methodology constructs joint predictive distributions capturing temporal and cross-variable dynamics for euro area real GDP growth and HICP inflation. It then assesses the empirical plausibility of scenario outcomes by computing the likelihood of each scenario relative to that of the baseline against historical patterns. Applied to the Middle East scenarios in the September 2026 ECB staff macroeconomic projections, the framework shows a higher empirical plausibility for the milder scenario relative to the alternative scenarios. The box highlights that the proposed empirical plausibility index goes beyond a simple assessment of scenario severity, underscoring the necessity of accounting for both temporal and cross-variable correlations.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "4160e1df-2fda-817f-bdfc-e07cfe53bac0",
+      "title": "What share of public services employment is contributed by the private sector?",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_03~efdc9cea95.en.html",
+      "published": "2026-11-12",
+      "summary": "This box examines the composition of “public services” employment in the euro area. This sector has contributed disproportionately to aggregate employment growth in recent years. Drawing on the ECB Consumer Expectations Survey and Eurostat’s EU Labour Force Survey, we show that only around half of the 6.9 million public services jobs created since 2008 can be attributed to the public sector. Within public services, health and social work is the dominant driver, yet this is also the least “publicly provided” sub-sector. Within health and social work, growth is concentrated in activities related to care of the elderly and disabled, which is closely linked to ageing demographics and in large part provided from outside the public sector.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "4160e1df-2fda-814b-be55-f067da548240",
+      "title": "Artificial intelligence and European firms: the cost of market-based financing",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202607_06~a36e367caf.en.html",
+      "published": "2026-11-12",
+      "summary": "This box examines how exposure to artificial intelligence (AI) is reflected in the market-based financing conditions of European firms. Using a novel firm-level measure of AI exposure derived from the earnings call transcripts of STOXX Europe 600 constituents, we show that AI exposure extends beyond a narrow set of infrastructure providers and hyperscalers, encompassing a broader range of firms that adopt AI for product innovation or productivity gains. Panel regressions show that AI-exposed firms earn a robust equity return premium of around 1.3 percentage points per quarter and pay significantly lower option-adjusted spreads on their corporate bonds, while also issuing a relatively higher share of long-dated debt. These patterns indicate that AI exposure is priced into both equity and corporate bond markets across the wider economy in Europe and is more broadly distributed than the concentrated market rally would imply.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "4160e1df-2fda-8157-9710-ca2d7e05fa1d",
+      "title": "Economic Bulletin Issue 7, 2026",
+      "url": "https://www.ecb.europa.eu//press/economic-bulletin/html/eb202607.en.html",
+      "published": "2026-11-12",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "4160e1df-2fda-8134-927d-e62556ec0df9",
+      "title": "The macroeconomic effects of defence spending: what impact beyond GDP?",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3310~6ef5699d9a.en.pdf",
+      "published": "2026-11-12",
+      "summary": "This paper estimates the macroeconomic effects of defence spending for a panel of up to 27 EU member states over 1999–2025 using Panel Local Projections. We look beyond the output multiplier that dominates the literature to trace the price implications of defence spending and the demand-side channels through which effects operate. A key methodological contribution is a country-specific order-date adjustment for capital expenditure, constructed from the SIPRI Arms Transfers Database, which shifts the estimated (unitary) peak GDP multiplier from around year one to approximately year three to four. Under this specification, the HICP inflation response is higher and occurs earlier. Capital expenditure drives the positive output effects, whereas personnel and intermediate consumption generate stronger inflationary pressures per unit of fiscal impulse. Capital spending induces additional recurrent costs, standing at about 30 cents per euro spent over five years. Multipliers are also found to be substantially lower, on average, in high public debt regimes.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "4160e1df-2fda-8122-b23e-c861dde40b86",
+      "title": "Finanzmarktklausur draft keynote speech",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/3437e964-274f-4ced-baa4-1ba7d9a48fdd/Finanzmarktklausur%20draft%20keynote%20speech.pdf",
+      "published": "2026-11-12",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "4160e1df-2fda-8120-8bce-d51e025743b8",
+      "title": "MaRCo@BIS: AI-agentic econometric analysis for central bankers",
+      "url": "https://www.bis.org/publications/working-paper-1395-marcobis-ai-agentic-econometric-analysis-central-bankers",
+      "published": "2026-11-12",
+      "summary": "This paper introduces MaRCo@BIS, the MAcroeconometric Research Companion: a framework of plain-text workflow files, a verified dictionary of canonical model specifications and a tested reference library, read by an off-the-shelf agentic coding environment.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "4160e1df-2fda-815f-b7a4-e0fb04409c2b",
+      "title": "The gig economy and digital payments",
+      "url": "https://www.bis.org/publications/paper-177-gig-economy-and-digital-payments",
+      "published": "2026-11-12",
+      "summary": "The growth of the “gig” economy could have far-reaching implications for payment systems. Gig work involves digital platforms that intermediate between workers and (retail or business) customers, in areas as diverse as ride-hailing and food delivery, freelance design and professional services, and customer service.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "4160e1df-2fda-812b-8222-dda5d54b7286",
       "title": "Especiales",
@@ -474,6 +661,17 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "4160e1df-2fda-8193-bfad-cfb3566020e0",
+      "title": "SFC, presente en la agenda de mercados financieros de la OCDE",
+      "url": "https://www.superfinanciera.gov.co/10116318",
+      "published": "2026-11-06",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
     },
     {
       "id": "4160e1df-2fda-8129-a424-fc6408bbbced",
