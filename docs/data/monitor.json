@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-13T01:46:38.919895+00:00",
-  "total_items": 298,
+  "generated_at": "2026-11-13T21:17:40.554091+00:00",
+  "total_items": 303,
   "items": [
+    {
+      "id": "4170e1df-2fda-8146-ab2f-c6959a2ce6ca",
+      "title": "Edictos publicados por la CNBV",
+      "url": "https://www.gob.mx/cnbv/documentos/edictos-publicados-por-la-cnbv",
+      "published": "2026-11-13",
+      "summary": "",
+      "regulator": "CNBV",
+      "country": "MX",
+      "type": "Publications",
+      "feed_url": "https://www.gob.mx/cnbv/archivo/documentos?idiom=es&filter_origin=archive"
+    },
+    {
+      "id": "4170e1df-2fda-8102-8184-f472717e9cf0",
+      "title": "Agencies extend comment period for proposed third-party risk management guidance",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+      "published": "2026-11-13",
+      "summary": "Agencies extend comment period for proposed third-party risk management guidance",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "4170e1df-2fda-81ce-aedd-efff57425818",
+      "title": "Isabel Schnabel: Made in Europe",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
+      "published": "2026-11-13",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "4170e1df-2fda-8181-9122-cc7ca64d77ad",
+      "title": "The EBA supports the NGFS Declaration on the macro-financial dimension of the energy transition on the occasion of COP31",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-supports-ngfs-declaration-macro-financial-dimension-energy-transition-occasion-cop31",
+      "published": "2026-11-13",
+      "summary": "As an active member of the Network for Greening the Financial System (NGFS), the European Banking Authority (EBA) welcomes the publication of the NGFS Declaration on the macro-financial dimension of the energy transition on the occasion of the 2026 United Nations Climate Change Conference (COP31) in Antalya, Türkiye. The Declaration highlights how energy price shocks and increasingly frequent climate-related shocks are becoming a macro-financial reality, and calls for an orderly, whole-economy transition.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "4170e1df-2fda-81d3-9cb7-dde96e0e2f43",
+      "title": "\"Eppur si muove\": Convergence Within and Between Countries",
+      "url": "https://www.bis.org/publications/working-paper-1396-eppur-si-muove-convergence-within-and-between-countries",
+      "published": "2026-11-13",
+      "summary": "Kremer, Willis, and You (2022) report that over six decades richer countries lost their growth advantage. Acemoglu and Molina (2022) and Pesaran and Smith (2026) reply that such regressions cannot measure catch-up when countries head toward different moving destinations.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "4170e1df-2fda-8136-a5bb-ef3fd1b20614",
       "title": "La gestión de riesgos y la claridad regulatoria: claves para el futuro de las stablecoins y los activos digitales en Colombia",
