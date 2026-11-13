@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-12T21:48:45.136974+00:00",
+  "generated_at": "2026-11-13T01:46:38.919895+00:00",
   "total_items": 298,
   "items": [
+    {
+      "id": "4170e1df-2fda-8136-a5bb-ef3fd1b20614",
+      "title": "La gestión de riesgos y la claridad regulatoria: claves para el futuro de las stablecoins y los activos digitales en Colombia",
+      "url": "https://www.superfinanciera.gov.co/10116319",
+      "published": "2026-11-12",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
     {
       "id": "4160e1df-2fda-8133-b0d2-cd3de0c0785e",
       "title": "El Directorio Ejecutivo del FMI concluye la Consulta del Artículo IV y la revisión de medio término en el marco de su acuerdo de Línea de Crédito Flexible",
@@ -2509,17 +2520,6 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
-    },
-    {
-      "id": "4030e1df-2fda-8146-b3b6-f38958bcaae2",
-      "title": "Piero Cipollone: Interview with Milano Finanza",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
-      "published": "2026-10-24",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
     },
     {
       "id": "3e40e1df-2fda-8169-b639-e7f7f971ca99",
