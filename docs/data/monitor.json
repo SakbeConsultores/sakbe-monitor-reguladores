@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-13T21:17:40.554091+00:00",
-  "total_items": 303,
+  "generated_at": "2026-11-14T01:23:29.848115+00:00",
+  "total_items": 309,
   "items": [
+    {
+      "id": "4180e1df-2fda-81b2-bad6-e58125426acf",
+      "title": "Se activa cobertura del FSDC para socios depositantes de la Coopac Financoop LTDA. en disolución",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4033",
+      "published": "2026-11-14",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "4180e1df-2fda-811c-880b-ee48af5e86a5",
+      "title": "SBS supervisó y acompañó a las 225 cooperativas del país",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4034",
+      "published": "2026-11-14",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "4180e1df-2fda-8126-85dc-d230fbffe6b8",
+      "title": "Third-Party Risk Management: Proposed Guidance and Request for Comment; Extension of Comment Period",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-57.html",
+      "published": "2026-11-13",
+      "summary": "The Office of the Comptroller of the Currency, in coordination with the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and the National Credit Union Administration (collectively, the agencies), today announced that it will extend, until December 16, the comment period for proposed guidance on managing risks associated with third-party relationships. Comments on the proposal were originally due November 16.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "4180e1df-2fda-8178-96dc-f54fd72c50cf",
+      "title": "Agencies Extend Comment Period for Proposed Third-Party Risk Management Guidance",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-100.html",
+      "published": "2026-11-13",
+      "summary": "The Federal Deposit Insurance Corporation, the Federal Reserve Board, the National Credit Union Administration, and the Office of the Comptroller of the Currency today announced that they will extend, until December 16, the comment period for proposed guidance on managing risks associated with third-party relationships. Comments on the proposal were originally due November 16.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "4180e1df-2fda-8159-b609-f76950da7d9f",
+      "title": "Pakistan: World Bank Project to Bring Safe Water and Sanitation to 1.5 Million People in Rural Sindh",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/11/13/pakistan-world-bank-project-to-bring-safe-water-and-sanitation-to-1-5-million-peop",
+      "published": "2026-11-13",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "4170e1df-2fda-8146-ab2f-c6959a2ce6ca",
       "title": "Edictos publicados por la CNBV",
@@ -56,6 +111,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "4180e1df-2fda-8123-9686-c63b49cf30d5",
+      "title": "World Bank Group Approves US$500 Million to Support Fiscal Sustainability and Job Creation in Bolivia",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/11/12/world-bank-group-approves-us-500-million-to-support-fiscal-sustainability-and-job",
+      "published": "2026-11-12",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "4170e1df-2fda-8136-a5bb-ef3fd1b20614",
