@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T19:49:33.657168+00:00",
-  "total_items": 309,
+  "generated_at": "2026-11-15T00:55:50.283308+00:00",
+  "total_items": 301,
   "items": [
     {
       "id": "4180e1df-2fda-81b2-bad6-e58125426acf",
@@ -2553,94 +2553,6 @@
       "country": "PE",
       "type": "News",
       "feed_url": "https://www.sbs.gob.pe/notadeprensa"
-    },
-    {
-      "id": "4070e1df-2fda-810b-8bcc-df005ee75678",
-      "title": "Water Returns to Cameroon’s Bénoué Valley, Bringing New Hope for Farmers",
-      "url": "https://www.worldbank.org/en/news/feature/2026/10/26/water-returns-cameroon-benoue-valley-bringing-new-hope-for-farmers",
-      "published": "2026-10-26",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "4060e1df-2fda-8189-8be8-f40e2ec52984",
-      "title": "Los mercados financieros en Brasil post electoral",
-      "url": "https://felaban.com/los-mercados-financieros-en-brasil-post-electoral/",
-      "published": "2026-10-26",
-      "summary": "La jornada del 26 de octubre en Brasil estuvo marcada por la volatilidad y la desvalorización de los activos financieros. La tasa de cambio se devaluó cerca de un 12%, la bolsa de Sao Paulo (Bovespa) cayó un -16%. Los títulos soberanos a un plazo de 10 años aumentaron cerca de 247 puntos básicos en el día, llevando los mismos a ser los mas desvalorizados de la región. Ventas de acciones en corto, perspectivas de compras de títulos valores e inversiones de empresas extranjeras han sufrido perdidas. Las acciones de empresas tales como Nu Bank, Petrobras, BTG Pactual mostraron desvalorizaciones considerables. Las empresas brasileras en Wall Street como Embraer, Itaú Unibanco, Bradesco, XP, Banco Santander Brasil sufrieron perdidas que fueron",
-      "regulator": "FELABAN",
-      "country": "LatAm Regional",
-      "type": "News",
-      "feed_url": "https://felaban.com/noticias/"
-    },
-    {
-      "id": "4050e1df-2fda-81d7-8c30-d9a47b810f85",
-      "title": "Programa de la industria manufacturera, maquiladora y de servicios de exportación (IMMEX) - 2007 en adelante",
-      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11288",
-      "published": "2026-10-26",
-      "summary": "Disminuyó el personal ocupado 0.1% en los establecimientos con programa IMMEX en agosto de 2026, a tasa mensual",
-      "regulator": "INEGI",
-      "country": "MX",
-      "type": "News",
-      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
-    },
-    {
-      "id": "4050e1df-2fda-8146-844c-e727e5795481",
-      "title": "Survey on the Access to Finance of Enterprises in the euro area - Third quarter of 2026",
-      "url": "https://www.ecb.europa.eu//stats/ecb_surveys/safe/html/ecb.safe202610.en.html",
-      "published": "2026-10-26",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "Publications",
-      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
-    },
-    {
-      "id": "4050e1df-2fda-8166-9c53-c048aea65671",
-      "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
-      "published": "2026-10-26",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "4050e1df-2fda-81f5-adaf-d9e49de35c8b",
-      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
-      "published": "2026-10-26",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
-    },
-    {
-      "id": "4050e1df-2fda-81db-9045-c96ed26f1bf5",
-      "title": "More and Better Jobs Key to Putting Poverty Reduction Back on Track",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/10/26/more-and-better-jobs-key-to-putting-poverty-reduction-back-on-track",
-      "published": "2026-10-26",
-      "summary": "",
-      "regulator": "World Bank",
-      "country": "Global",
-      "type": "News",
-      "feed_url": "https://www.worldbank.org/ext/en/news"
-    },
-    {
-      "id": "4050e1df-2fda-819f-aec9-ec6f36e54370",
-      "title": "Chokepoints in global supply chains: lessons from rare earths and hard disk drives",
-      "url": "https://www.bis.org/publications/bulletin-139-chokepoints-global-supply-chains-lessons-rare-earths-and-hard-disk-drives",
-      "published": "2026-10-26",
-      "summary": "Concentration and limited substitutability can turn the efficiency gains from global supply chains into vulnerabilities. However, the consequences of chokepoints depend on their underlying nature.",
-      "regulator": "BIS",
-      "country": "Global",
-      "type": "Research",
-      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
     },
     {
       "id": "3e40e1df-2fda-8169-b639-e7f7f971ca99",
