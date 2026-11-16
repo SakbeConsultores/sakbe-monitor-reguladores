@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-11-16T00:55:09.333825+00:00",
-  "total_items": 291,
+  "generated_at": "2026-11-16T23:42:40.435403+00:00",
+  "total_items": 306,
   "items": [
+    {
+      "id": "41a0e1df-2fda-81e2-a0fd-ef73dc353c85",
+      "title": "SBS, GAFILAT y Poder Judicial fortalecen capacidades de autoridades para combatir el lavado de activos",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4035",
+      "published": "2026-11-16",
+      "summary": "Del 17 al 20 de noviembre se desarrollará un programa de capacitación dirigido a funcionarios del Sistema Nacional Contra el Lavado de Activos y el Fi",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "41a0e1df-2fda-81c7-baa6-d9d3ef9c5bac",
+      "title": "Decoding the cyber-AI nexus",
+      "url": "https://www.ecb.europa.eu//press/financial-stability-publications/fsr/special/html/ecb.fsrart202611_02~8cca80a3c3.en.html",
+      "published": "2026-11-16",
+      "summary": "The rapid evolution of artificial intelligence (AI) is reshaping the cyber-threat landscape, with significant implications for financial stability in the euro area. This special feature explores the complex interplay between AI and cybersecurity, highlighting how advanced AI models are enabling attackers and defenders alike to enhance their capabilities. Highly capable and agentic AI systems are increasing the scale, speed and sophistication of attacks while also introducing new vulnerabilities. These include AI models themselves being exposed to novel types of attack and AI agents failing to act as their human operators intend. Critically, new AI capabilities could favour attackers, as the availability of low-cost AI agents lowers entry barriers. Meanwhile defenders remain constrained by the cost of deploying frontier models, governance challenges and slower, regulation-bound decision-making. This leaves defenders structurally disadvantaged, at least in the near term. Euro area banks, despite their high level of cybersecurity maturity, face asymmetries in access to cutting-edge AI models and rely heavily on concentrated third-party providers. This increases the risk of systemic disruption, as AI adoption transforms the channels through which cyber incidents propagate. Mitigating these risks requires banks, AI developers, cybersecurity firms and regulators to coordinate their efforts to enhance resilience, improve governance and address emerging systemic vulnerabilities.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "41a0e1df-2fda-813b-96a6-c4a682ac30e6",
+      "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+      "published": "2026-11-16",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "41a0e1df-2fda-8189-b814-fd2f3a50b694",
+      "title": "Frank Elderson: Smart supervision for small banks",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
+      "published": "2026-11-16",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "41a0e1df-2fda-81b8-9e0c-f4066ef492dc",
+      "title": "2026 11 15 PMR Francois-Louis Michaud",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/611bc91c-58ed-41b8-9d97-c6ac11bd2e69/2026%2011%2015%20PMR%20Francois-Louis%20Michaud.pdf",
+      "published": "2026-11-16",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "41a0e1df-2fda-8176-9c12-e748fb5e29a1",
+      "title": "2026 EBA Policy Research Workshop - Final Agenda",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/5bba490a-73ec-4cc1-8c78-8fe308a2910b/EBA%20Policy%20Research%20Workshop%20-%20Final%20Agenda.pdf",
+      "published": "2026-11-16",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "41a0e1df-2fda-81c2-8c7f-f0c7acd5a88e",
+      "title": "Kick start your future with the EBA young talent programmes",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/b9c473c6-2556-4a87-b10b-b61699cf5437/EBA%20young%20talent%20brochure%20digital.pdf",
+      "published": "2026-11-16",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "41a0e1df-2fda-8136-af9f-d5d36ffceff8",
+      "title": "Day 3 - consolidated presentation",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/ea5a8cf7-cad6-48c6-b7e8-8f125b3459dd/Day%203%20-%20consolidated%20presentation%20%281%29.pdf",
+      "published": "2026-11-16",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "41a0e1df-2fda-8175-aabb-ccb63de4afab",
+      "title": "Day 2 - consolidated presentation",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/68a429b8-963d-47bb-898b-8910014379b4/Day%202%20-%20consolidated%20presentation%20%281%29.pdf",
+      "published": "2026-11-16",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "41a0e1df-2fda-815b-a387-e1c6c0e4ebb1",
+      "title": "Day 1 - consolidated presentation",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/2277ed84-4556-48b2-8bdc-972a4113ccca/Day%201%20-%20consolidated%20presentation%20%281%29.pdf",
+      "published": "2026-11-16",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "41a0e1df-2fda-811c-b699-ca02cc06c304",
+      "title": "EBA supports further progress on the Banking Union, including on deposit insurance",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-supports-further-progress-banking-union-including-deposit-insurance",
+      "published": "2026-11-16",
+      "summary": "The EBA supports further progress on the Banking Union, including on deposit insurance, as a key step towards a more efficient and resilient European banking system.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "41a0e1df-2fda-81b4-b39d-d12f5bb932d8",
+      "title": "World Bank Managing Director Visits Lebanon to Reaffirm Support for Recovery, Reconstruction and Reform",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/11/16/world-bank-managing-director-visits-lebanon-to-reaffirm-support-for-recovery",
+      "published": "2026-11-16",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "41a0e1df-2fda-81f2-b777-efc582dac043",
+      "title": "Ecuador Opens New Climate Finance Opportunities with World Bank Group Support",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/11/16/ecuador-opens-new-climate-finance-opportunities-with-world-bank-group-support",
+      "published": "2026-11-16",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "41a0e1df-2fda-81c7-bee8-ff2b8124bbb6",
+      "title": "The impact of monetary policy on productivity",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op402.en.pdf",
+      "published": "2026-11-15",
+      "summary": "This occasional paper extends previous analyses by the WGF Expert Group on Productivity of the impact of monetary policy on productivity by exploring new interactions, particularly the influence of market power and the role of productivity in the transmission of monetary policy through the banking system. Using a consistent definition of monetary policy shocks throughout the report and several large-scale micro distribution exercises across euro area countries, our study examines the short-run procyclical effects of monetary policy shocks on productivity through investment decisions. The results reveal a positive relationship between market power and the transmission of monetary policy to productivity, highlighting the role of heterogeneous markups. Our study confirms the positive impact of expansionary monetary policy on capital reallocation but finds more nuanced results for labour reallocation. It further extends the analysis to the evolution of zombie firms, revealing opposing effects of monetary policy on their entry and exit, while also exploring the interaction between bank characteristics and productivity, though the results remain inconclusive. Overall, the findings suggest that expansionary monetary policy shocks enhance productivity by improving resource allocation. However, they also raise concerns about the potential adverse effects of current contractionary monetary policy shocks on productivity.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
     {
       "id": "4180e1df-2fda-81b2-bad6-e58125426acf",
       "title": "Se activa cobertura del FSDC para socios depositantes de la Coopac Financoop LTDA. en disolución",
@@ -419,6 +573,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "41a0e1df-2fda-8114-b268-eb87d275b5ed",
+      "title": "How Perceptions Shape Who Gets Hired: Expanding Opportunity in Colombia’s Labor Market",
+      "url": "https://www.worldbank.org/en/news/feature/2026/11/10/how-perceptions-shape-hiring-opportunities-in-colombia",
+      "published": "2026-11-10",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "4150e1df-2fda-818f-912e-de45275716c5",
