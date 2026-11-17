@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-11-17T03:35:15.308051+00:00",
-  "total_items": 296,
+  "generated_at": "2026-11-17T22:50:45.498193+00:00",
+  "total_items": 307,
   "items": [
+    {
+      "id": "41b0e1df-2fda-8117-bfaf-cf0cc288f406",
+      "title": "Las bolsas de valores de los Estados Unidos",
+      "url": "https://felaban.com/las-bolsas-de-valores-de-los-estados-unidos/",
+      "published": "2026-11-17",
+      "summary": "Las bolsas de valores en los Estados Unidos han reflejado muchas convulsiones de los últimos meses. En primer lugar, los analistas especializados ven como los precios se han mantenido pese a situaciones adversas en el entorno; elevación de los intereses de los bonos del tesoro, volatilidad en los precios del oro, desvalorización de las monedas virtuales, así como, el caso la caída de precios NVIDIA, y los problemas de operación reciente de Microsoft. Igualmente, se observa una inflación al alza, unos precios de los combustibles elevados y una política monetaria que se pronostica restrictiva en el mes de diciembre próximo. Los mercados financieros de renta variable hoy esperan un buen comportamiento de las OPA de Artrhopic, así como un reacomodamiento",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
+    {
+      "id": "41b0e1df-2fda-81af-aa55-ce2eabd6d13e",
+      "title": "Indicador Oportuno del Consumo Privado (IOCP)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11351",
+      "published": "2026-11-17",
+      "summary": "El IOCP anticipa un incremento anual de 1.2% del consumo privado para septiembre y de 0.5% para octubre de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "41b0e1df-2fda-8138-9dd4-c0bc4b7d320c",
+      "title": "Cuenta Satélite de Vivienda de México. Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11352",
+      "published": "2026-11-17",
+      "summary": "En 2025, el PIB del sector de la vivienda representó 5.5% del PIB de la economía total",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "41b0e1df-2fda-81d0-896c-eb27abf5a574",
+      "title": "Encuesta Mensual de la Industria Manufacturera (EMIM). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11350",
+      "published": "2026-11-17",
+      "summary": "Disminuyó 4.8% el volumen de la producción manufacturera en septiembre de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "41b0e1df-2fda-8128-9954-f53d98f1ff2d",
+      "title": "Comptroller of the Currency Issues Statement on FinCEN Customer Due Diligence",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-101.html",
+      "published": "2026-11-17",
+      "summary": "Comptroller of the Currency Jonathan V. Gould issued the following statement today supporting the Financial Crimes Enforcement Network's proposed amendments to customer due diligence requirements.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_news.xml"
+    },
+    {
+      "id": "41b0e1df-2fda-8199-8fc0-fe02aea82fa7",
+      "title": "Monetary policy, segmented capital markets and innovation",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3311~66cc2a4d65.en.pdf",
+      "published": "2026-11-17",
+      "summary": "We identify a novel mechanism linking monetary policy, innovation, and capital-market segmentation. When capital markets are imperfectly integrated, contractionary monetary policy tightens the financing constraints of externally financed firms, amplifying the decline in innovation induced by tighter financial conditions; monetary easing operates in reverse. Using granular euro-area firm-level data on balance sheets and patenting, matched with bank-level and credit-registry information, we show that monetary policy affects innovation through financing constraints. The effects are strongest for firms with high intangible intensity and for firms operating in AI-related sectors. Financing structure is central: firms that rely heavily on bank credit experience larger declines in patenting following monetary tightening, whereas firms with diversified access to external finance, particularly equity, are substantially less affected. Capital-market segmentation thus amplifies and prolongs the effects of monetary policy on innovation. Greater financial integration can broaden firms’ financing options, reduce their reliance on bank credit, and thereby attenuate this amplification mechanism.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "41b0e1df-2fda-81ed-8d11-c96175f96e84",
+      "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
+      "published": "2026-11-17",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "41b0e1df-2fda-81a4-a650-ea7d5d1ed49e",
+      "title": "Org chart - 16 November 2026",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/01e1429e-3a91-451b-8247-dd1cf66e2eb7/Org%20chart%20-%2016%20November%202026.pdf",
+      "published": "2026-11-17",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "41b0e1df-2fda-81ca-bd20-c12ea6550c56",
+      "title": "MSMEs in Developing Countries Face $4 Trillion Finance Gap",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/11/17/msmes-in-developing-countries-face-4-trillion-finance-gap",
+      "published": "2026-11-17",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "41b0e1df-2fda-8108-8ba1-ff64a0a6cd2d",
+      "title": "World Bank Group Puts Jobs at the Center of Climate Investment at COP31",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/11/17/world-bank-group-puts-jobs-at-the-center-of-climate-investment-at-cop31",
+      "published": "2026-11-17",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "41b0e1df-2fda-812c-9a55-c233793f1e74",
+      "title": "Immigrants' skills and capital deepening: evidence from Chile",
+      "url": "https://www.bis.org/publications/working-paper-1397-immigrants-skills-and-capital-deepening-evidence-chile",
+      "published": "2026-11-17",
+      "summary": "We study the effect of migration on firms’ capital deepening, leveraging a massive influx of immigrant workers with varying skill sets from Venezuela and Haiti in Chile between 2015 and 2019.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "41b0e1df-2fda-810f-a3f7-ec636ba13b78",
       "title": "Remarks by Susana Cordeiro Guerra, World Bank Vice President for Latin America and the Caribbean, during Milagro Week in New York: Why Invest in Colombia Now",
