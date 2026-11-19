@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-11-19T02:27:00.614137+00:00",
-  "total_items": 259,
+  "generated_at": "2026-11-19T22:38:56.273504+00:00",
+  "total_items": 271,
   "items": [
+    {
+      "id": "41d0e1df-2fda-81e2-aded-f9c9597e788e",
+      "title": "Las cifras de pobreza en América Latina",
+      "url": "https://felaban.com/las-cifras-de-pobreza-en-america-latina/",
+      "published": "2026-11-19",
+      "summary": "CEPAL estima que 153 millones de personas aún son pobres en América Latina, de las cuales 59 millones son pobres extremos. Actualmente el ritmo de reducción de la pobreza es superior a la tasa de crecimiento de la población. Sin embargo, los números son insuficientes para pensar en programas de formalización económica, incrementar la productividad de los factores y abrir caminos de movilidad social Inter temporal. Si bien la tendencia ha venido siendo favorable, CEPAL estima que el porcentaje de población mayor a 65 años que vive con ingresos 1.8 veces mayores que línea de pobreza, por ingresos monetarios, es del 19.1% en la región. Esta población es considerada por los técnicos como vulnerable y tiene riesgo de engrosar los",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
+    {
+      "id": "41d0e1df-2fda-81bf-ad10-e2dddcefd9ff",
+      "title": "SBS autoriza la organización de Financiera Santa Isabel S. A. para ingresar al mercado financiero peruano",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4037",
+      "published": "2026-11-19",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "41d0e1df-2fda-819a-aabd-d0f5a6b20615",
+      "title": "Minuta de la reunión de la Junta de Gobierno del Banco de México, con motivo de la decisión de política monetaria anunciada el 5 de noviembre de 2026",
+      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/minutas-de-las-decisiones-de-politica-monetaria/{FF5D1AD4-3138-F1D7-ACE6-2D54E7072094}.pdf",
+      "published": "2026-11-19",
+      "summary": "",
+      "regulator": "Banxico",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.banxico.org.mx/noticias/noticias001.html"
+    },
+    {
+      "id": "41d0e1df-2fda-8199-93c8-c61e1743b9ce",
+      "title": "Indicador Oportuno de la Actividad Económica",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11356",
+      "published": "2026-11-19",
+      "summary": "El IOAE anticipa un aumento anual de 2.3% y mensual de 0.2% del IGAE, para octubre de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "41d0e1df-2fda-810e-aef6-d304add8506e",
+      "title": "Cuenta Satélite de la Cultura de México. Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11355",
+      "published": "2026-11-19",
+      "summary": "En 2025, el sector de la cultura contribuyó con 2.7% del total de la economía",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "41d0e1df-2fda-8186-8593-da996bf8dd6e",
+      "title": "Transporte Urbano de Pasajeros",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11357",
+      "published": "2026-11-19",
+      "summary": "Viajaron 289.1 millones de personas pasajeras en los sistemas de transporte urbano durante septiembre de 2026: 6.7% más que el año anterior",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "41d0e1df-2fda-8163-bf4f-f0c9bf8841f0",
+      "title": "Civil Money Penalties: Notice of Inflation Adjustments for Civil Money Penalties for 2026",
+      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-58.html",
+      "published": "2026-11-19",
+      "summary": "On November 19, 2026, the Office of the Comptroller of the Currency (OCC) submitted to the Federal Register the attached notice to adjust the maximum amount of each civil money penalty (CMP) within its jurisdiction pursuant to the Federal Civil Penalties Inflation Adjustment Act of 1990, as amended by the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (2015 Adjustment Act). The adjusted maximum penalties are effective as of January 10, 2025, for violations occurring on or after November 2, 2015.",
+      "regulator": "OCC",
+      "country": "US",
+      "type": "Bulletins",
+      "feed_url": "https://www.occ.treas.gov/rss/occ_bulletins.xml"
+    },
+    {
+      "id": "41d0e1df-2fda-8172-8096-c12df112e27d",
+      "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
+      "published": "2026-11-19",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "41d0e1df-2fda-816b-8a3c-ef8c4fc9a128",
+      "title": "Transatlantic securitisation gap revisited: comparing EU and US securitisation architectures",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpops/ecb.op403.en.pdf",
+      "published": "2026-11-19",
+      "summary": "This paper revisits the transatlantic gap in securitisation issuance. In comparing the securitisation frameworks in the European Union (EU) and United States, we adopt a granular approach, distinguishing between instrument types and considering the broader funding and risk transfer frameworks in which securitisation operates. We conclude that the apparent gap in terms of scale stems from methodological and structural differences in how securitisation is defined and measured across jurisdictions, rather than from a structurally weaker or less developed EU securitisation market. In particular, commonly cited comparisons of securitisation volumes often exclude covered bond issuance, despite covered bonds being a significant and longstanding component of asset-backed funding in the EU. As a result, measures of the transatlantic “securitisation gap” that focus solely on conventional securitisation may overstate the difference between EU and US market-based funding. When covered bond issuance is incorporated into the analysis, a more disaggregated picture emerges: over the past two decades, asset-backed funding activity has not been structurally one-sided but has instead exhibited shifting patterns over time, reflecting differences in market conditions and positions in the financial cycle. We introduce the concept of an asset mobilisation ratio to scale issuance by the size of each economy. From this perspective, transatlantic convergence appears to be ongoing, with the gap in issuance narrowing over time, although a meaningful difference in market scale remains. However, the persistence of this gap should not be viewed as evidence that the EU market is structurally underdeveloped relative to the US market. Direct quantitative comparisons are complicated by significant differences in market structures, funding channels, legal frameworks and institutional arrangements across jurisdictions. [...]",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "41d0e1df-2fda-81b5-869e-c893c38e01eb",
+      "title": "Euro area monthly balance of payments: September 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261119~9319ec6fea.en.html",
+      "published": "2026-11-19",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Statistical Releases",
+      "feed_url": "https://www.ecb.europa.eu/rss/statpress.html"
+    },
+    {
+      "id": "41d0e1df-2fda-81ad-aa0e-f0333495ba5e",
+      "title": "EU/EEA banks continue to display resilience amid sovereign debt pressures, borrower vulnerabilities and rising cyber threats",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eueea-banks-continue-display-resilience-amid-sovereign-debt-pressures-borrower-vulnerabilities-and",
+      "published": "2026-11-19",
+      "summary": "The EBA today published its Autumn 2026 Risk Assessment Report (RAR) together with a thematic note on lending to small and medium-sized enterprises (SMEs) and the results of its Autumn 2026 Risk Assessment Questionnaire (RAQ). The findings show that EU/EEA banks remain resilient, supported by strong capital, liquidity and profitability, while continuing to increase financing to the economy. At the same time, geopolitical uncertainty, sensitivity to sovereign debt repricing, growing interconnectedness within the financial sector and evolving operational threats warrant continued vigilance.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
     {
       "id": "41d0e1df-2fda-8129-9c3b-f95c4a1a8c88",
       "title": "SFC reitera a las aseguradoras el deber de gestión de los siniestros y pago de indemnizaciones",
@@ -584,6 +705,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "41d0e1df-2fda-81aa-aff8-ff80385d0b00",
+      "title": "Risk Assessment Report - Autumn 2026",
+      "url": "https://www.eba.europa.eu/publications-and-media/publications/risk-assessment-report-autumn-2026",
+      "published": "2026-11-12",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
     },
     {
       "id": "4180e1df-2fda-8123-9686-c63b49cf30d5",
