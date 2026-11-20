@@ -1,7 +1,249 @@
 {
-  "generated_at": "2026-11-20T02:11:23.602291+00:00",
-  "total_items": 271,
+  "generated_at": "2026-11-20T22:11:49.351286+00:00",
+  "total_items": 297,
   "items": [
+    {
+      "id": "41e0e1df-2fda-8147-963b-f089d4ac3487",
+      "title": "La IPO de la firma Antrhopic en los EEUU",
+      "url": "https://felaban.com/la-ipo-de-la-firma-antrhopic-en-los-eeuu/",
+      "published": "2026-11-20",
+      "summary": "El pasado 19 de noviembre de 2026 en la bolsa NASDAQ se llevó a cabo una oferta pública de acciones por parte de la firma Anthropic, líder en los temas de Inteligencia Artificial. La acción fue ofrecida inicialmente por un monto de 83 USD por acción y alcanzó un máximo de 11.5 USD por acción. El cierre de su primera jornada fue de 97.1 USD por acción, logrando una valorización de 17% nominal en su primera jornada. Se alcanzó un capital fresco de 119 mil millones de USD marcando un hito en las IPO de los últimos 4 lustros. La operación ocurre en un momento en que en el mercado de la IA se produce un sell-off de activos financieros.",
+      "regulator": "FELABAN",
+      "country": "LatAm Regional",
+      "type": "News",
+      "feed_url": "https://felaban.com/noticias/"
+    },
+    {
+      "id": "41e0e1df-2fda-8194-87d4-dac792ab126d",
+      "title": "Comunicado: sobre diligencia en sede principal de la SBS",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4038",
+      "published": "2026-11-20",
+      "summary": "Esta Superintendencia rechaza la continua filtración de información reservada relativa a este caso debido a que afecta la integridad e imparcialidad d",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "41e0e1df-2fda-811a-8c2d-cc51cbdf65bf",
+      "title": "Encuesta Mensual sobre Empresas Comerciales (EMEC). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11359",
+      "published": "2026-11-20",
+      "summary": "Aumentaron 2.5% los ingresos por suministro de bienes y servicios del comercio al por mayor y disminuyeron 0.3% los del comercio al por menor, en septiembre de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "41e0e1df-2fda-8121-967c-d48c7b7b3624",
+      "title": "Encuesta Mensual de Servicios (EMS). Serie 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11358",
+      "published": "2026-11-20",
+      "summary": "Aumentaron 0.8% los ingresos por suministro de bienes y servicios de los servicios privados no financieros en septiembre de 2026, a tasa mensual",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "41e0e1df-2fda-8120-b201-d67bc081aab8",
+      "title": "Índice de Capitalización de la banca múltiple al cierre de septiembre de 2026",
+      "url": "https://www.gob.mx/cnbv/prensa/indice-de-capitalizacion-de-la-banca-multiple-al-cierre-de-septiembre-de-2026?idiom=es",
+      "published": "2026-11-20",
+      "summary": "",
+      "regulator": "CNBV",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.gob.mx/cnbv/archivo/prensa?idiom=es"
+    },
+    {
+      "id": "41e0e1df-2fda-8179-b6a8-c4e03f581dec",
+      "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+      "published": "2026-11-20",
+      "summary": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "41e0e1df-2fda-8185-8ebc-f9b114120b42",
+      "title": "Federal Reserve announces College Fed Challenge winners",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+      "published": "2026-11-20",
+      "summary": "Federal Reserve announces College Fed Challenge winners",
+      "regulator": "FRB",
+      "country": "US",
+      "type": "News",
+      "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "id": "41e0e1df-2fda-8157-b6d8-f8c78c2ce28d",
+      "title": "Christine Lagarde: Acting in time",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+      "published": "2026-11-20",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "41e0e1df-2fda-8132-aeac-cf0354692e9d",
+      "title": "Retail risk indicators - methodological note (updated 2026)",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/e00777fe-2e9d-4894-871f-20ac1bca41b4/Retail%20risk%20indicators%20-%20methodological%20note.pdf",
+      "published": "2026-11-20",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "41e0e1df-2fda-81bd-abe5-d795d00bf827",
+      "title": "Trainee in the Prudential Regulation and Supervisory Policy Department (PRSP) - profile",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/61d19d31-40a0-402c-a477-e7662c99559e/Join%20the%20PRSP%20Department%20and%20Shape%20the%20Future%20of%20Banking%20%281%29.pdf",
+      "published": "2026-11-20",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "41e0e1df-2fda-814f-8982-cc9ab16efb31",
+      "title": "Eligibility criteria grid and Selection",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/640dec60-aa3d-49a1-8e4d-651e8a6d079c/Eligibility%20criteria%20grid%20and%20Selection%20PRSP%20%281%29.pdf",
+      "published": "2026-11-20",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "41e0e1df-2fda-8155-b184-ff9d2c8d0da1",
+      "title": "Vacancy Notice - Trainee PRSP Department",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/62980ba3-f332-472e-b75c-5e4fa954686e/Vacancy%20Notice%20Trainee%202026_PRSP%20%281%29.pdf",
+      "published": "2026-11-20",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "41e0e1df-2fda-81d9-8569-dab2c6bbb7ab",
+      "title": "List of third country groups with IPUs and third country branches (31/12/2025)",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/318041d9-a782-4849-9e6f-72eb57b98fa0/31-12-2025%20List%20of%20TCGs%20with%20IPU%28s%29%20and%20TCBs%20%281%29.xlsx",
+      "published": "2026-11-20",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "41e0e1df-2fda-811b-a7bd-f89d1ab8fa19",
+      "title": "The EBA publishes updated information on third-country groups and branches operating in the EU/EEA",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-updated-information-third-country-groups-and-branches-operating-eueea",
+      "published": "2026-11-20",
+      "summary": "The European Banking Authority (EBA) has published its 2026 update on third-country groups and third-country branches operating in the European Union and the European Economic Area (EU/EEA). The publication provides a comprehensive overview of the presence, ownership structures and organisational arrangements of third-country banking groups active across the EU/EEA, supporting transparency in the European banking sector.",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "41e0e1df-2fda-8124-b13b-f45069d5263b",
+      "title": "Risk Assessment Report - Autumn 2026",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/828f300c-6a34-45c0-bbad-82ea626bf8fa/Risk%20Assessment%20Report%20-%20Autumn%202026_0.pdf",
+      "published": "2026-11-19",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "41e0e1df-2fda-8122-9f13-fec29ecdb4ce",
+      "title": "Presentation - Risk Assessment Report Autumn 2026",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/990dd907-e9b0-4485-83ec-d89ec46bee41/RAR%20Autumn%202026%20-%20presentation.pdf",
+      "published": "2026-11-19",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "41e0e1df-2fda-810c-8027-e1cc12bc2794",
+      "title": "Statistical_Annex_RAQ_Autumn2026",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/6f45df12-ae98-488d-9cb3-0fa513f1e419/Statistical_Annex_RAQ_Autumn2026%20%281%29.xlsx",
+      "published": "2026-11-19",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "41e0e1df-2fda-814a-b0aa-fd14a1463bd9",
+      "title": "When Citizen Engagement Changes Lives: The Human Face of Local Governance in Guinea",
+      "url": "https://www.worldbank.org/en/news/feature/2026/11/19/when-citizen-engagement-changes-lives-the-human-face-of-local-governance-in-guinea",
+      "published": "2026-11-19",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "41e0e1df-2fda-81ac-bb9d-c5ebb881fee2",
+      "title": "Cameroon Economic Update 2026: Stronger Fiscal and Debt Management Can Unlock More Financing for Development",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/11/19/cameroon-economic-update-2026-fiscal-and-debt-management-financing-for-development",
+      "published": "2026-11-19",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "41e0e1df-2fda-81cc-8315-f286115a319b",
+      "title": "Algeria: Using Hydrocarbon Revenues and Fiscal Resilience",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/11/19/algeria-using-hydrocarbon-revenues-and-fiscal-resilience",
+      "published": "2026-11-19",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "41e0e1df-2fda-81d4-bc7f-e5415397f484",
+      "title": "World Bank Group Approves $45.4 Million to Support Liberia’s Forest Economy",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/11/19/world-bank-group-approves-45-4-million-to-support-liberia-forest-economy",
+      "published": "2026-11-19",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
+    {
+      "id": "41e0e1df-2fda-812c-bbdd-ffdf1ff7a9c2",
+      "title": "Honduras, the World Bank Group, and CABEI Launch Plan to Give 400,000 Farmers Access to Financing and Data",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/11/19/gobierno-de-honduras-grupo-banco-mundial-bcie-lanzan-plan-agriconnect",
+      "published": "2026-11-19",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
+    },
     {
       "id": "41d0e1df-2fda-81e2-aded-f9c9597e788e",
       "title": "Las cifras de pobreza en América Latina",
@@ -122,6 +364,39 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
+    },
+    {
+      "id": "41e0e1df-2fda-81e3-aef7-e109de9ac7d5",
+      "title": "Note on SME lending",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/f2d6557d-04be-4330-8a00-1551a039e15c/Note%20on%20SME%20lending.pdf",
+      "published": "2026-11-18",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "41e0e1df-2fda-81fe-8a8e-c23cdd6ba2cf",
+      "title": "RAQ Autumn 2026 booklet",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/fc56fc61-3474-4068-be54-4d11e3b89356/RAQ%20Autumn%202026%20booklet.pdf",
+      "published": "2026-11-18",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "41e0e1df-2fda-81a7-8b3b-e4add1fb1402",
+      "title": "From Straw to Permanent Classrooms: Transforming Learning Environments in Niger",
+      "url": "https://www.worldbank.org/en/news/feature/2026/11/18/from-straw-to-permanent-classrooms-transforming-learning-environments-in-niger",
+      "published": "2026-11-18",
+      "summary": "",
+      "regulator": "World Bank",
+      "country": "Global",
+      "type": "News",
+      "feed_url": "https://www.worldbank.org/ext/en/news"
     },
     {
       "id": "41d0e1df-2fda-8129-9c3b-f95c4a1a8c88",
@@ -925,6 +1200,17 @@
       "country": "Global",
       "type": "Research",
       "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
+    {
+      "id": "41e0e1df-2fda-8190-b441-f6f3a327621b",
+      "title": "Colombia, Ecuador y Alemania intercambian experiencias en temas de regulación",
+      "url": "https://www.superfinanciera.gov.co/10116330",
+      "published": "2026-11-11",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
     },
     {
       "id": "4160e1df-2fda-812b-8222-dda5d54b7286",
