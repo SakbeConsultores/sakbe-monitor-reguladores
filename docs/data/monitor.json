@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-11-27T03:35:42.297287+00:00",
-  "total_items": 367,
+  "generated_at": "2026-11-27T23:18:39.474935+00:00",
+  "total_items": 379,
   "items": [
+    {
+      "id": "4250e1df-2fda-811c-952c-d10b5b21b99f",
+      "title": "SBS promueve una mayor competencia en la afiliación al Sistema Privado de Pensiones con la octava licitación",
+      "url": "https://www.sbs.gob.pe/noticia/detallenoticia?IdNoticia=4042",
+      "published": "2026-11-27",
+      "summary": "",
+      "regulator": "SBS Perú",
+      "country": "PE",
+      "type": "News",
+      "feed_url": "https://www.sbs.gob.pe/notadeprensa"
+    },
+    {
+      "id": "4250e1df-2fda-815c-a5a4-cc9e88ccd3c4",
+      "title": "Nueva jornada educativa en Chía para prevenir la captación no autorizada de dinero y las ofertas de créditos ilegales",
+      "url": "https://www.superfinanciera.gov.co/10116340",
+      "published": "2026-11-27",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
+    {
+      "id": "4250e1df-2fda-81c3-b7f5-c1012a4576fe",
+      "title": "Producto Interno Bruto Trimestral (PIBT). Año base 2018. Por el Método del Gasto",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11442",
+      "published": "2026-11-27",
+      "summary": "Representó la remuneración de los asalariados 29.8% del PIB en el segundo trimestre de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "4250e1df-2fda-81b5-a121-e9cecff426ca",
+      "title": "Producto Interno Bruto Trimestral (PIBT). Año base 2018. Por el Método del Ingreso",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11441",
+      "published": "2026-11-27",
+      "summary": "Representó la remuneración de los asalariados 29.8% del PIB en el segundo trimestre de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "4250e1df-2fda-815d-8723-fd866b66a994",
+      "title": "Cuentas por Sectores Institucionales Trimestrales (CSIT). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11440",
+      "published": "2026-11-27",
+      "summary": "Generaron Sociedades no financieras y Hogares 78.7% del PIB, en el segundo trimestre de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "4250e1df-2fda-81a2-9896-ee15bf4dba69",
+      "title": "Cuenta Satélite de las Instituciones sin Fines de Lucro de México (CSISFLM). Año base 2018",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11439",
+      "published": "2026-11-27",
+      "summary": "En 2025, las instituciones sin fines de lucro y el valor económico del trabajo de las personas voluntarias contribuyeron con 3.4% del PIB del total de la economía",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "4250e1df-2fda-8156-ae6d-d1e26428df94",
+      "title": "Balanza Comercial de Mercancías de México",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11443",
+      "published": "2026-11-27",
+      "summary": "Aumentaron las exportaciones 30.2% y las importaciones 30.8%, a tasa anual, en octubre de 2026",
+      "regulator": "INEGI",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1"
+    },
+    {
+      "id": "4250e1df-2fda-816c-96b1-f7f01c388066",
+      "title": "Synthetic controls meet Lucas! Unifying causal effects and structural decompositions",
+      "url": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3313~bef94fc3fa.en.pdf",
+      "published": "2026-11-27",
+      "summary": "This paper merges two large literatures in macroeconomics, Synthetic Control Method (SCM) and Dynamic Stochastic General Equilibrium (DSGE) models, into a single framework. SCM effectively estimates causal treatment effects but lacks insights into underlying economic mechanisms, and it does not offer a framework for policy analysis: its estimated effect is a reduced-form object that shifts with the policy regime, leaving it exposed to the Lucas critique. By integrating SCM outcomes into a micro-founded DSGE framework, representing the treatment as an observable event that loads on the model’s structural shocks, we identify the transmission channels underlying the SCM-estimated treatment effects and enhance structural interpretation. Our approach recovers policy-invariant structural primitives rather than the regime-dependent gap, enabling counterfactual policy analysis that is robust to the Lucas critique. It thereby unites the empirical transparency of synthetic controls with the structural discipline of DSGE models – two complementary literatures that have long developed in isolation.",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.ecb.europa.eu/rss/pub.html"
+    },
+    {
+      "id": "4250e1df-2fda-81e3-aee6-c126ddee06f6",
+      "title": "ECB Consumer Expectations Survey results – October 2026",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+      "published": "2026-11-27",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "4250e1df-2fda-817e-942f-c0314339254d",
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+      "published": "2026-11-27",
+      "summary": "",
+      "regulator": "ECB",
+      "country": "EU",
+      "type": "News",
+      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
+    },
+    {
+      "id": "4250e1df-2fda-818d-89e9-faa1de931969",
+      "title": "2026 11 15 PMR - Jonathan Overett Somnier",
+      "url": "https://www.eba.europa.eu/sites/default/files/2026-11/b5033996-990a-409a-8631-bd2e19663106/2026%2011%2015%20PMR%20-%20Jonathan%20Overett%20Somnier%20%281%29.pdf",
+      "published": "2026-11-27",
+      "summary": "",
+      "regulator": "EBA",
+      "country": "EU",
+      "type": "Publications",
+      "feed_url": "https://www.eba.europa.eu/publications-and-media/publications"
+    },
+    {
+      "id": "4250e1df-2fda-813d-84e7-d788dbd245c1",
+      "title": "Banking across borders: where to lend from differs by sector",
+      "url": "https://www.bis.org/publications/working-paper-1400-banking-across-borders-where-lend-differs-sector",
+      "published": "2026-11-27",
+      "summary": "Where do globally active banks choose to lend from? We study the geography of crossborder bank lending using BIS international banking statistics that identify the parent-bank nationality, the location where cross-border claims are booked, and the borrower country.",
+      "regulator": "BIS",
+      "country": "Global",
+      "type": "Research",
+      "feed_url": "https://www.bis.org/doclist/bis_fsi_publs.rss"
+    },
     {
       "id": "4250e1df-2fda-8122-ad89-dbd46a779d48",
       "title": "Informe trimestral, julio-septiembre 2026 (video)",
