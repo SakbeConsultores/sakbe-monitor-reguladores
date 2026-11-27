@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-26T23:35:14.815968+00:00",
+  "generated_at": "2026-11-27T03:35:42.297287+00:00",
   "total_items": 367,
   "items": [
+    {
+      "id": "4250e1df-2fda-8122-ad89-dbd46a779d48",
+      "title": "Informe trimestral, julio-septiembre 2026 (video)",
+      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/informes-trimestrales/videos/informe-trimestral-jul-sep-00007.html",
+      "published": "2026-11-26",
+      "summary": "",
+      "regulator": "Banxico",
+      "country": "MX",
+      "type": "News",
+      "feed_url": "https://www.banxico.org.mx/noticias/noticias001.html"
+    },
     {
       "id": "4240e1df-2fda-81de-8a6f-e802a3346bcf",
       "title": "El mercado global de pagos",
@@ -3268,17 +3279,6 @@
       "country": "EU",
       "type": "News",
       "feed_url": "https://eba.europa.eu/news-press/news/rss.xml"
-    },
-    {
-      "id": "4110e1df-2fda-8188-a76a-fb85505448ee",
-      "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
-      "published": "2026-11-07",
-      "summary": "",
-      "regulator": "ECB",
-      "country": "EU",
-      "type": "News",
-      "feed_url": "https://www.ecb.europa.eu/rss/press.html"
     },
     {
       "id": "3e40e1df-2fda-8169-b639-e7f7f971ca99",
