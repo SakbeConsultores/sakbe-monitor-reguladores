@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-27T23:18:39.474935+00:00",
-  "total_items": 379,
+  "generated_at": "2026-11-28T03:13:26.928799+00:00",
+  "total_items": 380,
   "items": [
+    {
+      "id": "4260e1df-2fda-815f-a74e-f64daf8d6730",
+      "title": "Estamos donde más nos necesitan del 1 al 5 de diciembre de 2026",
+      "url": "https://www.superfinanciera.gov.co/10116341",
+      "published": "2026-11-27",
+      "summary": "",
+      "regulator": "SuperFin",
+      "country": "CO",
+      "type": "News",
+      "feed_url": "https://www.superfinanciera.gov.co/publicaciones/10102692/sala-de-prensacomunicados-de-prensa-comunicados-de-prensa-10102692/"
+    },
     {
       "id": "4250e1df-2fda-811c-952c-d10b5b21b99f",
       "title": "SBS promueve una mayor competencia en la afiliación al Sistema Privado de Pensiones con la octava licitación",
